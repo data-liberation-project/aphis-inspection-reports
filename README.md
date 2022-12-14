@@ -29,7 +29,7 @@ Alternatively, to fully refetch the data, delete all files in the [`data/fetched
 
 ### Downloading the inspection reports
 
-The script [`scripts/02-download-inspection-pdfs.py`] downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use a unique fragment from each PDF's URL.
+The script [`scripts/02-download-inspection-pdfs.py`] downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use the first 16 characters of the PDF URL's SHA1 hash hexdigest.
 
 ## Licensees
 

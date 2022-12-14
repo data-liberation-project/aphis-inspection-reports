@@ -1,5 +1,5 @@
 import csv
-import re
+import hashlib
 import sys
 from pathlib import Path
 
@@ -14,8 +14,8 @@ for i, report in enumerate(reports):
     if not link.strip():
         continue
 
-    link_id = re.search(r"ids=(.*?)&", link).group(1)
-    dest = Path(f"pdfs/inspections/{link_id}.pdf")
+    link_hash = hashlib.sha1(link.encode("utf-8")).hexdigest()[:16]
+    dest = Path(f"pdfs/inspections/{link_hash}.pdf")
     if dest.exists():
         continue
     else:
