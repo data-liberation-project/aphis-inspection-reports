@@ -1,4 +1,4 @@
-# APHIS Inspection / Report / License Scraper
+# APHIS Report / License Scraper
 
 This repository aims to collect all of the following from the US Department of Agriculture's Animal and Plant Health Inspection Service [public search tools](https://efile.aphis.usda.gov/PublicSearchTool/s/):
 
