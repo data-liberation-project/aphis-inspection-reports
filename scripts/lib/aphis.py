@@ -27,10 +27,10 @@ AURA_CONTEXT = {
     "fwuid": "tr2UlkrAHzi37ijzEeD2UA",
     "app": "siteforce:communityApp",
     "loaded": {
-        ("APPLICATION@markup://"
-         "siteforce:communityApp"): "wlLnZvhAshR7p-QD7LB6JQ",
-        ("COMPONENT@markup://"
-         "instrumentation:o11yCoreCollector"): "8giBLfYbOC17LwOopJh9VQ",
+        ("APPLICATION@markup://" "siteforce:communityApp"): "wlLnZvhAshR7p-QD7LB6JQ",
+        (
+            "COMPONENT@markup://" "instrumentation:o11yCoreCollector"
+        ): "8giBLfYbOC17LwOopJh9VQ",
     },
     "dn": [],
     "globals": {},
