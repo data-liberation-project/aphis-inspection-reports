@@ -17,7 +17,7 @@ Although it should have been trivial for APHIS to provide a bulk download of the
 
 The script [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py) solves these problems by iterating the `customerName` input fragment by fragment (e.g., `aa`, `ab`, `ac`) to assemble the full list, saving the results to [`data/fetched/inspections.csv`](data/fetched/inspections.csv). (Previous attempts including subdividing by state or certification type — with letter-by-letter searching a last resort — but APHIS's options for those search criteria appeared not to be comprehensive, based on the results.)
 
-This approach appears to capture all but one of the inspection reports, per a comparison of the number of results indicated in the public search tool and the number of rows in [`data/fetched/inspections-latest.csv`](data/fetched/inspections-latest.csv). The lone missing inspection remains a mystery.
+This approach appears to capture all of the inspection reports, per a comparison of the number of results indicated in the public search tool and the number of rows in [`data/fetched/inspections-latest.csv`](data/fetched/inspections-latest.csv).
 
 Note: The results returned by the tool and API contain no unique inspection ID, so the results are deduplicated based on the full contents of each row.
 
