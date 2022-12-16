@@ -2,7 +2,7 @@
 
 This repository aims to collect all of the following from the US Department of Agriculture's Animal and Plant Health Inspection Service [public search tools](https://efile.aphis.usda.gov/PublicSearchTool/s/):
 
-- [Inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/fetched/inspection-reports). (In progress.)
+- [Inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports). (In progress.)
 - All present and past licensees and registrants, from the same link above. (Not yet started.)
     - Note: Active licensees/registrants available in [APHIS spreadsheet](https://www.aphis.usda.gov/animal_welfare/downloads/List-of-Active-Licensees-and-Registrants.xlsx) linked from [public search landing page](https://efile.aphis.usda.gov/PublicSearchTool/s/).
 - [Registrants' annual reports](https://efile.aphis.usda.gov/PublicSearchTool/s/annual-reports). (Not yet started)
@@ -13,7 +13,7 @@ This repository aims to collect all of the following from the US Department of A
 
 #### Initial fetch
 
-Although it should have been trivial for APHIS to provide a bulk download of the [inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/fetched/inspection-reports), it does not. Moreover, although the public search tool runs on a publicly-inspectable API, both the tool and the API allows users to view no more than 2,100 results per query.
+Although it should have been trivial for APHIS to provide a bulk download of the [inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports), it does not. Moreover, although the public search tool runs on a publicly-inspectable API, both the tool and the API allows users to view no more than 2,100 results per query.
 
 The script [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py) solves these problems by iterating the `customerName` input fragment by fragment (e.g., `aa`, `ab`, `ac`) to assemble the full list, saving the results to [`data/fetched/inspections.csv`](data/fetched/inspections.csv). (Previous attempts including subdividing by state or certification type — with letter-by-letter searching a last resort — but APHIS's options for those search criteria appeared not to be comprehensive, based on the results.)
 
