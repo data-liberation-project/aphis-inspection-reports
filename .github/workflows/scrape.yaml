@@ -35,6 +35,14 @@ jobs:
         run: python scripts/02-download-inspection-pdfs.py
         shell: bash
 
+      - name: Config git
+        run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
+        shell: bash
+
       - name: Commit changes
-        run: git add data pdfs && (git diff --cached --quiet || git commit -m "Fetch newly available reports" --author "Automated <actions@users.noreply.github.com>")
+        run: git add data pdfs && (git diff --cached --quiet || git commit -m "Fetch newly available reports")
+        shell: bash
+
+      - name: Push changes
+        run: git push
         shell: bash
