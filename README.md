@@ -15,9 +15,11 @@ This repository aims to collect all of the following from the US Department of A
 
 Although it should have been trivial for APHIS to provide a bulk download of the [inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports), it does not. Moreover, although the public search tool runs on a publicly-inspectable API, both the tool and the API allows users to view no more than 2,100 results per query.
 
-The script [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py) solves these problems by iterating the `customerName` input fragment by fragment (e.g., `aa`, `ab`, `ac`) to assemble the full list, saving the results to [`data/fetched/inspections.csv`](data/fetched/inspections.csv). (Previous attempts including subdividing by state or certification type — with letter-by-letter searching a last resort — but APHIS's options for those search criteria appeared not to be comprehensive, based on the results.)
+The script [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py) solves these problems by iterating the `customerName` input fragment by fragment (e.g., `aa`, `ab`, `ac`) to assemble the full list, saving the results to [`data/fetched/inspections-by-letter.csv`](data/fetched/inspections-by-letter.csv). (Previous attempts including subdividing by state or certification type — with letter-by-letter searching a last resort — but APHIS's options for those search criteria appeared not to be comprehensive, based on the results.)
 
-This approach appears to capture all of the inspection reports, per a comparison of the number of results indicated in the public search tool and the number of rows in [`data/fetched/inspections-latest.csv`](data/fetched/inspections-latest.csv).
+Those results are combined with all previously-identified inspections in [`data/fetched/inspections.csv`](data/fetched/inspections.csv), deduplicated, and resaved to [`data/fetched/inspections.csv`](data/fetched/inspections.csv).
+
+This approach appears to capture all of the inspection reports, per a comparison of the number of results indicated in the public search tool and the number of rows in [`data/fetched/inspections-by-letter.csv`](data/fetched/inspections-by-letter.csv) at the time of the fetch.
 
 Note: The results returned by the tool and API contain no unique inspection ID, so the results are deduplicated based on the full contents of each row.
 
@@ -25,7 +27,7 @@ Note: The results returned by the tool and API contain no unique inspection ID, 
 
 The full fetch can take more than an hour, even when using a pool of four simultaneous processing pools. We can avoid refetching everything when refreshing the results by fetching the 2,100 most recent inspection reports (the query tool's default sorting order), which should suffice as long as it's run with some frequency. (As of late 2022, those 2,100 results go back to nearly four months prior.) This process is conducted via [`scripts/01-refresh-inspection-list.py`](scripts/01-refresh-inspection-list.py), which updates the file at [`data/fetched/inspections.csv`](data/fetched/inspections.csv).
 
-Alternatively, to fully refetch the data, delete all files in the [`data/fetched/inspections-by-letter/`](data/fetched/inspections-by-letter/) directory and rerun [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py).
+Alternatively, to fully refetch the data, delete all files in the [`data/fetched/`](data/fetched/) directory and rerun [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py).
 
 ### Downloading the inspection reports
 

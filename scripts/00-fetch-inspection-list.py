@@ -46,7 +46,15 @@ def main():
         chain.from_iterable(csv.DictReader(open(path)) for path in paths)
     )
 
-    write_results(merged, "data/fetched/inspections.csv")
+    write_results(merged, "data/fetched/inspections-by-letter.csv")
+
+    # Update CSV containing all historically-observed inspections
+    combined_path = Path("data/fetched/inspections.csv")
+    previous = (
+        list(csv.DictReader(open(combined_path))) if combined_path.exists() else []
+    )
+    combined = deduplicate(merged + previous)
+    write_results(combined, combined_path)
 
 
 if __name__ == "__main__":
