@@ -1,9 +1,10 @@
 import csv
 import json
 import sys
-import time
+import typing
 
 import requests
+from retry import retry
 import urllib3
 
 urllib3.disable_warnings()
@@ -54,20 +55,16 @@ def make_inspection_payload(index, criteria):
     }
 
 
-def fetch(index, criteria):
-    while True:
-        try:
-            res = requests.post(
-                AURA_URL,
-                headers=HEADERS,
-                data=make_inspection_payload(index, criteria),
-                verify=False,
-            )
-            break
-        except requests.exceptions.ConnectTimeout:
-            sys.stderr.write("~~ Connection timeout\n")
-            time.sleep(30)
-
+@retry(tries=10, delay=30)
+def fetch(index, criteria, timeout: int = 60) -> typing.Dict:
+    """Fetch the desired data via a POST request."""
+    res = requests.post(
+        AURA_URL,
+        headers=HEADERS,
+        data=make_inspection_payload(index, criteria),
+        verify=False,
+        timeout=timeout
+    )
     res_data = res.json()["actions"][0]["returnValue"]
     if res_data is None:
         raise ValueError(json.dumps(res.json(), indent=2))
