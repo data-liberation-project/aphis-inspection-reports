@@ -4,8 +4,8 @@ import sys
 import typing
 
 import requests
-from retry import retry
 import urllib3
+from retry import retry
 
 urllib3.disable_warnings()
 
@@ -63,7 +63,7 @@ def fetch(index, criteria, timeout: int = 60) -> typing.Dict:
         headers=HEADERS,
         data=make_inspection_payload(index, criteria),
         verify=False,
-        timeout=timeout
+        timeout=timeout,
     )
     res_data = res.json()["actions"][0]["returnValue"]
     if res_data is None:
