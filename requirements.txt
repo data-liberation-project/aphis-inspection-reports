@@ -36,3 +36,5 @@ tomli==2.0.1
     # via black
 urllib3==1.26.13
     # via requests
+pre-commit
+    # via -r requirements.in
