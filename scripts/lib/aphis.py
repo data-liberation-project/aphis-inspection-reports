@@ -1,4 +1,5 @@
 import csv
+import hashlib
 import json
 import sys
 import typing
@@ -120,3 +121,8 @@ def write_results(results, dest):
         writer = csv.DictWriter(f, fieldnames=list(results[0].keys()))
         writer.writeheader()
         writer.writerows(results)
+
+
+def filename_from_url(url):
+    hash_value = hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
+    return f"{hash_value}.pdf"
