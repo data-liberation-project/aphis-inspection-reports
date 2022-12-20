@@ -27,8 +27,6 @@ def main():
     # Get everything that's been parsed
     with open("data/parsed/inspections.json") as f:
         parsed_data = json.load(f)
-
-    # Get all the local PDFs
     print(f"{len(parsed_data)} parsed documents found locally")
 
     # Loop through all the local PDFs
