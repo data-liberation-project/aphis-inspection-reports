@@ -1,4 +1,6 @@
 """Upload PDFs to DocumentCloud."""
+import csv
+import json
 import os
 import time
 import typing
@@ -16,25 +18,39 @@ PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
 
 def main():
     """Upload all local PDFs not yet posted to DocumentCloud."""
+
     # Get everything that's been uploaded already
-    uploaded_list = get_uploaded_pdfs()
-    print(f"{len(uploaded_list)} documents found on DocumentCloud")
+    with open("data/fetched/inspections.csv") as f:
+        fetched_data = list(csv.DictReader(f))
+
+    with open("data/parsed/inspections.json") as f:
+        parsed_data = json.load(f)
 
     # Get all the local PDFs
-    local_list = list(PDF_DIR.glob("*.pdf"))
-    print(f"{len(local_list)} documents found locally")
+    print(f"{len(parsed_data)} parsed documents found locally")
 
     # Loop through all the local PDFs
-    for p in local_list:
+    for insp in fetched_data:
         # Pull out the file name
-        name = f"{p.stem}.pdf"
+        hash_id = insp["hash_id"]
+        insp_parsed = parsed_data.get(hash_id)
+
+        # Skip anything we haven't yet parsed
+        if insp_parsed is None:
+            continue
+
+        cache_path = Path(f"data/doccloud/inspections/{hash_id}.json")
 
         # Skip anything we've uploaded already
-        if name in uploaded_list:
+        if cache_path.exists():
             continue
 
         # Upload stuff that isn't there
-        upload_pdf(f"{p.stem}.pdf")
+        dc_url, is_new = upload_pdf(PDF_DIR / f"{hash_id}.pdf", insp_parsed["insp_id"])
+
+        # Record that we've uploaded it
+        with open(cache_path, "w") as f:
+            json.dump(dict(url=dc_url), f, indent=2)
 
         # Take a little nap
         time.sleep(0.25)
@@ -47,27 +63,14 @@ def get_documentcloud_client():
     )
 
 
-def get_uploaded_pdfs():
-    """Retreive a list of document file names that have been uploaded already."""
-    client = get_documentcloud_client()
-    project_id = os.getenv("DOCUMENTCLOUD_PROJECT_ID")
-    assert project_id
-    project = client.projects.get(id=project_id)
-    document_list = project.document_list
-    return [d.data["uid"][0] for d in document_list]
-
-
 @retry(tries=10, delay=30)
 def upload_pdf(
-    pdf_name: str, verbose: bool = True
+    pdf_path: Path, insp_id: str, verbose: bool = True
 ) -> tuple[typing.Optional[str], bool]:
     """Upload the provided object's PDF to DocumentCloud.
 
     Returns tuple with document URL and boolean indicating if it was uploaded.
     """
-    # Get PDF path
-    pdf_path = PDF_DIR / pdf_name
-
     # Make sure it exists
     assert pdf_path.exists()
 
@@ -77,25 +80,25 @@ def upload_pdf(
     # Search to see if it's already up there
     project_id = os.getenv("DOCUMENTCLOUD_PROJECT_ID")
     assert project_id
-    query = f"+project:{project_id} AND data_uid:{pdf_name}"
+    query = f"+project:{project_id} AND data_uid:{pdf_path.stem}"
     search = client.documents.search(query)
 
     # If it is, we're done
     if len(list(search)) > 0:
         if verbose:
-            print(f"{pdf_name} already uploaded")
+            print(f"{pdf_path.stem} already uploaded")
         return search[0].canonical_url, False
 
     # If it isn't, upload it now
     if verbose:
-        print(f"Uploading {pdf_path}")
+        print(f"Uploading {pdf_path.stem}")
     try:
         document = client.documents.upload(
             pdf_path,
-            title=f"{pdf_name.replace('.pdf', '')}",
+            title=f"APHIS Inspection {insp_id}",
             project=project_id.split("-")[-1],
             access="public",
-            data={"uid": pdf_name},
+            data={"uid": pdf_path.stem},
         )
         return document.canonical_url, True
     except APIError as e:
