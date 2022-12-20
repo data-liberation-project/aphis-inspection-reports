@@ -53,3 +53,28 @@ jobs:
         name: Run mypy
         run: mypy ./ --ignore-missing-imports --verbose
         shell: bash
+
+  test-python:
+    name: Test Python code
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pip install -r requirements.txt
+        shell: bash
+
+      - id: test
+        name: Run tests
+        run: pytest tests -sv --cov
+        shell: bash

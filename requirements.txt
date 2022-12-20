@@ -66,6 +66,10 @@ pycparser==2.21
     # via cffi
 pyflakes==3.0.1
     # via flake8
+pytest
+    # via -r requirements.in
+pytest-cov
+    # via -r requirements.in
 pyyaml==6.0
     # via pre-commit
 requests==2.28.1
