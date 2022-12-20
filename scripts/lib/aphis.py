@@ -132,7 +132,7 @@ def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
         writer.writerows(results)
 
 
-def hash_id_from_url(url: str | None) -> str:
+def hash_id_from_url(url: typing.Optional[str]) -> str:
     if url is None or not url.strip():
         return ""
     else:
