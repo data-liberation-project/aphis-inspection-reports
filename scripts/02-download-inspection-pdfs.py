@@ -1,32 +1,24 @@
+"""Download inspection PDFs."""
 import csv
-import hashlib
 import sys
-import time
 from pathlib import Path
 
 import requests
+from lib.aphis import filename_from_url
+from retry import retry
 
 
-def fetch(link):
-    while True:
-        try:
-            res = requests.get(link)
-        except Exception as e:
-            sys.stderr.write(f"🚨 Exception: {e}\n")
-            time.sleep(30)
-            continue
-
-        if res.status_code != 200:
-            sys.stderr.write(f"🚨 HTTP error on {link}\n")
-        elif len(res.content) < 1000:
-            sys.stderr.write(f"🚨 Too-small size on {link}\n")
-        else:
-            return res.content
-
-        time.sleep(30)
+@retry(tries=10, delay=30)
+def fetch(link: str, timeout: int = 60):
+    """Request the provided URL and return the content."""
+    res = requests.get(link, timeout=timeout)
+    assert res.ok
+    assert len(res.content) >= 1000
+    return res.content
 
 
 def main():
+    """Download inspection PDFs."""
     with open("data/fetched/inspections.csv") as f:
         reports = list(csv.DictReader(f))
 
@@ -36,8 +28,7 @@ def main():
         if not link:
             continue
 
-        link_hash = hashlib.sha1(link.encode("utf-8")).hexdigest()[:16]
-        dest = Path(f"pdfs/inspections/{link_hash}.pdf")
+        dest = Path("pdfs/inspections" / filename_from_url(link))
         if dest.exists():
             continue
         else:
