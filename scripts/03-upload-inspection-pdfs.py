@@ -6,6 +6,7 @@ from pathlib import Path
 
 from documentcloud import DocumentCloud
 from documentcloud.exceptions import APIError
+from retry import retry
 
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
@@ -56,6 +57,7 @@ def get_uploaded_pdfs():
     return [d.data["uid"][0] for d in document_list]
 
 
+@retry(tries=10, delay=30)
 def upload_pdf(
     pdf_name: str, verbose: bool = True
 ) -> tuple[typing.Optional[str], bool]:
