@@ -8,12 +8,18 @@ black==22.12.0
     # via -r requirements.in
 certifi==2022.12.7
     # via requests
+cffi==1.15.1
+    # via cryptography
 cfgv==3.3.1
     # via pre-commit
 charset-normalizer==2.1.1
-    # via requests
+    # via
+    #   pdfminer-six
+    #   requests
 click==8.1.3
     # via black
+cryptography==38.0.4
+    # via pdfminer-six
 decorator==5.1.1
     # via retry
 distlib==0.3.6
@@ -40,6 +46,12 @@ nodeenv==1.7.0
     # via pre-commit
 pathspec==0.10.3
     # via black
+pdfminer-six==20221105
+    # via pdfplumber
+pdfplumber==0.7.6
+    # via -r requirements.in
+pillow==9.3.0
+    # via pdfplumber
 platformdirs==2.6.0
     # via
     #   black
@@ -50,6 +62,8 @@ py==1.11.0
     # via retry
 pycodestyle==2.10.0
     # via flake8
+pycparser==2.21
+    # via cffi
 pyflakes==3.0.1
     # via flake8
 pyyaml==6.0
@@ -76,6 +90,8 @@ urllib3==1.26.13
     # via requests
 virtualenv==20.17.1
     # via pre-commit
+wand==0.6.10
+    # via pdfplumber
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
