@@ -27,7 +27,7 @@ jobs:
 
       - id: lint
         name: Lint Python code
-        run: flake8 ./ --verbose
+        run: make lint
         shell: bash
 
   mypy-python:
