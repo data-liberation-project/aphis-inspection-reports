@@ -99,7 +99,7 @@ def upload_pdf(
             title=f"APHIS Inspection {insp_id}",
             project=project_id.split("-")[-1],
             access="public",
-            data={"uid": pdf_path.stem},
+            data={"uid": pdf_path.stem, "inspection_id": insp_id},
         )
         return document.canonical_url, True
     except APIError as e:
