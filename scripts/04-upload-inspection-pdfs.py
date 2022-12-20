@@ -13,6 +13,7 @@ from retry import retry
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
 ROOT_DIR = THIS_DIR.parent
+DATA_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
 
 
@@ -39,7 +40,7 @@ def main():
         if insp_parsed is None:
             continue
 
-        cache_path = Path(f"data/doccloud/inspections/{hash_id}.json")
+        cache_path = DATA_DIR  / f"{hash_id}.json"
 
         # Skip anything we've uploaded already
         if cache_path.exists():
