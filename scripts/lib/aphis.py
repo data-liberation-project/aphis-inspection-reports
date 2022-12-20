@@ -3,6 +3,7 @@ import hashlib
 import json
 import sys
 import typing
+from pathlib import Path
 
 import requests
 import urllib3
@@ -40,7 +41,9 @@ AURA_CONTEXT = {
 }
 
 
-def make_inspection_payload(index, criteria):
+def make_inspection_payload(
+    index: int, criteria: dict[str, typing.Any]
+) -> dict[str, str]:
     action = {
         "descriptor": "apex://EFL_PSTController/ACTION$doIRSearch_UI",
         "params": {
@@ -57,7 +60,9 @@ def make_inspection_payload(index, criteria):
 
 
 @retry(tries=10, delay=30)
-def fetch(index, criteria, timeout: int = 60) -> typing.Dict:
+def fetch(
+    index: int, criteria: dict[str, typing.Any], timeout: int = 60
+) -> dict[str, typing.Any]:
     """Fetch the desired data via a POST request."""
     res = requests.post(
         AURA_URL,
@@ -66,7 +71,7 @@ def fetch(index, criteria, timeout: int = 60) -> typing.Dict:
         verify=False,
         timeout=timeout,
     )
-    res_data = res.json()["actions"][0]["returnValue"]
+    res_data: typing.Optional[dict[str, str]] = res.json()["actions"][0]["returnValue"]
     if res_data is None:
         raise ValueError(json.dumps(res.json(), indent=2))
     return res_data
@@ -76,7 +81,9 @@ class TooManyResultsError(Exception):
     pass
 
 
-def iter_fetch_all(criteria, raise_size_error=True):
+def iter_fetch_all(
+    criteria: dict[str, typing.Any], raise_size_error: bool = True
+) -> typing.Generator[dict[str, str], None, None]:
     data = fetch(0, criteria)
     count = data["totalCount"]
     sys.stderr.write(f"{count} results for {criteria}\n")
@@ -92,7 +99,7 @@ def iter_fetch_all(criteria, raise_size_error=True):
             return
 
 
-def get_sort_key(r):
+def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str, str]:
     return (
         int(r.get("customerNumber", -1)),
         r.get("certNumber", ""),
@@ -103,7 +110,9 @@ def get_sort_key(r):
     )
 
 
-def deduplicate(result_list):
+def deduplicate(
+    result_list: list[dict[str, typing.Any]]
+) -> list[dict[str, typing.Any]]:
     seen_keys = set()
     unique = []
     for item in result_list:
@@ -116,13 +125,13 @@ def deduplicate(result_list):
     return sorted(unique, key=get_sort_key)
 
 
-def write_results(results, dest):
+def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
     with open(dest, "w") as f:
         writer = csv.DictWriter(f, fieldnames=list(results[0].keys()))
         writer.writeheader()
         writer.writerows(results)
 
 
-def filename_from_url(url):
+def filename_from_url(url: str) -> str:
     hash_value = hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
     return f"{hash_value}.pdf"
