@@ -132,6 +132,18 @@ def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
         writer.writerows(results)
 
 
-def filename_from_url(url: str) -> str:
-    hash_value = hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
-    return f"{hash_value}.pdf"
+def hash_id_from_url(url: str | None) -> str:
+    if url is None or not url.strip():
+        return ""
+    else:
+        b = url.strip().encode("utf-8")
+        return hashlib.sha1(b).hexdigest()[:16]
+
+
+def add_hash_ids(
+    result_list: list[dict[str, typing.Any]]
+) -> list[dict[str, typing.Any]]:
+    return [
+        dict(**res, **{"hash_id": hash_id_from_url(res["reportLink"])})
+        for res in result_list
+    ]

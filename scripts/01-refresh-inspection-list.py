@@ -1,6 +1,6 @@
 import csv
 
-from lib.aphis import deduplicate, fetch, iter_fetch_all, write_results
+from lib.aphis import add_hash_ids, deduplicate, fetch, iter_fetch_all, write_results
 
 
 def main():
@@ -13,7 +13,7 @@ def main():
 
     # Update CSV containing all historically-observed inspections
     previous = list(csv.DictReader(open("data/fetched/inspections.csv")))
-    combined = deduplicate(latest + previous)
+    combined = add_hash_ids(deduplicate(latest + previous))
     write_results(combined, "data/fetched/inspections.csv")
 
 
