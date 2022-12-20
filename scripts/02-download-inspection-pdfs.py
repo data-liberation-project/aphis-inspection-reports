@@ -1,11 +1,11 @@
 """Download inspection PDFs."""
 import csv
-import hashlib
 import sys
 from pathlib import Path
 
 import requests
 from retry import retry
+from lib.aphis import filename_from_url
 
 
 @retry(tries=10, delay=30)
@@ -28,8 +28,7 @@ def main():
         if not link:
             continue
 
-        link_hash = hashlib.sha1(link.encode("utf-8")).hexdigest()[:16]
-        dest = Path(f"pdfs/inspections/{link_hash}.pdf")
+        dest = Path("pdfs/inspections" / filename_from_url(link))
         if dest.exists():
             continue
         else:
