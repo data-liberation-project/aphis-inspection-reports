@@ -40,3 +40,9 @@ pre-commit
     # via -r requirements.in
 retry
     # via -r requirements.in
+mypy
+    # via -r requirements.in
+types-requests
+    # via -r requirements.in
+types-retry
+    # via -r requirements.in
