@@ -1,4 +1,4 @@
-"""Download inspection PDFS."""
+"""Download inspection PDFs."""
 import csv
 import hashlib
 import sys
