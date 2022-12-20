@@ -40,7 +40,7 @@ def main():
         if insp_parsed is None:
             continue
 
-        cache_path = DATA_DIR  / f"{hash_id}.json"
+        cache_path = DATA_DIR / f"{hash_id}.json"
 
         # Skip anything we've uploaded already
         if cache_path.exists():
