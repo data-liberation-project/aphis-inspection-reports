@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 import requests
-from lib.aphis import filename_from_url
+from lib.aphis import hash_id_from_url
 from retry import retry
 
 
@@ -28,7 +28,7 @@ def main():
         if not link:
             continue
 
-        dest = Path("pdfs/inspections" / filename_from_url(link))
+        dest = Path(f"pdfs/inspections{hash_id_from_url(link)}.pdf")
         if dest.exists():
             continue
         else:
