@@ -1,0 +1,55 @@
+name: Tests
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  lint-python:
+    name: Lint Python code
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pip install -r requirements.txt
+        shell: bash
+
+      - id: lint
+        name: Lint Python code
+        run: flake8 ./ --verbose
+        shell: bash
+
+  mypy-python:
+    name: Static-types check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pip install -r requirements.txt
+        shell: bash
+
+      - id: mypy
+        name: Run mypy
+        run: mypy ./ --ignore-missing-imports --verbose
+        shell: bash
