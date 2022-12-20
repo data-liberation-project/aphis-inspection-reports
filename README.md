@@ -27,6 +27,8 @@ Note: The results returned by the tool and API contain no unique inspection ID, 
 
 The full fetch can take more than an hour, even when using a pool of four simultaneous processing pools. We can avoid refetching everything when refreshing the results by fetching the 2,100 most recent inspection reports (the query tool's default sorting order), which should suffice as long as it's run with some frequency. (As of late 2022, those 2,100 results go back to nearly four months prior.) This process is conducted via [`scripts/01-refresh-inspection-list.py`](scripts/01-refresh-inspection-list.py), which updates the file at [`data/fetched/inspections.csv`](data/fetched/inspections.csv).
 
+The script also updates [`data/fetched/inspections-search-total.txt`](data/fetched/inspections-search-total.txt) with the total number of results indicated in the [online search tool](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports).
+
 Alternatively, to fully refetch the data, delete all files in the [`data/fetched/`](data/fetched/) directory and rerun [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py).
 
 ### Downloading the inspection report PDFs

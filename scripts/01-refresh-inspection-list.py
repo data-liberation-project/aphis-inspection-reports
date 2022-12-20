@@ -1,9 +1,13 @@
 import csv
 
-from lib.aphis import deduplicate, iter_fetch_all, write_results
+from lib.aphis import deduplicate, fetch, iter_fetch_all, write_results
 
 
 def main():
+    search_total = fetch(0, {})["totalCount"]
+    with open("data/fetched/inspections-search-total.txt", "w") as f:
+        f.write(str(search_total))
+
     latest = deduplicate(iter_fetch_all({}, raise_size_error=False))
     write_results(latest, "data/fetched/inspections-latest.csv")
 
