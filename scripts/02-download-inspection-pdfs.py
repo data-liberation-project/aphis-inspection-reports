@@ -4,8 +4,8 @@ import sys
 from pathlib import Path
 
 import requests
-from retry import retry
 from lib.aphis import filename_from_url
+from retry import retry
 
 
 @retry(tries=10, delay=30)
