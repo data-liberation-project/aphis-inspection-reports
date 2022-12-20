@@ -31,9 +31,13 @@ The script also updates [`data/fetched/inspections-search-total.txt`](data/fetch
 
 Alternatively, to fully refetch the data, delete all files in the [`data/fetched/`](data/fetched/) directory and rerun [`scripts/00-fetch-inspection-list.py`](scripts/00-fetch-inspection-list.py).
 
-### Downloading the inspection reports
+### Downloading the inspection report PDFs
 
-The script [`scripts/02-download-inspection-pdfs.py`] downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use the first 16 characters of the PDF URL's SHA1 hash hexdigest.
+The script [`scripts/02-download-inspection-pdfs.py`](scripts/02-download-inspection-pdfs.py) downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use the first 16 characters of the PDF URL's SHA1 hash hexdigest.
+
+### Parsing the inspection report PDFs
+
+The script [`scripts/03-parse-inspection-pdfs.py`](scripts/03-parse-inspection-pdfs.py) extracts data from each inspection report PDF and saves the results to [`data/parsed/`](data/parsed). Currently, only a minimal amount of information is being parsed, but further development should expand the details extracted in this step.
 
 ## Licensees
 
