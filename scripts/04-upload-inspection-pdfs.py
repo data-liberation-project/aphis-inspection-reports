@@ -20,10 +20,11 @@ PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
 def main():
     """Upload all local PDFs not yet posted to DocumentCloud."""
 
-    # Get everything that's been uploaded already
+    # Get everything that's been downloaded
     with open("data/fetched/inspections.csv") as f:
         fetched_data = list(csv.DictReader(f))
 
+    # Get everything that's been parsed
     with open("data/parsed/inspections.json") as f:
         parsed_data = json.load(f)
 
