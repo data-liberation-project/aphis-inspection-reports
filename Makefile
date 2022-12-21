@@ -1,29 +1,118 @@
-.PHONY: venv README.md
+#
+# Colors
+#
 
-requirements.txt: requirements.in
-	pip-compile requirements.in
+# Define ANSI color codes
+RESET_COLOR   = \033[m
 
-venv:
-	python -m venv venv
-	venv/bin/pip install -r requirements.txt
+BLUE       = \033[1;34m
+YELLOW     = \033[1;33m
+GREEN      = \033[1;32m
+RED        = \033[1;31m
+BLACK      = \033[1;30m
+MAGENTA    = \033[1;35m
+CYAN       = \033[1;36m
+WHITE      = \033[1;37m
 
-inspections-init:
-	python scripts/00-fetch-inspection-list.py
+DBLUE      = \033[0;34m
+DYELLOW    = \033[0;33m
+DGREEN     = \033[0;32m
+DRED       = \033[0;31m
+DBLACK     = \033[0;30m
+DMAGENTA   = \033[0;35m
+DCYAN      = \033[0;36m
+DWHITE     = \033[0;37m
 
-inspections-refresh:
-	python scripts/01-refresh-inspection-list.py
+BG_WHITE   = \033[47m
+BG_RED     = \033[41m
+BG_GREEN   = \033[42m
+BG_YELLOW  = \033[43m
+BG_BLUE    = \033[44m
+BG_MAGENTA = \033[45m
+BG_CYAN    = \033[46m
 
-inspections-download:
-	python scripts/02-download-inspection-pdfs.py
+# Name some of the colors
+COM_COLOR   = $(DBLUE)
+OBJ_COLOR   = $(DCYAN)
+OK_COLOR    = $(DGREEN)
+ERROR_COLOR = $(DRED)
+WARN_COLOR  = $(DYELLOW)
+NO_COLOR    = $(RESET_COLOR)
 
-inspections: inspections-init inspections-refresh inspections-download
+OK_STRING    = "[OK]"
+ERROR_STRING = "[ERROR]"
+WARN_STRING  = "[WARNING]"
 
+#
+# Helpers
+#
 
-format:
-	black scripts
-	isort scripts
+define banner
+    @echo "  $(WHITE)         $(RESET_COLOR)"
+    @echo "$(WHITE)$(BG_YELLOW)          $(RESET_COLOR)$(WHITE)$(RESET_COLOR)"
+    @echo "$(BG_YELLOW)          $(RESET_COLOR)  $(DWHITE)This is a $(RESET_COLOR)$(DBLACK)$(BG_YELLOW)DATA LIBERATION PROJECT$(RESET_COLOR)$(DWHITE) automation$(RESET_COLOR)"
+    @echo "$(BG_YELLOW)          $(RESET_COLOR)"
+    @echo "$(BG_YELLOW)          $(RESET_COLOR)  $(DWHITE)$(1)$(RESET_COLOR)"
+    @echo "$(RESET_COLOR)$(BG_YELLOW)          $(RESET_COLOR)"
+    @echo ""
+endef  #   $(1)$(RESET_COLOR)$(DWHITE)
 
-lint:
-	black --check scripts
-	isort --check scripts
-	flake8 scripts
+PYTHON := python -W ignore
+
+define python
+    @echo "🐍🤖 $(OBJ_COLOR)Executing Python script $(1)$(NO_COLOR)\r";
+    @$(PYTHON) $(1)
+endef
+
+#
+# Commands
+#
+
+requirements.txt: requirements.in ## Compile the requirements file
+	@pip-compile requirements.in
+
+venv: ## Install code into the venv
+	@python -m venv venv
+	@venv/bin/pip install -r requirements.txt
+
+inspections-init: ## Fetch the inspection list from scratch
+	$(call python,scripts/00-fetch-inspection-list.py)
+
+inspections-refresh: ## Refresh the inspection list after its been initalized
+	$(call python,scripts/01-refresh-inspection-list.py)
+
+inspections-download: ## Download PDFs of inspections
+	$(call python,scripts/02-download-inspection-pdfs.py)
+
+inspections: ## Run the full inspection routine
+	$(call banner,         🪠 Scraping inspections 🪠)
+	@$(MAKE) inspections-init
+	@$(MAKE) inspections-refresh
+	@$(MAKE) inspections-download
+
+format: ## Autoformat the code with black and isort
+	$(call banner,           💅 Formatting code 💅)
+	@black scripts
+	@isort scripts
+
+lint: ## Lint the code with black, isort and flake8
+	$(call banner,           🪥 Linting mypy 🪥)
+	@black --check scripts
+	@isort --check scripts
+	@flake8 scripts
+
+help: ## Show this help. Example: make help
+	@egrep -h '\s##\s' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
+
+#
+# Et cetera
+#
+
+.PHONY: venv \
+        lint \
+		format \
+		inspections \
+		inspections-init \
+		inspections-refresh \
+		inspections-download \
+		help
