@@ -76,5 +76,5 @@ jobs:
 
       - id: test
         name: Run tests
-        run: pytest tests -sv --cov
+        run: make tests
         shell: bash

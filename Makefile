@@ -101,6 +101,10 @@ lint: ## Lint the code with black, isort and flake8
 	@isort --check scripts
 	@flake8 scripts
 
+test: ## Run all tests
+	$(call banner,           🧪 Running tests 🧪)
+	@$(PIPENV) pytest tests -sv --cov
+
 help: ## Show this help. Example: make help
 	@egrep -h '\s##\s' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
@@ -111,6 +115,7 @@ help: ## Show this help. Example: make help
 .PHONY: venv \
         lint \
 		format \
+		test \
 		inspections \
 		inspections-init \
 		inspections-refresh \
