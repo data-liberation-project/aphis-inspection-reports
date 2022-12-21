@@ -99,14 +99,13 @@ def iter_fetch_all(
             return
 
 
-def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str, str]:
+def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str]:
     return (
-        int(r.get("customerNumber", -1)),
-        r.get("certNumber", ""),
-        r.get("inspectionDate", ""),
-        r.get("legalName", ""),
-        r.get("siteName", ""),
-        r.get("reportLink", ""),
+        int(r["customerNumber"]),  # Shouldn't ever be missing
+        r.get("certNumber", ""),  # Sometimes missing
+        r["siteName"],  # Sometimes missing
+        r["inspectionDate"],  # Shouldn't ever be missing
+        r.get("reportLink", ""),  # Sometimes missing, else unique
     )
 
 
