@@ -110,7 +110,7 @@ def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str]:
 
 
 def deduplicate(
-    result_list: list[dict[str, typing.Any]]
+    result_list: list[dict[str, typing.Any]], sort: bool = True
 ) -> list[dict[str, typing.Any]]:
     seen_keys = set()
     unique = []
@@ -121,7 +121,10 @@ def deduplicate(
         else:
             seen_keys.add(key)
             unique.append(item)
-    return sorted(unique, key=get_sort_key)
+    if sort:
+        return sorted(unique, key=get_sort_key)
+    else:
+        return unique
 
 
 def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
