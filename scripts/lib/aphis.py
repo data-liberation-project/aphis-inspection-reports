@@ -144,6 +144,10 @@ def add_hash_ids(
     result_list: list[dict[str, typing.Any]]
 ) -> list[dict[str, typing.Any]]:
     return [
-        dict(**res, **{"hash_id": hash_id_from_url(res["reportLink"])})
+        (
+            dict(**res, **{"hash_id": hash_id_from_url(res["reportLink"])})
+            if "hash_id" not in res
+            else res
+        )
         for res in result_list
     ]
