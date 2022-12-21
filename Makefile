@@ -20,10 +20,10 @@ inspections: inspections-init inspections-refresh inspections-download
 
 
 format:
-	black scripts
-	isort scripts
+	black scripts tests
+	isort scripts tests
 
 lint:
-	black --check scripts
-	isort --check scripts
-	flake8 scripts
+	black --check scripts tests
+	isort --check scripts tests
+	flake8 scripts tests
