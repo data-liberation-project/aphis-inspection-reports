@@ -58,13 +58,14 @@ RESULTS_EXAMPLE = [
 ]
 
 
-def test_hash_id_from_url():
+def test_hash_id_from_url() -> None:
     """Test the hash_id_from_url utility."""
-    hash_id = aphis.hash_id_from_url(RESULTS_EXAMPLE[0]["reportLink"])
+    link = str(RESULTS_EXAMPLE[0]["reportLink"])
+    hash_id = aphis.hash_id_from_url(link)
     assert hash_id == "70c3bd51cf5e10cb"
 
 
-def test_add_hash_ids():
+def test_add_hash_ids() -> None:
     """Test the add_hash_ids utility."""
     added = aphis.add_hash_ids(RESULTS_EXAMPLE)
 
@@ -77,7 +78,7 @@ def test_add_hash_ids():
     aphis.add_hash_ids(added)
 
 
-def test_get_sort_key():
+def test_get_sort_key() -> None:
     """Test the get_sort_key utility."""
     key = aphis.get_sort_key(RESULTS_EXAMPLE[0])
     assert key == (
@@ -89,7 +90,7 @@ def test_get_sort_key():
     )
 
 
-def test_deduplicate():
+def test_deduplicate() -> None:
     """Test the deduplicate utility."""
     d = aphis.deduplicate(RESULTS_EXAMPLE, sort=False)
     # Last item in array is intentionally a dupe
