@@ -9,6 +9,24 @@ This repository aims to collect all of the following from the US Department of A
 
 ## Inspection reports
 
+### General observations
+
+The data returned by the APHIS search portal contains the following variables:
+
+Key|Description|Example
+-----|-----|-----
+`certNumber`|APHIS Certificate Number. A small proportion are blank.|93-R-0432
+`customerNumber`|APHIS Customer Number. None are blank.|9191
+`inspectionDate`|YYYY-MM-DD date of APHIS inspection. None are blank. Earliest collected here is 2014-01-30.|2022-11-14
+`inspectionDateString`|MM/DD/YYYY date of APHIS inspection.|11/14/2022
+`legalName`|Name of inspected licensee. Appears to be tied to the `customerNumber`. It *appears* that when APHIS updates this value, it is updated for all rows with the same `customerNumber`.|University of California-Berkeley
+`siteName`|Name of inspected site. The same `certNumber` and `customerNumber` can relate to multiple sites. Unlike the `legalName`, it *appears* that APHIS does not change this retrospectively.|UNIVERSITY OF CALIFORNIA, BERKELEY
+`reportLink`|URL of the inspection report PDF. Appears to be unique across rows, except for a handful (all pre-2019) with no link at all.|[https://aphis[...]](https://aphis--c.na21.content.force.com/sfc/dist/version/download/?oid=00Dt0000000GyZH&ids=068t000000gv9b5&d=%2Fa%2Ft0000001ZLeA%2FKg5uHjj9LGi0zJe1NX05AnSW950c7\_feljvRekhSHmU&asPdf=false)
+`direct`|Number of "direct" noncompliant items.|0
+`critical`|Number of "critical" noncompliant items.|0
+`nonCritical`|Number of "non-critical" noncompliant items.|0
+`teachableMoments`|Number of "teachable moment" noncompliant items.|0
+
 ### Fetching the inspection reports
 
 #### Initial fetch
@@ -26,6 +44,8 @@ Note: The results returned by the tool and API contain no unique inspection ID, 
 #### Refreshing the data
 
 The full fetch can take more than an hour, even when using a pool of four simultaneous processing pools. We can avoid refetching everything when refreshing the results by fetching the 2,100 most recent inspection reports (the query tool's default sorting order), which should suffice as long as it's run with some frequency. (As of late 2022, those 2,100 results go back to nearly four months prior.) This process is conducted via [`scripts/01-refresh-inspection-list.py`](scripts/01-refresh-inspection-list.py), which updates the file at [`data/fetched/inspections.csv`](data/fetched/inspections.csv).
+
+__Note__: Because APHIS appears sometimes to update the `legalName` for a given `customerNumber`, and that this change appears to apply to all previous inspection data in the portal, running these data-refreshes may result in `data/fetched/inspections.csv` containing multiple variations of `legalName` for a given customer.
 
 The script also updates [`data/fetched/inspections-search-total.txt`](data/fetched/inspections-search-total.txt) with the total number of results indicated in the [online search tool](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports).
 

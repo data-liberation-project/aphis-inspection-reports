@@ -28,7 +28,7 @@ def main():
         if not link:
             continue
 
-        dest = Path(f"pdfs/inspections{hash_id_from_url(link)}.pdf")
+        dest = Path(f"pdfs/inspections/{hash_id_from_url(link)}.pdf")
         if dest.exists():
             continue
         else:

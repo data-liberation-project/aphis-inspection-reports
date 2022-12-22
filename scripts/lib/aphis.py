@@ -99,19 +99,18 @@ def iter_fetch_all(
             return
 
 
-def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str, str]:
+def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str, str]:
     return (
-        int(r.get("customerNumber", -1)),
-        r.get("certNumber", ""),
-        r.get("inspectionDate", ""),
-        r.get("legalName", ""),
-        r.get("siteName", ""),
-        r.get("reportLink", ""),
+        int(r["customerNumber"]),  # Shouldn't ever be missing
+        r.get("certNumber", ""),  # Sometimes missing
+        r["siteName"],  # Sometimes missing
+        r["inspectionDate"],  # Shouldn't ever be missing
+        r.get("reportLink", ""),  # Sometimes missing, else unique
     )
 
 
 def deduplicate(
-    result_list: list[dict[str, typing.Any]]
+    result_list: list[dict[str, typing.Any]], sort: bool = True
 ) -> list[dict[str, typing.Any]]:
     seen_keys = set()
     unique = []
@@ -122,7 +121,10 @@ def deduplicate(
         else:
             seen_keys.add(key)
             unique.append(item)
-    return sorted(unique, key=get_sort_key)
+    if sort:
+        return sorted(unique, key=get_sort_key)
+    else:
+        return unique
 
 
 def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
@@ -144,6 +146,10 @@ def add_hash_ids(
     result_list: list[dict[str, typing.Any]]
 ) -> list[dict[str, typing.Any]]:
     return [
-        dict(**res, **{"hash_id": hash_id_from_url(res["reportLink"])})
+        (
+            dict(**res, **{"hash_id": hash_id_from_url(res["reportLink"])})
+            if "hash_id" not in res
+            else res
+        )
         for res in result_list
     ]
