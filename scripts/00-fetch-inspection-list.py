@@ -4,7 +4,13 @@ from itertools import chain
 from multiprocessing import Pool
 from pathlib import Path
 
-from lib.aphis import TooManyResultsError, deduplicate, iter_fetch_all, write_results
+from lib.aphis import (
+    TooManyResultsError,
+    add_hash_ids,
+    deduplicate,
+    iter_fetch_all,
+    write_results,
+)
 
 
 def iter_char(init_criteria):
@@ -32,7 +38,7 @@ def fetch_for_letter(letter):
     if dest.exists():
         return
 
-    results = deduplicate(iter_char({"customerName": letter}))
+    results = add_hash_ids(deduplicate(iter_char({"customerName": letter})))
     write_results(results, dest)
 
 
@@ -42,8 +48,8 @@ def main():
 
     paths = Path("data/fetched/inspections-by-letter/").glob("*.csv")
 
-    merged = deduplicate(
-        chain.from_iterable(csv.DictReader(open(path)) for path in paths)
+    merged = add_hash_ids(
+        deduplicate(chain.from_iterable(csv.DictReader(open(path)) for path in paths))
     )
 
     write_results(merged, "data/fetched/inspections-by-letter.csv")
