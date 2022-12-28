@@ -9,7 +9,7 @@ from retry import retry
 
 
 @retry(tries=10, delay=30)
-def fetch(link: str, timeout: int = 60):
+def fetch(link: str, timeout: int = 60) -> bytes:
     """Request the provided URL and return the content."""
     res = requests.get(link, timeout=timeout)
     assert res.ok
@@ -17,7 +17,7 @@ def fetch(link: str, timeout: int = 60):
     return res.content
 
 
-def main():
+def main() -> None:
     """Download inspection PDFs."""
     with open("data/fetched/inspections.csv") as f:
         reports = list(csv.DictReader(f))

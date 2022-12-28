@@ -1,5 +1,6 @@
 import csv
 import string
+import typing
 from itertools import chain
 from multiprocessing import Pool
 from pathlib import Path
@@ -13,7 +14,9 @@ from lib.aphis import (
 )
 
 
-def iter_char(init_criteria):
+def iter_char(
+    init_criteria: dict[str, typing.Any]
+) -> typing.Generator[dict[str, str], None, None]:
     base = init_criteria.get("customerName", "")
 
     chars = list(string.ascii_lowercase) + list(string.digits) + list(" ,.&-")
@@ -33,7 +36,7 @@ def iter_char(init_criteria):
             yield from deduplicate(iter_char(new_criteria))
 
 
-def fetch_for_letter(letter):
+def fetch_for_letter(letter: str) -> None:
     dest = Path(f"data/fetched/inspections-by-letter/{letter}.csv")
     if dest.exists():
         return
@@ -42,7 +45,7 @@ def fetch_for_letter(letter):
     write_results(results, dest)
 
 
-def main():
+def main() -> None:
     with Pool(processes=6) as pool:
         pool.map(fetch_for_letter, string.ascii_lowercase)
 

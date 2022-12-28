@@ -3,7 +3,7 @@ import csv
 from lib.aphis import add_hash_ids, deduplicate, fetch, iter_fetch_all, write_results
 
 
-def main():
+def main() -> None:
     search_total = fetch(0, {})["totalCount"]
     with open("data/fetched/inspections-search-total.txt", "w") as f:
         f.write(str(search_total))

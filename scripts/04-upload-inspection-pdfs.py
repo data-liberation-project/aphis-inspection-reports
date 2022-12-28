@@ -17,7 +17,7 @@ CACHE_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
 
 
-def main():
+def main() -> None:
     """Upload all local PDFs not yet posted to DocumentCloud."""
 
     # Get everything that's been downloaded
@@ -56,7 +56,7 @@ def main():
         time.sleep(0.25)
 
 
-def get_documentcloud_client():
+def get_documentcloud_client() -> DocumentCloud:
     """Initialize and return a DocumentCloud client that's ready to use."""
     return DocumentCloud(
         os.getenv("DOCUMENTCLOUD_USER"), os.getenv("DOCUMENTCLOUD_PASSWORD")
