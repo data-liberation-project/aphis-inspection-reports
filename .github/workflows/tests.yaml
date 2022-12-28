@@ -51,7 +51,7 @@ jobs:
 
       - id: mypy
         name: Run mypy
-        run: mypy ./ --ignore-missing-imports
+        run: make mypy
         shell: bash
 
   test-python:
@@ -76,5 +76,5 @@ jobs:
 
       - id: test
         name: Run tests
-        run: pytest tests -sv --cov
+        run: make tests
         shell: bash

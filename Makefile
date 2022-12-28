@@ -1,4 +1,4 @@
-.PHONY: venv README.md
+.PHONY: README.md tests venv
 
 requirements.txt: requirements.in
 	pip-compile requirements.in
@@ -34,3 +34,9 @@ lint:
 	black --check scripts tests
 	isort --check scripts tests
 	flake8 scripts tests
+
+mypy:
+	mypy scripts tests --ignore-missing-imports
+
+tests:
+	pytest tests -sv --cov
