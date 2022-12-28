@@ -16,7 +16,14 @@ inspections-refresh:
 inspections-download:
 	python scripts/02-download-inspection-pdfs.py
 
-inspections: inspections-init inspections-refresh inspections-download
+inspections-parse:
+	python scripts/03-parse-inspection-pdfs.py
+
+inspections: inspections-init inspections-refresh inspections-download inspections-parse
+
+# Intentionally a separate step, not in `make inspections`
+upload:
+	python scripts/04-upload-inspection-pdfs.py
 
 
 format:

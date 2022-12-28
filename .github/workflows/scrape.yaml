@@ -35,6 +35,14 @@ jobs:
         run: python scripts/02-download-inspection-pdfs.py
         shell: bash
 
+      - name: Parse inspection PDFs
+        run: python scripts/03-parse-inspection-pdfs.py
+        shell: bash
+
+      - name: Upload inspection PDFs to DocumentCloud
+        run: DOCUMENTCLOUD_PROJECT_ID=211004 python scripts/04-upload-inspection-pdfs.py
+        shell: bash
+
       - name: Config git
         run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
         shell: bash
