@@ -40,8 +40,12 @@ jobs:
         shell: bash
 
       - name: Upload inspection PDFs to DocumentCloud
-        run: DOCUMENTCLOUD_PROJECT_ID=211004 python scripts/04-upload-inspection-pdfs.py
+        run: python scripts/04-upload-inspection-pdfs.py
         shell: bash
+        env:
+          DOCUMENTCLOUD_PROJECT_ID: 211004 
+          DOCUMENTCLOUD_USER: ${{ secrets.DOCUMENTCLOUD_USER }}
+          DOCUMENTCLOUD_PASSWORD: ${{ secrets.DOCUMENTCLOUD_PASSWORD }}
 
       - name: Config git
         run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
