@@ -102,9 +102,7 @@ def upload_pdf(
         )
         return document.canonical_url, True
     except APIError as e:
-        if verbose:
-            print(f"API error {e}")
-        return None, False
+        raise Exception(f"Failed uploading to DocumentCloud: {e}")
 
 
 if __name__ == "__main__":
