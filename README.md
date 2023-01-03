@@ -1,5 +1,7 @@
 # APHIS Report / License Scraper
 
+*A collaboration between the [Data Liberation Project](https://www.data-liberation-project.org/) and [Big Local News](https://biglocalnews.org/content/about/).*
+
 This repository aims to collect all of the following from the US Department of Agriculture's Animal and Plant Health Inspection Service [public search tools](https://efile.aphis.usda.gov/PublicSearchTool/s/):
 
 - [Inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports). (In progress.)
