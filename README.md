@@ -66,6 +66,11 @@ The script [`scripts/02-download-inspection-pdfs.py`](scripts/02-download-inspec
 
 The script [`scripts/03-parse-inspection-pdfs.py`](scripts/03-parse-inspection-pdfs.py) extracts data from each inspection report PDF and saves the results to [`data/parsed/`](data/parsed). Currently, only a minimal amount of information is being parsed, but further development should expand the details extracted in this step.
 
+### Uploading the report PDFs to DocumentCloud
+
+The script [`scripts/04-upload-inspection-pdfs.py`](scripts/04-upload-inspection-pdfs.py) uploads the PDFs to a [public project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20), where they can be searched in bulk.
+
+
 ## Licensees
 
 __TK - Not yet implemented.__
