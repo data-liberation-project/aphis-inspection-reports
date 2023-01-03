@@ -11,6 +11,11 @@ This repository aims to collect all of the following from the US Department of A
 
 ## Inspection reports
 
+### Main output
+
+- [All fetched reports, searchable via DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
+- [All metadata fetched from APHIS portal](data/fetched/inspections.csv)
+
 ### General observations
 
 The data returned by the APHIS search portal contains the following variables:
