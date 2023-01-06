@@ -44,11 +44,63 @@ def get_inspection_id_and_layout(pdf: pdfplumber.pdf.PDF) -> tuple[str, str]:
             raise Exception(f"Cannot find inspection ID in text: \n{top_text}")
 
 
+def norm_ws(text: str, newlines: bool = False) -> str:
+    text = re.sub(r" +", " ", text).strip()
+    text = re.sub(r" *\n+ *", "\n" if newlines else " ", text)
+    return text
+
+
+def get_top_section(pdf: pdfplumber.pdf.PDF, layout: str) -> dict[str, typing.Any]:
+    page = pdf.pages[0].dedupe_chars()
+
+    if len(page.lines) > 2:
+        line_objs = [page.lines[0], page.lines[2]]
+    else:
+        edges = sorted(page.horizontal_edges, key=itemgetter("top", "x0"))
+        line_objs = [edges[0], edges[2]]
+
+    top = page.crop((0, line_objs[0]["top"], page.width, line_objs[1]["top"]))
+
+    left = top.crop(
+        (top.bbox[0], top.bbox[1], top.bbox[0] + top.width / 2, top.bbox[3])
+    )
+    right = top.crop(
+        (top.bbox[0] + top.width / 2, top.bbox[1], top.bbox[2], top.bbox[3])
+    )
+
+    left_text = norm_ws(left.extract_text(layout=True), newlines=True)
+    right_text = right.extract_text(layout=True)
+    right_text_small = right.filter(
+        lambda o: float(o.get("size", 999)) < 9
+    ).extract_text()
+
+    def extract_right(pat: str) -> str:
+        m = re.search(pat, right_text)
+        if m is None:
+            raise Exception(f"No match for {pat}")
+        return norm_ws(m.group(1) or "")
+
+    return {
+        "customer_id": extract_right(r"Customer ID:\s*(\d+)"),
+        "customer_name": left_text.split("\n")[0],
+        "customer_addr": "\n".join(left_text.split("\n")[1:]),
+        "certificate": extract_right(
+            r"Certificate:\s*(\d+-[A-Z]+-\d+|--|Open Application)?\s*\n"
+        ),
+        "site_id": extract_right(r"Site:\s*([^\n]+)\s*\n"),
+        "site_name": norm_ws(right_text_small),
+        "insp_type": extract_right(r"Type:\s*([A-Z\-#\s\d]+?)Date:"),
+        "date": extract_right(r"Date:\s*(\d{1,2}-[A-Za-z]{3}-\d{4})"),
+    }
+
+
 def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
     insp_id, layout = get_inspection_id_and_layout(pdf)
+    top_section = get_top_section(pdf, layout)
     return {
         "insp_id": insp_id,
         "layout": layout,
+        **top_section,
     }
 
 
