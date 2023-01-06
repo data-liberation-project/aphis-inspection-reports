@@ -70,6 +70,7 @@ def get_top_section(pdf: pdfplumber.pdf.PDF, layout: str) -> dict[str, typing.An
 
     left_text = norm_ws(left.extract_text(layout=True), newlines=True)
     right_text = right.extract_text(layout=True)
+
     right_text_small = right.filter(
         lambda o: float(o.get("size", 999)) < 9
     ).extract_text()
@@ -81,16 +82,16 @@ def get_top_section(pdf: pdfplumber.pdf.PDF, layout: str) -> dict[str, typing.An
         return norm_ws(m.group(1) or "")
 
     return {
-        "customer_id": extract_right(r"Customer ID:\s*(\d+)"),
+        "customer_id": extract_right(r"Customer ID: *(\d+)"),
         "customer_name": left_text.split("\n")[0],
         "customer_addr": "\n".join(left_text.split("\n")[1:]),
         "certificate": extract_right(
-            r"Certificate:\s*(\d+-[A-Z]+-\d+|--|Open Application)?\s*\n"
+            r"Certificate: *(\d+-[A-Z]+-\d+|--|Open Application)? *\n"
         ),
-        "site_id": extract_right(r"Site:\s*([^\n]+)\s*\n"),
+        "site_id": extract_right(r"Site: *([^\n]*) *\n"),
         "site_name": norm_ws(right_text_small),
-        "insp_type": extract_right(r"Type:\s*([A-Z\-#\s\d]+?)Date:"),
-        "date": extract_right(r"Date:\s*(\d{1,2}-[A-Za-z]{3}-\d{4})"),
+        "insp_type": extract_right(r"Type: *([A-Z\-#\s\d]+?)Date:"),
+        "date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})"),
     }
 
 
