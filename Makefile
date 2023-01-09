@@ -19,7 +19,10 @@ inspections-download:
 inspections-parse:
 	python scripts/03-parse-inspection-pdfs.py
 
-inspections: inspections-init inspections-refresh inspections-download inspections-parse
+inspections-parse:
+	python scripts/05-combine-inspection-data.py
+
+inspections: inspections-init inspections-refresh inspections-download inspections-parse inspections-combine
 
 # Intentionally a separate step, not in `make inspections`
 upload:
