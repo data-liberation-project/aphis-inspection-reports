@@ -27,8 +27,17 @@ def main() -> None:
     # Get everything that's been parsed
     with open("data/parsed/inspections.json") as f:
         parsed_data = json.load(f)
+
     print(f"{len(parsed_data)} parsed documents found locally")
 
+    upload_unuploaded(fetched_data, parsed_data)
+    combine_cache()
+
+
+def upload_unuploaded(
+    fetched_data: list[dict[str, typing.Any]],
+    parsed_data: dict[str, dict[str, typing.Any]],
+) -> None:
     # Loop through all the local PDFs
     for insp in fetched_data:
         # Pull out the file name
@@ -103,6 +112,17 @@ def upload_pdf(
         return document.canonical_url, True
     except APIError as e:
         raise Exception(f"Failed uploading to DocumentCloud: {e}")
+
+
+def combine_cache() -> None:
+    def load(path: Path) -> tuple[str, dict[str, typing.Any]]:
+        with open(path) as f:
+            return (path.stem, json.load(f))
+
+    paths = sorted(CACHE_DIR.glob("*.json"))
+    combined = dict(map(load, paths))
+    with open(CACHE_DIR.parent / "inspections.json", "w") as f:
+        json.dump(combined, f, indent=2)
 
 
 if __name__ == "__main__":
