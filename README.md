@@ -14,7 +14,9 @@ This repository aims to collect all of the following from the US Department of A
 ### Main output
 
 - [All fetched reports, searchable via DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
-- [All metadata fetched from APHIS portal](data/fetched/inspections.csv)
+- [All data fetched from web and parsed from PDFs](data/combined/inspections.csv)
+    - [Just the metadata fetched from APHIS portal](data/fetched/inspections.csv)
+    - [Just the data parsed from the PDFs](data/parsed/inspections.json)
 
 ### General observations
 
@@ -70,6 +72,9 @@ The script [`scripts/03-parse-inspection-pdfs.py`](scripts/03-parse-inspection-p
 
 The script [`scripts/04-upload-inspection-pdfs.py`](scripts/04-upload-inspection-pdfs.py) uploads the PDFs to a [public project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20), where they can be searched in bulk.
 
+### Combining the results
+
+The script [`scripts/05-combine-inspection-data.py`](scripts/05-combine-inspection-data.py) combines the results of the previous steps into a single CSV file, [`data/combined/inspections.csv`](data/combined/inspections.csv). In it, fields fetched from the web portal are prefixed with `web_`, those parsed from the PDFs with `pdf_`, and those relevant to DocumentCloud with `doccloud_`.
 
 ## Licensees
 
