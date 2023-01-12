@@ -19,7 +19,7 @@ inspections-download:
 inspections-parse:
 	python scripts/03-parse-inspection-pdfs.py
 
-inspections-parse:
+inspections-combine:
 	python scripts/05-combine-inspection-data.py
 
 inspections: inspections-init inspections-refresh inspections-download inspections-parse inspections-combine
