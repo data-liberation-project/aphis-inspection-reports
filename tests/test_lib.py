@@ -84,7 +84,6 @@ def test_get_sort_key() -> None:
     assert key == (
         9191,
         "93-R-0432",
-        "UNIVERSITY OF CALIFORNIA, BERKELEY",
         "2022-11-14",
         RESULTS_EXAMPLE[0]["reportLink"],
     )

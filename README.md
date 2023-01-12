@@ -29,7 +29,7 @@ Key|Description|Example
 `inspectionDate`|YYYY-MM-DD date of APHIS inspection. None are blank. Earliest collected here is 2014-01-30.|2022-11-14
 `inspectionDateString`|MM/DD/YYYY date of APHIS inspection.|11/14/2022
 `legalName`|Name of inspected licensee. Appears to be tied to the `customerNumber`. It *appears* that when APHIS updates this value, it is updated for all rows with the same `customerNumber`.|University of California-Berkeley
-`siteName`|Name of inspected site. The same `certNumber` and `customerNumber` can relate to multiple sites. Unlike the `legalName`, it *appears* that APHIS does not change this retrospectively.|UNIVERSITY OF CALIFORNIA, BERKELEY
+`siteName`|Name of inspected site. The same `certNumber` and `customerNumber` can relate to multiple sites. It appears that APHIS sometimes changes this value retrospectively.|UNIVERSITY OF CALIFORNIA, BERKELEY
 `reportLink`|URL of the inspection report PDF. Appears to be unique across rows, except for a handful (all pre-2019) with no link at all.|[https://aphis[...]](https://aphis--c.na21.content.force.com/sfc/dist/version/download/?oid=00Dt0000000GyZH&ids=068t000000gv9b5&d=%2Fa%2Ft0000001ZLeA%2FKg5uHjj9LGi0zJe1NX05AnSW950c7\_feljvRekhSHmU&asPdf=false)
 `direct`|Number of "direct" noncompliant items.|0
 `critical`|Number of "critical" noncompliant items.|0
