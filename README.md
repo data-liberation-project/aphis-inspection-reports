@@ -14,9 +14,9 @@ This repository aims to collect all of the following from the US Department of A
 ### Main output
 
 - [All fetched reports, searchable via DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
-- [All data fetched from web and parsed from PDFs](data/combined/inspections.csv)
-    - [Just the metadata fetched from APHIS portal](data/fetched/inspections.csv)
-    - [Just the data parsed from the PDFs](data/parsed/inspections.json)
+- [All data fetched from web and parsed from PDFs](data/combined/)
+- [Just the metadata fetched from APHIS portal](data/fetched/inspections.csv)
+- [Just the data parsed from the PDFs](data/parsed/inspections.json)
 
 ### General observations
 
@@ -74,7 +74,11 @@ The script [`scripts/04-upload-inspection-pdfs.py`](scripts/04-upload-inspection
 
 ### Combining the results
 
-The script [`scripts/05-combine-inspection-data.py`](scripts/05-combine-inspection-data.py) combines the results of the previous steps into a single CSV file, [`data/combined/inspections.csv`](data/combined/inspections.csv). In it, fields fetched from the web portal are prefixed with `web_`, those parsed from the PDFs with `pdf_`, and those relevant to DocumentCloud with `doccloud_`.
+The script [`scripts/05-combine-inspection-data.py`](scripts/05-combine-inspection-data.py) combines the results of the previous steps into two CSV files:
+
+- [`data/combined/inspections.csv`](data/combined/inspections.csv): The main file, representing each inspection report collected by the code in this repository. In it, fields fetched from the web portal are prefixed with `web_`, those parsed from the PDFs with `pdf_`, and those relevant to DocumentCloud with `doccloud_`.
+
+- [`data/combined/inspections-species.csv`](data/combined/inspections-species.csv): A representation of the "Species Inspected" lists at the end of each report. Linkable back to the main file via `hash_id`.
 
 ## Licensees
 
