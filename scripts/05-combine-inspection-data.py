@@ -24,7 +24,7 @@ convert_fetched = make_converter(
     "web", ["inspectionDateString"]  # Duplicative of `inspectionDate`
 )
 
-convert_parsed = make_converter("pdf", [])
+convert_parsed = make_converter("pdf", ["species"])
 convert_doccloud = make_converter("doccloud", [])
 
 
@@ -41,6 +41,8 @@ def main() -> None:
     with open(DATA_DIR / "doccloud" / "inspections.json") as f:
         doccloud_data = json.load(f)
 
+    all_species = []
+
     with open(DATA_DIR / "combined" / "inspections.csv", "w") as f:
         fieldnames = (
             list(convert_fetched(fetched_data[0]).keys())
@@ -52,7 +54,15 @@ def main() -> None:
 
         for fetched in fetched_data:
             hash_id = fetched["hash_id"]
+
             parsed = parsed_data.get(hash_id, {})
+
+            if hash_id:
+                for s in parsed["species"]:
+                    if s["scientific"].upper() == "NONE" and s["count"] == 0:
+                        continue
+                    all_species.append({"hash_id": hash_id, **s})
+
             doccloud = doccloud_data.get(hash_id, {"url": ""})
 
             c = {
@@ -62,6 +72,12 @@ def main() -> None:
             }
 
             writer.writerow(c)
+
+    with open(DATA_DIR / "combined" / "inspections-species.csv", "w") as f:
+        fieldnames = ["hash_id", "count", "scientific", "common"]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_species)
 
 
 if __name__ == "__main__":
