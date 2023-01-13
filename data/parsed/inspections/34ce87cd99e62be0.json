@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF ALASKA - ANCHORAGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2022"
+  "date": "12-MAY-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Urocitellus parryii",
+      "common": "ARCTIC GROUND SQUIRREL / ARCTIC SOUSLIK"
+    },
+    {
+      "count": 4,
+      "scientific": "Zapus hudsonius",
+      "common": "MEADOW JUMPING MOUSE"
+    }
+  ]
 }

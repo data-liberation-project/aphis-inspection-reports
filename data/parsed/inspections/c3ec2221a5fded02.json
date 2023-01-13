@@ -8,5 +8,48 @@
   "site_id": "002",
   "site_name": "Mike Smilie",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2016"
+  "date": "11-MAY-2016",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

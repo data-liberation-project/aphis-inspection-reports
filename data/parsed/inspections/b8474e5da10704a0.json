@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2016"
+  "date": "14-NOV-2016",
+  "animals_total": 179,
+  "species": [
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

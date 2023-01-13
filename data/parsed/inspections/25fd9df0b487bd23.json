@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "DEBRA PRASCHAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2020"
+  "date": "03-MAR-2020",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

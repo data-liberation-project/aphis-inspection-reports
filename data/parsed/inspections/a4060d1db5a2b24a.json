@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GREEN HILL FARM & ED AREA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2015"
+  "date": "28-JUL-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
 }

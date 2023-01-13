@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PHOENIX HERPETOLOGICAL SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2022"
+  "date": "26-APR-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    }
+  ]
 }

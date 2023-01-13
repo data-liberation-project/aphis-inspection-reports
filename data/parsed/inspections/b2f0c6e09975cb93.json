@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JEFF RUEB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2016"
+  "date": "04-MAY-2016",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 23,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

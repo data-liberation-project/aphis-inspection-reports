@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUSTY ROAD KENNEL LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2017"
+  "date": "29-AUG-2017",
+  "animals_total": 224,
+  "species": [
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

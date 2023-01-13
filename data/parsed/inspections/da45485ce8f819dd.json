@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WOODLAND HILLS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2015"
+  "date": "17-SEP-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

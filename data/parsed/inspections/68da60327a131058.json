@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "JAMES MCKENZIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2019"
+  "date": "06-MAY-2019",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

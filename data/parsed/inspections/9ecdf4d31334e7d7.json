@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "DOCS CRITTERVILLE LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2017"
+  "date": "05-APR-2017",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

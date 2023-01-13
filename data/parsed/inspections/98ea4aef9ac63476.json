@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOONE HALL PLANTATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2017"
+  "date": "16-OCT-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

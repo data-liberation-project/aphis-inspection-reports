@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "NELSON 3559 BUSCH CAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2014"
+  "date": "21-AUG-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

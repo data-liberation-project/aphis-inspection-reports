@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MISTY CRANE",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-JAN-2017"
+  "date": "05-JAN-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

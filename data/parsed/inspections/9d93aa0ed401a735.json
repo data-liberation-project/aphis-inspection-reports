@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUANITA BENNETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2018"
+  "date": "14-NOV-2018",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY MOBLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2016"
+  "date": "16-MAY-2016",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

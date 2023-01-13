@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEANNETTE RIX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2017"
+  "date": "07-DEC-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

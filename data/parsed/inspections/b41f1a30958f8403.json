@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT AND STARMYE HALPAIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2017"
+  "date": "27-SEP-2017",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

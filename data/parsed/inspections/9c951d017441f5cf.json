@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NYS DEPARTMENT OF HEALTH - WCL&R",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2015"
+  "date": "02-JUN-2015",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lasionycteris noctivagans",
+      "common": "SILVER-HAIRED BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Myotis lucifugus",
+      "common": "LITTLE BROWN BAT"
+    }
+  ]
 }

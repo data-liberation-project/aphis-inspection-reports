@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "ENCHANTED SPRINGS RANCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2019"
+  "date": "27-MAR-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 16,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    }
+  ]
 }

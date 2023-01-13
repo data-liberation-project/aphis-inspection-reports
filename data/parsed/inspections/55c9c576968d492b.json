@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEONA WIENHAUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2017"
+  "date": "28-JUN-2017",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

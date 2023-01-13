@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WATERMAN FARMS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-APR-2016"
+  "date": "14-APR-2016",
+  "animals_total": 306,
+  "species": [
+    {
+      "count": 192,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

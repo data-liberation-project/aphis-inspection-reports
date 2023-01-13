@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN REIFF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2021"
+  "date": "06-JAN-2021",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

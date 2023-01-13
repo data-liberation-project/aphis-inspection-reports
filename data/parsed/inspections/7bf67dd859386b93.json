@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "THE LAGOONS DEER PARK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2014"
+  "date": "19-MAR-2014",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 10,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 111,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 12,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

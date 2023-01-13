@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "NORTHWEST ZOOLOGICAL SUPPLY L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-MAY-2017"
+  "date": "23-MAY-2017",
+  "animals_total": 4701,
+  "species": [
+    {
+      "count": 241,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 637,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 349,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 92,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 359,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    },
+    {
+      "count": 2252,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 756,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

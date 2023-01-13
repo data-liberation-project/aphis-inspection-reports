@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "NENITA MORGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2018"
+  "date": "01-MAR-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

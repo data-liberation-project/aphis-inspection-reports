@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SHARON MARSHALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2016"
+  "date": "19-JAN-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

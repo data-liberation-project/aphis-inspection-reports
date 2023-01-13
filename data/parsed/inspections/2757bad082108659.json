@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA BRASHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2022"
+  "date": "07-MAR-2022",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

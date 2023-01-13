@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jacob Hochstedler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-FEB-2022"
+  "date": "10-FEB-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

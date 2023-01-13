@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MICHAEL KNUDTSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2015"
+  "date": "07-APR-2015",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

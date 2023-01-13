@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Whitney Hill",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2016"
+  "date": "15-DEC-2016",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

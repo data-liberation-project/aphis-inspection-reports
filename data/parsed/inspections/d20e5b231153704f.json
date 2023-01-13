@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RARC ZUCKERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2021"
+  "date": "17-MAY-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

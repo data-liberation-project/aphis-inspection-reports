@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "DONNA L RECORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2020"
+  "date": "16-SEP-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

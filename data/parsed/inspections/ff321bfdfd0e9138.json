@@ -8,5 +8,38 @@
   "site_id": "TRA",
   "site_name": "GREAT AMERICAN ENTERTAINMENT CO. LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-OCT-2014"
+  "date": "23-OCT-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 45,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

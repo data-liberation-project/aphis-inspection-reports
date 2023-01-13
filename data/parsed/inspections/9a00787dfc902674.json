@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SOUTH FORK EXOTICS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-APR-2014"
+  "date": "03-APR-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

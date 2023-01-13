@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Ryan Olszta",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "19-SEP-2022"
+  "date": "19-SEP-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

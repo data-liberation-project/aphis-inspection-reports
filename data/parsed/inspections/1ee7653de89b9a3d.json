@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "BUCHANAN CONSERVATION BOARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2015"
+  "date": "19-AUG-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

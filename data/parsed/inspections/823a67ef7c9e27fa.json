@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WHITEHEAD BIOMEDICAL RESEARCH BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2019"
+  "date": "13-SEP-2019",
+  "animals_total": 190,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 162,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES DODDS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

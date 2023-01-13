@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Heartland Classics L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2017"
+  "date": "12-APR-2017",
+  "animals_total": 244,
+  "species": [
+    {
+      "count": 166,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

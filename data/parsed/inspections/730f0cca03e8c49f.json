@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRENDA TISDALE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2021"
+  "date": "06-MAY-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

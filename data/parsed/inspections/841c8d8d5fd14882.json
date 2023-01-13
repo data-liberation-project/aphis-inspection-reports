@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDWIN JAY LENGACHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2021"
+  "date": "01-FEB-2021",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -6,7 +6,20 @@
   "customer_addr": "1946 Wcr 53\nKeenesburg, CO 80643",
   "certificate": "84-C-0019",
   "site_id": "002",
-  "site_name": "THE WILD ANIMAL SANCTUARY(cid:9)",
+  "site_name": "THE WILD ANIMAL SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2019"
+  "date": "17-JUL-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

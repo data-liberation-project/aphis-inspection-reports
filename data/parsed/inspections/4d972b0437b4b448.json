@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Uncle Bill's Farm, Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2015"
+  "date": "28-OCT-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

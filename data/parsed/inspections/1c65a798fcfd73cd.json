@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN SHIRK",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OHIO UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JAN-2019"
+  "date": "29-JAN-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

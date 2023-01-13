@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SHERRY CELLA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2019"
+  "date": "06-MAR-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

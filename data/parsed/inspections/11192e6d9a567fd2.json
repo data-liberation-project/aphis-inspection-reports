@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CALKINS NATURE AREA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2016"
+  "date": "13-JUN-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

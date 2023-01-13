@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ROGER & MARLA CAMPBELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2019"
+  "date": "25-FEB-2019",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

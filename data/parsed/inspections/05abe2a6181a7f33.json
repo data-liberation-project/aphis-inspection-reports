@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GOLDEN MEADOWS FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2021"
+  "date": "20-MAY-2021",
+  "animals_total": 209,
+  "species": [
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

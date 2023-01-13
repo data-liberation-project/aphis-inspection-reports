@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Young Veterinary Research Service",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2022"
+  "date": "25-AUG-2022",
+  "animals_total": 650,
+  "species": [
+    {
+      "count": 192,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 413,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

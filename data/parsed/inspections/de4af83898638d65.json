@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "MONKEY JUNGLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2014"
+  "date": "15-MAY-2014",
+  "animals_total": 236,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 125,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 98,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "G J T Future Management L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2016"
+  "date": "08-DEC-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

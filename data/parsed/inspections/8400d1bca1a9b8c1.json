@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JUNGLE QUEENS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2015"
+  "date": "11-AUG-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    }
+  ]
 }

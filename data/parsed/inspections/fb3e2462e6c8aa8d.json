@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "KEVAN EVANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2018"
+  "date": "19-JUL-2018",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DLORAH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2018"
+  "date": "21-MAR-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

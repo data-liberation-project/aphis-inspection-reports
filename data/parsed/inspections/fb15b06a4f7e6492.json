@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Woodland Canines LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "18-NOV-2022"
+  "date": "18-NOV-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

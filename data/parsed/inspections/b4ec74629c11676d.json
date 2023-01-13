@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "HAYWARD AREA RECREATION & PARK DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2019"
+  "date": "11-OCT-2019",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Plecotus townsendii",
+      "common": "LUMP-NOSED BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

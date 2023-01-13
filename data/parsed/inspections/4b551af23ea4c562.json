@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GREGORY T DUKES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2014"
+  "date": "06-FEB-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

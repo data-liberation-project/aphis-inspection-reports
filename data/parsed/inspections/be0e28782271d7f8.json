@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GEORGIA INSTITUTE OF TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2015"
+  "date": "11-AUG-2015",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

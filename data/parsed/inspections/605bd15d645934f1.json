@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Karin Belden",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2014"
+  "date": "17-JUL-2014",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

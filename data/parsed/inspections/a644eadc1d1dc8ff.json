@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FERMAN TROYER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "10-JUN-2015"
+  "date": "10-JUN-2015",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

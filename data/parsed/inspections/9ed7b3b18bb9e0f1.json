@@ -6,7 +6,15 @@
   "customer_addr": "650 Double Horn Rd\nFredericksburg, TX 78624",
   "certificate": "74-C-1095",
   "site_id": "001",
-  "site_name": "GARY JOHNSON(cid:9)",
+  "site_name": "GARY JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-NOV-2019"
+  "date": "25-NOV-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    }
+  ]
 }

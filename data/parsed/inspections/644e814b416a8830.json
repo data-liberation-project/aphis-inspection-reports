@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THOMAS D. MORRIS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2016"
+  "date": "19-DEC-2016",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

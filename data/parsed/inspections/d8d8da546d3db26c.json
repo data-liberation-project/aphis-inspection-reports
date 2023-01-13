@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JIMMY REX LILES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-OCT-2014"
+  "date": "22-OCT-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 36,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

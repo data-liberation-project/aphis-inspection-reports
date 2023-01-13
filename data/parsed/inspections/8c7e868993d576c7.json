@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "QUINCY FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2022"
+  "date": "08-SEP-2022",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 14,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "FOR PETS SAKE LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-APR-2019"
+  "date": "10-APR-2019",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 3,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 32,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

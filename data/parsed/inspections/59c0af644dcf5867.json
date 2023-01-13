@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALEC MEHMERT",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "09-APR-2021"
+  "date": "09-APR-2021",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

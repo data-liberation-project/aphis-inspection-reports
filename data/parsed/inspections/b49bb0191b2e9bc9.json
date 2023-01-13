@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERESA CLOUD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2017"
+  "date": "01-AUG-2017",
+  "animals_total": 309,
+  "species": [
+    {
+      "count": 205,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

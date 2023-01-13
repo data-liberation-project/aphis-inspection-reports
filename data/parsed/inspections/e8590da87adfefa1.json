@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Justin Dildy",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "12-OCT-2022"
+  "date": "12-OCT-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 10,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    }
+  ]
 }

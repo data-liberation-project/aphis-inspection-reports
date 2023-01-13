@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "BIRDS & ANIMALS UNLIMITED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2017"
+  "date": "07-MAR-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

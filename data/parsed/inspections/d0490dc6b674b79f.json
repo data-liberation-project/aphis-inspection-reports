@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RAR TRANSPORT LLC JPC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2022"
+  "date": "28-NOV-2022",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 163,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

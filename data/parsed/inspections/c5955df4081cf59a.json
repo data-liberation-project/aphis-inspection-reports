@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Teresa Berthelson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2017"
+  "date": "02-AUG-2017",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

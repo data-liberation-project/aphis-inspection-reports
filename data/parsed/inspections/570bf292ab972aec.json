@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JAMES & SUSAN KOWALCZIK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-FEB-2021"
+  "date": "09-FEB-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    }
+  ]
 }

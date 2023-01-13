@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PugPekinPoo-Tzu",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2016"
+  "date": "07-MAR-2016",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

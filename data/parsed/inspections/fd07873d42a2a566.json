@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EUGENE MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2015"
+  "date": "08-DEC-2015",
+  "animals_total": 175,
+  "species": [
+    {
+      "count": 149,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

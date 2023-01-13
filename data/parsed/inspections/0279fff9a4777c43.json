@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Eva Traeger",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "03-JUN-2016"
+  "date": "03-JUN-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

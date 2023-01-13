@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "SPRING VALLEY SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2016"
+  "date": "04-APR-2016",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

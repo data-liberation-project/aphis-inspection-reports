@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "River Bend Pets",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-NOV-2021"
+  "date": "24-NOV-2021",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

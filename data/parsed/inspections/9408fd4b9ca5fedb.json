@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALL CAMPUS SITES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-NOV-2016"
+  "date": "01-NOV-2016",
+  "animals_total": 2122,
+  "species": [
+    {
+      "count": 265,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 299,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1558,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

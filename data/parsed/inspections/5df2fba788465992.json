@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROLYN LANSDOWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2018"
+  "date": "18-APR-2018",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

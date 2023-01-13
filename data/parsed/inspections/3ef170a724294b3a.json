@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GENESIS ZOOLOGICAL CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2018"
+  "date": "01-FEB-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

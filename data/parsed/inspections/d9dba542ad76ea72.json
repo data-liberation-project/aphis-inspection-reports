@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "FRESNO'S CHAFFEE ZOO CORPORATION",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-SEP-2021"
+  "date": "24-SEP-2021",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Connochaetes taurinus",
+      "common": "BRINDLED WILDEBEEST"
+    },
+    {
+      "count": 3,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 3,
+      "scientific": "Tragelaphus strepsiceros",
+      "common": "GREATER KUDU"
+    },
+    {
+      "count": 4,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 6,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Aepyceros melampus",
+      "common": "IMPALA"
+    },
+    {
+      "count": 3,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 4,
+      "scientific": "Gazella leptoceros",
+      "common": "SAND GAZELLE"
+    }
+  ]
 }

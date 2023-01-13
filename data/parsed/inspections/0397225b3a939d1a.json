@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "MICHIGAN STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2016"
+  "date": "08-JUN-2016",
+  "animals_total": 321,
+  "species": [
+    {
+      "count": 136,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 26,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 45,
+      "scientific": "Onychomys arenicola",
+      "common": "CHIHUAHUAN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 32,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

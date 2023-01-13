@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "THE CATTY SHACK RANCH WILDLIFE SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2022"
+  "date": "25-JUL-2022",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "C K S INVESTMENTS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2020"
+  "date": "21-FEB-2020",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

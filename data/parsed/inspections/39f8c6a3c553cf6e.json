@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHILDRENS HOSPITAL BOSTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

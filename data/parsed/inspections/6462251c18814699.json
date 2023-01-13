@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KALAMAZOO NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

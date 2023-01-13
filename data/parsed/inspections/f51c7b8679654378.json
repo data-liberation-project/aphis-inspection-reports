@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MICHELLE WIECHEC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2014"
+  "date": "08-SEP-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

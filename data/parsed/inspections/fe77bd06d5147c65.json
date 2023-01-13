@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "COLUMBIA STATE COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2016"
+  "date": "12-APR-2016",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHARON RICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2019"
+  "date": "25-JUN-2019",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

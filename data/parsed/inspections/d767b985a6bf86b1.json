@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OREGON COAST AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2021"
+  "date": "04-AUG-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
 }

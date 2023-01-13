@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON A SCHLABACH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-JAN-2018"
+  "date": "25-JAN-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

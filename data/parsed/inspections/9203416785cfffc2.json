@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FORTRESS OF THE BEAR INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2018"
+  "date": "17-SEP-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

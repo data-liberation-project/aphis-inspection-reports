@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "PHILIP M DOLCI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2021"
+  "date": "20-AUG-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

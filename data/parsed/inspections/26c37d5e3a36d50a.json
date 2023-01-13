@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARIE GINGERICH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-MAR-2020"
+  "date": "06-MAR-2020",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

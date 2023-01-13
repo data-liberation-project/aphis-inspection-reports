@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Fannie Schwartz",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "10-SEP-2015"
+  "date": "10-SEP-2015",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

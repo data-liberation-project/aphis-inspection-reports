@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN BURKHOLDER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-DEC-2018"
+  "date": "10-DEC-2018",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

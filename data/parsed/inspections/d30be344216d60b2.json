@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DANIEL CHAMBERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2020"
+  "date": "13-NOV-2020",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

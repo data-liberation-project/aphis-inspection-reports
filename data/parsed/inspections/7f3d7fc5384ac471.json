@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "J MAASSEN, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2014"
+  "date": "25-AUG-2014",
+  "animals_total": 465,
+  "species": [
+    {
+      "count": 323,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

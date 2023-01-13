@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "FOX VALLEY PARK DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2017"
+  "date": "20-JUN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH VARIETY)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET VARIETY)"
+    }
+  ]
 }

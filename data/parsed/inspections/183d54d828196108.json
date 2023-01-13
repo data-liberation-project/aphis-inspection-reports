@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FISHER FARM",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-MAY-2018"
+  "date": "23-MAY-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

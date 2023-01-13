@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Terry Floyd",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2014"
+  "date": "31-MAR-2014",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 6,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 6,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 8,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 16,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

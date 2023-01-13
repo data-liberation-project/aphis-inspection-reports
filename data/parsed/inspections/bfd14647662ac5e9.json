@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALIFORNIA PROPERTY HOLDINGS III, L.L.C.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KYKER FARMS CORN MAZE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-OCT-2017"
+  "date": "24-OCT-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

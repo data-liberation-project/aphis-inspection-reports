@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EVERGLADES JACKS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2019"
+  "date": "31-JAN-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALPHA GENESIS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2018"
+  "date": "06-MAR-2018",
+  "animals_total": 5590,
+  "species": [
+    {
+      "count": 3502,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2063,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 25,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

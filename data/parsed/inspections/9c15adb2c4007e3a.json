@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HAYDEN OTTO",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-AUG-2021"
+  "date": "04-AUG-2021",
+  "animals_total": 226,
+  "species": [
+    {
+      "count": 169,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

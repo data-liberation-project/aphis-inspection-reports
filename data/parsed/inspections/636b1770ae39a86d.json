@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "EARLY BIRD ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2015"
+  "date": "07-JUL-2015",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 12,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CANDIS VEILLEUX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2015"
+  "date": "15-APR-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Euphractus sexcinctus",
+      "common": "YELLOW ARMADILLO"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

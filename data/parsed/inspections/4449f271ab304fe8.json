@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDERNESS TRAIL WILDLIFE CENTER FURWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2022"
+  "date": "21-MAR-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiurus borealis",
+      "common": "RED BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    }
+  ]
 }

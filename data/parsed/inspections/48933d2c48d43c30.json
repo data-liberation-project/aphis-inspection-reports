@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAWN & ROBERT TROUPE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2015"
+  "date": "18-FEB-2015",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "THOMAS SICKLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2015"
+  "date": "15-SEP-2015",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 20,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 18,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

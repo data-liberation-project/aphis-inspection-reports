@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOIS & KEN HOWARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2016"
+  "date": "01-JUN-2016",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SCIENCE SPECTRUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2015"
+  "date": "18-AUG-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

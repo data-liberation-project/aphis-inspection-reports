@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Rancho Raton Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2016"
+  "date": "29-AUG-2016",
+  "animals_total": 645,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 130,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 60,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 5,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 300,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
 }

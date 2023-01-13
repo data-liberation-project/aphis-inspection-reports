@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN GARMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2018"
+  "date": "05-MAR-2018",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 130,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

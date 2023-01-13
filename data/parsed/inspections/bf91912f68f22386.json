@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JURASSIC PETS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2015"
+  "date": "21-SEP-2015",
+  "animals_total": 187,
+  "species": [
+    {
+      "count": 186,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

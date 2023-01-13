@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA SCHULTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2019"
+  "date": "11-DEC-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "BARRY COGGINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2015"
+  "date": "02-DEC-2015",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

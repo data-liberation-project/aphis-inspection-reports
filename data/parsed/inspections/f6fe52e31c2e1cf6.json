@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CORY MINCEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2019"
+  "date": "13-NOV-2019",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICKY WHEELER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2015"
+  "date": "09-DEC-2015",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

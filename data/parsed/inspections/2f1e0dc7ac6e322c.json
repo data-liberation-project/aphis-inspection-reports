@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "COUNTRY VIEW PETS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-AUG-2016"
+  "date": "11-AUG-2016",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

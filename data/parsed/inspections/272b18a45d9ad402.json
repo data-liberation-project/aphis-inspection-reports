@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "PETES PETTING ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2019"
+  "date": "09-OCT-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
 }

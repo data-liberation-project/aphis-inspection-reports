@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "CYRIL VIERSTRA",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-APR-2016"
+  "date": "25-APR-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 6,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

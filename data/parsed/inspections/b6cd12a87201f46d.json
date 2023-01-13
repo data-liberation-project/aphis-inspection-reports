@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "DIXIE STAMPEDE L P",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2017"
+  "date": "17-FEB-2017",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

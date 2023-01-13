@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "Tawonza Mcclendon",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-MAY-2022"
+  "date": "12-MAY-2022",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 43,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 4,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 14,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

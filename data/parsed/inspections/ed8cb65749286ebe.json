@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEW YORK MEDICAL COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2021"
+  "date": "20-APR-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

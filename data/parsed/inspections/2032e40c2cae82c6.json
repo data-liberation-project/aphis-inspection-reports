@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOOVES N PAWS HAVEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2017"
+  "date": "30-MAY-2017",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RICK RAKESTRAW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2016"
+  "date": "14-NOV-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca nigra",
+      "common": "SULAWESI CRESTED MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

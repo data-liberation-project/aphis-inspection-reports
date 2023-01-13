@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cynthia Weaver",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2014"
+  "date": "06-AUG-2014",
+  "animals_total": 208,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

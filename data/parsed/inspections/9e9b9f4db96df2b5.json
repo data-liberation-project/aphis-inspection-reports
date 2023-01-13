@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA A. ROWE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2017"
+  "date": "16-NOV-2017",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

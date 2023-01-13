@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "WILDCAT WILDLIFE CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2015"
+  "date": "04-NOV-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

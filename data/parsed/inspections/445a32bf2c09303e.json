@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "TROY & JODY GRANT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2021"
+  "date": "28-MAY-2021",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 7,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 4,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 6,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

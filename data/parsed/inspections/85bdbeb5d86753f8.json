@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIV. OF MEMPHIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2021"
+  "date": "20-MAY-2021",
+  "animals_total": 544,
+  "species": [
+    {
+      "count": 184,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 274,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND BLESMOL"
+    },
+    {
+      "count": 86,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "HUMANE SOCIETY OF GREATER ROCHESTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2017"
+  "date": "06-MAR-2017",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 20,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

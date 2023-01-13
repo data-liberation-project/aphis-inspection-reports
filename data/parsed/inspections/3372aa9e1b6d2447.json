@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Kathy Uder",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "20-OCT-2020"
+  "date": "20-OCT-2020",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

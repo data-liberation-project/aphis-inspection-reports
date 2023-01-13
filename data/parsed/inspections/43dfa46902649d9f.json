@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CITY OF IDAHO FALLS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2016"
+  "date": "08-SEP-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    }
+  ]
 }

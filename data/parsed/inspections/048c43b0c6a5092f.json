@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "PROJECT SURVIVALS CAT HAVEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2017"
+  "date": "18-DEC-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Otocolobus manul",
+      "common": "PALLAS'S CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 9,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    }
+  ]
 }

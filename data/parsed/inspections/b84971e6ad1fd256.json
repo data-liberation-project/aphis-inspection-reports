@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RICHARD MUENCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2017"
+  "date": "09-MAR-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 10,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "LAVERN YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2015"
+  "date": "13-FEB-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles fusciceps",
+      "common": "BROWN-HEADED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

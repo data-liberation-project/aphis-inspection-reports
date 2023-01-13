@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PEACH TREE FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2016"
+  "date": "17-OCT-2016",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "HANS KLOSE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2018"
+  "date": "19-SEP-2018",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

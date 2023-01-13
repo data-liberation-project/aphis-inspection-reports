@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "ZOO MONTANA, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2017"
+  "date": "25-MAY-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Budorcas taxicolor",
+      "common": "TAKIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

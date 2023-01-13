@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LORELEI JENNINGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2018"
+  "date": "19-JUN-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

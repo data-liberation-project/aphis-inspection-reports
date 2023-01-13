@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VAIL STABLES, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2014"
+  "date": "24-JUL-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

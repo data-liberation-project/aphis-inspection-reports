@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIV. OF ILLINOIS - URBANA- CHAMPAIGN",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-FEB-2022"
+  "date": "08-FEB-2022",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BLUE RIDGE COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JAN-2017"
+  "date": "24-JAN-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

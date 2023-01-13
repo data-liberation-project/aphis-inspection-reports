@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANICE SWOFFORD, JOE SWOFFORD, TROY DARGIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JAN-2016"
+  "date": "08-JAN-2016",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID SWARTZENTRUBER, CORA SWARTZENTRUBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2018"
+  "date": "06-AUG-2018",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

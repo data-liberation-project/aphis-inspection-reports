@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OLD DOMINION UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2017"
+  "date": "27-APR-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

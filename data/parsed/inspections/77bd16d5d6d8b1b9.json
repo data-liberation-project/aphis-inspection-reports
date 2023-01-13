@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ANIMAL KINGDOM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2015"
+  "date": "17-FEB-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callosciurus prevostii",
+      "common": "PREVOST'S SQUIRREL / TRI-COLORED SQUIRREL"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

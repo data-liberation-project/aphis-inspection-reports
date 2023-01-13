@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tracey Neal",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

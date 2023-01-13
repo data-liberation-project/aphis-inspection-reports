@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAN CUTCHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2014"
+  "date": "16-JUL-2014",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

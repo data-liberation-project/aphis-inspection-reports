@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IZENE HYNES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2015"
+  "date": "05-FEB-2015",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

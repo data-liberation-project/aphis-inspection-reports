@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Canterbury Tails Pets L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2015"
+  "date": "11-JUN-2015",
+  "animals_total": 378,
+  "species": [
+    {
+      "count": 265,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

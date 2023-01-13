@@ -8,5 +8,93 @@
   "site_id": "001",
   "site_name": "Barn Hill Preserve Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2021"
+  "date": "16-JUN-2021",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 3,
+      "scientific": "Caluromys philander",
+      "common": "BARE-TAILED WOOLLY OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 6,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 7,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sphiggurus mexicanus",
+      "common": "MEXICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hyaena hyaena",
+      "common": "STRIPED HYENA"
+    },
+    {
+      "count": 6,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANN QUINN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2014"
+  "date": "26-AUG-2014",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

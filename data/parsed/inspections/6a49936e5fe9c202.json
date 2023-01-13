@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "3M-LABORATORY ANIMAL RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2017"
+  "date": "05-JAN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

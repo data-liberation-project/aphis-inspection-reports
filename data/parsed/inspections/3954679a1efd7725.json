@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "MPI RESEARCH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2016"
+  "date": "11-AUG-2016",
+  "animals_total": 3565,
+  "species": [
+    {
+      "count": 861,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 173,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1810,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 54,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 341,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 311,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

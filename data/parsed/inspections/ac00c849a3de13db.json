@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "B.A.R. 8 KENNELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2022"
+  "date": "01-FEB-2022",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

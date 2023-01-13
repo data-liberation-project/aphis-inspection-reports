@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HOLLY BURCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2021"
+  "date": "20-JAN-2021",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

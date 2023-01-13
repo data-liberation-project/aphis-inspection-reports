@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "FRED HUTCHINSON CANCER RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2018"
+  "date": "11-APR-2018",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

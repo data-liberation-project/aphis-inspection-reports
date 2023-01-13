@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY W WICKEY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARILYN STARKEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2015"
+  "date": "16-SEP-2015",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

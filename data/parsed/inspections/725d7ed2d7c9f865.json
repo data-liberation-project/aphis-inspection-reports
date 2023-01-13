@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "APEX PROTECTION PROJECT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2019"
+  "date": "16-APR-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

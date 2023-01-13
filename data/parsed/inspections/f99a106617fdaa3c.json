@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "N C AQUARIUM AT PINE KNOLL SHORES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2021"
+  "date": "07-JAN-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

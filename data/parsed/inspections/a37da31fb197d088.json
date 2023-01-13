@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LOCKWOOD ANIMAL RESCUE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2015"
+  "date": "04-MAY-2015",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

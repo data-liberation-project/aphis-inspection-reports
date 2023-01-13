@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHUCK & VALERIE BOWYER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-JAN-2015"
+  "date": "20-JAN-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAPLE ACRES PUPPIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2022"
+  "date": "29-APR-2022",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

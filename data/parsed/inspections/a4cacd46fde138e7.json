@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "OREGON STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2016"
+  "date": "21-SEP-2016",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 14,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

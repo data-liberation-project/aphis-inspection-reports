@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE TROYER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "01-JUN-2022"
+  "date": "01-JUN-2022",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

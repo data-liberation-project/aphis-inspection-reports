@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KELLEY LUTTRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2021"
+  "date": "20-JAN-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

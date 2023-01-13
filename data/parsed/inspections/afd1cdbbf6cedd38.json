@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA BORNTREGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2019"
+  "date": "15-APR-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

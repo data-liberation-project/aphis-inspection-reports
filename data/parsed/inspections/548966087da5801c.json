@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTHEAST MISSOURI STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2014"
+  "date": "27-MAR-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 17,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

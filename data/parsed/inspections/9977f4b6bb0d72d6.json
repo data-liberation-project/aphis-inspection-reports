@@ -8,5 +8,63 @@
   "site_id": "002",
   "site_name": "BUSCH ANIMAL OUTPOST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2017"
+  "date": "24-MAY-2017",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 1,
+      "scientific": "Aepyceros melampus",
+      "common": "IMPALA"
+    },
+    {
+      "count": 7,
+      "scientific": "Antidorcas marsupialis",
+      "common": "SPRINGBOK"
+    },
+    {
+      "count": 3,
+      "scientific": "Connochaetes gnou",
+      "common": "BLACK WILDEBEEST"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus africanus",
+      "common": "AFRICAN WILD ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Gazella thomsonii",
+      "common": "THOMSON'S GAZELLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Nanger granti",
+      "common": "GRANT'S GAZELLE"
+    },
+    {
+      "count": 6,
+      "scientific": "Nanger soemmerringii",
+      "common": "SOEMMERRINGS GAZELLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Tragelaphus strepsiceros",
+      "common": "GREATER KUDU"
+    }
+  ]
 }

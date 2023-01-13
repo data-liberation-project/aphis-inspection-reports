@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "ZOO MIAMI FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2015"
+  "date": "25-FEB-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Suricata suricatta",
+      "common": "SLENDER-TAILED MEERKAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

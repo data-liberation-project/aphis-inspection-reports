@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF TENNESSEE - MEMPHIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2021"
+  "date": "08-JUL-2021",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 24,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

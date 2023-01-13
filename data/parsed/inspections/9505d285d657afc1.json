@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ENOS MULLETT JR",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "31-MAY-2022"
+  "date": "31-MAY-2022",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

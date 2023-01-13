@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Harvey E Miller",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "02-FEB-2022"
+  "date": "02-FEB-2022",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

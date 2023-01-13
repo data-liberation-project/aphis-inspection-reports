@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "THE ROCK RANCH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2016"
+  "date": "13-JUL-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sylvilagus bachmani",
+      "common": "BRUSH RABBIT"
+    }
+  ]
 }

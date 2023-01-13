@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PLAYBOY ENTERPRISES INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2016"
+  "date": "14-SEP-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 49,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sue Usry, David Usry",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2016"
+  "date": "12-MAY-2016",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

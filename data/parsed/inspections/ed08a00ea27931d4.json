@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2022"
+  "date": "15-FEB-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

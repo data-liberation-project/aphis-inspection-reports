@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Benjamin Borntrager",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2021"
+  "date": "15-SEP-2021",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

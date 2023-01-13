@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEAN TERRILL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2020"
+  "date": "11-FEB-2020",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

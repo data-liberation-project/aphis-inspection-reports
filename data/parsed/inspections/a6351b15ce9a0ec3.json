@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "WESTERN MARICOPA EDUCATION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2019"
+  "date": "30-OCT-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

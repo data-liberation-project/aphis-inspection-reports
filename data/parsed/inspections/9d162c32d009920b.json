@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "Billy Waddle",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2014"
+  "date": "29-JUL-2014",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "C. pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 4,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE"
+    },
+    {
+      "count": 10,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "COUNTY OF NASSAU",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2017"
+  "date": "25-MAY-2017",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

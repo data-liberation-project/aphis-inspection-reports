@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOSMAN, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2020"
+  "date": "03-SEP-2020",
+  "animals_total": 247,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 7,
+      "scientific": "",
+      "common": "GOAT"
+    },
+    {
+      "count": 227,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

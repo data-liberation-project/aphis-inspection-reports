@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HEARTLAND CONFERENCE & RETREAT CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2020"
+  "date": "14-SEP-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

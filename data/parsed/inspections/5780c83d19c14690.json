@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IDA KAUFFMAN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "05-APR-2022"
+  "date": "05-APR-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

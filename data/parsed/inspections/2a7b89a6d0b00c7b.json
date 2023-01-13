@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DAVID ERWAY SR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2015"
+  "date": "09-DEC-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 14,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

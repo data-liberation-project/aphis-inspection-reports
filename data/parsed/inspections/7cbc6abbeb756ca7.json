@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "RAINBOW NATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2017"
+  "date": "02-MAR-2017",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 46,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROYAL CANIN U S A INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2018"
+  "date": "15-MAR-2018",
+  "animals_total": 421,
+  "species": [
+    {
+      "count": 192,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 227,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

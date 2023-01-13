@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Missouri Spears Shepherds",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2022"
+  "date": "24-MAY-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

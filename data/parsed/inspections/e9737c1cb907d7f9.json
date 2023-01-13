@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WILDLIFE ADVENTURES INC",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "21-OCT-2015"
+  "date": "21-OCT-2015",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

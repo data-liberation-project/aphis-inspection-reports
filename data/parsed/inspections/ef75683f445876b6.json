@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SANDRA GIERISCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2022"
+  "date": "07-SEP-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

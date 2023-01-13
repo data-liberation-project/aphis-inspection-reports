@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GENTLE JUNGLE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2022"
+  "date": "03-FEB-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

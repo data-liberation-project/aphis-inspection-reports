@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "V I PETS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2016"
+  "date": "07-JAN-2016",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 5,
+      "scientific": "Gerbillus gerbillus",
+      "common": "EGYPTIAN GERBIL"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
 }

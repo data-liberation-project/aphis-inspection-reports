@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "The University of Texas at Austin - ARC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2016"
+  "date": "04-APR-2016",
+  "animals_total": 453,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 183,
+      "scientific": "Calomys laucha",
+      "common": "VESPER MOUSE"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 29,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 144,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 46,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Pachyuromys duprasi",
+      "common": "FAT-TAILED GERBIL"
+    }
+  ]
 }

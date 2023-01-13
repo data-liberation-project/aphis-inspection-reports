@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERVIN J SWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2019"
+  "date": "01-OCT-2019",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

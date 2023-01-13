@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "S O S RODENT EXPRESS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2014"
+  "date": "09-OCT-2014",
+  "animals_total": 1030,
+  "species": [
+    {
+      "count": 190,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 637,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 145,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 58,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

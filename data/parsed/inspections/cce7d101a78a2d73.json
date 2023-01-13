@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOB & LESLIE LOUTSCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2022"
+  "date": "04-MAY-2022",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

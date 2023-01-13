@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KELLY & FAYE DEGEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2022"
+  "date": "16-AUG-2022",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

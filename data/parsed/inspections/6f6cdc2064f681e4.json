@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lamar E Miller Loretta F Miller",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2022"
+  "date": "18-APR-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

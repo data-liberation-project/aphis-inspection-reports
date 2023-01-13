@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ELI BORNTRAGER JR ELLA BORNTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2021"
+  "date": "18-OCT-2021",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

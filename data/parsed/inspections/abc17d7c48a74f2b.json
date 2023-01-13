@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Animal Encounters Sanctuary Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2021"
+  "date": "03-FEB-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
 }

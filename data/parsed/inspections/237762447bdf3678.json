@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CINDY JOLBERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2021"
+  "date": "27-APR-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    }
+  ]
 }

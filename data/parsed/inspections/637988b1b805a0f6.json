@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOS EXOTIC CATS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2019"
+  "date": "22-MAY-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

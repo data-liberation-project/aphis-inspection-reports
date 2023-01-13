@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT & SARA BRAUN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2020"
+  "date": "11-DEC-2020",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

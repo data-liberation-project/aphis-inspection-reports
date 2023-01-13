@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PATRICIA LOESCHEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2014"
+  "date": "03-DEC-2014",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

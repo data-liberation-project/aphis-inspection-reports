@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Rob Johnson",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "22-SEP-2015"
+  "date": "22-SEP-2015",
+  "animals_total": 296,
+  "species": [
+    {
+      "count": 145,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 151,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

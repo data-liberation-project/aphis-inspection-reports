@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Christy C. M. Schwartz & Mary T. Schwartz",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAR-2014"
+  "date": "13-MAR-2014",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Brad Lee, Judy Lee",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2016"
+  "date": "28-NOV-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

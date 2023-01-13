@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "HOLMES FOR CANINE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2018"
+  "date": "19-JAN-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

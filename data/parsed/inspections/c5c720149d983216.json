@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GEORGIA AQUARIUM INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2021"
+  "date": "08-DEC-2021",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 14,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 6,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    }
+  ]
 }

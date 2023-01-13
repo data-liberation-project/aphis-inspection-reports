@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROBERT SARGENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2022"
+  "date": "29-SEP-2022",
+  "animals_total": 1242,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1200,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 36,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

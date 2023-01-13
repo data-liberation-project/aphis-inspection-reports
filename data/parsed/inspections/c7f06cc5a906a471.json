@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "WILD CANID SURVIVAL & RESEARCH CENTER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-NOV-2022"
+  "date": "22-NOV-2022",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    },
+    {
+      "count": 4,
+      "scientific": "Chrysocyon brachyurus",
+      "common": "MANED WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 6,
+      "scientific": "Lycaon pictus",
+      "common": "AFRICAN HUNTING DOG / AFRICAN WILD DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    }
+  ]
 }

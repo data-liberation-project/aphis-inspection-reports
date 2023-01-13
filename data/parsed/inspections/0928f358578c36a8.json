@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CITY OF OVERLAND PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2014"
+  "date": "10-MAR-2014",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 129,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

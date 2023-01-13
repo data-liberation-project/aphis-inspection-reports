@@ -8,5 +8,83 @@
   "site_id": "001",
   "site_name": "ANIMALS FOR EDUCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2022"
+  "date": "03-FEB-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 3,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa",
+      "common": "WILD BOAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SILVER DOLLAR CITY, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2016"
+  "date": "29-SEP-2016",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

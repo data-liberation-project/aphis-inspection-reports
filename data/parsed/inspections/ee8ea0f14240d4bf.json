@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LILY PAD PETS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-APR-2018"
+  "date": "17-APR-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

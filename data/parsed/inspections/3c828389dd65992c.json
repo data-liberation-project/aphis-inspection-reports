@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "JENNY MARTI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2021"
+  "date": "30-AUG-2021",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Luiz Gonzalez",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2022"
+  "date": "14-NOV-2022",
+  "animals_total": 376,
+  "species": [
+    {
+      "count": 289,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

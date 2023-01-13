@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLENE GREEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2019"
+  "date": "19-FEB-2019",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

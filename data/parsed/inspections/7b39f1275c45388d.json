@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBORAH SMITH LENZY SMITH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-OCT-2017"
+  "date": "31-OCT-2017",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

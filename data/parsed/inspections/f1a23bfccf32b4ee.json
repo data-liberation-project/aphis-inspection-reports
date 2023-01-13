@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEVA SCHLABACH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

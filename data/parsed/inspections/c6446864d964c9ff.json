@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CHARLES ALBERDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2021"
+  "date": "11-MAR-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 6,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

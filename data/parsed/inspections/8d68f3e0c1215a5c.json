@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES STEPHENSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2020"
+  "date": "04-FEB-2020",
+  "animals_total": 200,
+  "species": [
+    {
+      "count": 192,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 8,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

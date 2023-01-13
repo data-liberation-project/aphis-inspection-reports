@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "MAGNOLIA PLANTATION CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2017"
+  "date": "19-DEC-2017",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 6,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

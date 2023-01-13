@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ANIMAL PRESERVATION EDUCATION SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2015"
+  "date": "26-FEB-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 10,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

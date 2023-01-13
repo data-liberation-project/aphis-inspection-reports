@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wesselman Nature Park Center Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2022"
+  "date": "13-SEP-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

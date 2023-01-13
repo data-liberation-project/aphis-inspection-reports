@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY SPERDUTO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2018"
+  "date": "21-SEP-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

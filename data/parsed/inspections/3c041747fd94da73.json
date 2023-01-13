@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURVIN MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2020"
+  "date": "13-JAN-2020",
+  "animals_total": 143,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

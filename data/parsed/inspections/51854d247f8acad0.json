@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Zoo Mania, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2014"
+  "date": "10-DEC-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

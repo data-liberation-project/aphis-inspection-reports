@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUSTIE GARDNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2020"
+  "date": "17-AUG-2020",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

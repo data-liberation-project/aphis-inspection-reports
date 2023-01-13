@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ATTRACTIONS HAWAII, L.P.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2019"
+  "date": "05-SEP-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Pseudorca crassidens",
+      "common": "FALSE KILLER WHALE"
+    },
+    {
+      "count": 17,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

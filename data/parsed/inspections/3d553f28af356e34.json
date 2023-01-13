@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY & PAT KOEDAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-APR-2014"
+  "date": "01-APR-2014",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

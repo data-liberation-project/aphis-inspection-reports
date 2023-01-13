@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "INDIAN ECHO CAVERNS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2017"
+  "date": "27-APR-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

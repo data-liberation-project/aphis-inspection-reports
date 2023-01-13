@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THOMAS D. MORRIS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2015"
+  "date": "17-MAR-2015",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 74,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 33,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

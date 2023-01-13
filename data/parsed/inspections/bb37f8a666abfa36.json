@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GLENN DONNELLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2014"
+  "date": "03-FEB-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

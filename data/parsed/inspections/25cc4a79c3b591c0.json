@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RHONDAS AVIARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2016"
+  "date": "08-DEC-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

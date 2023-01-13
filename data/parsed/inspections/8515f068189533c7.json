@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "WALLISER PORK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2016"
+  "date": "03-NOV-2016",
+  "animals_total": 1250,
+  "species": [
+    {
+      "count": 1250,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

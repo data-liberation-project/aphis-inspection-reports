@@ -8,5 +8,28 @@
   "site_id": "000",
   "site_name": "RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2014"
+  "date": "05-AUG-2014",
+  "animals_total": 314,
+  "species": [
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 171,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

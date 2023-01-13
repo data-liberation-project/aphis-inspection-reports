@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MISSISSIPPI AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2021"
+  "date": "16-MAR-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes tricinctus",
+      "common": "BRAZILIAN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
 }

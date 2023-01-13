@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HENRY BYLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2019"
+  "date": "15-JUL-2019",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

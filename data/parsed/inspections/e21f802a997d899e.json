@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRED WHITELAW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2014"
+  "date": "25-AUG-2014",
+  "animals_total": 270,
+  "species": [
+    {
+      "count": 226,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

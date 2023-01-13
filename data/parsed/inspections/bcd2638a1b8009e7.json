@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE JOHNS HOPKINS UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2022"
+  "date": "25-JAN-2022",
+  "animals_total": 578,
+  "species": [
+    {
+      "count": 314,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 264,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

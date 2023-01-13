@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "John W. Duke",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2017"
+  "date": "01-MAR-2017",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

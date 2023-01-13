@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLEEN HARRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2015"
+  "date": "06-MAR-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

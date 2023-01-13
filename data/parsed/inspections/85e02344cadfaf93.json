@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Dallas Independent School District ENVIRONMENTAL L",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JAN-2017"
+  "date": "10-JAN-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

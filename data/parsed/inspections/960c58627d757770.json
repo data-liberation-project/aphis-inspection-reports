@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Larry & Clarence Otto",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2022"
+  "date": "01-MAR-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

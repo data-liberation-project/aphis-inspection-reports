@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Arlene Koehn",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2017"
+  "date": "15-MAR-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

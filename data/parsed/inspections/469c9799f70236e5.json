@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Jan Stone",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2016"
+  "date": "28-NOV-2016",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

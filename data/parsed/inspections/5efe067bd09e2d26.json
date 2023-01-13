@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VINCENT DEMAGGIO I I I",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "09-MAR-2022"
+  "date": "09-MAR-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    }
+  ]
 }

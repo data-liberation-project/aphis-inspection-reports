@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY & JUDYJACKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2014"
+  "date": "03-APR-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

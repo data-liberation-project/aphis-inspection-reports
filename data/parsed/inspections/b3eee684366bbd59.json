@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "City of Topeka - Zoo",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-DEC-2018"
+  "date": "03-DEC-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lycaon pictus",
+      "common": "AFRICAN HUNTING DOG / AFRICAN WILD DOG"
+    }
+  ]
 }

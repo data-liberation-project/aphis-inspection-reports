@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAVINA MARTIN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-SEP-2021"
+  "date": "13-SEP-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

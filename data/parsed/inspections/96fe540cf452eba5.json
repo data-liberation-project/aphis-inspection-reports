@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "CLIFFORD JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2019"
+  "date": "17-SEP-2019",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 12,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 27,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

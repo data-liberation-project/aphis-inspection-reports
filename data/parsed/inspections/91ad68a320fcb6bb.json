@@ -8,5 +8,18 @@
   "site_id": "999",
   "site_name": "DOROTHY KNAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2014"
+  "date": "26-JUN-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

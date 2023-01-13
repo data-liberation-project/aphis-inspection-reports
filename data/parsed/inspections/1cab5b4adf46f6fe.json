@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LIZZIE MILLER, MERVIN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2022"
+  "date": "14-DEC-2022",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

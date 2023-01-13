@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRAHAM CREEK NATURE PRESERVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2021"
+  "date": "05-MAY-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

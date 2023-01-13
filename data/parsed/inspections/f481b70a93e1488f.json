@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SJOGREN ENTERPRISES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2016"
+  "date": "27-JUN-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

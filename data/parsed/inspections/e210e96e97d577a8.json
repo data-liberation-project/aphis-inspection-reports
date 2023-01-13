@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2021"
+  "date": "04-MAR-2021",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

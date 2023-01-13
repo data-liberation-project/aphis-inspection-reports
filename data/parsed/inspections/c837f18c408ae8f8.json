@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BIORELIANCE INVITROGEN BIOSERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2018"
+  "date": "14-NOV-2018",
+  "animals_total": 389,
+  "species": [
+    {
+      "count": 300,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 78,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

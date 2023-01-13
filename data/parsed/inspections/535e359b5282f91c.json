@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY W. MUNCHRATH AND MICHAEL L. NORDIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2016"
+  "date": "20-JUN-2016",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

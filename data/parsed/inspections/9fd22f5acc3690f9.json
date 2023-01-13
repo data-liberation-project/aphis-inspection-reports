@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SMITHERS AVANZA TOXICOLOGY SERVICES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAR-2014"
+  "date": "13-MAR-2014",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 88,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICKI L. TIDWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2020"
+  "date": "19-MAR-2020",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

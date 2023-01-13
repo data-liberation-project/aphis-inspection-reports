@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DR. BEVERLY CHEVALLIER, DR. LYNN BLEVINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2014"
+  "date": "12-JUN-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

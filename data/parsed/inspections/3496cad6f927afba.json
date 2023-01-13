@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JAMES RIENOW",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-DEC-2021"
+  "date": "20-DEC-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 0,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Nectar Environmental Outreach Inc",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "25-FEB-2022"
+  "date": "25-FEB-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

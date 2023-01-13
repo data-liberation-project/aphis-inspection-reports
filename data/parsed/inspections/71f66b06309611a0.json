@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "The Wild Felid Advocacy Center of Washington",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2018"
+  "date": "15-JUN-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis chaus",
+      "common": "JUNGLE CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris",
+      "common": "WILDCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 19,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 14,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 5,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    }
+  ]
 }

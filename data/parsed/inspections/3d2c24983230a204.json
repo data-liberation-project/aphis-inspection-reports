@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANTAS LAND INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "03-MAY-2022"
+  "date": "03-MAY-2022",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

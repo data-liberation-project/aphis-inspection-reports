@@ -8,5 +8,78 @@
   "site_id": "002",
   "site_name": "Pam Sweeney",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2015"
+  "date": "28-SEP-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter bernardus",
+      "common": "BERNARD'S WALLAROO / BLACK WALLAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Seattle Aquarium Society",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2015"
+  "date": "17-JUN-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Arctocephalus galapagoensis",
+      "common": "GALAPAGOS FUR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra longicaudis",
+      "common": "NEOTROPICAL OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
 }

@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "SUN PET LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2021"
+  "date": "29-JUL-2021",
+  "animals_total": 3406,
+  "species": [
+    {
+      "count": 526,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1137,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 550,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 180,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 400,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 150,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 463,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
 }

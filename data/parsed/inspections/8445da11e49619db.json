@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOAS MARKS BIOMEDICAL SCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2020"
+  "date": "29-OCT-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 5,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    }
+  ]
 }

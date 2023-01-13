@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "BOEHRINGER INGELHEIM VETMEDICA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2016"
+  "date": "07-MAR-2016",
+  "animals_total": 2533,
+  "species": [
+    {
+      "count": 141,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 156,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1888,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 242,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

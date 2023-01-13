@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TOMMY BISHOP",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-MAY-2017"
+  "date": "05-MAY-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

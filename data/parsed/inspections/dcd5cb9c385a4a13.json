@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "EYECRO LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2021"
+  "date": "15-JUN-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

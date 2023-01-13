@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILDLIFE WORLD ZOO INC.",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-JUL-2017"
+  "date": "28-JUL-2017",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

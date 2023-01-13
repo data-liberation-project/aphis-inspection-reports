@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "ANDREW GEHRINGER & RACHELLE GEHRINGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2018"
+  "date": "19-SEP-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

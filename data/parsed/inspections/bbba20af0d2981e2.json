@@ -8,5 +8,28 @@
   "site_id": "012",
   "site_name": "SeaQuest Holdings, LLC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "28-OCT-2021"
+  "date": "28-OCT-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    }
+  ]
 }

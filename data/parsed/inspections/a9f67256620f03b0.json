@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOS ANGELES BIOMEDICAL RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2021"
+  "date": "05-MAY-2021",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    }
+  ]
 }

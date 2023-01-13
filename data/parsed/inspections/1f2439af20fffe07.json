@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "University of Houston",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 77,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

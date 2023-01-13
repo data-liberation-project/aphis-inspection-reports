@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAHNEE POE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-FEB-2018"
+  "date": "14-FEB-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

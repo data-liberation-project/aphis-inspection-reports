@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID ALDRICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2016"
+  "date": "08-JUN-2016",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 16,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

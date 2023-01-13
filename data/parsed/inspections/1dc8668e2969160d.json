@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLUMBIA STATE COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2022"
+  "date": "09-NOV-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

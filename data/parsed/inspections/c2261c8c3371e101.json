@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EAST TENNESSEE CLINICAL RESEARCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2015"
+  "date": "24-JUN-2015",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

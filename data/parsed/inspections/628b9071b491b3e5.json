@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ED YOUNG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2014"
+  "date": "12-MAY-2014",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

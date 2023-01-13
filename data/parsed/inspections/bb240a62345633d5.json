@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HARRISON COUNTY PARKS DEPT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2016"
+  "date": "03-FEB-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

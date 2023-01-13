@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAROL CHICKEN, TAMMY WRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2019"
+  "date": "19-FEB-2019",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SAN BERNARDINO MOUNTAINS WILDLIFE SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2014"
+  "date": "21-AUG-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

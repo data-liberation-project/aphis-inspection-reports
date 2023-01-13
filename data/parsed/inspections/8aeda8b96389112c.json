@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Gallery Furniture",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2017"
+  "date": "01-FEB-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hylobates agilis",
+      "common": "AGILE GIBBON"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIS KNEPP",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "19-NOV-2015"
+  "date": "19-NOV-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

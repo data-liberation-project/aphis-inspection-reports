@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLD SPRING HARBOR LABORATORY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-FEB-2019"
+  "date": "14-FEB-2019",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 6,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JON VAN RYN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2014"
+  "date": "05-MAR-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

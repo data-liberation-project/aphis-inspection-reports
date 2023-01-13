@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY WILSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2019"
+  "date": "04-APR-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

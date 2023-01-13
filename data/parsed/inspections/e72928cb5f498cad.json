@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "CONSERVATION SOCIETY OF CALIFORNIA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-FEB-2018"
+  "date": "27-FEB-2018",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 8,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur coronatus",
+      "common": "CROWNED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur macaco",
+      "common": "BLACK LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 7,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 16,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 12,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURTIS MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2019"
+  "date": "21-MAR-2019",
+  "animals_total": 345,
+  "species": [
+    {
+      "count": 276,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

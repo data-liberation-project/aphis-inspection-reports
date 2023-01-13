@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "EAST MAUI ANIMAL REFUGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2014"
+  "date": "06-AUG-2014",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 84,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Rusa alfredi",
+      "common": "TOME'S SPINY-RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

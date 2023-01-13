@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Reuben Erb",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "13-JUN-2022"
+  "date": "13-JUN-2022",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

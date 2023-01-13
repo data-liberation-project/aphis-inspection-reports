@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WESTERN UNIVERSITY OF HEALTH SCIENCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2017"
+  "date": "04-MAY-2017",
+  "animals_total": 392,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 375,
+      "scientific": "Cryptotis parva",
+      "common": "AMERICAN LEAST SHREW"
+    }
+  ]
 }

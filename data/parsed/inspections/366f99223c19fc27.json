@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BLANDFORD NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2022"
+  "date": "30-AUG-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILDERNESS TRAIL WILDLIFE CENTER FURWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2021"
+  "date": "19-FEB-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    }
+  ]
 }

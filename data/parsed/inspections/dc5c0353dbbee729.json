@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "B P D INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2018"
+  "date": "06-MAR-2018",
+  "animals_total": 3320,
+  "species": [
+    {
+      "count": 1500,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 120,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1700,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WONDERS OF WILDLIFE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2014"
+  "date": "05-MAR-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

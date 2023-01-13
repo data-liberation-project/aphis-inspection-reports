@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "FALLEN ACORN WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2018"
+  "date": "05-MAR-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Traipse Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2021"
+  "date": "06-APR-2021",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

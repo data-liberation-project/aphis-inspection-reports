@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNY JOE KNEPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2020"
+  "date": "28-JAN-2020",
+  "animals_total": 223,
+  "species": [
+    {
+      "count": 122,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

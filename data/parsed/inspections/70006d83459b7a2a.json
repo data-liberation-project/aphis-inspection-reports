@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VALLEY BIOSYSTEMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2021"
+  "date": "18-AUG-2021",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 68,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Trumans Great Danes L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2016"
+  "date": "01-DEC-2016",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

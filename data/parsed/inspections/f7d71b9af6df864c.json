@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREEN MEADOW KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2014"
+  "date": "04-SEP-2014",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

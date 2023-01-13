@@ -8,5 +8,33 @@
   "site_id": "022",
   "site_name": "SHREWSBURY LOCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2018"
+  "date": "31-MAY-2018",
+  "animals_total": 657,
+  "species": [
+    {
+      "count": 218,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 342,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 54,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

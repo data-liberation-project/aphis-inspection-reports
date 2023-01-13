@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FERRETS AND FRIENDS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2017"
+  "date": "13-SEP-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

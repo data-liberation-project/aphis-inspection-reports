@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALCON RESEARCH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2022"
+  "date": "30-AUG-2022",
+  "animals_total": 340,
+  "species": [
+    {
+      "count": 320,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 20,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

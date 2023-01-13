@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Crystal Howard",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2021"
+  "date": "24-MAR-2021",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

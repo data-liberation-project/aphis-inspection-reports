@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HAROLD & JILL HOFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2019"
+  "date": "30-MAY-2019",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

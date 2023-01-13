@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CAROLYNS COUNTRY COUSINS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-OCT-2015"
+  "date": "14-OCT-2015",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

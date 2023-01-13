@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "JSPA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2018"
+  "date": "05-FEB-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

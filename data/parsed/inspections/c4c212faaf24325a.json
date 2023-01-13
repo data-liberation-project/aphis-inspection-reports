@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-DEC-2020"
+  "date": "23-DEC-2020",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 49,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 38,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 56,
+      "scientific": "Urocitellus parryii",
+      "common": "ARCTIC GROUND SQUIRREL / ARCTIC SOUSLIK"
+    }
+  ]
 }

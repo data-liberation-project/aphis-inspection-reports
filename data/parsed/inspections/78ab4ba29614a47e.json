@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BREEZY RIDGE PUPPIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAR-2021"
+  "date": "26-MAR-2021",
+  "animals_total": 246,
+  "species": [
+    {
+      "count": 164,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

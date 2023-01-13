@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN AND LYLE RENNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2014"
+  "date": "02-SEP-2014",
+  "animals_total": 179,
+  "species": [
+    {
+      "count": 130,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

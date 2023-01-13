@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRISTIAN GRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2015"
+  "date": "15-DEC-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

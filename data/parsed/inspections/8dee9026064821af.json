@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "CRITTER CONNECTION L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2015"
+  "date": "17-NOV-2015",
+  "animals_total": 200,
+  "species": [
+    {
+      "count": 200,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

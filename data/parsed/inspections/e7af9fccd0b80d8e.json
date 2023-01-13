@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Howling Woods Farm",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2022"
+  "date": "26-JUL-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans x C. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    }
+  ]
 }

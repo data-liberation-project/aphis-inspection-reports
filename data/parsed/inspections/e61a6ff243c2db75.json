@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2017"
+  "date": "27-JAN-2017",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

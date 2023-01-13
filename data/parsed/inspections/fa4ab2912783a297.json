@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PETER R JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2014"
+  "date": "25-JUL-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "John Fromm, Linda Fromm",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JAN-2021"
+  "date": "14-JAN-2021",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 92,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

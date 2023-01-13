@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "EDITH BERNARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2021"
+  "date": "09-SEP-2021",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis margarita",
+      "common": "SAND CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 5,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 13,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 4,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

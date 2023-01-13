@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Willow LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2022"
+  "date": "07-JUL-2022",
+  "animals_total": 235,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 180,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

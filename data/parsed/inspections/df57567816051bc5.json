@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "City of San Angelo",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2022"
+  "date": "29-MAR-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lepus alleni",
+      "common": "ANTELOPE JACK RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    }
+  ]
 }

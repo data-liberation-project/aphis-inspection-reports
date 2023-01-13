@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ALLERGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2015"
+  "date": "02-FEB-2015",
+  "animals_total": 1241,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 200,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 42,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 929,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

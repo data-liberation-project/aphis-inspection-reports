@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "KAY AND CLAYTON ROSAIRE MOWREY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2015"
+  "date": "18-MAR-2015",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

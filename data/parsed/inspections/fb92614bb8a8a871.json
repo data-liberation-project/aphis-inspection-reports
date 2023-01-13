@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NATIONAL AQUARIUM IN BALTIMORE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-DEC-2022"
+  "date": "05-DEC-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    }
+  ]
 }

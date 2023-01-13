@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELLEN ROBERTS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2016"
+  "date": "16-MAR-2016",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

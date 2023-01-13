@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROCKFORD PARK DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2016"
+  "date": "31-MAR-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

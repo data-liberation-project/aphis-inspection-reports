@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATRINA OVERCAST",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-DEC-2015"
+  "date": "15-DEC-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

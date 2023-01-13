@@ -8,5 +8,33 @@
   "site_id": "005",
   "site_name": "Animal Source Texas Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2016"
+  "date": "04-OCT-2016",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Equus burchellii boehmi",
+      "common": "GRANT'S ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 7,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 4,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    }
+  ]
 }

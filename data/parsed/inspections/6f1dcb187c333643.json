@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "ANITA R. LENIHAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-FEB-2016"
+  "date": "29-FEB-2016",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Galea spixii",
+      "common": "SPIX'S YELLOW-TOOTHED CAVY"
+    },
+    {
+      "count": 1,
+      "scientific": "Genetta genetta",
+      "common": "SMALL SPOTTED GENET"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

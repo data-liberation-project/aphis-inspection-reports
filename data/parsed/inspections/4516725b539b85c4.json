@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2021"
+  "date": "03-NOV-2021",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

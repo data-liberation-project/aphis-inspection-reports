@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Shadow Valley Kennels LLC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "08-JAN-2021"
+  "date": "08-JAN-2021",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

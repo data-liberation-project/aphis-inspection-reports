@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOYCE WALTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2021"
+  "date": "28-SEP-2021",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

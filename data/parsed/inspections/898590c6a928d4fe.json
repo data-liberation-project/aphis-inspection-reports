@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF ILLINOIS AT CHICAGO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "31-AUG-2022"
+  "date": "31-AUG-2022",
+  "animals_total": 2715,
+  "species": [
+    {
+      "count": 2650,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 65,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND"
+    }
+  ]
 }

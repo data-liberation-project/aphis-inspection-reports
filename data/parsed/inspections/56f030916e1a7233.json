@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "UNIV OF TENNESSEE KNOXVILLE OFF LAB AN CARE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2017"
+  "date": "04-APR-2017",
+  "animals_total": 245,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 27,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 112,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 16,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

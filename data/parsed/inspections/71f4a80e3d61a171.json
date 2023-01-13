@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "INSPIRE EARLY CHILDHOOD LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2021"
+  "date": "27-JUL-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

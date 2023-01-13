@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "HAP ENTERPRISES INC OF BRISTOL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-APR-2015"
+  "date": "03-APR-2015",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

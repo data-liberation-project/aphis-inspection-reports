@@ -8,5 +8,48 @@
   "site_id": "TRA 1",
   "site_name": "RED UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2017"
+  "date": "20-SEP-2017",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 19,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

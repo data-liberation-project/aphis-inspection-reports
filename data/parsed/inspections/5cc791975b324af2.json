@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2019"
+  "date": "22-JUL-2019",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 141,
+      "scientific": "Clethrionomys/myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

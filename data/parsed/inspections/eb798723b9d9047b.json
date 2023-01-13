@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Red Shed Puppies LTD",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "14-APR-2022"
+  "date": "14-APR-2022",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT GRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2014"
+  "date": "18-FEB-2014",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

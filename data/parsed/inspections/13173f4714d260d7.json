@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Erza Whetstone",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "09-JUN-2021"
+  "date": "09-JUN-2021",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

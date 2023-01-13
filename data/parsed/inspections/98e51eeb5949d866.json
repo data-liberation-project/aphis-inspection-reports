@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN & JENNIFER CHANDLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-OCT-2014"
+  "date": "09-OCT-2014",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 20,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

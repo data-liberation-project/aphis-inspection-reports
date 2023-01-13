@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "Texas Parks & Wildlife",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2014"
+  "date": "19-FEB-2014",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 19,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

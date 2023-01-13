@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Edgar D. Randall, Roma L. Patterson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2015"
+  "date": "02-FEB-2015",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

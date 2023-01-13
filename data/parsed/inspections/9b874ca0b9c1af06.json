@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Cruzin Critters",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JAN-2020"
+  "date": "02-JAN-2020",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

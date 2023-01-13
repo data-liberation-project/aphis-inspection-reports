@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "LUCY WORMSER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2019"
+  "date": "13-SEP-2019",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 10,
+      "scientific": "Callithrix aurita",
+      "common": "WHITE-EARED MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus fuscicollis",
+      "common": "SADDLE-BACK TAMARIN"
+    },
+    {
+      "count": 14,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

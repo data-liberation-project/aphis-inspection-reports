@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF SAN DIEGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2015"
+  "date": "25-AUG-2015",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 101,
+      "scientific": "Chaetodipus californicus",
+      "common": "CALIFORNIA POCKET MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

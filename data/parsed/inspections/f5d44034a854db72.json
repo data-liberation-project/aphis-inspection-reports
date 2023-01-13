@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DAVID & MARY FICKESS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2014"
+  "date": "05-MAR-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

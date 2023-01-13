@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REX AND DEBRA HOPKINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2018"
+  "date": "01-MAY-2018",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

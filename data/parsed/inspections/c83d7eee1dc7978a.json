@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BILL PAULSEN, MONA PAULSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2018"
+  "date": "04-OCT-2018",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

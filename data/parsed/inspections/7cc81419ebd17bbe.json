@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CRYSTAL OSBORNE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

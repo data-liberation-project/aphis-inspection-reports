@@ -8,5 +8,63 @@
   "site_id": "002",
   "site_name": "T.I.G.E.R.S.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2015"
+  "date": "28-APR-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    },
+    {
+      "count": 2,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

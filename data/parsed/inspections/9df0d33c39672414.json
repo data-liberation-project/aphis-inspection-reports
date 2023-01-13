@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE MILLER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-MAY-2022"
+  "date": "24-MAY-2022",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

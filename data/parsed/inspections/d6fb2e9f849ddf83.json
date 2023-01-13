@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sherry Tackett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wilma Westhoff",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAY-2014"
+  "date": "21-MAY-2014",
+  "animals_total": 280,
+  "species": [
+    {
+      "count": 168,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

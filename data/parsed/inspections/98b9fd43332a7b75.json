@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CYNTHIA D DARLING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2016"
+  "date": "01-FEB-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

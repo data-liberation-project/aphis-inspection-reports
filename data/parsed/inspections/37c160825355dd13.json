@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WEBER STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2022"
+  "date": "31-AUG-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Neotoma bryanti",
+      "common": "BRYANT'S WOODRAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Neotoma lepida",
+      "common": "DESERT WOODRAT"
+    }
+  ]
 }

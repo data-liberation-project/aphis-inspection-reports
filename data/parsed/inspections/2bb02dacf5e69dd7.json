@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "Emerald Coast Wildlife Refuge",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "28-JUL-2021"
+  "date": "28-JUL-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    }
+  ]
 }

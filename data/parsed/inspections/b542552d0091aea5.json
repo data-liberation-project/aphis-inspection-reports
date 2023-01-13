@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN NOLT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2015"
+  "date": "18-NOV-2015",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

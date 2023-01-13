@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TODD & PATRICIA BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

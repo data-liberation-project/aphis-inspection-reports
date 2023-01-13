@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEVI TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2014"
+  "date": "30-OCT-2014",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

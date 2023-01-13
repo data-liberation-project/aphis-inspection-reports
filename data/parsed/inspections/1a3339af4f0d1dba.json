@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GREAT AMERICAN ENTERTAINMENT CO. LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2017"
+  "date": "24-MAY-2017",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus parma",
+      "common": "PARMA WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

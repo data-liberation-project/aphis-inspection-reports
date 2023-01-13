@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY HIATT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2017"
+  "date": "08-AUG-2017",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

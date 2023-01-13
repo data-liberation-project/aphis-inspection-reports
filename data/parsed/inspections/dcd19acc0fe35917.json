@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBORAH J ANDERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2021"
+  "date": "15-DEC-2021",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

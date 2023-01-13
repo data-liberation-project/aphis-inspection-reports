@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Kritter Karavan, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2015"
+  "date": "17-MAR-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 8,
+      "scientific": "Setifer setosus",
+      "common": "GREATER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

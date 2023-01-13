@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HELMER NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2018"
+  "date": "05-SEP-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus transitionalis",
+      "common": "NEW ENGLAND COTTONTAIL RABBIT"
+    }
+  ]
 }

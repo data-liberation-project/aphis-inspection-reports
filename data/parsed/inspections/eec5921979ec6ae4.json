@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CODY, JAY, JENNIFER & TERRY TURK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-JUL-2014"
+  "date": "28-JUL-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

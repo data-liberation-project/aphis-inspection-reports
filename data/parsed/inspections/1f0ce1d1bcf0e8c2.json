@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTH TEXAS ZOOLOGICAL SOCIETY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-AUG-2017"
+  "date": "07-AUG-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leopardus pardalis",
+      "common": "OCELOT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

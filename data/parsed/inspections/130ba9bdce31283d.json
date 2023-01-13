@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CITY OF WICHITA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2019"
+  "date": "03-APR-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    }
+  ]
 }

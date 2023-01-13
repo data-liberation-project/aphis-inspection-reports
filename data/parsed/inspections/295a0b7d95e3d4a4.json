@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "Wild Friends Of the Earth Foundation",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "20-SEP-2022"
+  "date": "20-SEP-2022",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    }
+  ]
 }

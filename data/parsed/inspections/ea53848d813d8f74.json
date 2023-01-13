@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PAM CLARK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-APR-2017"
+  "date": "11-APR-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

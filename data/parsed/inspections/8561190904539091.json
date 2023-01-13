@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "SHIRLEY FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2015"
+  "date": "25-FEB-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

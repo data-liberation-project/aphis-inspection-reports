@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Frontier City Amusement Park",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2015"
+  "date": "06-JUL-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

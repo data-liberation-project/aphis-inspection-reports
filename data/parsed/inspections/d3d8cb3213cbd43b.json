@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ARK ENCOUNTER LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-JUL-2016"
+  "date": "01-JUL-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos huacaya",
+      "common": "HUACAYA ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos suri",
+      "common": "SURI ALPACA"
+    }
+  ]
 }

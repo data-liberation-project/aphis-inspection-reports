@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SALLY SUSCHNICK KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2016"
+  "date": "01-AUG-2016",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

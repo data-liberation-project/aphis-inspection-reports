@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Antler Ridge Wildlife",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-OCT-2022"
+  "date": "12-OCT-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Sequoyah State Park, Three Forks Nature Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2021"
+  "date": "05-AUG-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TRUNKS & HUMPS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2014"
+  "date": "16-OCT-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

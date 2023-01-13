@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY ADDISON, LYNETTE ADDISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 187,
+  "species": [
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DONNA M. BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2015"
+  "date": "30-JUN-2015",
+  "animals_total": 877,
+  "species": [
+    {
+      "count": 620,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 243,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS MAST",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-MAR-2017"
+  "date": "22-MAR-2017",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

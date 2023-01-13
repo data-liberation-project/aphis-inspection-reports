@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-MAR-2019"
+  "date": "07-MAR-2019",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 36,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

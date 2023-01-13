@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MESA COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

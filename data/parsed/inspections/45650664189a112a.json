@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RIVER TRAIL NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2019"
+  "date": "02-APR-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    }
+  ]
 }

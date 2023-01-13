@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT MITCHELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2019"
+  "date": "11-MAR-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

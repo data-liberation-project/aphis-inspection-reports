@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Dustin Beyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2022"
+  "date": "31-AUG-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 8,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    }
+  ]
 }

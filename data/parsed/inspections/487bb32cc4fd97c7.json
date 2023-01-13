@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELAINE HOLMES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2014"
+  "date": "30-OCT-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
 }

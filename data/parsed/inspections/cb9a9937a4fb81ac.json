@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Labcorp Early Development Laboratories Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2021"
+  "date": "09-NOV-2021",
+  "animals_total": 3923,
+  "species": [
+    {
+      "count": 689,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3019,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 28,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 187,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

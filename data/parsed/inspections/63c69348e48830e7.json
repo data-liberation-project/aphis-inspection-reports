@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOYCE CAHOJ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2015"
+  "date": "05-JAN-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

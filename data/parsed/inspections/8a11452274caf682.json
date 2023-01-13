@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SRI INTERNATIONAL",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-FEB-2019"
+  "date": "27-FEB-2019",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

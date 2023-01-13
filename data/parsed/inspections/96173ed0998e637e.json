@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LYNN THOMPSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2022"
+  "date": "06-MAY-2022",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

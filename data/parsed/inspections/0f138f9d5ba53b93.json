@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2014"
+  "date": "30-APR-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

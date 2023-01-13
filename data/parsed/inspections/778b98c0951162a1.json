@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID E LEE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2018"
+  "date": "22-MAR-2018",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

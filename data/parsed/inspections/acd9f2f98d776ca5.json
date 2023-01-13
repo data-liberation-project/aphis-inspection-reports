@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "EXCLUSIVELY EXOTICS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2019"
+  "date": "18-MAR-2019",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 20,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 55,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 11,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 14,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

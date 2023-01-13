@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2016"
+  "date": "13-SEP-2016",
+  "animals_total": 6639,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 605,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 381,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4809,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 614,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 210,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    }
+  ]
 }

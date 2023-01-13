@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NESTLE PURINA GLOBAL RESOURCES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUN-2019"
+  "date": "10-JUN-2019",
+  "animals_total": 1224,
+  "species": [
+    {
+      "count": 451,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 671,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES WILLIAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2017"
+  "date": "11-JAN-2017",
+  "animals_total": 157,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

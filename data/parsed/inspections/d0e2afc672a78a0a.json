@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SARGEANT ANTIBODIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2019"
+  "date": "30-SEP-2019",
+  "animals_total": 1140,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1100,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

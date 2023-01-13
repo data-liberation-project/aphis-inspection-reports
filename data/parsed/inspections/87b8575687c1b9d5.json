@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SACRAMENTO S.P.L.A.S.H.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2018"
+  "date": "19-MAR-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

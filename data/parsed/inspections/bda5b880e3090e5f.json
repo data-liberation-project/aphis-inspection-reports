@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "Dustin Henry",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2015"
+  "date": "03-AUG-2015",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 80,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 10,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 25,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 60,
+      "scientific": "Nanger granti",
+      "common": "GRANT'S GAZELLE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PERFECT PETS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2014"
+  "date": "21-AUG-2014",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 18,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    }
+  ]
 }

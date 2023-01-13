@@ -8,5 +8,18 @@
   "site_id": "JFK",
   "site_name": "KENYA AIRWAYS PLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2021"
+  "date": "15-DEC-2021",
+  "animals_total": 722,
+  "species": [
+    {
+      "count": 720,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

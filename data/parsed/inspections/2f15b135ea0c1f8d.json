@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GREAT LAKES AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JAN-2020"
+  "date": "02-JAN-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
 }

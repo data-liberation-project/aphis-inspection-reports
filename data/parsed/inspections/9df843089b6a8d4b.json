@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACKSON COUNTY PARKS & RECREATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2020"
+  "date": "31-AUG-2020",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 12,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Julie Purvis",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-SEP-2015"
+  "date": "30-SEP-2015",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

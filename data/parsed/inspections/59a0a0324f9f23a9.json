@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DARK STAR WILDLIFE CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "22-APR-2022"
+  "date": "22-APR-2022",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JIM CHRISTIAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2018"
+  "date": "29-NOV-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

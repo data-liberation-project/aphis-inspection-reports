@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "MINNEAPOLIS SITE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "25-JUN-2018"
+  "date": "25-JUN-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

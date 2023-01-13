@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "001 - ALLEN AND MYRA CONOVER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "03-AUG-2021"
+  "date": "03-AUG-2021",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

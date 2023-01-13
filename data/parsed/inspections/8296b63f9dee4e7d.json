@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "City of Clay Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2015"
+  "date": "09-NOV-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 10,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

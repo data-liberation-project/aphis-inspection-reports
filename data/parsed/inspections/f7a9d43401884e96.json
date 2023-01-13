@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Caruth Clark Byrd Wildlife Foundation, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2015"
+  "date": "28-JUL-2015",
+  "animals_total": 293,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 210,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Taurotragus derbianus",
+      "common": "GIANT ELAND"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

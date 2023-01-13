@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "WILDLIFE REHAB OF GREENVILLE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "09-NOV-2021"
+  "date": "09-NOV-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 6,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

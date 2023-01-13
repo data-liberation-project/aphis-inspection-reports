@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAGON TRAIL PETS AND SUPPLIES L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2016"
+  "date": "25-APR-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

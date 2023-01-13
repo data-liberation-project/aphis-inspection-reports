@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "EDWARD WILLIAMS & JACLYN WILLIAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2017"
+  "date": "27-JUN-2017",
+  "animals_total": 266,
+  "species": [
+    {
+      "count": 186,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

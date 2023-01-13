@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLINTON & MARLENE MICHEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2019"
+  "date": "23-MAY-2019",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

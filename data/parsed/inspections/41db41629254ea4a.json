@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FRIENDLY FARMS LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2018"
+  "date": "26-APR-2018",
+  "animals_total": 224,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 110,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

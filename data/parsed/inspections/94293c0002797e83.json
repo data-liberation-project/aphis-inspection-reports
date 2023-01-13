@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REUBEN MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2021"
+  "date": "11-MAR-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

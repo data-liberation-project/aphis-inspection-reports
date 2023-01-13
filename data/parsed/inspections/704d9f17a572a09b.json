@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "Stephen Kroschel",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2022"
+  "date": "04-OCT-2022",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 14,
+      "scientific": "Mustela erminea",
+      "common": "ERMINE"
+    },
+    {
+      "count": 8,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 6,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 3,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 8,
+      "scientific": "Martes martes",
+      "common": "PINE MARTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Gulo gulo",
+      "common": "WOLVERINE"
+    }
+  ]
 }

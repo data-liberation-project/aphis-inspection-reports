@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Acadiana Animal Aid",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2022"
+  "date": "08-DEC-2022",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 15,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "NEW MEXICO WILDLIFE ASSOC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2015"
+  "date": "06-JAN-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Pecari tajacu",
+      "common": "COLLARED PECCARY"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

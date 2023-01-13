@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARVEY RISSLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2019"
+  "date": "30-JUL-2019",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 170,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

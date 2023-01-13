@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VET. TECH SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAR-2019"
+  "date": "13-MAR-2019",
+  "animals_total": 218,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 136,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

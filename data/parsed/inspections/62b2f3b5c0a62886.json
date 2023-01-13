@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Patrick Donigan",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2015"
+  "date": "23-JAN-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

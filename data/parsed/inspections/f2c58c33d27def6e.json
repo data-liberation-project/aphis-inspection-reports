@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WISCONSIN DEPT OF NATURAL RESOURCES",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "27-OCT-2022"
+  "date": "27-OCT-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Sarah Hand",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2015"
+  "date": "25-SEP-2015",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 13,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

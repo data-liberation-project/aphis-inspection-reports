@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Angie Schaaf, Casey Schaaf",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2016"
+  "date": "22-JUN-2016",
+  "animals_total": 387,
+  "species": [
+    {
+      "count": 202,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 185,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

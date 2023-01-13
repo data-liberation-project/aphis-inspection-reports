@@ -8,5 +8,43 @@
   "site_id": "003",
   "site_name": "KOWALSKI PET COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2014"
+  "date": "30-JAN-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 6,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 9,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

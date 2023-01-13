@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "COCALICO BIOLOGICALS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2017"
+  "date": "05-JUL-2017",
+  "animals_total": 267,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 250,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

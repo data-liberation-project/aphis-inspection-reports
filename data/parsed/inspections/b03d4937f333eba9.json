@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALAIN ZERBINI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2017"
+  "date": "18-DEC-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

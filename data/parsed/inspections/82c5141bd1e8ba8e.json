@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRYSTAL FRAZIER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-APR-2022"
+  "date": "14-APR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    }
+  ]
 }

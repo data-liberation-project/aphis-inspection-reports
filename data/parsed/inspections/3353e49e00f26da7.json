@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WESTERN PA NATIONAL WILD ANIMAL ORPHANAGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2015"
+  "date": "16-SEP-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

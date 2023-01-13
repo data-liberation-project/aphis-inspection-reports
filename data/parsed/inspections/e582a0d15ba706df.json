@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Mackensie Shappley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2022"
+  "date": "09-NOV-2022",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 51,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

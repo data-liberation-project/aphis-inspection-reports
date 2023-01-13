@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUDITH WILLIAMSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2017"
+  "date": "16-OCT-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

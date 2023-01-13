@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SUZANNE STOKOE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2014"
+  "date": "20-NOV-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos grunniens grunniens domestic",
+      "common": "DOMESTIC YAK"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

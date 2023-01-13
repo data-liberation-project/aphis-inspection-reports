@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "STEPHANIE OOSTVEEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2020"
+  "date": "21-JAN-2020",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bassariscus sumichrasti",
+      "common": "CENTRAL AMERICAN CACOMISTLE"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Spilogale pygmaea",
+      "common": "PYGMY SPOTTED SKUNK"
+    }
+  ]
 }

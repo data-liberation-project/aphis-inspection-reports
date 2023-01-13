@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "THE HAWTHORN CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2017"
+  "date": "30-MAY-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Bradley Wans, Cassandra Wans",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2017"
+  "date": "17-AUG-2017",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

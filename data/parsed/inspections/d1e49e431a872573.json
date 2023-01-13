@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wildlife Matters Rehabilitation Haven, Inc",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "19-NOV-2021"
+  "date": "19-NOV-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

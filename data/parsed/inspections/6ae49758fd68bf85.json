@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MC LEAN HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2017"
+  "date": "03-MAY-2017",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 68,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LONESTAR DOGGIE VENTURES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2019"
+  "date": "18-NOV-2019",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

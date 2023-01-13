@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLAIR AND SUSAN CARLISLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2014"
+  "date": "02-JUL-2014",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

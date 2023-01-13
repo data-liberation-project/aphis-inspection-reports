@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ODC Network",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "15-JUN-2021"
+  "date": "15-JUN-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

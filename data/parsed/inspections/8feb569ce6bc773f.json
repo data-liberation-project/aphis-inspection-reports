@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Virginia Hinderer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2015"
+  "date": "12-JAN-2015",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

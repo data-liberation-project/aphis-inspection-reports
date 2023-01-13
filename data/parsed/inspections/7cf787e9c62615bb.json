@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Save 4 Paws Rescue, Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2022"
+  "date": "21-JUN-2022",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

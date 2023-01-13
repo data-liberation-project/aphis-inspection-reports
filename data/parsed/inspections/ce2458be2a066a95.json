@@ -8,5 +8,58 @@
   "site_id": "002",
   "site_name": "ROBERT H. & BONNIE J. RINGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2021"
+  "date": "03-NOV-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera leo X  P. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

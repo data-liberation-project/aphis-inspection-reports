@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OH PUPPY LOVE",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-MAR-2015"
+  "date": "05-MAR-2015",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

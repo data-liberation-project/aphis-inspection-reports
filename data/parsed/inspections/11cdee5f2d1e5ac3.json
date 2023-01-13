@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "MARIANNE SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2015"
+  "date": "23-JAN-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Philander opossum",
+      "common": "GREY FOUR-EYED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

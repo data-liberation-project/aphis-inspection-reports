@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "LOETHEN, JIM & LINDA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2016"
+  "date": "12-SEP-2016",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 18,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 13,
+      "scientific": "Saguinus geoffroyi",
+      "common": "GEOFFROY'S TAMARIN"
+    },
+    {
+      "count": 41,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 44,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

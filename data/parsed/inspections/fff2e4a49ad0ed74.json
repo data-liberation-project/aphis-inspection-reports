@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "NEW YORK AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2021"
+  "date": "18-OCT-2021",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 7,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
 }

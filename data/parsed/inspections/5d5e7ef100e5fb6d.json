@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HOMESTEAD GARDENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2021"
+  "date": "13-MAY-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

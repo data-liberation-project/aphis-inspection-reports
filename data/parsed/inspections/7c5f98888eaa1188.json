@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "JAROD MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2014"
+  "date": "01-JUL-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Otolemur crassicaudatus",
+      "common": "GREATER BUSHBABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    }
+  ]
 }

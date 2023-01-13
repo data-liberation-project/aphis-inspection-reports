@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RICHARD TAKACS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2014"
+  "date": "05-SEP-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

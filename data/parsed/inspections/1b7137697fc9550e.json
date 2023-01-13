@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Gale Whitaker,Christina Hillyard,Brandon Hillyard",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2016"
+  "date": "05-JUL-2016",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

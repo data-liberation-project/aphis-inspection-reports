@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Vernon Troyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2014"
+  "date": "07-OCT-2014",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 97,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

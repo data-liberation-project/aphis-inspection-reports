@@ -8,5 +8,48 @@
   "site_id": "006",
   "site_name": "Ponies & Pals Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2015"
+  "date": "05-NOV-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

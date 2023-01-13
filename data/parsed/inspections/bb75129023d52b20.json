@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2017"
+  "date": "12-APR-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICHARD C PIATT I I",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2019"
+  "date": "07-NOV-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

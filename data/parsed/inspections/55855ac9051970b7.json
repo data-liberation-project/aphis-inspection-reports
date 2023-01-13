@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALBERT ERB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2015"
+  "date": "12-MAY-2015",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

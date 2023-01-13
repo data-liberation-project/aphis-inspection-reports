@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LANA ARNALL",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "07-JUN-2018"
+  "date": "07-JUN-2018",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

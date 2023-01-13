@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CENTRAL ANIMAL FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2017"
+  "date": "06-JUN-2017",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 61,
+      "scientific": "Scotinomys teguina",
+      "common": "ALSTON'S BROWN MOUSE / SHORT-TAILED SINGING MOUSE"
+    }
+  ]
 }

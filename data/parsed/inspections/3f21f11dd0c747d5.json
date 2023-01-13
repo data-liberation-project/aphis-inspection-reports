@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROYAL C. KELLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2014"
+  "date": "10-DEC-2014",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 162,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 88,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

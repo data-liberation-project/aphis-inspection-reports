@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JIM SIMPSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2019"
+  "date": "13-JUN-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 8,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    }
+  ]
 }

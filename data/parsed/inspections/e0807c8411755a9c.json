@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "LAMPIRE BIOLOGICAL LABORATORIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2017"
+  "date": "29-NOV-2017",
+  "animals_total": 1431,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 67,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 967,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 370,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

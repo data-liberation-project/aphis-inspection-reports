@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "SCHIELE MUSEUM OF NATURAL HISTORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2014"
+  "date": "29-OCT-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

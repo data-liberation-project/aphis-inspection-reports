@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHONDA HADEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2017"
+  "date": "25-MAY-2017",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

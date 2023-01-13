@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDNA NOLT, ELVA NOLT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2018"
+  "date": "09-JUL-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SNBL USA, LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2014"
+  "date": "05-MAY-2014",
+  "animals_total": 1946,
+  "species": [
+    {
+      "count": 1649,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 297,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

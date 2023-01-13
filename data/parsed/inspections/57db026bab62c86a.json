@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SAVE THEM ALL, LIFESAVERS RESCUE TRANSPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2021"
+  "date": "03-AUG-2021",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

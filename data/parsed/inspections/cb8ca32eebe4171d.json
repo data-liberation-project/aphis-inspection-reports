@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "NORTH AMERICAN SCIENCE ASSOCIATES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2021"
+  "date": "05-MAR-2021",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

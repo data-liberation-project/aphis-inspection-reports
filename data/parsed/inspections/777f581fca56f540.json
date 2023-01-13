@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THOMAS D. MORRIS, INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "10-SEP-2019"
+  "date": "10-SEP-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES PLUTA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2022"
+  "date": "30-JUN-2022",
+  "animals_total": 176,
+  "species": [
+    {
+      "count": 102,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

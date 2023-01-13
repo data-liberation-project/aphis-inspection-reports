@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IDA GRABER & SUE BEECHY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-AUG-2019"
+  "date": "05-AUG-2019",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

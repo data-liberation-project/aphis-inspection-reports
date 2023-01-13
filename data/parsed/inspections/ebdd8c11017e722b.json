@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "JENNIFER O DONNELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2017"
+  "date": "06-DEC-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

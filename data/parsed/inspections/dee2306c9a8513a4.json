@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WISCONSIN-LA CROSSE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAR-2014"
+  "date": "26-MAR-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 36,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

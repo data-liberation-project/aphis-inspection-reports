@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BRIAN AND BECKY HABERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JAN-2018"
+  "date": "08-JAN-2018",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 7,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

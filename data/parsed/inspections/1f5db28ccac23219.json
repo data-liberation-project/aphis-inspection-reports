@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARYLAND ZOOLOGICAL SOCIETY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2014"
+  "date": "11-FEB-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ST LUCIE COUNTY BOCC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-JUL-2014"
+  "date": "09-JUL-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    }
+  ]
 }

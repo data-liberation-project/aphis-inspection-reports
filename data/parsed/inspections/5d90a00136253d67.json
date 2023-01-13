@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CUDDLY CANINES",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-JAN-2022"
+  "date": "04-JAN-2022",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

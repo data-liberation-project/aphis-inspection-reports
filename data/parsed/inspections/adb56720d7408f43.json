@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "ILLUSIONEERING, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2021"
+  "date": "20-JUL-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Neofelis nebulosa",
+      "common": "CLOUDED LEOPARD"
+    }
+  ]
 }

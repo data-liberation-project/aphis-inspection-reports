@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MOUNT SAN ANTONIO COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2019"
+  "date": "05-MAR-2019",
+  "animals_total": 227,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 137,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 27,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRITTER CONNECTION L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-JUN-2016"
+  "date": "23-JUN-2016",
+  "animals_total": 163,
+  "species": [
+    {
+      "count": 154,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 9,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

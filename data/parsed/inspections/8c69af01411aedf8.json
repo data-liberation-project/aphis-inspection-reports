@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENNIS & JUDY WALLES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2017"
+  "date": "01-JUN-2017",
+  "animals_total": 320,
+  "species": [
+    {
+      "count": 200,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

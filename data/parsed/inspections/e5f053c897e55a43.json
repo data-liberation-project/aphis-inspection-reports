@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CITY OF ADA ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2014"
+  "date": "03-JUN-2014",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 13,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

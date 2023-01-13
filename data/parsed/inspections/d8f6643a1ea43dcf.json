@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHELONIA ECO ASSOCIATES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2014"
+  "date": "01-JUL-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Thylamys pusilla",
+      "common": "SMALL FAT-TAILED OPOSSUM"
+    }
+  ]
 }

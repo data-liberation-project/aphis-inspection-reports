@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERMA BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 212,
+  "species": [
+    {
+      "count": 102,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MONTANA WILDLIFE ENC, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2022"
+  "date": "26-JAN-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

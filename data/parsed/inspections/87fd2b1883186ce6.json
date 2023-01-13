@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOHNSON COUNTY PARK & RECREATION DISTRICT",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-OCT-2015"
+  "date": "07-OCT-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    }
+  ]
 }

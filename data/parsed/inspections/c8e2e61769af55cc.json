@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Victoria Stigall",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2016"
+  "date": "06-JUL-2016",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

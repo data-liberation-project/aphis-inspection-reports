@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL L BEILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2018"
+  "date": "04-JUN-2018",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

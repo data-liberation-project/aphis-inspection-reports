@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN, JAMES AND MARY JANE KNEPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2021"
+  "date": "30-NOV-2021",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

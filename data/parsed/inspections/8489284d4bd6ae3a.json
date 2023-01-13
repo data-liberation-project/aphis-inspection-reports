@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "KORD MC GUIRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2015"
+  "date": "20-AUG-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

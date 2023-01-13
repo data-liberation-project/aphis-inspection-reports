@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "21ST CENTURY MEDICINE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2022"
+  "date": "29-MAR-2022",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

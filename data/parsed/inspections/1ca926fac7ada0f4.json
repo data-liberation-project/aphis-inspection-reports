@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA LEACH",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "16-NOV-2022"
+  "date": "16-NOV-2022",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

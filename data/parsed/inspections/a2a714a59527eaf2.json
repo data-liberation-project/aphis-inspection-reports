@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERCER WILLIAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2019"
+  "date": "17-OCT-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

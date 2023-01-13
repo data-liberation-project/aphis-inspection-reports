@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KRUSE FARM ENTERPRISES, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2014"
+  "date": "01-MAY-2014",
+  "animals_total": 295,
+  "species": [
+    {
+      "count": 158,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Chris Dieter",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2014"
+  "date": "15-MAY-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    }
+  ]
 }

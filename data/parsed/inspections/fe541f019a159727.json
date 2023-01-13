@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2015"
+  "date": "27-JUL-2015",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 90,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

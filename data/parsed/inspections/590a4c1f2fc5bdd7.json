@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RUBY FUR FARM, I N C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2019"
+  "date": "16-OCT-2019",
+  "animals_total": 1306,
+  "species": [
+    {
+      "count": 709,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 148,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 414,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 35,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

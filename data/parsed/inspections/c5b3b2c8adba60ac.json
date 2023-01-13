@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tammie S Jones",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2017"
+  "date": "14-FEB-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 21,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

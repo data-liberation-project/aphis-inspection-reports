@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HENRY RABER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "30-SEP-2021"
+  "date": "30-SEP-2021",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

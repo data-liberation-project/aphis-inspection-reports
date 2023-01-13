@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "BARTONS WEST END FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2022"
+  "date": "13-JAN-2022",
+  "animals_total": 252,
+  "species": [
+    {
+      "count": 227,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 13,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cinda Moe",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2018"
+  "date": "31-JUL-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

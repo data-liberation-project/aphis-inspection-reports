@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2015"
+  "date": "16-NOV-2015",
+  "animals_total": 2842,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2835,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

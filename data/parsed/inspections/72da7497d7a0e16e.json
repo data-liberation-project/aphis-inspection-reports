@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEITH HARRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2020"
+  "date": "20-MAR-2020",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

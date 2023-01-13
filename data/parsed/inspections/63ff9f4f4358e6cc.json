@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANETTE O'DELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2017"
+  "date": "09-AUG-2017",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

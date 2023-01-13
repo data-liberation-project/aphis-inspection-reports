@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Black Powder Farm, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2021"
+  "date": "01-JUN-2021",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

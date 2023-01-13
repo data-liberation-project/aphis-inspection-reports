@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JO ANN SHADOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUL-2018"
+  "date": "10-JUL-2018",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

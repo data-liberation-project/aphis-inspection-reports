@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARILYN JOSEPH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2015"
+  "date": "28-SEP-2015",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

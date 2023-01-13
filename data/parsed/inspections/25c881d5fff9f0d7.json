@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SANDRA GIERISCH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JAN-2020"
+  "date": "29-JAN-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

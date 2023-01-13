@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "LES KIMES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAR-2018"
+  "date": "13-MAR-2018",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BRIGHAM AND WOMENS HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2021"
+  "date": "21-SEP-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

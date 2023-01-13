@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "KATHY WOODSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2014"
+  "date": "12-APR-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

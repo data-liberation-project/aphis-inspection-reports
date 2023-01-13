@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JK PUPPIES, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2019"
+  "date": "01-MAR-2019",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

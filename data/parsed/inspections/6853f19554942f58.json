@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JACKSON ZOOLOGICAL SOCIETY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2017"
+  "date": "05-JUL-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cercopithecus wolfi",
+      "common": "WOLF'S GUENON"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 7,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

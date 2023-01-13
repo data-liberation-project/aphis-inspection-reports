@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADRIAN WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2020"
+  "date": "18-FEB-2020",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

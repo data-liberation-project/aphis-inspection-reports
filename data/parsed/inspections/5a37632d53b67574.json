@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CATHY LEDFORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2017"
+  "date": "21-MAR-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

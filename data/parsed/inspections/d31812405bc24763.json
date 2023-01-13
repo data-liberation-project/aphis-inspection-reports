@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BLUE RIDGE COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2018"
+  "date": "11-APR-2018",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLLEEN BEATTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2017"
+  "date": "17-AUG-2017",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

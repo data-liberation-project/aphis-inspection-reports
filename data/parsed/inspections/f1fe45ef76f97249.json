@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RUBEN & EVA MAE RISSLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2022"
+  "date": "07-SEP-2022",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

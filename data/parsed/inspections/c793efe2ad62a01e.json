@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "BUCKHORN CREEK RANCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2016"
+  "date": "16-MAR-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 8,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Cervus elaphus",
+      "common": "RED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 11,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PINE HOLLOW FARM L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2016"
+  "date": "13-JAN-2016",
+  "animals_total": 615,
+  "species": [
+    {
+      "count": 390,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 225,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

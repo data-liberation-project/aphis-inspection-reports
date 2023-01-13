@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "JANSSEN R&D",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2015"
+  "date": "06-AUG-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 26,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

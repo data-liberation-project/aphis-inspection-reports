@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ATLEE S RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 143,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

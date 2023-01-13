@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TREEHOUSE WILDLIFE CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2019"
+  "date": "08-AUG-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

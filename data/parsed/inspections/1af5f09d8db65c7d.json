@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BEAR CREEK FELINE CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2016"
+  "date": "15-MAR-2016",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Herpailurus yagouaroundi",
+      "common": "JAGUARUNDI"
+    },
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 4,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JASON GREER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2022"
+  "date": "06-OCT-2022",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 26,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 14,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

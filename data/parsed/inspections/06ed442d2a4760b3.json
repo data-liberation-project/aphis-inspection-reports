@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lee Stadel",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-OCT-2015"
+  "date": "14-OCT-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

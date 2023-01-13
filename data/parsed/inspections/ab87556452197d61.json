@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GAYLE DUNCAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2019"
+  "date": "08-AUG-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

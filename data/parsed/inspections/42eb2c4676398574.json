@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "ROCKEFELLER UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-AUG-2022"
+  "date": "08-AUG-2022",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 18,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 54,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRISTIAN LAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2019"
+  "date": "16-SEP-2019",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

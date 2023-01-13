@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHERI HILL KENNEL AND SUPPLY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2015"
+  "date": "21-DEC-2015",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

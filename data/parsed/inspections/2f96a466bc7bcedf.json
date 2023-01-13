@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Donna Gunn",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2019"
+  "date": "21-FEB-2019",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

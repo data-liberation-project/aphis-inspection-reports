@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "WILLIAM AND KELLY YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2015"
+  "date": "21-JUL-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

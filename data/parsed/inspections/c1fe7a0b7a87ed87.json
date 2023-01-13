@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "JEAN GORTMAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2017"
+  "date": "05-APR-2017",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

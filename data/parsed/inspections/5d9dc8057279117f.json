@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAN LICHIRIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2020"
+  "date": "01-DEC-2020",
+  "animals_total": 555,
+  "species": [
+    {
+      "count": 465,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

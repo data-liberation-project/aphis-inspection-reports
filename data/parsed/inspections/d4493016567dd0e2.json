@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "BIRDS & ANIMALS UNLIMITED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2014"
+  "date": "09-APR-2014",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

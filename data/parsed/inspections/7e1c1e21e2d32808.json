@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CITOXLAB USA LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2017"
+  "date": "22-FEB-2017",
+  "animals_total": 302,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 105,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

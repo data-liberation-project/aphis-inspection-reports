@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "North Georgia Exotics",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "16-NOV-2021"
+  "date": "16-NOV-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    }
+  ]
 }

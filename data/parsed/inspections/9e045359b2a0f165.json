@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Wayne Newton",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2017"
+  "date": "01-FEB-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 7,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

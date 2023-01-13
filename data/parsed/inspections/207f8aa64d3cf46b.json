@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "SHARON SANDLOFER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2014"
+  "date": "03-FEB-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

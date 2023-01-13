@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VOLUNTEERS FOR WILDLIFE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2014"
+  "date": "07-OCT-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

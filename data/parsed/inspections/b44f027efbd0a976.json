@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MISSISSIPPI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2016"
+  "date": "15-JUN-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

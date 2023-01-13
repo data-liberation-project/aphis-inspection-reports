@@ -8,5 +8,93 @@
   "site_id": "001",
   "site_name": "BEARIZONA WILDLIFE PARK, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2016"
+  "date": "22-AUG-2016",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis dalli",
+      "common": "DALL SHEEP WHITE SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Pecari tajacu",
+      "common": "COLLARED PECCARY"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes tricinctus",
+      "common": "BRAZILIAN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 10,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

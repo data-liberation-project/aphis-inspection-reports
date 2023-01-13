@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Baylor College of Medicine",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2016"
+  "date": "12-SEP-2016",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 40,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

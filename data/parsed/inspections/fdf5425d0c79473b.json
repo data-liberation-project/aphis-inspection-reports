@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DINKY DOO PETTING ZOO",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "13-APR-2017"
+  "date": "13-APR-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

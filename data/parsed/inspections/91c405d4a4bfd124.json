@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA AND JOHN SELF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2018"
+  "date": "11-DEC-2018",
+  "animals_total": 217,
+  "species": [
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "BARRY DE VOLL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2015"
+  "date": "05-OCT-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

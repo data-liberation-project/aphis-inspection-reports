@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MYRON MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2021"
+  "date": "13-JUL-2021",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

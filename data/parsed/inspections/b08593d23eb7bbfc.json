@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "PHILLIP MOBERLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2014"
+  "date": "27-FEB-2014",
+  "animals_total": 377,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Acomys wilsoni",
+      "common": "WILSON'S SPINY MOUSE"
+    },
+    {
+      "count": 183,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 11,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 47,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 34,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 42,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Spermophilus richardsonii",
+      "common": "RICHARDSON'S GROUND SQUIRREL"
+    }
+  ]
 }

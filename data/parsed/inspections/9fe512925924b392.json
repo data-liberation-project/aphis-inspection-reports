@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "City of Kansas City Parks and Recreation",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-OCT-2014"
+  "date": "07-OCT-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamiasciurus hudsonicus",
+      "common": "AMERICAN RED SQUIRREL"
+    }
+  ]
 }

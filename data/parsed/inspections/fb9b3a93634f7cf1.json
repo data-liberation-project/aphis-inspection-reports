@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BRUCE CURRY & ALEXIS NELSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2015"
+  "date": "17-SEP-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

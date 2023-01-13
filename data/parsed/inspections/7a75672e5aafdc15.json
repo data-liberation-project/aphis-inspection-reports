@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ASHLEY ANN MARIE GANEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2021"
+  "date": "01-SEP-2021",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

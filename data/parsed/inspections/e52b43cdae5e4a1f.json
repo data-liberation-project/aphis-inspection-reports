@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ARBA K. JETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2019"
+  "date": "20-AUG-2019",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

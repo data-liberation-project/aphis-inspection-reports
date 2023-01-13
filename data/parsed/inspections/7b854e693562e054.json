@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, LOS ANGELES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-FEB-2020"
+  "date": "13-FEB-2020",
+  "animals_total": 264,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 59,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 103,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 52,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "YOUTH SERVICES AGENCY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUL-2019"
+  "date": "10-JUL-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

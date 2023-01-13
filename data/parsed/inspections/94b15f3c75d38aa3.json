@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MARK STEFFENSMEIER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2016"
+  "date": "21-APR-2016",
+  "animals_total": 346,
+  "species": [
+    {
+      "count": 193,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 153,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

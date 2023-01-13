@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA FINCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2017"
+  "date": "17-APR-2017",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

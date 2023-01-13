@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "SARA'S SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2019"
+  "date": "25-SEP-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Genetta genetta",
+      "common": "SMALL SPOTTED GENET"
+    },
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

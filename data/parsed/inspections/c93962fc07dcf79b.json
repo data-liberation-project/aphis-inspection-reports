@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEN VAN DEREN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2016"
+  "date": "28-JAN-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

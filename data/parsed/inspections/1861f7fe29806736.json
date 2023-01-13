@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "THE WILD ANIMAL SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2014"
+  "date": "27-FEB-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 11,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

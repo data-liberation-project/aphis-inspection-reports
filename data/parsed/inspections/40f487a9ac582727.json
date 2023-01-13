@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATHAN ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2019"
+  "date": "05-NOV-2019",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

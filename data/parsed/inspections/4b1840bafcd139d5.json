@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "GREEN MEADOWS FARM ENTERTAINMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2021"
+  "date": "11-MAY-2021",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 16,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

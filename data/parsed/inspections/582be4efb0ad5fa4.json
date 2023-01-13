@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "MITCHEL KALMANSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2015"
+  "date": "18-FEB-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 11,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

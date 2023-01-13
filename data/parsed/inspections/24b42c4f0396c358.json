@@ -8,5 +8,23 @@
   "site_id": "020",
   "site_name": "PFIZER WORLDWIDE RESEARCH AND DEVELOPMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2014"
+  "date": "08-MAY-2014",
+  "animals_total": 406,
+  "species": [
+    {
+      "count": 277,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 105,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 24,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "P. J.'S PUPPIES L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-DEC-2019"
+  "date": "11-DEC-2019",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

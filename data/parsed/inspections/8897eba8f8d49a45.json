@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "L. A. Waters Ranch L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2016"
+  "date": "20-OCT-2016",
+  "animals_total": 847,
+  "species": [
+    {
+      "count": 300,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 10,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 1,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 12,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 30,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 120,
+      "scientific": "Equus asinus africanus",
+      "common": "AFRICAN WILD ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus onager",
+      "common": "ONAGER"
+    },
+    {
+      "count": 9,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 32,
+      "scientific": "Kobus megaceros",
+      "common": "NILE LECHWE"
+    },
+    {
+      "count": 250,
+      "scientific": "Ovis gmelini",
+      "common": "ARMENIAN MOUFLON"
+    },
+    {
+      "count": 30,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 35,
+      "scientific": "Tragelaphus strepsiceros",
+      "common": "GREATER KUDU"
+    }
+  ]
 }

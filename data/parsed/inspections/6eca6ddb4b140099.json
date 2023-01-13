@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MERCER COUNTY WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2018"
+  "date": "14-JUN-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

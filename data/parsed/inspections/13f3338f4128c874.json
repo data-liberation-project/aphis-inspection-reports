@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RIVERSIDE INN RESORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2014"
+  "date": "30-JAN-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles belzebuth",
+      "common": "LONG-HAIRED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles fusciceps",
+      "common": "BROWN-HEADED SPIDER MONKEY"
+    }
+  ]
 }

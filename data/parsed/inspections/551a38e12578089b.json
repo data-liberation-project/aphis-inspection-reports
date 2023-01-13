@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GENENTECH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2017"
+  "date": "13-APR-2017",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

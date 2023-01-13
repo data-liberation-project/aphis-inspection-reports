@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ST. LOUIS COUNTY - LONE ELK PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2017"
+  "date": "16-MAR-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 16,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

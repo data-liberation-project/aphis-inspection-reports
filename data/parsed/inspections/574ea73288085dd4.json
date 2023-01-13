@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "TIGER STRIPES EXOTIC ANIMAL SANCTUARY INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

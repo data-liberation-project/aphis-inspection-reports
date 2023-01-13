@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOHN PAYNE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JAN-2017"
+  "date": "03-JAN-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus burchellii boehmi",
+      "common": "GRANT'S ZEBRA"
+    }
+  ]
 }

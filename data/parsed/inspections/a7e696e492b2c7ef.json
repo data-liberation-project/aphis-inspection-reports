@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DELMAR WAGELR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2016"
+  "date": "02-FEB-2016",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

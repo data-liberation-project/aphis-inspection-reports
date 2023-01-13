@@ -8,5 +8,13 @@
   "site_id": "002",
   "site_name": "WESTERN VETERINARY CONFERENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2016"
+  "date": "28-NOV-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

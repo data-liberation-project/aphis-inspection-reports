@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TOMMY BISHOP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2017"
+  "date": "07-NOV-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

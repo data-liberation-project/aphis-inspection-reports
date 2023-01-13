@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HILLSIDE KENNEL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-APR-2019"
+  "date": "16-APR-2019",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "CITY OF POCATELLO ZOO IDAHO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2017"
+  "date": "16-FEB-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oreamnos americanus",
+      "common": "ROCKY MOUNTAIN GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

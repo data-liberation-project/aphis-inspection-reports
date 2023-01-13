@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEVEN L LAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-APR-2014"
+  "date": "01-APR-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ROBERT L SAWMILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2019"
+  "date": "16-OCT-2019",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

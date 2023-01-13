@@ -8,5 +8,18 @@
   "site_id": "011",
   "site_name": "GREEN BAY SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2015"
+  "date": "29-APR-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

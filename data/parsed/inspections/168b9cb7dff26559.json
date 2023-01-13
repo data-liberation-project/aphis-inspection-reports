@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "SETTLERS POND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2015"
+  "date": "09-JUL-2015",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

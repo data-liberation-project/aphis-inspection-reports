@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "GULF BREEZE ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "29-JUN-2022"
+  "date": "29-JUN-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
 }

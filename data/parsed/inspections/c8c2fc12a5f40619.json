@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Sugarbear Exotics L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2018"
+  "date": "26-JAN-2018",
+  "animals_total": 1860,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 360,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 150,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1200,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

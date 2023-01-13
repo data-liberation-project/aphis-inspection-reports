@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREAT LAKES AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2018"
+  "date": "08-FEB-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

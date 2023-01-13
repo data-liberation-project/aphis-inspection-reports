@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ELLIJAY WILDLIFE REHABILITATION SANCTUARY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2018"
+  "date": "05-APR-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

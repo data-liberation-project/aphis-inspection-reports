@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JOSMAN, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2017"
+  "date": "04-JAN-2017",
+  "animals_total": 311,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 273,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

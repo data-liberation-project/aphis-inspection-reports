@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "PRECLINICAL MEDEVICE INNOVATIONS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2018"
+  "date": "15-AUG-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

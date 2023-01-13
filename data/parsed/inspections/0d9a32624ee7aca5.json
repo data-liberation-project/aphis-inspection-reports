@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROBERT MITCHELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-DEC-2017"
+  "date": "13-DEC-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 7,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

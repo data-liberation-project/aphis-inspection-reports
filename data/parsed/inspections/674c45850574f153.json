@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Northwoods Wildlife Inc",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-AUG-2022"
+  "date": "23-AUG-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    }
+  ]
 }

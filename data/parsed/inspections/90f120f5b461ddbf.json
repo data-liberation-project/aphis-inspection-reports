@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "BENAY & MICHAEL KARP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2021"
+  "date": "12-MAR-2021",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Lepus europaeus",
+      "common": "EUROPEAN HARE"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 10,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

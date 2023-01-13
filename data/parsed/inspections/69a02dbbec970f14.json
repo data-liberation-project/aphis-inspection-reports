@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ENVIRONMENTAL STUDIES CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2016"
+  "date": "07-SEP-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

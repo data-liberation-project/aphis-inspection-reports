@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2022"
+  "date": "14-SEP-2022",
+  "animals_total": 232,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

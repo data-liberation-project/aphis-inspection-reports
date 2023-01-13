@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELIA KOCHS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2014"
+  "date": "01-MAY-2014",
+  "animals_total": 272,
+  "species": [
+    {
+      "count": 213,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

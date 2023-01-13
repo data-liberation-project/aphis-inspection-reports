@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "T3 LABS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2021"
+  "date": "20-JUL-2021",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

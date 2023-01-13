@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES GRABER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-AUG-2022"
+  "date": "19-AUG-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

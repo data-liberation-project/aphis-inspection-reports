@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "WORLDWIDE PRIMATES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2014"
+  "date": "09-DEC-2014",
+  "animals_total": 2010,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 1268,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 515,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 95,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

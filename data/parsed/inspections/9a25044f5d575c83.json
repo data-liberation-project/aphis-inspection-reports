@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "The Methodist Hospital Research Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2015"
+  "date": "05-MAY-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

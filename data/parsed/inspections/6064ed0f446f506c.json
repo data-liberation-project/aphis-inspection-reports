@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "ZOOMARS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-OCT-2021"
+  "date": "14-OCT-2021",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 65,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 4,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA MOONEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2016"
+  "date": "02-JUN-2016",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

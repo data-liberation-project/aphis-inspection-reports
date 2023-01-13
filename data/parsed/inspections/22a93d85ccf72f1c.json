@@ -8,5 +8,43 @@
   "site_id": "004",
   "site_name": "REAL PETS CORP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 2695,
+  "species": [
+    {
+      "count": 1085,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 523,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 269,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 25,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 296,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELLS DWARF HAMSTER"
+    },
+    {
+      "count": 249,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 248,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

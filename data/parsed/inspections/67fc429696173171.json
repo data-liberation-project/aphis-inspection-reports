@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEN GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2022"
+  "date": "18-OCT-2022",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

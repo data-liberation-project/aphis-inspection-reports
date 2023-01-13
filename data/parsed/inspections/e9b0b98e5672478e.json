@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF CONGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2019"
+  "date": "07-MAY-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

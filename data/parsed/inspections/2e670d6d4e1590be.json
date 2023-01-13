@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PACIFIC BIOLABS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2020"
+  "date": "08-SEP-2020",
+  "animals_total": 510,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 395,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    }
+  ]
 }

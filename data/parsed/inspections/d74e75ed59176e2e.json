@@ -8,5 +8,93 @@
   "site_id": "001",
   "site_name": "TOM HARVEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2015"
+  "date": "07-MAY-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctos",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "C. pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 14,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca silenus",
+      "common": "LION-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 8,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 10,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 8,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

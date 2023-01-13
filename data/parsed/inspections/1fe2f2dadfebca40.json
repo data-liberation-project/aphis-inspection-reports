@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "RUBY FUR FARM, I N C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2014"
+  "date": "07-FEB-2014",
+  "animals_total": 2046,
+  "species": [
+    {
+      "count": 800,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 900,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 300,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 20,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 6,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 20,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

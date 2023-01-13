@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Brandon Legg",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2017"
+  "date": "02-MAY-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TWILIGHT VALLEY TOYS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2022"
+  "date": "13-SEP-2022",
+  "animals_total": 129,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

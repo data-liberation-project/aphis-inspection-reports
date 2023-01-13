@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOUG Mc FADIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2017"
+  "date": "30-JAN-2017",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

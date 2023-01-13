@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Hunter Smith",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-NOV-2022"
+  "date": "02-NOV-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    }
+  ]
 }

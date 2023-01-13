@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLE GORDON",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-FEB-2015"
+  "date": "05-FEB-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

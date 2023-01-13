@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "INTERVET INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2018"
+  "date": "12-SEP-2018",
+  "animals_total": 657,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 330,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 215,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

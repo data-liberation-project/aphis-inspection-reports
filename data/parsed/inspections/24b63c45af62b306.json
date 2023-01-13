@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RONNIE STRACK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-MAR-2017"
+  "date": "22-MAR-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 6,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

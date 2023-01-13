@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TEATOWN LAKE RESERVATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2017"
+  "date": "07-MAR-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

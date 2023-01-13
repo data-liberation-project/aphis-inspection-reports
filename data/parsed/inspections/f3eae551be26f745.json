@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENNIS L YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2019"
+  "date": "15-OCT-2019",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

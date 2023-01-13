@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY LONNIE AND LOUISE HERSCHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2019"
+  "date": "06-MAR-2019",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

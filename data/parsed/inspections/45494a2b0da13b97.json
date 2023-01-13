@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "PETS PARADISE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2014"
+  "date": "27-MAR-2014",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 60,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELLS DWARF HAMSTER"
+    },
+    {
+      "count": 50,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

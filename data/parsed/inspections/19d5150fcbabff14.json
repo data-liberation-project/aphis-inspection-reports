@@ -8,5 +8,18 @@
   "site_id": "SFO",
   "site_name": "TURK HAVA YOLLARI A O TURKISH AIRLINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2021"
+  "date": "16-FEB-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

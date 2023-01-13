@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID & DENISE BLACKBURN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2019"
+  "date": "27-JUN-2019",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

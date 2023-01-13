@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN J MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2020"
+  "date": "12-MAR-2020",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

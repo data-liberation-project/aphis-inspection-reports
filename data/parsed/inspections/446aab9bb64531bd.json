@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "House of Pets Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2021"
+  "date": "13-MAY-2021",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    }
+  ]
 }

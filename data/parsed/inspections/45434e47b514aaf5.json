@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "John D Riehl Jr",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "25-MAY-2022"
+  "date": "25-MAY-2022",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

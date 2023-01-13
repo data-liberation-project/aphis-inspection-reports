@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "NATIONAL ANIMAL DISEASE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2017"
+  "date": "19-SEP-2017",
+  "animals_total": 3486,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Ars birds",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 34,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 209,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 29,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2558,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH VARIETY)"
+    },
+    {
+      "count": 139,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 184,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 14,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 188,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

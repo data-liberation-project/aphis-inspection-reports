@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "T W R C Wildlife Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2016"
+  "date": "08-APR-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

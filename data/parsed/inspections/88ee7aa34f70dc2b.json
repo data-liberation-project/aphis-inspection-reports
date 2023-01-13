@@ -6,7 +6,15 @@
   "customer_addr": "92640 Abbot Rd\nAstoria, OR 97103",
   "certificate": "92-A-0383",
   "site_id": "002",
-  "site_name": "DEBRA K HUFFMAN(cid:9)",
+  "site_name": "DEBRA K HUFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

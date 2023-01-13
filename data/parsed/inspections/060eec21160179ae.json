@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PRIMATE PRODUCTS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2017"
+  "date": "22-MAY-2017",
+  "animals_total": 788,
+  "species": [
+    {
+      "count": 574,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 214,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

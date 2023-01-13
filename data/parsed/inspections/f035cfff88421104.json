@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILD SPIRIT WOLF SANCTUARY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "15-NOV-2022"
+  "date": "15-NOV-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RARC ZUCKERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2021"
+  "date": "06-DEC-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEVE BERENS ANIMALS OF DISTINCTION, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2015"
+  "date": "22-JUL-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

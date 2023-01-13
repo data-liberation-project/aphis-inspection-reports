@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TOYBOX PUPPIES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-SEP-2018"
+  "date": "27-SEP-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "XTREME EXOTICS LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-JUL-2022"
+  "date": "22-JUL-2022",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

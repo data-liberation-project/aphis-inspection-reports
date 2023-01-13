@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Chupp",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2022"
+  "date": "31-JAN-2022",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

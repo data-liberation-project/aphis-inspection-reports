@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Julio Osorio",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2014"
+  "date": "16-OCT-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

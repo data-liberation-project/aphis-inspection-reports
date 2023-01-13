@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "JENNIFER CATON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2019"
+  "date": "08-OCT-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

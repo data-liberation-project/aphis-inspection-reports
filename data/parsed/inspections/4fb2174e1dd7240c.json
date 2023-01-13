@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUGARFORK KENNELS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUL-2016"
+  "date": "18-JUL-2016",
+  "animals_total": 295,
+  "species": [
+    {
+      "count": 162,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

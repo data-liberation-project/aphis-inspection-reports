@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRY BANNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2019"
+  "date": "09-DEC-2019",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

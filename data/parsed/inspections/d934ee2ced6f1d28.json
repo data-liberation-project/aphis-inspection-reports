@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RED COBOOSE MOTEL",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "01-NOV-2016"
+  "date": "01-NOV-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

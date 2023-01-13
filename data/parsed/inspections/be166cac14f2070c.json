@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "The University of Texas at Austin - ARC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2022"
+  "date": "20-APR-2022",
+  "animals_total": 315,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 48,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 28,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 46,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 58,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 90,
+      "scientific": "Scotinomys teguina",
+      "common": "ALSTON'S BROWN MOUSE / SHORT-TAILED SINGING MOUSE"
+    }
+  ]
 }

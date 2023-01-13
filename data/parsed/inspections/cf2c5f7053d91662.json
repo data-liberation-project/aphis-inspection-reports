@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "ANIMAL BLOOD BANK, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2022"
+  "date": "03-FEB-2022",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 76,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

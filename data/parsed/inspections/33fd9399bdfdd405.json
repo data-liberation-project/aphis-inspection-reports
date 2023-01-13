@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CREUZINGER ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2014"
+  "date": "28-OCT-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

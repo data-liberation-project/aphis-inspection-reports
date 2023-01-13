@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CARLA COUCHMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2017"
+  "date": "19-SEP-2017",
+  "animals_total": 137,
+  "species": [
+    {
+      "count": 102,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

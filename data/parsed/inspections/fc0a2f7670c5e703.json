@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "AMANDA PLANTE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-NOV-2019"
+  "date": "21-NOV-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

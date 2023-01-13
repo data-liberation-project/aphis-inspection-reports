@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "TURTLE BAY EXPLORATION PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2022"
+  "date": "14-JUL-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Spilogale gracilis",
+      "common": "WESTERN SPOTTED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

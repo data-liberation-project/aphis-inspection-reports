@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "MARIA F. JINKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2017"
+  "date": "19-JUL-2017",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix frontalis",
+      "common": "SOUTH AFRICAN HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix aurita",
+      "common": "WHITE-EARED MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasyprocta cristata",
+      "common": "CRESTED AGOUTI"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus crinifrons",
+      "common": "BLACK MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

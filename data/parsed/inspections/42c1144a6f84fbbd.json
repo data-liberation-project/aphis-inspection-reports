@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELAM AND BETTY HERTZLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2022"
+  "date": "12-MAY-2022",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

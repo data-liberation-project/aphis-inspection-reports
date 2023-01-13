@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ITHACA COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2020"
+  "date": "27-AUG-2020",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 37,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

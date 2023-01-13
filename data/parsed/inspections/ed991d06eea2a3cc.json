@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA BUSCHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2019"
+  "date": "03-DEC-2019",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "UNITED VACCINES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2018"
+  "date": "09-APR-2018",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 94,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    }
+  ]
 }

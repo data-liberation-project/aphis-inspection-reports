@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, BERKELEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2014"
+  "date": "12-MAR-2014",
+  "animals_total": 230,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 43,
+      "scientific": "Ctenomys conoveri",
+      "common": "CHACOAN TUCO-TUCO"
+    },
+    {
+      "count": 136,
+      "scientific": "M. musculus",
+      "common": "HOUSE MOUSE"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

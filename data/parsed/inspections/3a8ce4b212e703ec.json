@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOEHRINGER INGELHEIM RESRCH. & DEVELOP.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2017"
+  "date": "17-APR-2017",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

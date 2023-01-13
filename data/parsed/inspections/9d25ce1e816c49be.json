@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LOVELACE BIOMEDICAL RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2015"
+  "date": "03-MAR-2015",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    },
+    {
+      "count": 29,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "LAB ANIMAL RESOURCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2017"
+  "date": "25-JUL-2017",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 17,
+      "scientific": "Sus scrofa",
+      "common": "WILD BOAR"
+    }
+  ]
 }

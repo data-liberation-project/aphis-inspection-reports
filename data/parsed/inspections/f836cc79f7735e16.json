@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMY GILROY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2017"
+  "date": "22-MAY-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 4,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

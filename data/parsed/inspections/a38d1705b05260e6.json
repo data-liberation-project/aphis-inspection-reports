@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AQUARIUM OF THE PACIFIC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2022"
+  "date": "23-JUN-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 7,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
 }

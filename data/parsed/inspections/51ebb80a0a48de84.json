@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ATLANTA WILD ANIMAL RESCUE EFFORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2019"
+  "date": "09-JUL-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

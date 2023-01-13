@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "ALL PETS CLUB INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2016"
+  "date": "04-AUG-2016",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 23,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 33,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

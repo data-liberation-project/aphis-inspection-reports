@@ -8,5 +8,23 @@
   "site_id": "019",
   "site_name": "PFIZER GLOBAL RESEARCH AND DEVELOPMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUL-2017"
+  "date": "10-JUL-2017",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 125,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

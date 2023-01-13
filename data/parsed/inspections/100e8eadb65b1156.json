@@ -8,5 +8,83 @@
   "site_id": "001",
   "site_name": "ANIMAL MAGIC INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-APR-2014"
+  "date": "14-APR-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chaetophractus nationi",
+      "common": "BOLIVIAN HAIRY ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 4,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Euphractus sexcinctus",
+      "common": "YELLOW ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Galagoides demidoff",
+      "common": "DWARF BUSHBABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 4,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

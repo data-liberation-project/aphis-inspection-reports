@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GENE WHEELER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2016"
+  "date": "27-JUL-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    }
+  ]
 }

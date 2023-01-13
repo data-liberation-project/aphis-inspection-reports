@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF NEVADA, LAS VEGAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2016"
+  "date": "06-DEC-2016",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 48,
+      "scientific": "Tenrec ecaudatus",
+      "common": "TAIL-LESS TENREC"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARSHALL FARMS GROUP LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2018"
+  "date": "05-JUN-2018",
+  "animals_total": 62527,
+  "species": [
+    {
+      "count": 22741,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37278,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2508,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

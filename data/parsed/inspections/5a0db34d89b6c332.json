@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THOMAS D. MORRIS, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2014"
+  "date": "03-NOV-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

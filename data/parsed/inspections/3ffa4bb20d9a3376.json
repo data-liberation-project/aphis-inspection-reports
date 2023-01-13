@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "ACTION ANIMALS U S A INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2021"
+  "date": "20-AUG-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
 }

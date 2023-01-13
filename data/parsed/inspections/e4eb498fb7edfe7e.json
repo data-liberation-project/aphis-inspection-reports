@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOBBY & VICKI SHEBIEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2019"
+  "date": "30-DEC-2019",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

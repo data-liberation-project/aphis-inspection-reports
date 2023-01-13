@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "CHARLOTTE HORNSBY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUL-2014"
+  "date": "10-JUL-2014",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 8,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

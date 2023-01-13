@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM COENEN-SIEG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2022"
+  "date": "02-MAY-2022",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

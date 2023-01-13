@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIGER ENCOUNTER AND REHABILITATION SANCTUARY CORP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2017"
+  "date": "12-JUN-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

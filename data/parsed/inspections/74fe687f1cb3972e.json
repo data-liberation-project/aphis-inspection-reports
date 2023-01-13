@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF LOUISVILLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2015"
+  "date": "21-SEP-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 17,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    }
+  ]
 }

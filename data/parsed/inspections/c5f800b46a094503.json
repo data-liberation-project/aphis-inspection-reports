@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY WALLACE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2022"
+  "date": "06-SEP-2022",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

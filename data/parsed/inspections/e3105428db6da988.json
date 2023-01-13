@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REX LOVELACE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2021"
+  "date": "18-MAY-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "The Reptarium, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2022"
+  "date": "21-APR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Euphractus sexcinctus",
+      "common": "YELLOW ARMADILLO"
+    }
+  ]
 }

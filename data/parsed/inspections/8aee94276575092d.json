@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LYNDAL SWARTZENTRUBER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "23-APR-2021"
+  "date": "23-APR-2021",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "Worms Wiggle In LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2022"
+  "date": "13-OCT-2022",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 12,
+      "scientific": "MUS MINUTOIDES",
+      "common": "AFRICAN PYGMY MOUSE"
+    },
+    {
+      "count": 11,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 29,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 34,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    }
+  ]
 }

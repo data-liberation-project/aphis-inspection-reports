@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "MARK AINE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2016"
+  "date": "16-JUN-2016",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

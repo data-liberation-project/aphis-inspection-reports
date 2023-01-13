@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "HAR MAR PET SHOP INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2016"
+  "date": "21-APR-2016",
+  "animals_total": 176,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 21,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 53,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 15,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    },
+    {
+      "count": 9,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

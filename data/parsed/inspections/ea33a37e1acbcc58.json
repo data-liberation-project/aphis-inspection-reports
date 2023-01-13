@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SUSAN T CURTIS & ORAL JODY CURTIS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-FEB-2018"
+  "date": "21-FEB-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

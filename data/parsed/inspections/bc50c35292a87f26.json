@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN M YODER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-APR-2019"
+  "date": "23-APR-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joyful Companions",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-APR-2022"
+  "date": "14-APR-2022",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

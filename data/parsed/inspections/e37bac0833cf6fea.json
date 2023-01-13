@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Irene Phillips",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2017"
+  "date": "07-FEB-2017",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

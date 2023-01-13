@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JAMES MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2016"
+  "date": "25-OCT-2016",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    }
+  ]
 }

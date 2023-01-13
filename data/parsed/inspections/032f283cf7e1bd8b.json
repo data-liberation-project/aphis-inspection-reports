@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "LOS ANGELES ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2015"
+  "date": "01-MAY-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Trachypithecus francoisi",
+      "common": "FRANCOIS'S LANGUR"
+    }
+  ]
 }

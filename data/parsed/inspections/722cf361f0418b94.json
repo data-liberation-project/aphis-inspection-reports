@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Deborah Bell",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-OCT-2016"
+  "date": "05-OCT-2016",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lepus europaeus",
+      "common": "EUROPEAN HARE"
+    }
+  ]
 }

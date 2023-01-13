@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ORANGEBURG NY 8 CORPORATE DR.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAY-2021"
+  "date": "10-MAY-2021",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 5,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    }
+  ]
 }

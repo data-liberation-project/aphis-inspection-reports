@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Ed Robinson, Jennifer Robinson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2016"
+  "date": "28-SEP-2016",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 25,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

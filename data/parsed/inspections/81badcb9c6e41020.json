@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATHAN S. KLINE INSITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2014"
+  "date": "17-JUL-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MORNING GLORY KENNELS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-MAR-2020"
+  "date": "18-MAR-2020",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

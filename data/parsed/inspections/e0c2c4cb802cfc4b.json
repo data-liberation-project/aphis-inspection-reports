@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSEPH D MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2017"
+  "date": "20-JUL-2017",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

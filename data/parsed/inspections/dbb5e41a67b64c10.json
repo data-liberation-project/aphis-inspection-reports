@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NATURAL HISTORY EDUCATION CO OF MIDSOUTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2018"
+  "date": "29-MAY-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOPE COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2019"
+  "date": "12-DEC-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
 }

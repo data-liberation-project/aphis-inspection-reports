@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ACCULAB LIFE SCIENCES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2017"
+  "date": "06-JUL-2017",
+  "animals_total": 219,
+  "species": [
+    {
+      "count": 151,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 68,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

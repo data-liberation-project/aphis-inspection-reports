@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID MILLER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "29-DEC-2021"
+  "date": "29-DEC-2021",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

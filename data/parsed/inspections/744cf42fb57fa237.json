@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUNSHINE RIDGE PUPPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2021"
+  "date": "17-MAR-2021",
+  "animals_total": 272,
+  "species": [
+    {
+      "count": 168,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

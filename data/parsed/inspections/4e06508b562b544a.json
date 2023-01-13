@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANNA MAE GOOD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2016"
+  "date": "07-JAN-2016",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

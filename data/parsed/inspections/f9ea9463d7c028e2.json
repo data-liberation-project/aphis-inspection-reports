@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Rosanna Detweiler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2022"
+  "date": "29-NOV-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

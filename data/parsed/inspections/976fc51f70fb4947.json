@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SONYA KELLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2019"
+  "date": "06-AUG-2019",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

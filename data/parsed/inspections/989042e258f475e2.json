@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRINA THOMAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2019"
+  "date": "19-AUG-2019",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

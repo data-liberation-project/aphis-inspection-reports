@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "CHRIS NELSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2019"
+  "date": "27-OCT-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 2,
+      "scientific": "Atherurus africanus",
+      "common": "AFRICAN BRUSH-TAILED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 13,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

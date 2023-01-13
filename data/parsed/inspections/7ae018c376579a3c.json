@@ -8,5 +8,53 @@
   "site_id": "002",
   "site_name": "LINDSAY WILDLIFE EXPERIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2015"
+  "date": "02-JUN-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus audubonii",
+      "common": "DESERT COTTONTAIL RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Thomomys bottae",
+      "common": "BOTTA'S POCKET GOPHER"
+    }
+  ]
 }

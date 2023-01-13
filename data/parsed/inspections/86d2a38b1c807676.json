@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Priscilla Tatum",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2014"
+  "date": "02-DEC-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

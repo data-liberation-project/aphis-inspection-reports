@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "EMILY MAUCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2022"
+  "date": "01-DEC-2022",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

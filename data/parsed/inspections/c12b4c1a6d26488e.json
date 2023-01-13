@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ESTHER & WILLARD BORNTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2016"
+  "date": "04-AUG-2016",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

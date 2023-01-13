@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SASHI BAEZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2020"
+  "date": "27-FEB-2020",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

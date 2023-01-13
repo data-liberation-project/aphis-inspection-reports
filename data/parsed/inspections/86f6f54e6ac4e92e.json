@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "CRITTER CABANA, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2015"
+  "date": "26-FEB-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 11,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

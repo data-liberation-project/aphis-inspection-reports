@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTHERN BIOTECHNOLOGY ASSOC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2019"
+  "date": "16-APR-2019",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 53,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

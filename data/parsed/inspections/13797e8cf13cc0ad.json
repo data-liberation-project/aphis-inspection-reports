@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "A F B INTERNATIONAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2016"
+  "date": "24-FEB-2016",
+  "animals_total": 254,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 146,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

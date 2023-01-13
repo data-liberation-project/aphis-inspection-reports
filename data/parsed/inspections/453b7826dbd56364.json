@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JUDY A. LE BRELL & STEPHEN C. LE BRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2016"
+  "date": "02-NOV-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

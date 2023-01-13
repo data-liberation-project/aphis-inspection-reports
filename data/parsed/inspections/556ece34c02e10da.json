@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "JES EXOTICS SANCTUARY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-JAN-2022"
+  "date": "13-JAN-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

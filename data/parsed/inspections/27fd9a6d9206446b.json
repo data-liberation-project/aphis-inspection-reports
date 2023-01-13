@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MOSE YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2019"
+  "date": "04-JUN-2019",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

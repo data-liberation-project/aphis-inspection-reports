@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT IS HERE INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-FEB-2018"
+  "date": "22-FEB-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

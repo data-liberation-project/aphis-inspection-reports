@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICK & SHELLY KUHN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2017"
+  "date": "30-JAN-2017",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

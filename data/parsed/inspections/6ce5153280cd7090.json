@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JOANN PAQUETTE/SUTLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2015"
+  "date": "30-JUL-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

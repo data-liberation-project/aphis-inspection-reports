@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CALIFORNIA STATE POLYTECHNIC UNIVERSITY, POMONA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2019"
+  "date": "17-DEC-2019",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 35,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 169,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PETIE WZ SCHWARTZ",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "01-SEP-2021"
+  "date": "01-SEP-2021",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

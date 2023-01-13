@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Suzanne Richardson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2014"
+  "date": "21-MAR-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

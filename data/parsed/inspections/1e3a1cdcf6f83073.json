@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEE OR DESIREE BOGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2014"
+  "date": "09-JUL-2014",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

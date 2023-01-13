@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "KENNETH HETRICK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2014"
+  "date": "28-AUG-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctos",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo \u00d7 panthera tigris",
+      "common": "LIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "The University of Texas at Austin - ARC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2014"
+  "date": "09-JUN-2014",
+  "animals_total": 1198,
+  "species": [
+    {
+      "count": 520,
+      "scientific": "Calomys laucha",
+      "common": "VESPER MOUSE"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 7,
+      "scientific": "Microcebus murinus",
+      "common": "LESSER MOUSE LEMUR"
+    },
+    {
+      "count": 214,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 321,
+      "scientific": "Onychomys arenicola",
+      "common": "CHIHUAHUAN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 30,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 82,
+      "scientific": "Pachyuromys duprasi",
+      "common": "FAT-TAILED GERBIL"
+    }
+  ]
 }

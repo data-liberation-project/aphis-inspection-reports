@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHEA BAILEY AND LEAH BAILEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2022"
+  "date": "22-JUN-2022",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "COLLEEN D HARLOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-FEB-2022"
+  "date": "23-FEB-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

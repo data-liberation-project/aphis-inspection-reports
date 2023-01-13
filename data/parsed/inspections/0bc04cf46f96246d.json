@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "EVERGLADES OUTPOST INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2016"
+  "date": "19-JAN-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

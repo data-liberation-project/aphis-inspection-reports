@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHRINE WOODCOCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2018"
+  "date": "07-NOV-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, IRVINE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2014"
+  "date": "30-OCT-2014",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atlantoxerus getulus",
+      "common": "BARBARY GROUND SQUIRREL"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 68,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

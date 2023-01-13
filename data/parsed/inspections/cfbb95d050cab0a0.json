@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BAUMANS CRITTERS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2020"
+  "date": "27-FEB-2020",
+  "animals_total": 5800,
+  "species": [
+    {
+      "count": 1703,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 2470,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1627,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

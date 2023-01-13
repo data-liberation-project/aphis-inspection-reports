@@ -8,5 +8,18 @@
   "site_id": "014",
   "site_name": "HORSHAM PA SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2018"
+  "date": "28-JUN-2018",
+  "animals_total": 517,
+  "species": [
+    {
+      "count": 99,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 418,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "SHEDD AQUARIUM SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-DEC-2019"
+  "date": "05-DEC-2019",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callimico goeldii",
+      "common": "GOELDI'S MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 8,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 8,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Lagenorhynchus obliquidens",
+      "common": "PACIFIC WHITE-SIDED DOLPHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

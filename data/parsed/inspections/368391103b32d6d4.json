@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "NATIONAL ZOOLOGICAL PARK",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-JUL-2022"
+  "date": "28-JUL-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Chrysocyon brachyurus",
+      "common": "MANED WOLF"
+    }
+  ]
 }

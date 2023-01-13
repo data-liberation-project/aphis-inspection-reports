@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "MUNICIPAL BLACK BEAR HABITAT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2018"
+  "date": "13-FEB-2018",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamiasciurus hudsonicus",
+      "common": "AMERICAN RED SQUIRREL"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

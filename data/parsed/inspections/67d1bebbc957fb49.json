@@ -8,5 +8,18 @@
   "site_id": "000",
   "site_name": "NORMAN SCHMUCKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEVON SCHROCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2014"
+  "date": "12-FEB-2014",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LONG ISLAND CHILDRENS MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2016"
+  "date": "30-JUN-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    }
+  ]
 }

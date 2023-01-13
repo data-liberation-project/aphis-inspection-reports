@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PEACE VALLEY ORCHARDS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2018"
+  "date": "28-AUG-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

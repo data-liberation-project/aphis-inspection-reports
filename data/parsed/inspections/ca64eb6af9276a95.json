@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JORGE PAGES",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "02-NOV-2022"
+  "date": "02-NOV-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 7,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

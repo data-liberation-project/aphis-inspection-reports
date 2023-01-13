@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARCUS K LANTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUN-2021"
+  "date": "10-JUN-2021",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

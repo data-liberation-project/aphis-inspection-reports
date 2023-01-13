@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "VARIOUS TRAVEL LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2014"
+  "date": "01-MAR-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

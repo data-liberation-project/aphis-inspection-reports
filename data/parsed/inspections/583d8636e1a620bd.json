@@ -8,5 +8,28 @@
   "site_id": "008",
   "site_name": "Labcorp Early Development Laboratories Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2021"
+  "date": "27-SEP-2021",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 85,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

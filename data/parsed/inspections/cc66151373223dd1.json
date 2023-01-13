@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Danny Melton",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

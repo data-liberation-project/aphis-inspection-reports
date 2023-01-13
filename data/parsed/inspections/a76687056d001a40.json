@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAX PLANCK FLORIDA CORPORATION",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "26-AUG-2019"
+  "date": "26-AUG-2019",
+  "animals_total": 154,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 128,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    }
+  ]
 }

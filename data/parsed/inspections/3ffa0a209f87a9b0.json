@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "SWEET POTATO HOLLOW L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-NOV-2016"
+  "date": "10-NOV-2016",
+  "animals_total": 187,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 17,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 12,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 55,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 45,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Rucervus duvaucelii",
+      "common": "BARASINGHA / SWAMP DEER"
+    }
+  ]
 }

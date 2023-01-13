@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Kansas Wetlands Education Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2017"
+  "date": "25-JAN-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dipodomys ordii",
+      "common": "ORD'S KANGAROO RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Onychomys leucogaster",
+      "common": "NORTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

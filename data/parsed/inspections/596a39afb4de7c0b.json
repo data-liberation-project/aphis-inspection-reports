@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEN AND SHIRLEY GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2017"
+  "date": "05-SEP-2017",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

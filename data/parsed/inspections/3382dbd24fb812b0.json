@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WYOMING FISH & GAME",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2014"
+  "date": "05-AUG-2014",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 86,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

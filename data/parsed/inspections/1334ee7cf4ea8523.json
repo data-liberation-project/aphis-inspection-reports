@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LOS ANGELES COUNTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2019"
+  "date": "17-OCT-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

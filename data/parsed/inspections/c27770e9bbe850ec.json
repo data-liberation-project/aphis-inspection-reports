@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WORLD BIRD SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

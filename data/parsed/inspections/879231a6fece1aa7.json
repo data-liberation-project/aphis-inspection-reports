@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI YODER JR",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "11-JUN-2015"
+  "date": "11-JUN-2015",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

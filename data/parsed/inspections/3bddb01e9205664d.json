@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELINE MC DUFFEE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2019"
+  "date": "15-AUG-2019",
+  "animals_total": 1267,
+  "species": [
+    {
+      "count": 758,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 509,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

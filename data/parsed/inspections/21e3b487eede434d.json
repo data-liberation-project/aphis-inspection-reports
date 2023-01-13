@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "ELM HILL LABS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2015"
+  "date": "01-OCT-2015",
+  "animals_total": 10000,
+  "species": [
+    {
+      "count": 10000,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
 }

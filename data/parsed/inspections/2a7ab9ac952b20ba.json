@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CITY & COUNTY OF SAN FRANCISCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JAN-2021"
+  "date": "29-JAN-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Dipodomys deserti",
+      "common": "DESERT KANGAROO RAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 14,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
 }

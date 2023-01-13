@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Oak Hill Genetics LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "06-OCT-2022"
+  "date": "06-OCT-2022",
+  "animals_total": 1926,
+  "species": [
+    {
+      "count": 304,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1000,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 622,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

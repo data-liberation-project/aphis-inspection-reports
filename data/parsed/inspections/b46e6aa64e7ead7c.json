@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PINE ACRES RABBITRY/FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2017"
+  "date": "23-JAN-2017",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 55,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

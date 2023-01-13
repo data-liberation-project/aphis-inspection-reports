@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTH CAROLINA AQUARIUM",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "11-OCT-2022"
+  "date": "11-OCT-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

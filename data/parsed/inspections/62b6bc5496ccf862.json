@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RONNIE BEAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2016"
+  "date": "18-FEB-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

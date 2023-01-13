@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEA JACOBS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-SEP-2019"
+  "date": "24-SEP-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

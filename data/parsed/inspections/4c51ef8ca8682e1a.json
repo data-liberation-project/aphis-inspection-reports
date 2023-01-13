@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GRACE & GLORY MINISTRIES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-MAY-2014"
+  "date": "13-MAY-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

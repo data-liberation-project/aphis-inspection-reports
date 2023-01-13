@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROLAND & JOAN KEITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2019"
+  "date": "30-JUL-2019",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

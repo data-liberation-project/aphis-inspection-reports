@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TEXAS PARKS & WILDLIFE DEPT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2016"
+  "date": "09-JUN-2016",
+  "animals_total": 258,
+  "species": [
+    {
+      "count": 234,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 24,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

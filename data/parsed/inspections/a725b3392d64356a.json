@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REBECCA SMITH & TIM SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-DEC-2014"
+  "date": "04-DEC-2014",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REX AND DEBRA HOPKINS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "17-OCT-2017"
+  "date": "17-OCT-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

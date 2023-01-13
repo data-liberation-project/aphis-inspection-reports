@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "JABCECC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "08-MAR-2022"
+  "date": "08-MAR-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    }
+  ]
 }

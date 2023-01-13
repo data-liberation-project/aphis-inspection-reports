@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AINSWORTH PET NUTRITION L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2017"
+  "date": "16-OCT-2017",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

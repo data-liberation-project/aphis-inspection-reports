@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COMPANIONS FOREVER LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

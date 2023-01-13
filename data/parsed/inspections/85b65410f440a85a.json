@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHONDA WIGGINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2020"
+  "date": "25-MAR-2020",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

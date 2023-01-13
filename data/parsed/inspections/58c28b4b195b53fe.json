@@ -8,5 +8,23 @@
   "site_id": "004",
   "site_name": "WHALE BRANCH ANIMAL SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 175,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRI GILLUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2016"
+  "date": "12-DEC-2016",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

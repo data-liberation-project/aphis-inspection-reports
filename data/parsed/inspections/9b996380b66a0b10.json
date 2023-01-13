@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joseph Hershberger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2016"
+  "date": "08-MAR-2016",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

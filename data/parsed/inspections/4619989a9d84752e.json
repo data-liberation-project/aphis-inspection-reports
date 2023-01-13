@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA BANWART",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2017"
+  "date": "26-APR-2017",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

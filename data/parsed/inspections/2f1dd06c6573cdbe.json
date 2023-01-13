@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CHANCY ECKERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2022"
+  "date": "11-OCT-2022",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 144,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 22,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 8,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    }
+  ]
 }

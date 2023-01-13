@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CINDY GREFE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-MAY-2016"
+  "date": "11-MAY-2016",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 15,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Philander opossum",
+      "common": "GREY FOUR-EYED OPOSSUM"
+    }
+  ]
 }

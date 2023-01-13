@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN RAY MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2019"
+  "date": "17-JUN-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

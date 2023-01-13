@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MISTI FYKSTRA, JASON FYKSTRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2017"
+  "date": "27-APR-2017",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

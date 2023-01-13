@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "FOOTHILL COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2019"
+  "date": "27-FEB-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

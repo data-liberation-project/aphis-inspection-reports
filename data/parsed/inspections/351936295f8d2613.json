@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDER RESORTS INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2014"
+  "date": "15-JUL-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

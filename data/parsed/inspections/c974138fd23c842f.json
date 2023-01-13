@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dave Brown",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-AUG-2015"
+  "date": "21-AUG-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

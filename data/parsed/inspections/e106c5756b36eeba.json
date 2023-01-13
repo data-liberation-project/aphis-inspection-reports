@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SARA ERWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2017"
+  "date": "05-JAN-2017",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

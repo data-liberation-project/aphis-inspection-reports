@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Fontenelle Forest",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "29-APR-2016"
+  "date": "29-APR-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

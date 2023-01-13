@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERNON E YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2022"
+  "date": "30-MAR-2022",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

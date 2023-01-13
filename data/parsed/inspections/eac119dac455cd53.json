@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY M MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2018"
+  "date": "25-JAN-2018",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

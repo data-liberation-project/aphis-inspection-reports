@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lisa D. Fielder",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "31-DEC-2014"
+  "date": "31-DEC-2014",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

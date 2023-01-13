@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHIL WEYMOUTH, YOLANDA WEYMOUTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2016"
+  "date": "12-JAN-2016",
+  "animals_total": 233,
+  "species": [
+    {
+      "count": 185,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

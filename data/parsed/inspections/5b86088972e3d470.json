@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SUZI LIVENGOOD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2022"
+  "date": "01-MAR-2022",
+  "animals_total": 280,
+  "species": [
+    {
+      "count": 208,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

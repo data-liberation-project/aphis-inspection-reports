@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DELMAR & KATHY LOE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2020"
+  "date": "04-NOV-2020",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

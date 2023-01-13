@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN BARKMAN",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "22-OCT-2014"
+  "date": "22-OCT-2014",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

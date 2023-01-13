@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Yvette Bolz, Larry Bolz",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-AUG-2015"
+  "date": "24-AUG-2015",
+  "animals_total": 247,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

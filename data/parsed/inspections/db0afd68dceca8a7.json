@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Marie Doherty",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-OCT-2015"
+  "date": "22-OCT-2015",
+  "animals_total": 378,
+  "species": [
+    {
+      "count": 269,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Scott & White Memorial Hospital",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2017"
+  "date": "06-SEP-2017",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

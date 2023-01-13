@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FLORIDA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2021"
+  "date": "19-AUG-2021",
+  "animals_total": 221,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 212,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    }
+  ]
 }

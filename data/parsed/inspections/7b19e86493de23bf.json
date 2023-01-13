@@ -8,5 +8,83 @@
   "site_id": "001",
   "site_name": "City of Clay Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2016"
+  "date": "31-MAY-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamiasciurus hudsonicus",
+      "common": "AMERICAN RED SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

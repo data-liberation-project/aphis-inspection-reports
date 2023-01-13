@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

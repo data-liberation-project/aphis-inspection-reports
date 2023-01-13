@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "STONE MOUNTAIN GAME RANCH",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "09-JAN-2018"
+  "date": "09-JAN-2018",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

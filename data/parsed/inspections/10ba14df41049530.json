@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "WILDCAT RIDGE SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2017"
+  "date": "16-NOV-2017",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 14,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 15,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 8,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

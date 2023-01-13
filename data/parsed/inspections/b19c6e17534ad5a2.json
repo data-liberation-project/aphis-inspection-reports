@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Kae Hamilton",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2022"
+  "date": "08-JUN-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

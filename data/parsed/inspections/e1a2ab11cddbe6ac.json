@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HARVARD UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2014"
+  "date": "01-JUL-2014",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ford Enterprises L L C",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "28-APR-2022"
+  "date": "28-APR-2022",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

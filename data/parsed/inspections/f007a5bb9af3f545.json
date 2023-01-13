@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PRIMO PUPPIES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2022"
+  "date": "27-OCT-2022",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RAD PETS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2014"
+  "date": "30-APR-2014",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 26,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 35,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 75,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

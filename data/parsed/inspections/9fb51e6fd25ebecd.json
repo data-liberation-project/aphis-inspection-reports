@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAUL MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2015"
+  "date": "07-OCT-2015",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cercopithecus hamlyni",
+      "common": "OWL-FACED MONKEY"
+    }
+  ]
 }

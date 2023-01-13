@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2021"
+  "date": "09-AUG-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Tamias speciosus",
+      "common": "LODGEPOLE CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Neotamias alpinus",
+      "common": "ALPINE CHIPMUNK"
+    }
+  ]
 }

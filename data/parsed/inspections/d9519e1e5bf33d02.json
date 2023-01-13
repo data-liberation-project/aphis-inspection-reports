@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SEA WORLD OF FLORIDA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2014"
+  "date": "26-FEB-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 4,
+      "scientific": "Globicephala melaena",
+      "common": "LONG-FINNED PILOT WHALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    }
+  ]
 }

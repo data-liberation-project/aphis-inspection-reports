@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WASHINGTON FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2014"
+  "date": "13-MAY-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

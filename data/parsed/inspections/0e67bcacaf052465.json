@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BUNKY BOGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2016"
+  "date": "27-OCT-2016",
+  "animals_total": 153,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 72,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 49,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

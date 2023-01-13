@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ARROW B FARMS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2019"
+  "date": "25-FEB-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Susan Mosher",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2022"
+  "date": "30-MAR-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "WILD THINGS EXOTIC ANIMALS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2015"
+  "date": "05-MAR-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Erinaceus europaeus",
+      "common": "WESTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GARY CHUPP",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "10-SEP-2015"
+  "date": "10-SEP-2015",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

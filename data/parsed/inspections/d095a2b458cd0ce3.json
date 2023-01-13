@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "KYTY COMPANY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2022"
+  "date": "13-OCT-2022",
+  "animals_total": 234,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 56,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 32,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 86,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 8,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 4,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 5,
+      "scientific": "Pachyuromys duprasi",
+      "common": "FAT-TAILED GERBIL"
+    }
+  ]
 }

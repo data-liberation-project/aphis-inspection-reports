@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "HERSHEY MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2021"
+  "date": "06-JUL-2021",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

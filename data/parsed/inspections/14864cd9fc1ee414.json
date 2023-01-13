@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Millikens Farms, L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-APR-2015"
+  "date": "09-APR-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

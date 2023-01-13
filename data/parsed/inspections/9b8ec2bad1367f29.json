@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSEPH D TROYER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "15-FEB-2019"
+  "date": "15-FEB-2019",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

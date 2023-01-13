@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COUNTRY MINIDOODLES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2015"
+  "date": "30-JUN-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

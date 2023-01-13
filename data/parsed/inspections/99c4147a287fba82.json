@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "T W R C Wildlife Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2014"
+  "date": "20-MAY-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

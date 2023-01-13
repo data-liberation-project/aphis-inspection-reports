@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "FARM RIVER WILDLIFE RESCUE & REHABILITATION INC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "07-OCT-2021"
+  "date": "07-OCT-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

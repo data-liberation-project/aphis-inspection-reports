@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHEILA BEALMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2018"
+  "date": "14-SEP-2018",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 155,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

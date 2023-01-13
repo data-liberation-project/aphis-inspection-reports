@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CONNIE TIBBS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-MAY-2018"
+  "date": "31-MAY-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE / SNOW MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNY GABEL AND BARB GABEL",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "22-SEP-2020"
+  "date": "22-SEP-2020",
+  "animals_total": 222,
+  "species": [
+    {
+      "count": 154,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

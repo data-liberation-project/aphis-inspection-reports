@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REUBEN & LEWIS YUTZY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2021"
+  "date": "19-AUG-2021",
+  "animals_total": 199,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

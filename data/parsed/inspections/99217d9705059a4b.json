@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOMER SLABAUGH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2021"
+  "date": "07-SEP-2021",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

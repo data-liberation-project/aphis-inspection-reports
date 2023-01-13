@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HARRISON COUNTY PARKS DEPT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2019"
+  "date": "04-FEB-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

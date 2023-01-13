@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESLIES OKLAHOMA ENGLISH BULLDOGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2018"
+  "date": "08-MAR-2018",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

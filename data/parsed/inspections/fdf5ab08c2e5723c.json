@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "East Texas Gators",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2016"
+  "date": "28-OCT-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

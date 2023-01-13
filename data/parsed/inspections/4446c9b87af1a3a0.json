@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "BRAD GREGORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2014"
+  "date": "04-SEP-2014",
+  "animals_total": 494,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 64,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 36,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 98,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 226,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

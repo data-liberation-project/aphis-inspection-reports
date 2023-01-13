@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AMY DAY & GARY MORRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2018"
+  "date": "29-MAY-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

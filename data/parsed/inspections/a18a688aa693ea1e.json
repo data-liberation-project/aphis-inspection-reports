@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "KEVIN KEITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2021"
+  "date": "18-NOV-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

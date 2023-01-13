@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICTOR GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2017"
+  "date": "02-AUG-2017",
+  "animals_total": 217,
+  "species": [
+    {
+      "count": 122,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

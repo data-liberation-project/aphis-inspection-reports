@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WHALE BRANCH ANIMAL SERVICES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-MAR-2018"
+  "date": "07-MAR-2018",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

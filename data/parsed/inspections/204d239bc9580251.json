@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DIAMOND ANIMAL HEALTH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2019"
+  "date": "22-APR-2019",
+  "animals_total": 244,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 220,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

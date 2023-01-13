@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WEBER STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Neotoma albigula",
+      "common": "WHITE-THROATED WOODRAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Neotoma lepida",
+      "common": "DESERT WOODRAT"
+    }
+  ]
 }

@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "April Enterprises L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-APR-2015"
+  "date": "06-APR-2015",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 11,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela eversmannii",
+      "common": "STEPPE POLECAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

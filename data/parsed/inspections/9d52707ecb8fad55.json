@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LINVILLA ORCHARDS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2020"
+  "date": "02-MAR-2020",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

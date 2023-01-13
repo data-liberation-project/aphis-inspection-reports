@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA L GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2019"
+  "date": "22-MAY-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

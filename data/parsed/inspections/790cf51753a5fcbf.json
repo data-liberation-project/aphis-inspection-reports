@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF COLORADO DENVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2021"
+  "date": "15-JUN-2021",
+  "animals_total": 306,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 194,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 32,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 40,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    }
+  ]
 }

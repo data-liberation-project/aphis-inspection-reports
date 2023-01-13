@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY HUBERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2022"
+  "date": "04-APR-2022",
+  "animals_total": 230,
+  "species": [
+    {
+      "count": 145,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

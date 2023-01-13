@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN ERB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2014"
+  "date": "02-JUN-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

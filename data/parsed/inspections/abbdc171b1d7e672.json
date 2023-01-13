@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN RABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-JUN-2017"
+  "date": "14-JUN-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

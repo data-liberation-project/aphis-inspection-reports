@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Henry Yoder",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "25-JUL-2022"
+  "date": "25-JUL-2022",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SUNY DOWNSTATE MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2021"
+  "date": "28-APR-2021",
+  "animals_total": 258,
+  "species": [
+    {
+      "count": 125,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 55,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 27,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 51,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

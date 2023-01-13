@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PATRICIA EDENFIELD TANNER EDENFIELD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2018"
+  "date": "26-JUL-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADAM YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2014"
+  "date": "15-OCT-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

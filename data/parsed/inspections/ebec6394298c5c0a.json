@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Just Pets LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-SEP-2022"
+  "date": "02-SEP-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

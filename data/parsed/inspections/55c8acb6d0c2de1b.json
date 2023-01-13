@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "DANIEL RESSLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2019"
+  "date": "19-MAR-2019",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 5,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 28,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 6,
+      "scientific": "Equus zebra",
+      "common": "MOUNTAIN ZEBRA / HARTMANN'S ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 6,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 7,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 13,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 8,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

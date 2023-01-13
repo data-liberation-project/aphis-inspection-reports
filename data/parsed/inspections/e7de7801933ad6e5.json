@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DONALD CHILTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2014"
+  "date": "22-JUL-2014",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 18,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 25,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 5,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

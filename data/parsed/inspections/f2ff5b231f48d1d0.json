@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SHARON A FREEMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-NOV-2021"
+  "date": "01-NOV-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Ateles hybridus",
+      "common": "BROWN (WHITE-BELLIED) SPIDER MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MATERIALS BIO, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2014"
+  "date": "17-SEP-2014",
+  "animals_total": 5001,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 343,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4636,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

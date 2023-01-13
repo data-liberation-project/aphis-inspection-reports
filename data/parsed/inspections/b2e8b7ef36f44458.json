@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRY CURTIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2017"
+  "date": "02-AUG-2017",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

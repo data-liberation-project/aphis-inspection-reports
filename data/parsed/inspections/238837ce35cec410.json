@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL F WINGARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2020"
+  "date": "05-AUG-2020",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

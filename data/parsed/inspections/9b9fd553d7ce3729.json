@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RHONDA THOMAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2020"
+  "date": "20-FEB-2020",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

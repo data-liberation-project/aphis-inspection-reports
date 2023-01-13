@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Siess Ranch L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2019"
+  "date": "30-MAY-2019",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

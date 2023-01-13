@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMY HOLTKAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2015"
+  "date": "16-MAR-2015",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

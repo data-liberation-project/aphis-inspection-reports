@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "FRISKY'S WILDLIFE & PRIMATE SANCTUARY, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2019"
+  "date": "27-FEB-2019",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

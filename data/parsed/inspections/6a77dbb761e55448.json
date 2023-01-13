@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CW FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2022"
+  "date": "05-JUL-2022",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

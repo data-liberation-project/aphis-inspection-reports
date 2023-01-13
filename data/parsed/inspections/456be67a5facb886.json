@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRUCE AND JACKIE TERHARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2021"
+  "date": "28-OCT-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

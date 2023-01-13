@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2014"
+  "date": "04-NOV-2014",
+  "animals_total": 348,
+  "species": [
+    {
+      "count": 239,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

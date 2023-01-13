@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2017"
+  "date": "12-DEC-2017",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

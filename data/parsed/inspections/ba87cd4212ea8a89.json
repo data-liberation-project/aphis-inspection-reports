@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHONDA POPE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-DEC-2018"
+  "date": "04-DEC-2018",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

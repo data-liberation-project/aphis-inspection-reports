@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SMITH COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-OCT-2016"
+  "date": "24-OCT-2016",
+  "animals_total": 322,
+  "species": [
+    {
+      "count": 201,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 121,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
 }

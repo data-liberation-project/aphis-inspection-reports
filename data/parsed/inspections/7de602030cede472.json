@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BETHYL LABORATORIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2016"
+  "date": "22-JUN-2016",
+  "animals_total": 3415,
+  "species": [
+    {
+      "count": 339,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3022,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 36,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

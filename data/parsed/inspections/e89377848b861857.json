@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "SCOTT HEINRICHS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2017"
+  "date": "25-OCT-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctogalidia trivirgata",
+      "common": "THREE-STRIPED PALM CIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Micoureus regina",
+      "common": "SHORT-FURRED WOOLLY MOUSE OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

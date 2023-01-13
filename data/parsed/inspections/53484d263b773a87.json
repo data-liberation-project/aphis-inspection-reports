@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LENNY HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2022"
+  "date": "17-AUG-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

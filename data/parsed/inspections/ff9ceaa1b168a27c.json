@@ -8,5 +8,58 @@
   "site_id": "005",
   "site_name": "Animal Source Texas Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2014"
+  "date": "24-JUN-2014",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 3,
+      "scientific": "Ictonyx striatus",
+      "common": "ZORILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Notamacropus eugenii",
+      "common": "TAMMAR WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Phloeomys pallidus",
+      "common": "NORTHERN LUZON PHLOEOMYS"
+    },
+    {
+      "count": 1,
+      "scientific": "Procavia capensis",
+      "common": "ROCK HYRAX"
+    },
+    {
+      "count": 5,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    }
+  ]
 }

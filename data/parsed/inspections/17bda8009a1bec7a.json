@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "AQUARIUM OF THE PACIFIC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2014"
+  "date": "06-AUG-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Abditomys latidens",
+      "common": "LUZON BROAD-TOOTHED RAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

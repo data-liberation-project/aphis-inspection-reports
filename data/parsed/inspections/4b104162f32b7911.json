@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TOBY DETWEILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2021"
+  "date": "25-FEB-2021",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

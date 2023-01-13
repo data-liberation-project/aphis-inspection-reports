@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WESTON RED BARN FARM L L P",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2014"
+  "date": "14-JUL-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

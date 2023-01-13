@@ -8,5 +8,368 @@
   "site_id": "001",
   "site_name": "CITY OF MONROE L A",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2018"
+  "date": "08-AUG-2018",
+  "animals_total": 237,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 1,
+      "scientific": "Aepyceros melampus",
+      "common": "IMPALA"
+    },
+    {
+      "count": 11,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 7,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Atherurus africanus",
+      "common": "AFRICAN BRUSH-TAILED PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 25,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 35,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasyprocta leporina",
+      "common": "BRAZILIAN AGOUTI"
+    },
+    {
+      "count": 4,
+      "scientific": "Dasypus septemcinctus",
+      "common": "BRAZILIAN LONG-NOSED ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Hippopotamus amphibius",
+      "common": "HIPPOPOTAMUS"
+    },
+    {
+      "count": 2,
+      "scientific": "Hoolock hoolock",
+      "common": "HOOLOCK GIBBON"
+    },
+    {
+      "count": 1,
+      "scientific": "Hylobates agilis",
+      "common": "AGILE GIBBON"
+    },
+    {
+      "count": 5,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 3,
+      "scientific": "Kobus leche",
+      "common": "RED LECHWE / SOUTHERN LECHWE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus pardalis",
+      "common": "OCELOT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus crinifrons",
+      "common": "BLACK MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 5,
+      "scientific": "Phacochoerus aethiopicus",
+      "common": "DESERT WARTHOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 4,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 1,
+      "scientific": "Tapirus bairdii",
+      "common": "BAIRD'S TAPIR"
+    },
+    {
+      "count": 4,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 5,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

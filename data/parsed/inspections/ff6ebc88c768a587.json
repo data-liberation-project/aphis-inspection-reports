@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA HEWITT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JAN-2022"
+  "date": "24-JAN-2022",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

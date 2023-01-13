@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "AUDUBON NATURE INSTITUTE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-JUL-2016"
+  "date": "06-JUL-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal",
+      "common": "CARAVAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris",
+      "common": "WILDCAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    }
+  ]
 }

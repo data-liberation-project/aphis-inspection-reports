@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2021"
+  "date": "06-JUL-2021",
+  "animals_total": 1673,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 6,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 22,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 1572,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 16,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 27,
+      "scientific": "Acomys kempi",
+      "common": "KEMP\u2019S SPINY MOUSE"
+    }
+  ]
 }

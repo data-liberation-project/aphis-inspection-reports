@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GEORGE WASHINGTON UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2016"
+  "date": "05-APR-2016",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

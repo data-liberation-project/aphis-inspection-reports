@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joseph Stutzman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2022"
+  "date": "01-MAR-2022",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

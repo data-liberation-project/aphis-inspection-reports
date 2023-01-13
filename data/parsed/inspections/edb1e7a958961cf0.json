@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLEARWATER KENNEL INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2014"
+  "date": "09-SEP-2014",
+  "animals_total": 1050,
+  "species": [
+    {
+      "count": 738,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 312,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

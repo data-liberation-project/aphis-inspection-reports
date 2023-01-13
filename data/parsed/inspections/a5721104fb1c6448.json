@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ERIKA LANSDOWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2021"
+  "date": "11-FEB-2021",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

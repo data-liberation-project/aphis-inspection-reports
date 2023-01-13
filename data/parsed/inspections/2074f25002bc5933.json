@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ed Benhardt",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2022"
+  "date": "05-MAY-2022",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 13,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "ANIMAL JUNGLE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2014"
+  "date": "14-FEB-2014",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 25,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus gerbillus",
+      "common": "EGYPTIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    }
+  ]
 }

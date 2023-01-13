@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jackie Mayne",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "30-DEC-2015"
+  "date": "30-DEC-2015",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

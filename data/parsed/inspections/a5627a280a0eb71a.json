@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLISON HEDGPETH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2018"
+  "date": "14-MAR-2018",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA M. BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2017"
+  "date": "19-JUL-2017",
+  "animals_total": 864,
+  "species": [
+    {
+      "count": 540,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 324,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

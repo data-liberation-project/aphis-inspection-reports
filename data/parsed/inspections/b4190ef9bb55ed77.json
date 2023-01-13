@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RONNIE BEAN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "07-FEB-2022"
+  "date": "07-FEB-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

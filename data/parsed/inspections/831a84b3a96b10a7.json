@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "The Bug Lady's Science Academy, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2022"
+  "date": "19-SEP-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

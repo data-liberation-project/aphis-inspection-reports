@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JOHN ERIC DANKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2018"
+  "date": "26-APR-2018",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

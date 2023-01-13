@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REUBEN HERSCHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2021"
+  "date": "17-SEP-2021",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

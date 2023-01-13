@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "POISONOUS PLANT RESEARCH LABORATORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2017"
+  "date": "26-JUL-2017",
+  "animals_total": 342,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Ars birds",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 45,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 145,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH VARIETY)"
+    },
+    {
+      "count": 129,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

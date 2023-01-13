@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DORIS LANNON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-MAR-2014"
+  "date": "10-MAR-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bettongia penicillata",
+      "common": "BRUSH-TAILED RAT-KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "BROWN-NOSED COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

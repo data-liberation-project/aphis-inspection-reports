@@ -6,7 +6,20 @@
   "customer_addr": "5011 Murphy Dome Rd. #B\nFairbanks, AK 99709",
   "certificate": "96-A-0004",
   "site_id": "001",
-  "site_name": "MELISSA LOSH(cid:9)",
+  "site_name": "MELISSA LOSH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

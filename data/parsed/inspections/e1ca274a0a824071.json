@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JESUS MORFIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2017"
+  "date": "21-JUN-2017",
+  "animals_total": 312,
+  "species": [
+    {
+      "count": 217,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

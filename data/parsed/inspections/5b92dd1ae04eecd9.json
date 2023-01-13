@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS CUNNINGHAM & SARAH LANCASTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-FEB-2015"
+  "date": "09-FEB-2015",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

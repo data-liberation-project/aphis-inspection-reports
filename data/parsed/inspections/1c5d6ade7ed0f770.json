@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RIDGLAN FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2021"
+  "date": "03-AUG-2021",
+  "animals_total": 2748,
+  "species": [
+    {
+      "count": 1606,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

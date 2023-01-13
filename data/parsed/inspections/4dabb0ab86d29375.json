@@ -8,5 +8,83 @@
   "site_id": "001",
   "site_name": "City of San Angelo",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2016"
+  "date": "12-APR-2016",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dipodomys deserti",
+      "common": "DESERT KANGAROO RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lepus townsendii",
+      "common": "WHITE-TAILED JACK RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus mexicanus",
+      "common": "MEXICAN GROUND SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Spermophilus spilosoma",
+      "common": "SPOTTED GROUND SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Spilogale putorius",
+      "common": "SPOTTED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

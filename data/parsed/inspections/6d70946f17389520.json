@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEVE KRUSE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2015"
+  "date": "16-DEC-2015",
+  "animals_total": 532,
+  "species": [
+    {
+      "count": 516,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

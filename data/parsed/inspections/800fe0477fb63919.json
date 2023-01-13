@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY & CLEON RAMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2020"
+  "date": "18-MAR-2020",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

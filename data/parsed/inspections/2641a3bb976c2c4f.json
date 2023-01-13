@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WASHINGTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2016"
+  "date": "22-JUN-2016",
+  "animals_total": 664,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 237,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 322,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 27,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

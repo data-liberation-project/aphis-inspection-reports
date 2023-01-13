@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMERICAN RED CROSS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2014"
+  "date": "30-OCT-2014",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 38,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Telisia Strong",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2015"
+  "date": "18-MAY-2015",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

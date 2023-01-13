@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICKI GRAVES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JAN-2017"
+  "date": "10-JAN-2017",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

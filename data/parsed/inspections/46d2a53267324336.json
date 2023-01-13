@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUNGLE FRENZY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2020"
+  "date": "11-FEB-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

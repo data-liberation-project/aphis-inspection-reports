@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROOSTER COGBURN OSTRICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2020"
+  "date": "03-SEP-2020",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 60,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

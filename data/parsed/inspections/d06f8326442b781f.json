@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "A.G. BEUKELMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2014"
+  "date": "11-SEP-2014",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 92,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

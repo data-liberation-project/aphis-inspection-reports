@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "San Antonio Zoological Gardens",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "29-MAY-2018"
+  "date": "29-MAY-2018",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Cercocebus chrysogaster",
+      "common": "GOLDEN-BELLIED MANGABEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Leontopithecus chrysomelas",
+      "common": "GOLDEN-HEADED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Lophocebus aterrimus",
+      "common": "BLACK MANGABEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus imperator",
+      "common": "EMPEROR TAMARIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILES & CINDY WELLMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2019"
+  "date": "23-MAY-2019",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

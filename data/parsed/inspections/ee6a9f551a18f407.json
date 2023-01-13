@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PRIMERA SCIENCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2018"
+  "date": "16-FEB-2018",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 96,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

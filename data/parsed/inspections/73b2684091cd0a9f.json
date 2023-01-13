@@ -8,5 +8,43 @@
   "site_id": "TRA",
   "site_name": "KEVIN VOGEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2017"
+  "date": "17-FEB-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Paradoxurus hermaphroditus",
+      "common": "COMMON PALM CIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

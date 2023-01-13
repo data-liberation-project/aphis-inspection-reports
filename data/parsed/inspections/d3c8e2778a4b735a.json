@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Robert Snyder",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2022"
+  "date": "27-SEP-2022",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

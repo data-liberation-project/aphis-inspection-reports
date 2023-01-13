@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "WINCHESTER AQUARIUM & PET CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 29,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 22,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 7,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

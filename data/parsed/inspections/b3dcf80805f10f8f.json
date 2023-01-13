@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANNETTE CULVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2018"
+  "date": "13-FEB-2018",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

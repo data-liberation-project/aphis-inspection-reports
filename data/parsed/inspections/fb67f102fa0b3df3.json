@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN L WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2021"
+  "date": "07-APR-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

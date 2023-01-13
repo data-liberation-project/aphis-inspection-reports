@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBORAH & NELSON ALLEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2019"
+  "date": "03-APR-2019",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

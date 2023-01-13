@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF CINCINNATI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2020"
+  "date": "15-DEC-2020",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 1,
+      "scientific": "Okapia johnstoni",
+      "common": "OKAPI"
+    },
+    {
+      "count": 4,
+      "scientific": "Lycaon pictus",
+      "common": "AFRICAN HUNTING DOG / AFRICAN WILD DOG"
+    }
+  ]
 }

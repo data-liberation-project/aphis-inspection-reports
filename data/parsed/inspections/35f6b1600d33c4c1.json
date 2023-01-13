@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRAHAM'S KENNELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2019"
+  "date": "09-DEC-2019",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

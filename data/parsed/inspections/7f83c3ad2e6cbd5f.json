@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "CURI ODYSSEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2014"
+  "date": "11-MAR-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra felina",
+      "common": "MARINE OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon littoralis",
+      "common": "CHANNEL ISLANDS FOX"
+    }
+  ]
 }

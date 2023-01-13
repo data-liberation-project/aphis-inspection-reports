@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JUDY ROWLES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2020"
+  "date": "02-SEP-2020",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    }
+  ]
 }

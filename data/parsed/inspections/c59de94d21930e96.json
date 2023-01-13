@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HILLTOP VIEW PUPPIES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-JAN-2020"
+  "date": "21-JAN-2020",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MEMORY LANE KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2019"
+  "date": "20-MAR-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

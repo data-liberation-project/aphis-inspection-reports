@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GIBBON CONSERVATION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2014"
+  "date": "25-FEB-2014",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Hoolock hoolock",
+      "common": "HOOLOCK GIBBON"
+    },
+    {
+      "count": 12,
+      "scientific": "Hylobates moloch",
+      "common": "JAVAN GIBBON"
+    },
+    {
+      "count": 9,
+      "scientific": "Hylobates pileatus",
+      "common": "PILEATED GIBBON"
+    },
+    {
+      "count": 9,
+      "scientific": "Nomascus leucogenys",
+      "common": "WHITE-CHEEKED GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    }
+  ]
 }

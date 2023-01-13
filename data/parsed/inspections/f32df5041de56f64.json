@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Claudia Obermiller",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-APR-2014"
+  "date": "10-APR-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

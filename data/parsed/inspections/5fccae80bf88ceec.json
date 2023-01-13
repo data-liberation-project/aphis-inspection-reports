@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Rebecca Mosshart",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2022"
+  "date": "09-AUG-2022",
+  "animals_total": 190,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 129,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    }
+  ]
 }

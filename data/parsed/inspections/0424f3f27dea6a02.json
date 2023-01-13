@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDY SCHWEITZER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2018"
+  "date": "31-AUG-2018",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

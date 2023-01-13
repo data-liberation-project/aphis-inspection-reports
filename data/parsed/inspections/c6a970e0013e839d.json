@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Keith Kahlo, Michelle Kumke",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2015"
+  "date": "06-JAN-2015",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

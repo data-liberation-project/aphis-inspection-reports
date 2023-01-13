@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FIRMAN MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2017"
+  "date": "05-JAN-2017",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRAVIS & KARA ZOMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2017"
+  "date": "29-AUG-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

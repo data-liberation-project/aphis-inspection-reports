@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA FIELDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-APR-2018"
+  "date": "10-APR-2018",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

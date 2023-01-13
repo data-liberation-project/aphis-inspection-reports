@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "CARRIE LEO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2016"
+  "date": "21-APR-2016",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Martes pennanti",
+      "common": "FISHER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 12,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

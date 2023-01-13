@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARRISON COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2016"
+  "date": "06-JAN-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FELINES AND CANINES RESCUE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-NOV-2019"
+  "date": "01-NOV-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

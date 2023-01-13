@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CLEM DISTERHAUPT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2022"
+  "date": "26-JUL-2022",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

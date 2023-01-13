@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "TURPENTINE CREEK FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2018"
+  "date": "06-JUN-2018",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 7,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera leo x  p. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 48,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 5,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 10,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    }
+  ]
 }

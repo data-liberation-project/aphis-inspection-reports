@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS ALLGYER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "03-MAY-2022"
+  "date": "03-MAY-2022",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

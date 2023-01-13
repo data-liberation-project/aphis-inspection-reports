@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "KIRKVILLE ANIMAL RESCUE & EDUCATION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2021"
+  "date": "05-MAR-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 9,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Otolemur crassicaudatus",
+      "common": "GREATER BUSHBABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

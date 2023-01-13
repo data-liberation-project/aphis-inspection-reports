@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THERESA & JEFF COLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2015"
+  "date": "28-OCT-2015",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

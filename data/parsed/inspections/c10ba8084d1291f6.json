@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL D KUEHNE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2015"
+  "date": "17-DEC-2015",
+  "animals_total": 522,
+  "species": [
+    {
+      "count": 322,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 200,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

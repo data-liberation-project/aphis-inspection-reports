@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WANDA LUARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2022"
+  "date": "07-JUN-2022",
+  "animals_total": 174,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

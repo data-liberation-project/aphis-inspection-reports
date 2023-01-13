@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER PERKINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2019"
+  "date": "11-SEP-2019",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

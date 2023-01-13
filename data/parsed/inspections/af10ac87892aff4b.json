@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SKYLINE PUPPIES LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-AUG-2019"
+  "date": "26-AUG-2019",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "007",
   "site_name": "UNIVERSITY OF HAWAII AT MANOA WCCVT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2017"
+  "date": "21-MAR-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

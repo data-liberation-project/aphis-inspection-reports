@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRENT ISENSEE & LINDA ISENSEE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-JUL-2016"
+  "date": "20-JUL-2016",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

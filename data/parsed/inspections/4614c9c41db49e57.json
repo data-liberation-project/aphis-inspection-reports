@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "ALENA OULIANOVA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2015"
+  "date": "09-NOV-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

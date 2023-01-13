@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELANIE NEWROT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2014"
+  "date": "07-JUL-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

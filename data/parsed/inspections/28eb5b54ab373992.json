@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHNSON COUNTY PARK & RECREATION DISTRICT",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "07-SEP-2022"
+  "date": "07-SEP-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

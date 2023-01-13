@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VICTORIA A. TROST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2015"
+  "date": "26-JAN-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

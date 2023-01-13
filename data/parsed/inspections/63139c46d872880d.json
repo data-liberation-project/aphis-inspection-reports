@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2018"
+  "date": "09-AUG-2018",
+  "animals_total": 335,
+  "species": [
+    {
+      "count": 255,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "KRISTEN CORONIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2015"
+  "date": "18-FEB-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Monodelphis adusta",
+      "common": "SEPIA SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

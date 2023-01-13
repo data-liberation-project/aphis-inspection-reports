@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "KATHY WOODSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2018"
+  "date": "24-MAY-2018",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 27,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 11,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

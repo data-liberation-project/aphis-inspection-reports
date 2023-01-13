@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRACY EVERETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2019"
+  "date": "20-NOV-2019",
+  "animals_total": 264,
+  "species": [
+    {
+      "count": 228,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

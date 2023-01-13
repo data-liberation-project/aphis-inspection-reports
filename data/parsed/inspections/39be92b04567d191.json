@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Karen Graham",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2016"
+  "date": "13-OCT-2016",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 19,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SARAHS PARTY ANIMALS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-NOV-2017"
+  "date": "03-NOV-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

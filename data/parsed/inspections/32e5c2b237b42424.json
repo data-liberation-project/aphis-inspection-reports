@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Charles and Irma Jean Spires",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2015"
+  "date": "26-OCT-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

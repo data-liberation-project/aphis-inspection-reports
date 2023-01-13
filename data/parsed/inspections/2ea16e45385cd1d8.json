@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROCKIN REINDEER RANCH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JAN-2020"
+  "date": "16-JAN-2020",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

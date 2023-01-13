@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABRAHAM GRABER & LEVI WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2014"
+  "date": "30-SEP-2014",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

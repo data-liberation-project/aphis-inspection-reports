@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ENOS MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2017"
+  "date": "04-MAY-2017",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

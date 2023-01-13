@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SINGLE VISION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2014"
+  "date": "06-MAY-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

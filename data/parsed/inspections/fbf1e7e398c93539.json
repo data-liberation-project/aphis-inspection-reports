@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "MITCHEL KALMANSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-APR-2015"
+  "date": "10-APR-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo \u00d7 panthera tigris",
+      "common": "LIGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JULIES JUNGLE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2016"
+  "date": "02-FEB-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

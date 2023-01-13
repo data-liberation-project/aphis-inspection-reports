@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "SCOTT SCHOONOVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-FEB-2021"
+  "date": "10-FEB-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

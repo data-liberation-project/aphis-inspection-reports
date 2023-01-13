@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADA A HERSHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2022"
+  "date": "29-SEP-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BARRY COGGINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2022"
+  "date": "03-MAR-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

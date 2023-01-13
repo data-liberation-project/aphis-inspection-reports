@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Melva Langford",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2018"
+  "date": "25-JUN-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

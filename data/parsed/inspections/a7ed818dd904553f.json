@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GRIZZLY DISCOVERY CENTER, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2016"
+  "date": "01-SEP-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 12,
+      "scientific": "Spermophilus armatus",
+      "common": "UINTA GROUND SQUIRREL"
+    },
+    {
+      "count": 8,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

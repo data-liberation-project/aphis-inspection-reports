@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Ryan Johnson Jennelle Johnson Middlebury site",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "26-JAN-2021"
+  "date": "26-JAN-2021",
+  "animals_total": 223,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 203,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 9,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    },
+    {
+      "count": 9,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

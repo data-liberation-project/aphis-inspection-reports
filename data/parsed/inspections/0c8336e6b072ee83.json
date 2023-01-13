@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Misfitland Monkey Rescue",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "25-JUL-2022"
+  "date": "25-JUL-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

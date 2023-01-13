@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN PETERSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2018"
+  "date": "24-JUL-2018",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

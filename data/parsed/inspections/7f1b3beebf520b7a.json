@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Karen Rice",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-MAR-2016"
+  "date": "29-MAR-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

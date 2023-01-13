@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Hans Christian Andersen L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2021"
+  "date": "24-MAR-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 17,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FELIDS AND FRIENDS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2015"
+  "date": "30-MAR-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

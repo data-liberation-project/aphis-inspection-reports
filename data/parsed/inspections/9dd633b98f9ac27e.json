@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STONE MOUNTAIN GAME RANCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2015"
+  "date": "27-AUG-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

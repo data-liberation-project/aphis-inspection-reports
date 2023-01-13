@@ -8,5 +8,78 @@
   "site_id": "001",
   "site_name": "KARL MOGENSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2015"
+  "date": "11-JAN-2015",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 95,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Damaliscus pygargus",
+      "common": "BONTEBOK / BLESBOK"
+    },
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL *MALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryx beisa",
+      "common": "EAST AFRICAN ORYX (BEISA ORYX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus thibetanus",
+      "common": "ASIATIC BLACK BEAR"
+    }
+  ]
 }

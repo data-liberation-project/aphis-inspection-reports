@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "SHEDD AQUARIUM SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2014"
+  "date": "17-MAR-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callicebus donacophilus",
+      "common": "REED TITI"
+    },
+    {
+      "count": 2,
+      "scientific": "Callimico goeldii",
+      "common": "GOELDI'S MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 5,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Lagenorhynchus obliquidens",
+      "common": "PACIFIC WHITE-SIDED DOLPHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

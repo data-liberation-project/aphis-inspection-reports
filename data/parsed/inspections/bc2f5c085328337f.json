@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PARQUE DE LAS CIENCIAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2017"
+  "date": "15-JUN-2017",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Hippopotamus amphibius",
+      "common": "HIPPOPOTAMUS"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

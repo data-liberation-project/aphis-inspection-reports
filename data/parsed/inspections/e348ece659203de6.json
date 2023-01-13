@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL LAMBRIGHT / EDNA LAMBRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2015"
+  "date": "11-AUG-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

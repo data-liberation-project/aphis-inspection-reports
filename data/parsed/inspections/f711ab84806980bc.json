@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NISSA SEABOURN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2020"
+  "date": "04-MAR-2020",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

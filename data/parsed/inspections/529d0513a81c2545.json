@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Trisha Stephens",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "03-JAN-2022"
+  "date": "03-JAN-2022",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

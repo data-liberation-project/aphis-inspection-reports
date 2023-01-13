@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "CHRISTINA KINDE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2017"
+  "date": "23-JAN-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Atelerix frontalis",
+      "common": "SOUTH AFRICAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

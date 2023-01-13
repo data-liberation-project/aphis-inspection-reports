@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HEALTH SCIENCE CENTER AT SYRACUSE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "29-MAY-2019"
+  "date": "29-MAY-2019",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

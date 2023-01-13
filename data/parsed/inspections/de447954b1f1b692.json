@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "B T S RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2014"
+  "date": "01-JUL-2014",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 46,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

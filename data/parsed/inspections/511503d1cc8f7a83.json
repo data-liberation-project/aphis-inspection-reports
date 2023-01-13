@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "AROUND THE WORLD ANIMALS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2014"
+  "date": "24-FEB-2014",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

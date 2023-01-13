@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DEVARON ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2017"
+  "date": "11-OCT-2017",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

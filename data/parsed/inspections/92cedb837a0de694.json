@@ -8,5 +8,18 @@
   "site_id": "009",
   "site_name": "ROTHSCHILD SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2016"
+  "date": "12-DEC-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

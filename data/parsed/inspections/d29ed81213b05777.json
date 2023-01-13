@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID,GLENDA,,ERIC,& ADAM GROVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2014"
+  "date": "24-JUN-2014",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

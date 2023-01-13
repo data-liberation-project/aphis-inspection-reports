@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "ATLANTIS MARINE WORLD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE / SNOW MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Glossophaga soricina",
+      "common": "PALLAS'S LONG-TONGUED BAT"
+    }
+  ]
 }

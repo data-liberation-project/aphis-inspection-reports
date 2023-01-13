@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "FELINES AND CANINES RESCUE CENTER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-MAY-2019"
+  "date": "17-MAY-2019",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

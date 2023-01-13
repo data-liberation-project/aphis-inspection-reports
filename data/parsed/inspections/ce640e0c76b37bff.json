@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF NEBRASKA, OMAHA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2019"
+  "date": "13-FEB-2019",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 77,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Shelli Kershner",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "23-JUN-2022"
+  "date": "23-JUN-2022",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

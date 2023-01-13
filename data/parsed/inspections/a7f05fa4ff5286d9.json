@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORMAN KEITH WINGO & PENNY ANN WINGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2014"
+  "date": "30-JAN-2014",
+  "animals_total": 150,
+  "species": [
+    {
+      "count": 130,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

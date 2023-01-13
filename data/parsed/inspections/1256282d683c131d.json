@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "Cassidy Jagger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JAN-2020"
+  "date": "17-JAN-2020",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 15,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
 }

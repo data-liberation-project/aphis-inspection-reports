@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEITH SCHWEITZER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2015"
+  "date": "18-FEB-2015",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

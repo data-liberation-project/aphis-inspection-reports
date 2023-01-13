@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "TROY TJEPKES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2019"
+  "date": "18-MAR-2019",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 57,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 13,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 20,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 4,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

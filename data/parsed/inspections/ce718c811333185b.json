@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUANE OTTO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2018"
+  "date": "03-AUG-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

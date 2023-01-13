@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Larry Wallach",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-AUG-2022"
+  "date": "10-AUG-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 6,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
 }

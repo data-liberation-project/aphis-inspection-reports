@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Chester Nisley",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-MAY-2022"
+  "date": "24-MAY-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

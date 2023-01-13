@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FESTIVAL FUN PARKS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2022"
+  "date": "15-FEB-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    }
+  ]
 }

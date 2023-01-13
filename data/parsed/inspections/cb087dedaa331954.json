@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RICHMOND WILDLIFE CENTER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-JUL-2022"
+  "date": "22-JUL-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

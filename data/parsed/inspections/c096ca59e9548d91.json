@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "LOS ANGELES ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2014"
+  "date": "24-JUN-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Alouatta caraya",
+      "common": "BLACK HOWLER"
+    },
+    {
+      "count": 2,
+      "scientific": "Cacajao calvus",
+      "common": "BALD UAKARI / BALD UACARI"
+    },
+    {
+      "count": 2,
+      "scientific": "Cephalophus silvicultor",
+      "common": "YELLOW-BACKED DUIKER"
+    },
+    {
+      "count": 2,
+      "scientific": "Hippopotamus amphibius",
+      "common": "HIPPOPOTAMUS"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Pteronura brasiliensis",
+      "common": "GIANT OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Rhinoceros unicornis",
+      "common": "INDIAN RHINOCEROS"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Tapirus terrestris",
+      "common": "SOUTH AMERICAN TAPIR"
+    }
+  ]
 }

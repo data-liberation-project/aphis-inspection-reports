@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISA & VLAIR ERDENBERGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-OCT-2017"
+  "date": "20-OCT-2017",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

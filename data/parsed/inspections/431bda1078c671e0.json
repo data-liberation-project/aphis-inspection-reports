@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROUTE 66 ENGLISH BULLDOGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2016"
+  "date": "11-AUG-2016",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

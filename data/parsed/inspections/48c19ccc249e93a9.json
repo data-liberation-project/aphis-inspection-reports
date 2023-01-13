@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERMILION COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2018"
+  "date": "11-APR-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

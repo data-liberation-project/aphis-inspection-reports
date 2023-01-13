@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "HUNTINGTON MEDICAL RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2014"
+  "date": "04-NOV-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

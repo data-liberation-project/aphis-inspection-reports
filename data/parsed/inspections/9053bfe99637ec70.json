@@ -8,5 +8,68 @@
   "site_id": "003",
   "site_name": "Ryan Blakley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2015"
+  "date": "18-AUG-2015",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 28,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cryptoprocta ferox",
+      "common": "FOSSA"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Eira barbara",
+      "common": "TAYRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon bridgesi",
+      "common": "BRIDGE'S DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 30,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    }
+  ]
 }

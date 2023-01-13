@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SEACREST WOLF PRESERVE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "15-JUN-2017"
+  "date": "15-JUN-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

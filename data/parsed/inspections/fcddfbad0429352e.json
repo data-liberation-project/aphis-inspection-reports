@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ken Schroader & Renee Rae",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2015"
+  "date": "01-JUN-2015",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

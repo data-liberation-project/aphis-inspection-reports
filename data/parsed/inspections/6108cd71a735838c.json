@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PATRICIA SANDERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2019"
+  "date": "18-APR-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

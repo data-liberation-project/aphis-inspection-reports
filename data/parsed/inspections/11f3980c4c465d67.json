@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BRIAR BUSH NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUL-2018"
+  "date": "11-JUL-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

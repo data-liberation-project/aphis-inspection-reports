@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Breezy's Barnyard LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "27-APR-2021"
+  "date": "27-APR-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 14,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

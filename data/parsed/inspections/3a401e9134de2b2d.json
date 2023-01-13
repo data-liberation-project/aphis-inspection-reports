@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sam Neuenschwander",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2016"
+  "date": "13-APR-2016",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

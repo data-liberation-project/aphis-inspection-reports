@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEL MONTE QUALITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2015"
+  "date": "11-MAY-2015",
+  "animals_total": 344,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 206,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

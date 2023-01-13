@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "EXCLUSIVELY EXOTICS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2015"
+  "date": "06-OCT-2015",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 38,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 64,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    }
+  ]
 }

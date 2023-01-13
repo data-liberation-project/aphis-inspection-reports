@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA FINCH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-JAN-2016"
+  "date": "25-JAN-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

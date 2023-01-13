@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marie Vondra",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2015"
+  "date": "03-AUG-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

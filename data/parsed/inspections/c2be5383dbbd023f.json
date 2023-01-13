@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ORA TROYER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-APR-2017"
+  "date": "17-APR-2017",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

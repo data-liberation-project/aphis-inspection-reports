@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mindy Guinn",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "23-AUG-2022"
+  "date": "23-AUG-2022",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

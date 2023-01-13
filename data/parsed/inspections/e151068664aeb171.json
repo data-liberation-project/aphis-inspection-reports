@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SANDRA TAYLOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2018"
+  "date": "05-MAR-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

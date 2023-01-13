@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRIPLE L KENNEL",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "17-MAY-2021"
+  "date": "17-MAY-2021",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

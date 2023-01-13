@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN M MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2020"
+  "date": "28-JAN-2020",
+  "animals_total": 285,
+  "species": [
+    {
+      "count": 158,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

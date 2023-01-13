@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "TERRENCE SULLIVAN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-APR-2015"
+  "date": "10-APR-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

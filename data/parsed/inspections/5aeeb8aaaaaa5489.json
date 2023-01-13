@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRAD & STEPHANIE HINNERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2018"
+  "date": "02-JUL-2018",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

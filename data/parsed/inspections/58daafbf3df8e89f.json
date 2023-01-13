@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "A FRIEND TO ALL GOD'S CREATURES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JAN-2020"
+  "date": "29-JAN-2020",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caluromys lanatus",
+      "common": "WESTERN WOOLLY OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 13,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

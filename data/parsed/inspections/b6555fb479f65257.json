@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Elite Pets and Supplies",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "18-AUG-2022"
+  "date": "18-AUG-2022",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHNNY HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-FEB-2020"
+  "date": "28-FEB-2020",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

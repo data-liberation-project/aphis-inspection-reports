@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "FISH MART INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2014"
+  "date": "27-MAY-2014",
+  "animals_total": 1593,
+  "species": [
+    {
+      "count": 378,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 407,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 91,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 62,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 237,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 124,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 264,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

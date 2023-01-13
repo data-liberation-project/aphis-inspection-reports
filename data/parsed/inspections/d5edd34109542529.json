@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "MONSTER PETS OF AUDUBON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2015"
+  "date": "30-JUN-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 10,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 16,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

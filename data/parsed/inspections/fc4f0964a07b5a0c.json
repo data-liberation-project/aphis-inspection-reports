@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Gayla Self, Tim Self",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2016"
+  "date": "02-NOV-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    },
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 11,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

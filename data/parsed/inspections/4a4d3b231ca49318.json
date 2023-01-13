@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Alice Shaffer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2016"
+  "date": "24-MAY-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

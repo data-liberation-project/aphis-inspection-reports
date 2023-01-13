@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MATTHEW D AND KAYLA M RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2019"
+  "date": "01-OCT-2019",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

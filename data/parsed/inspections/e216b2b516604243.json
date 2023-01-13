@@ -8,5 +8,23 @@
   "site_id": "005",
   "site_name": "PRELABS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2015"
+  "date": "16-MAR-2015",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 36,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

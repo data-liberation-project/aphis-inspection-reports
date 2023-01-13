@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Boulder Oaks Kennel LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "15-APR-2022"
+  "date": "15-APR-2022",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

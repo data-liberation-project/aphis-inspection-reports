@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "NEW YORK STATE PSYCHIATRIC INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2015"
+  "date": "11-MAR-2015",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 61,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 20,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 7,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

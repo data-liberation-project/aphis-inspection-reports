@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Barney's Pets, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2016"
+  "date": "24-FEB-2016",
+  "animals_total": 1110,
+  "species": [
+    {
+      "count": 400,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 60,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 650,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    }
+  ]
 }

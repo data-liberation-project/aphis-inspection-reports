@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MUSEUM OF DISCOVERY AND SCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2014"
+  "date": "21-AUG-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Artibeus jamaicensis",
+      "common": "JAMAICAN FRUIT BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

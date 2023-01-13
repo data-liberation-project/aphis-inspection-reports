@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "VARIOUS TRAVEL LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2014"
+  "date": "12-SEP-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

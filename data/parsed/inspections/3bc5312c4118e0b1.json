@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI JS SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2020"
+  "date": "13-FEB-2020",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

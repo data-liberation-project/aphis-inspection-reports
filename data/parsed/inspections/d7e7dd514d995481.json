@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY ANN SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2018"
+  "date": "31-MAY-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

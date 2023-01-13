@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JAN-2020"
+  "date": "15-JAN-2020",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "3M-LABORATORY ANIMAL RESEARCH",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "11-OCT-2018"
+  "date": "11-OCT-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

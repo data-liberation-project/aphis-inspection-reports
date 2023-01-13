@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "BIRDS & ANIMALS UNLIMITED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2014"
+  "date": "09-MAY-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    }
+  ]
 }

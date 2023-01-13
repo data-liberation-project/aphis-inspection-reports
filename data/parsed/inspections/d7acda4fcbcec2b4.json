@@ -8,5 +8,123 @@
   "site_id": "001",
   "site_name": "ZOOLOGICAL WILDLIFE FOUNDATION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2014"
+  "date": "16-DEC-2014",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 10,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 3,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lophocebus aterrimus",
+      "common": "BLACK MANGABEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Myrmecophaga tridactyla",
+      "common": "GIANT ANTEATER"
+    },
+    {
+      "count": 2,
+      "scientific": "Neofelis nebulosa",
+      "common": "CLOUDED LEOPARD"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 8,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamandua mexicana",
+      "common": "NORTHERN TAMANDUA"
+    },
+    {
+      "count": 3,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PLUMPTON PARK ZOOLOGICAL GARDENS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

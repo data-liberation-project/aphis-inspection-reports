@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Upper Main Line YMCA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2022"
+  "date": "28-NOV-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
 }

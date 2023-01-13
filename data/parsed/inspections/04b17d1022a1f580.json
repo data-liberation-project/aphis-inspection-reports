@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "HOGAN BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2017"
+  "date": "22-JUN-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

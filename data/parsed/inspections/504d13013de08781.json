@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUL-2014"
+  "date": "23-JUL-2014",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 179,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

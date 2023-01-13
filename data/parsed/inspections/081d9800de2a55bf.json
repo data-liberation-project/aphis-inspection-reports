@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Wildthunder Wildlife Animal Rehab Sanctuary",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2022"
+  "date": "27-OCT-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "C DALE LOVELAND, JANET LOVELAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2017"
+  "date": "01-JUN-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

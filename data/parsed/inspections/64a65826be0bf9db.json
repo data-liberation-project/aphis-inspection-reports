@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "VARIOUS TRAVEL LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2021"
+  "date": "04-AUG-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

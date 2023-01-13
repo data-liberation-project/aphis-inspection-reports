@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORREVA SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2018"
+  "date": "12-JUL-2018",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

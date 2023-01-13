@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Michael Kreger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2018"
+  "date": "05-MAR-2018",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

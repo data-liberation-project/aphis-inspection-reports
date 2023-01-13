@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KIMBERLY DE FISHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2021"
+  "date": "15-JUL-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 9,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

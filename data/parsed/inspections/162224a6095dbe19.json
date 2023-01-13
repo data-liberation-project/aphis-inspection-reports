@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOYCE GUFFEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2014"
+  "date": "16-SEP-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

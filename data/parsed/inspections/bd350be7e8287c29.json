@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PRIMATE PRODUCTS LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "07-JUN-2022"
+  "date": "07-JUN-2022",
+  "animals_total": 3894,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3855,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 16,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
 }

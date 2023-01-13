@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EMMA LEE ELMORE",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "27-APR-2016"
+  "date": "27-APR-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

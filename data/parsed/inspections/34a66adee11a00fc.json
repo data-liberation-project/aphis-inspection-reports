@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ANTIBODIES, INC.",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "02-NOV-2022"
+  "date": "02-NOV-2022",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 57,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Science Museum of Long Island",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "11-MAY-2022"
+  "date": "11-MAY-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "NEWMANS FISH FOOD INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2014"
+  "date": "24-FEB-2014",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 13,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 32,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

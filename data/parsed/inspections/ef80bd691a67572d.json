@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SANTAS LAND INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2016"
+  "date": "30-NOV-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

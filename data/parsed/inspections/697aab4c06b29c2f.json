@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HUNTER RIDGE KENNELS, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

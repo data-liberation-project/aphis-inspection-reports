@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NATIONAL MISSISSIPPI RIVER MUSEUM AND AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2015"
+  "date": "19-MAR-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 4,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

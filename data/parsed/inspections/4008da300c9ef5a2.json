@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TY AND TWANNA SIMPSON",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-MAR-2022"
+  "date": "19-MAR-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    }
+  ]
 }

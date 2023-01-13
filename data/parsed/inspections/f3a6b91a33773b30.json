@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN E TROYER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "12-NOV-2019"
+  "date": "12-NOV-2019",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

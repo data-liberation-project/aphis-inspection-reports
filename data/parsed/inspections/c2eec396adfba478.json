@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "STRITCH SCHOOL OF MEDICINE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2017"
+  "date": "02-NOV-2017",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 32,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

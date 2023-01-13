@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CAYUGA NATURE CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2015"
+  "date": "31-MAR-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

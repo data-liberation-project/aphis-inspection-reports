@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA MILLER/RIGGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2017"
+  "date": "14-JUN-2017",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

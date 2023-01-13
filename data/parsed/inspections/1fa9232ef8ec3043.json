@@ -8,5 +8,48 @@
   "site_id": "003",
   "site_name": "DANA K HEYD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2019"
+  "date": "03-OCT-2019",
+  "animals_total": 537,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 40,
+      "scientific": "Axis porcinus",
+      "common": "HOG DEER"
+    },
+    {
+      "count": 237,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 192,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 11,
+      "scientific": "Kobus megaceros",
+      "common": "NILE LECHWE"
+    },
+    {
+      "count": 18,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 18,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    }
+  ]
 }

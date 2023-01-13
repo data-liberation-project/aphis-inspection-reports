@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RON SUVERKRUBBE JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2016"
+  "date": "22-MAR-2016",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 61,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

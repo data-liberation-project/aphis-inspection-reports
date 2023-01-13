@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "K Bar Livestock, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2016"
+  "date": "28-JUL-2016",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 30,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

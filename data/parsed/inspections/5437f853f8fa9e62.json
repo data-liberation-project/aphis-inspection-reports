@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PERRY KUHNS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2019"
+  "date": "22-NOV-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

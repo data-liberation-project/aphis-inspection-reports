@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PARQUE DE LAS CIENCIAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2015"
+  "date": "18-NOV-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Hippopotamus amphibius",
+      "common": "HIPPOPOTAMUS"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

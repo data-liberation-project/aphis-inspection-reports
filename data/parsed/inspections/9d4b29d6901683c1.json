@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "CONNECTICUT AUDUBON CENTER AT GLASTONBURY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2014"
+  "date": "27-FEB-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

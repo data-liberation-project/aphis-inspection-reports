@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2019"
+  "date": "28-MAY-2019",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

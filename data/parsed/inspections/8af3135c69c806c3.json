@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WENDIE DETTBARN AND DOUG DETTBARN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2015"
+  "date": "25-JUN-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

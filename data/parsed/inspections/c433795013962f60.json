@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Richard Francis, Susan Francis",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2016"
+  "date": "08-FEB-2016",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

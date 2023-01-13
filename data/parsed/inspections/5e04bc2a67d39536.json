@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL RESOURCES OFFICE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2021"
+  "date": "14-DEC-2021",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OL MAC DONALDS FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-DEC-2020"
+  "date": "22-DEC-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "",
+      "common": "BOVINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    }
+  ]
 }

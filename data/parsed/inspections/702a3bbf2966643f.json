@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "MARY WELSH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2015"
+  "date": "02-DEC-2015",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
 }

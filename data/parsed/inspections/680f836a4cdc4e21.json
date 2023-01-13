@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LIVESTOCK BEHAVIOR RESEARCH UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2018"
+  "date": "18-APR-2018",
+  "animals_total": 522,
+  "species": [
+    {
+      "count": 320,
+      "scientific": "Ars birds",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 202,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

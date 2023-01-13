@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF KENTUCKY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2014"
+  "date": "15-SEP-2014",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 56,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

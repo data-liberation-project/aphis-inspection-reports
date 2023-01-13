@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JANICE COHEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2016"
+  "date": "14-JUN-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

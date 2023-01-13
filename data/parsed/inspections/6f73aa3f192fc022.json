@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "DORA L TURNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2019"
+  "date": "30-OCT-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes tricinctus",
+      "common": "BRAZILIAN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

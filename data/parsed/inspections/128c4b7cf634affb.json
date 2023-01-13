@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDLANDS CONSERVANCY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2015"
+  "date": "17-DEC-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

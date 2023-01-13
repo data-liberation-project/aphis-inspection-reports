@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OCEANS OF FUN, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2015"
+  "date": "10-MAR-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 9,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

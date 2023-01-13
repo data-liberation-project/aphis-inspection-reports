@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "John Blaes",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 154,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GOLDEN KENNEL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-SEP-2016"
+  "date": "28-SEP-2016",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    }
+  ]
 }

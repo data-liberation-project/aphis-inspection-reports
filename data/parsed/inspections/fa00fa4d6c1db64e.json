@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNETH L MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2018"
+  "date": "11-JUN-2018",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

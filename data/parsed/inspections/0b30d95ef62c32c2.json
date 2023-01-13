@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WAYNE WOOD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JAN-2020"
+  "date": "14-JAN-2020",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 7,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    }
+  ]
 }

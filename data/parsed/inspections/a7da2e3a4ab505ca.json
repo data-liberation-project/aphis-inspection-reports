@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Creek View Kennel LLC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "01-SEP-2021"
+  "date": "01-SEP-2021",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

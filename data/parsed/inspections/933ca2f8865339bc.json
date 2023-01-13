@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PETER STURGIS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "29-JUL-2015"
+  "date": "29-JUL-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VICTORIA A. TROST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2022"
+  "date": "01-MAR-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Genetta tigrina",
+      "common": "LARGE-SPOTTED GENET"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

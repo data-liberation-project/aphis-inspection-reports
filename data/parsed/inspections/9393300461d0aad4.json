@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "JAMES SWETTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2021"
+  "date": "11-AUG-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Triple C Ranch Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2015"
+  "date": "27-MAY-2015",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 9,
+      "scientific": "Genetta tigrina",
+      "common": "LARGE-SPOTTED GENET"
+    },
+    {
+      "count": 16,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 21,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 45,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

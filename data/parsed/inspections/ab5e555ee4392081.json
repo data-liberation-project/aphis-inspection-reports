@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL E & POLLY R BORNTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2018"
+  "date": "21-FEB-2018",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

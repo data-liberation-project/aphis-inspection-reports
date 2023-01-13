@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NIEMANN FOODS INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-JAN-2015"
+  "date": "16-JAN-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANNETTA SHIRK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2021"
+  "date": "11-JAN-2021",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

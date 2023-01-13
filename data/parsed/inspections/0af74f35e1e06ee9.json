@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "REBECCA SIGLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JUN-2017"
+  "date": "29-JUN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

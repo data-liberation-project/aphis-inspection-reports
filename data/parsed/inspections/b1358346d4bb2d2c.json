@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SANDYS HAVEN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2019"
+  "date": "19-SEP-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

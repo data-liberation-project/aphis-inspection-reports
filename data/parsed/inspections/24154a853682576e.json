@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRYAN D. UNGER AND BRENDA R. UNGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2020"
+  "date": "12-FEB-2020",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

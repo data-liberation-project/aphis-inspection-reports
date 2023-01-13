@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "KEVIN KEITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2020"
+  "date": "16-AUG-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

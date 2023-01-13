@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "DEBORAH A JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2020"
+  "date": "11-MAR-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

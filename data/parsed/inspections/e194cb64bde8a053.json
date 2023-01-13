@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY MEEKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2019"
+  "date": "17-SEP-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

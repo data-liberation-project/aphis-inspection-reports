@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLINIC FOR THE REHABILITATION OF WILDLIFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-AUG-2018"
+  "date": "23-AUG-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis marsupialis",
+      "common": "SOUTHERN OPOSSUM"
+    }
+  ]
 }

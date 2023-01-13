@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Eli A Miller",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "25-JAN-2021"
+  "date": "25-JAN-2021",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTHERN CREATURES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2022"
+  "date": "04-MAR-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 11,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

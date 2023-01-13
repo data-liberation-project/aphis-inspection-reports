@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "Tyler Cleckley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2014"
+  "date": "13-AUG-2014",
+  "animals_total": 416,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Hylobates agilis",
+      "common": "AGILE GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 409,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

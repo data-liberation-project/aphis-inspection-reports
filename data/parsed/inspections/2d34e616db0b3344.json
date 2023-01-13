@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Paul Urbanec",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2014"
+  "date": "12-FEB-2014",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

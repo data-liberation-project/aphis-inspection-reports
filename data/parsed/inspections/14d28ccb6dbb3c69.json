@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN & JENNIFER CHANDLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2016"
+  "date": "05-OCT-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 32,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

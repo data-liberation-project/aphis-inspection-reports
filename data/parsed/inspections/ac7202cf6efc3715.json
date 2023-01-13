@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "N C MUSEUM OF NATURAL SCIENCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2022"
+  "date": "17-NOV-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
 }

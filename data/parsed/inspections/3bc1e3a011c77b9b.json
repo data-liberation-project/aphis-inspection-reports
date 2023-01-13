@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "RIVERVIEW FARMS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2019"
+  "date": "29-OCT-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

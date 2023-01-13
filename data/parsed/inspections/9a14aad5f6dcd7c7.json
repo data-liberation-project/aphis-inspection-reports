@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "K & R Puppies LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "09-NOV-2021"
+  "date": "09-NOV-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

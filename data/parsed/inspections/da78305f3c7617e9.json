@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "FLORIDA INTERNATIONAL TEACHING ZOO INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2016"
+  "date": "13-APR-2016",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Cercopithecus hamlyni",
+      "common": "OWL-FACED MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 17,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 6,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

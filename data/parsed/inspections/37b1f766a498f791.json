@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Blue Star Puppies",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2022"
+  "date": "15-NOV-2022",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

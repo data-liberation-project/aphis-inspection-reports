@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "COLORADO WOLF AND WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2018"
+  "date": "26-SEP-2018",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis latrans x c. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROGER K MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2021"
+  "date": "22-APR-2021",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

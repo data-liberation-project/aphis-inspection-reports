@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THOMAS SICKLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2016"
+  "date": "09-MAY-2016",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

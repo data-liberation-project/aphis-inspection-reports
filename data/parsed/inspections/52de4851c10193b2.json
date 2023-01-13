@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mini S Exotic Zoo, LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "26-JUL-2021"
+  "date": "26-JUL-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

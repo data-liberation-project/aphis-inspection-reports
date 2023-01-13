@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT RASH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-NOV-2016"
+  "date": "09-NOV-2016",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

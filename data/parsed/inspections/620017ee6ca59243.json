@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "Long Island University",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2022"
+  "date": "08-AUG-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 0,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 0,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EMILY JORDAN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-MAR-2019"
+  "date": "11-MAR-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

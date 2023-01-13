@@ -8,5 +8,33 @@
   "site_id": "003",
   "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2016"
+  "date": "07-SEP-2016",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 29,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 14,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 20,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "YELLOWSTONE BEAR WORLD INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2014"
+  "date": "22-MAY-2014",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 18,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 9,
+      "scientific": "Oreamnos americanus",
+      "common": "ROCKY MOUNTAIN GOAT"
+    },
+    {
+      "count": 63,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

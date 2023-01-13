@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "IBEX PRECLINICAL RESEARCH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2016"
+  "date": "22-SEP-2016",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 98,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 48,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

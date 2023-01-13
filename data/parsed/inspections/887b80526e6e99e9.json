@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IDA LEWIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2016"
+  "date": "13-MAY-2016",
+  "animals_total": 172,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

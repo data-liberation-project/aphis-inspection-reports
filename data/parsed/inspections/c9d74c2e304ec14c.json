@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEVA SCHLABACH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-NOV-2019"
+  "date": "26-NOV-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

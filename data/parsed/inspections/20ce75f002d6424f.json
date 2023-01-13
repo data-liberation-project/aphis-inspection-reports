@@ -8,5 +8,28 @@
   "site_id": "005",
   "site_name": "BRANDI BLUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2017"
+  "date": "05-JUL-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

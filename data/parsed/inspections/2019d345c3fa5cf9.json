@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BIOANALYTICAL SYSTEMS, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2022"
+  "date": "03-OCT-2022",
+  "animals_total": 654,
+  "species": [
+    {
+      "count": 181,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 473,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

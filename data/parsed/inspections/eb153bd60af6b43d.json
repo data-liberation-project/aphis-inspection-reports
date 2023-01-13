@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Benjamin Boyd",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "15-JUN-2022"
+  "date": "15-JUN-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

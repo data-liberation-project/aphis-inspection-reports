@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TRUSTEES OF LOOK MEMORIAL PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2017"
+  "date": "27-JUN-2017",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

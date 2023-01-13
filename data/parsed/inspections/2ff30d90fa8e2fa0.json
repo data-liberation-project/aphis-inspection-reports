@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SOUTH FORK RANCH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-MAR-2017"
+  "date": "01-MAR-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

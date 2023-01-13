@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Tropaquatics, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2019"
+  "date": "04-JUN-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 10,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

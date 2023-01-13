@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SANTA CRUZ BIOTECHNOLOGY, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2015"
+  "date": "07-JUL-2015",
+  "animals_total": 5673,
+  "species": [
+    {
+      "count": 3202,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2471,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

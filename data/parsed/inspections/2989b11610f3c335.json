@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CARBON COUNTY ENVIRONMENTAL EDUCATION CTR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2014"
+  "date": "19-MAR-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Artibeus jamaicensis",
+      "common": "JAMAICAN FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

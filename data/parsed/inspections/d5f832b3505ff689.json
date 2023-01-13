@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "THE PENNSYLVANIA WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2014"
+  "date": "12-SEP-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

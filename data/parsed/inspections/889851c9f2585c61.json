@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARCIA MAYO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2021"
+  "date": "22-MAR-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

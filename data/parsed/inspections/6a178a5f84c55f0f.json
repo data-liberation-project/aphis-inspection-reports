@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERESA FOLLIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2015"
+  "date": "03-AUG-2015",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

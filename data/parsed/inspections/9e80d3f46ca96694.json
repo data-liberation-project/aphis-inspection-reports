@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARILYN & JAMES ALEXANDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2019"
+  "date": "13-FEB-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

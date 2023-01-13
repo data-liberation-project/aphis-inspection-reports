@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ALAN RIGERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2015"
+  "date": "07-OCT-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2014"
+  "date": "07-FEB-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Apodemus sylvaticus",
+      "common": "WOOD MOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

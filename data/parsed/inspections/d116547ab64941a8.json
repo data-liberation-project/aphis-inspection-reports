@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "S.A.A.M.S",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2021"
+  "date": "07-JAN-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 5,
+      "scientific": "Eumetopias jubatus",
+      "common": "STELLER / STELLER\u2019S / NORTHERN SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca hispida",
+      "common": "RINGED SEAL"
+    }
+  ]
 }

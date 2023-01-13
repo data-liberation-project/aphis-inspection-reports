@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSH SOUZA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2015"
+  "date": "18-FEB-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

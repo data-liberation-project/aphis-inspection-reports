@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PAT WESS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2016"
+  "date": "25-OCT-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 31,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 6,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 9,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 21,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

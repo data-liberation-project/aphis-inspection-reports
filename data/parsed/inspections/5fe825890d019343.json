@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "Dana Bryant",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "07-DEC-2020"
+  "date": "07-DEC-2020",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

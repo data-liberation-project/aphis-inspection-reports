@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Lawade Headings",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2022"
+  "date": "18-OCT-2022",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

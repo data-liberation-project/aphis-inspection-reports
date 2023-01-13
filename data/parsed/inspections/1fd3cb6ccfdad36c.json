@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Gingerich",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "30-SEP-2022"
+  "date": "30-SEP-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

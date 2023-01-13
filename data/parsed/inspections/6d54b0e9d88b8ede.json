@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "MUSEUM OF ARTS AND SCIENCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2018"
+  "date": "06-FEB-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus geoffroyi",
+      "common": "GEOFFROY'S TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

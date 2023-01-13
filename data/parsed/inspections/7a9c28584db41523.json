@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "THE WILDCAT SANCTUARY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "30-NOV-2021"
+  "date": "30-NOV-2021",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 13,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 15,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 25,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 36,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo X  P. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 2,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    }
+  ]
 }

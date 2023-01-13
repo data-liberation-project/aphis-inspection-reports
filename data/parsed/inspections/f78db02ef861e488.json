@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TEACHERS PETS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2018"
+  "date": "11-OCT-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CEDAR GROVE KENNELS, L L C",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "20-OCT-2021"
+  "date": "20-OCT-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

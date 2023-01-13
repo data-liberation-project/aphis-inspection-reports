@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROSE MARLOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2014"
+  "date": "14-AUG-2014",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

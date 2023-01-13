@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMMI L COMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2019"
+  "date": "20-FEB-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

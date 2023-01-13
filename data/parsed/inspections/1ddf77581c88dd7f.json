@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "BIRDS & ANIMALS UNLIMITED",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "25-APR-2022"
+  "date": "25-APR-2022",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

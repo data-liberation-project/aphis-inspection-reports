@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE HIGH DESERT MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2019"
+  "date": "06-JUN-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WESTVIEW ORCHARDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2017"
+  "date": "26-SEP-2017",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

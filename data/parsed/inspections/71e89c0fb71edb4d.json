@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FOX RUN PUPPIES",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "25-FEB-2020"
+  "date": "25-FEB-2020",
+  "animals_total": 186,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 130,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

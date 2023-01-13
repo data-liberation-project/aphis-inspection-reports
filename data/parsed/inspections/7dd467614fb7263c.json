@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NORTH DAKOTA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2019"
+  "date": "09-JUL-2019",
+  "animals_total": 830,
+  "species": [
+    {
+      "count": 217,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 612,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

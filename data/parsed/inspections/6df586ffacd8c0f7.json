@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "MICKE GROVE ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2015"
+  "date": "11-FEB-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Callosciurus prevostii",
+      "common": "PREVOST'S SQUIRREL / TRI-COLORED SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Cryptoprocta ferox",
+      "common": "FOSSA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 9,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Pudu pudu",
+      "common": "SOUTHERN PUDU"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

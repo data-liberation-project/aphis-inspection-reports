@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DAVID R YOUNG D.V.M. PH.D.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2019"
+  "date": "03-JUN-2019",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "WORLDWIDE PRIMATES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2018"
+  "date": "13-FEB-2018",
+  "animals_total": 457,
+  "species": [
+    {
+      "count": 330,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 127,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

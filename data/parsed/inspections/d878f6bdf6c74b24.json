@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MORGANTOWN CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2015"
+  "date": "23-JUN-2015",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 23,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

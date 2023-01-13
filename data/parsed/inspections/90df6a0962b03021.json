@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DENNIS MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2015"
+  "date": "20-JUL-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

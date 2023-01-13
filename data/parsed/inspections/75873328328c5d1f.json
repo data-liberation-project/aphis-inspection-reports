@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "ANIMAL TALES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2021"
+  "date": "04-JUN-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

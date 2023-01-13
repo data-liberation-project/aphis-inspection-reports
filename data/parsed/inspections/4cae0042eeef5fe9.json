@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ISRAEL B BYLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2015"
+  "date": "21-APR-2015",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

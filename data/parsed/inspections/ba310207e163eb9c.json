@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STACY JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2014"
+  "date": "15-JUL-2014",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

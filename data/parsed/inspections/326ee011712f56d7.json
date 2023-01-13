@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROBERT SCHROCK & VELMA SCHROCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2015"
+  "date": "03-JUN-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

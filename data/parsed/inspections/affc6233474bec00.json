@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WYOMING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2020"
+  "date": "18-AUG-2020",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 20,
+      "scientific": "Tamias minimus",
+      "common": "LEAST CHIPMUNK"
+    }
+  ]
 }

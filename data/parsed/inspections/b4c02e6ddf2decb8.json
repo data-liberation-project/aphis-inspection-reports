@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "ANIMAL EXPERIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2015"
+  "date": "16-NOV-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atherurus africanus",
+      "common": "AFRICAN BRUSH-TAILED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Microgale talazaci",
+      "common": "TALAZAC'S SHREW TENREC"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

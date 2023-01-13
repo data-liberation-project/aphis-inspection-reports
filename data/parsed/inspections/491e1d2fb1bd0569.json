@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THAT'LL DO KENNEL LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-OCT-2022"
+  "date": "19-OCT-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

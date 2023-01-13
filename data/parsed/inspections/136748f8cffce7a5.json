@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STEVE BOGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-AUG-2014"
+  "date": "19-AUG-2014",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 75,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

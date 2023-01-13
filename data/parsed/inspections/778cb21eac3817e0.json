@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Darryl Wilson, Larry Wilson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2017"
+  "date": "22-JUN-2017",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

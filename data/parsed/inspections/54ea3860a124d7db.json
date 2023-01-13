@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SCANTIBODIES LABORATORIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2014"
+  "date": "12-MAR-2014",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 187,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 49,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

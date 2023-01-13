@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CENTER FOR REPRODUCTION OF ENDANGERD WILDLIFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2017"
+  "date": "25-JUL-2017",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

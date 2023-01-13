@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "A C W Reptiles L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-MAR-2016"
+  "date": "15-MAR-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

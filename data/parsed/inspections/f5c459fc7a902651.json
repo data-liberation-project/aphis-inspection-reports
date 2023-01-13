@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ERIC CROWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2018"
+  "date": "11-DEC-2018",
+  "animals_total": 1040,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 200,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 800,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

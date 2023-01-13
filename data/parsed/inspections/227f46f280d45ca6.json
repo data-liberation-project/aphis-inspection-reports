@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HUNTER FAMILY FARM 1 L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2017"
+  "date": "02-OCT-2017",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

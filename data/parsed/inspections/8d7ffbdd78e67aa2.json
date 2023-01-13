@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HERNANDO PUENTES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JAN-2016"
+  "date": "29-JAN-2016",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

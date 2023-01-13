@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILD FRIENDS OF THE EARTH FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2020"
+  "date": "19-FEB-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

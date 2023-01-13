@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIV. OF NORTHERN COLORADO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUN-2016"
+  "date": "10-JUN-2016",
+  "animals_total": 199,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Artibeus lituratus",
+      "common": "GREAT FRUIT-EATING BAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 86,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

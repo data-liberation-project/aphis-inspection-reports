@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "LIVINGSTON EXOTICS, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2015"
+  "date": "12-NOV-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cercopithecus neglectus",
+      "common": "DE BRAZZA'S MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

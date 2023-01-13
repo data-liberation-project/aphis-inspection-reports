@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE RED WOLF SANCTUARY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2015"
+  "date": "14-SEP-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

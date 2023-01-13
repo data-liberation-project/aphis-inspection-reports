@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "Patricia Enloe",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2015"
+  "date": "09-DEC-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

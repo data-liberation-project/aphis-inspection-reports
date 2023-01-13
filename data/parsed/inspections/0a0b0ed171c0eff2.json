@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sunrise Kennels LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-DEC-2022"
+  "date": "12-DEC-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

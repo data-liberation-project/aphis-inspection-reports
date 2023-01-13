@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENNIS MAJOR",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-JUL-2015"
+  "date": "08-JUL-2015",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

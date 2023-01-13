@@ -8,5 +8,23 @@
   "site_id": "01",
   "site_name": "ARC WILD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2020"
+  "date": "26-FEB-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

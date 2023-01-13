@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PACIFIC DOODLES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2021"
+  "date": "24-FEB-2021",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

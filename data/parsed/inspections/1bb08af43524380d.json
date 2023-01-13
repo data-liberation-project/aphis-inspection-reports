@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OKLAHOMA HISTORICAL SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2014"
+  "date": "03-DEC-2014",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 34,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RACHAEL MARTIN, ELVIN MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2016"
+  "date": "11-AUG-2016",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

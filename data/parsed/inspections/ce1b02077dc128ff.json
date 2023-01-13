@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAHLON BEACHY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-MAY-2018"
+  "date": "22-MAY-2018",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

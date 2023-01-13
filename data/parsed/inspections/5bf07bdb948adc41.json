@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREEN MOUNTAIN LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-FEB-2019"
+  "date": "08-FEB-2019",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDLIFE REHAB OF GREENVILLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2021"
+  "date": "17-FEB-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
 }

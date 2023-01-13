@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BAILEY'S DAIRY L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2014"
+  "date": "08-MAY-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

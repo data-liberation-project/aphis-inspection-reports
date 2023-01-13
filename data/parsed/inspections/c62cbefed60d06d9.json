@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SRI INTERNATIONAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-DEC-2021"
+  "date": "22-DEC-2021",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

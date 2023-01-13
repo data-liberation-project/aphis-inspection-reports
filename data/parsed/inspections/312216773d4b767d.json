@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Elmer LuGrand",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2021"
+  "date": "25-AUG-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

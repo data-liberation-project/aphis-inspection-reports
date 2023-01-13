@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "JULIE & SHAUN D WENDT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2015"
+  "date": "12-MAR-2015",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

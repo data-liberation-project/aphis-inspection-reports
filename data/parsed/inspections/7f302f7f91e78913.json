@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROWANWOOD FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2016"
+  "date": "03-MAR-2016",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
 }

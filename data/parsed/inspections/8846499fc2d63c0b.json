@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MEDIMMUNE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2014"
+  "date": "26-FEB-2014",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 37,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

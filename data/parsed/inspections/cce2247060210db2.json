@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Rancho Las Lomas Wildlife Foundation",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2015"
+  "date": "27-OCT-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

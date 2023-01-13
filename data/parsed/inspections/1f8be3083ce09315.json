@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Janell Boggs",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-MAY-2022"
+  "date": "24-MAY-2022",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

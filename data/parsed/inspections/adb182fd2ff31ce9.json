@@ -8,5 +8,48 @@
   "site_id": "TRA",
   "site_name": "C J'S GREAT CATS WORLD PARK, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2018"
+  "date": "22-SEP-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

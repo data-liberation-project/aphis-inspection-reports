@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THOMAS SICKLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2016"
+  "date": "15-AUG-2016",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 39,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos huacaya",
+      "common": "HUACAYA ALPACA"
+    },
+    {
+      "count": 20,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Kritter Karavan, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2016"
+  "date": "18-FEB-2016",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 10,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 6,
+      "scientific": "Setifer setosus",
+      "common": "GREATER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MUSEUM OF DISCOVERY AND SCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2018"
+  "date": "18-SEP-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

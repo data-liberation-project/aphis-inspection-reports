@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI & EMMA COBLENTZ & CLARA TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2014"
+  "date": "29-APR-2014",
+  "animals_total": 185,
+  "species": [
+    {
+      "count": 132,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARK D SCHULTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2022"
+  "date": "29-NOV-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

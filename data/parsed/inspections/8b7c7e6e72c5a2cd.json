@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "CONNIE TIBBS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2015"
+  "date": "09-JUL-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

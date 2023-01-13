@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "MOUNT VERNON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2016"
+  "date": "08-JUN-2016",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

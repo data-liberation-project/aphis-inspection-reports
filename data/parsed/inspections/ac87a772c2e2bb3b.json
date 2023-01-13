@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "TERRI POMPAY",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-AUG-2017"
+  "date": "23-AUG-2017",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aotus trivirgatus",
+      "common": "THREE-STRIPED NIGHT MONKEY / OWL MONKEY"
+    },
+    {
+      "count": 10,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 15,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus mystax",
+      "common": "MOUSTACHED TAMARIN"
+    },
+    {
+      "count": 14,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

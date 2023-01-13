@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Don Monnette, Donna Monnette",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2018"
+  "date": "03-AUG-2018",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

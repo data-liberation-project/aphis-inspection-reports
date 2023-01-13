@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DEPLOYMENT MEDICINE INTERNATIONAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2019"
+  "date": "28-MAY-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

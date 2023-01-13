@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WHALE BRANCH ANIMAL SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2017"
+  "date": "03-AUG-2017",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

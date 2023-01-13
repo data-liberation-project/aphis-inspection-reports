@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joe Farley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2019"
+  "date": "24-JUL-2019",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

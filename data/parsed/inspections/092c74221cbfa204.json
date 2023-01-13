@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "FRAGILE PLANET WILDLIFE FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2015"
+  "date": "10-MAR-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bettongia penicillata",
+      "common": "BRUSH-TAILED RAT-KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus pardalis",
+      "common": "OCELOT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERRY GUMM",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-OCT-2017"
+  "date": "23-OCT-2017",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROSA ZEHR",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "04-FEB-2020"
+  "date": "04-FEB-2020",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

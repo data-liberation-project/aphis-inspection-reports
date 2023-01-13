@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "COOKIES CAMELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2022"
+  "date": "24-MAR-2022",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 10,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 80,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus burchellii boehmi",
+      "common": "GRANT'S ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    }
+  ]
 }

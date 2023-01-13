@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ANIMAL WONDERS, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2014"
+  "date": "07-APR-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

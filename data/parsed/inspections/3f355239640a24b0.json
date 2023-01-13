@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "William Davids",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2015"
+  "date": "06-JAN-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

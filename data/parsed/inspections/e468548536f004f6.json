@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL THEISEN & JILL PILLOUD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2015"
+  "date": "30-NOV-2015",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

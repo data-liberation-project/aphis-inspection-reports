@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CODY MERTENS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "27-JUL-2020"
+  "date": "27-JUL-2020",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

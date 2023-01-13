@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICKIE BURDEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2022"
+  "date": "22-AUG-2022",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

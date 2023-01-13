@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLARKE D KNOWLES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-FEB-2019"
+  "date": "27-FEB-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

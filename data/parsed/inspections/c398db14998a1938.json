@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JENNIFER CLARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAR-2019"
+  "date": "26-MAR-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

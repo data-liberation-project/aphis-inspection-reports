@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VETERINARY SCIENCE CENTER/ JOHNSON TECHNICAL INSTI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2017"
+  "date": "13-APR-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

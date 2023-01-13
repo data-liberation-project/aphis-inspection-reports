@@ -6,7 +6,20 @@
   "customer_addr": "29533 Timber Ave.\nPulaski, IA 52584",
   "certificate": "42-A-1466",
   "site_id": "001",
-  "site_name": "R M G Bulldogs, L L C (cid:9)",
+  "site_name": "R M G Bulldogs, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2014"
+  "date": "03-SEP-2014",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "006",
   "site_name": "COVANCE LABORATORIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2018"
+  "date": "25-JUL-2018",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

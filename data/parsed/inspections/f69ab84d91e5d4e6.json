@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GERTIE MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2019"
+  "date": "01-AUG-2019",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

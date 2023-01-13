@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Patricia Coleman",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-JUN-2014"
+  "date": "23-JUN-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SILVER SCREEN ANIMALS INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2014"
+  "date": "26-AUG-2014",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZUZANA KUKOL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-NOV-2015"
+  "date": "05-NOV-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo \u00d7 panthera tigris",
+      "common": "LIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

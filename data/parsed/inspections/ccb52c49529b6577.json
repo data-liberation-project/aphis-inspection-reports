@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KIM MARSHALL & MORT MARSHALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2014"
+  "date": "09-DEC-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

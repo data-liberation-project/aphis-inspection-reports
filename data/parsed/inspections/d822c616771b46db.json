@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANNIE BAHM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2016"
+  "date": "09-MAY-2016",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

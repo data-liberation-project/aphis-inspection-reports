@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLOUDY DAY LANE LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2019"
+  "date": "28-OCT-2019",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT IS HERE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-DEC-2019"
+  "date": "04-DEC-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

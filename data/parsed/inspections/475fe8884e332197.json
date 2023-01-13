@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BALDWIN FAMILY ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2021"
+  "date": "21-DEC-2021",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 62,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

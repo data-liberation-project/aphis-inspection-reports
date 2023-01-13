@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SHARON FOX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2014"
+  "date": "06-MAR-2014",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

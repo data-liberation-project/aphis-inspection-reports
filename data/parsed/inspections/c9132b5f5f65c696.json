@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CLEMSON UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "21-FEB-2019"
+  "date": "21-FEB-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

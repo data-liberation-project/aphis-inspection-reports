@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lloyd Yoder",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-FEB-2022"
+  "date": "28-FEB-2022",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BILL BLOMBERG, KATHIE BLOMBERG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2017"
+  "date": "08-AUG-2017",
+  "animals_total": 197,
+  "species": [
+    {
+      "count": 157,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

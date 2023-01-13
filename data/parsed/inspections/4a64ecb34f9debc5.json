@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OAK TREE VILLAGE L L C",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-MAR-2021"
+  "date": "05-MAR-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

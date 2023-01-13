@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2015"
+  "date": "05-AUG-2015",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

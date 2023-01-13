@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "UNIVERSITY OF HAWAII AT MANOA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2014"
+  "date": "17-JUN-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Pseudorca crassidens",
+      "common": "FALSE KILLER WHALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
 }

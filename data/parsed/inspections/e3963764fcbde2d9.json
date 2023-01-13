@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "MIDDLESEX COUNTY PARKS DEPARTMENT",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-APR-2014"
+  "date": "22-APR-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

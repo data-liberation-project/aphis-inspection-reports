@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Pi Bioscientific Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2017"
+  "date": "06-APR-2017",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

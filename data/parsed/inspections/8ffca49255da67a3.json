@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARROLL BAILEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2018"
+  "date": "15-NOV-2018",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

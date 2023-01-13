@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "A C W Reptiles L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2021"
+  "date": "27-OCT-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Genetta abyssinica",
+      "common": "ABYSSINIAN GENET"
+    },
+    {
+      "count": 2,
+      "scientific": "Ictonyx striatus",
+      "common": "ZORILLA"
+    }
+  ]
 }

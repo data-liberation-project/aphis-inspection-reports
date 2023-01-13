@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Whistle Time LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2021"
+  "date": "01-DEC-2021",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

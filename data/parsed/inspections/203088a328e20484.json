@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "FLORIDAS C L A W S",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2015"
+  "date": "03-FEB-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 6,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

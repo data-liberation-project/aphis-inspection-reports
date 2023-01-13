@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "G J T Future Management L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2014"
+  "date": "07-AUG-2014",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Genetta genetta",
+      "common": "SMALL SPOTTED GENET"
+    },
+    {
+      "count": 14,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 9,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

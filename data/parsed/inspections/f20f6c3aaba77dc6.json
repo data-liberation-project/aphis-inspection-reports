@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLACK STAR FARMS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2016"
+  "date": "13-JUN-2016",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

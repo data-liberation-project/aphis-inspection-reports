@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "Mandy Rosenberger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2022"
+  "date": "14-JUL-2022",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 4,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 8,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Pseudochirops albertisii",
+      "common": "D'ALBERTIS' RINGTAIL POSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 4,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    }
+  ]
 }

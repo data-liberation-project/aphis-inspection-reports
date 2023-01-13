@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "NEW MEXICO WILDLIFE ASSOC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2016"
+  "date": "21-JUN-2016",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Pecari tajacu",
+      "common": "COLLARED PECCARY"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

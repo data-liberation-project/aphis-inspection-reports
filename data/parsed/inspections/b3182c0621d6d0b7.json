@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES & DENNA HERRING, SHRIVER & TAMMY HERRING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

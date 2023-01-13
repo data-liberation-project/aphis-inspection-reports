@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARK WEHLING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2016"
+  "date": "02-JUN-2016",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

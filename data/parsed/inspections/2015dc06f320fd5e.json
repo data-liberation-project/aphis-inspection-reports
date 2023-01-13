@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JUNGLE QUEENS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2014"
+  "date": "06-FEB-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

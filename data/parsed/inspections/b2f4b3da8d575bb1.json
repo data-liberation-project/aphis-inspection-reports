@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THERESA KONRATH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2015"
+  "date": "30-JUL-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

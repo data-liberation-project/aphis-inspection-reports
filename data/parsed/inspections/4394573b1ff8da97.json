@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN AND BETTY WOLTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2018"
+  "date": "12-DEC-2018",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

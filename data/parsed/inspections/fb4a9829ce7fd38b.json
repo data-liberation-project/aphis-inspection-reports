@@ -8,5 +8,18 @@
   "site_id": "014",
   "site_name": "HORSHAM PA SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2014"
+  "date": "12-MAR-2014",
+  "animals_total": 260,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 235,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "T R S LABS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2015"
+  "date": "04-AUG-2015",
+  "animals_total": 464,
+  "species": [
+    {
+      "count": 202,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 86,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 176,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    }
+  ]
 }

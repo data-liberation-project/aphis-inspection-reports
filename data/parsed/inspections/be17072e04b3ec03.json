@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Sandra Wink",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2022"
+  "date": "15-SEP-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

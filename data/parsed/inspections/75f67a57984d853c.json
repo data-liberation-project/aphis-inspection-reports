@@ -8,5 +8,48 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF TEXAS - MD Anderson Cancer Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2018"
+  "date": "14-NOV-2018",
+  "animals_total": 2219,
+  "species": [
+    {
+      "count": 341,
+      "scientific": "Aotus nancymaae",
+      "common": "NANCY MA'S NIGHT MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 61,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 881,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 108,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 248,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 561,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

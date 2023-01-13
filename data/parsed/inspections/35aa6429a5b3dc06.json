@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "K & K KANINES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2020"
+  "date": "24-FEB-2020",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

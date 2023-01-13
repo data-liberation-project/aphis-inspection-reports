@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MELANIE MOORE & MIKE MOORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2016"
+  "date": "07-APR-2016",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 174,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CHILDRENS HOSPITAL RESEARCH FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2016"
+  "date": "22-FEB-2016",
+  "animals_total": 287,
+  "species": [
+    {
+      "count": 241,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

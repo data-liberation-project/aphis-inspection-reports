@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROCK RIDGE GOLDEN RETRIEVERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-NOV-2020"
+  "date": "10-NOV-2020",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

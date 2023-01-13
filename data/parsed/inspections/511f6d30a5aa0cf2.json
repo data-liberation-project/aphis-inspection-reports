@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "THE MARINE MAMMAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2016"
+  "date": "09-NOV-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

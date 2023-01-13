@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SUNY DOWNSTATE MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUN-2015"
+  "date": "10-JUN-2015",
+  "animals_total": 214,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 132,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE *MALE"
+    },
+    {
+      "count": 72,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

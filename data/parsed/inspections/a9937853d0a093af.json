@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRUNKS & HUMPS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2022"
+  "date": "26-MAY-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

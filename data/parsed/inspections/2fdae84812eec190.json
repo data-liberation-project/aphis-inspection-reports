@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "TRIPPLE M RANCH RANCH AND EXOTICS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "04-FEB-2019"
+  "date": "04-FEB-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Macropus fuliginosus",
+      "common": "WESTERN GREY KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JEFFREY DOTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2015"
+  "date": "28-JAN-2015",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 21,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 19,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 8,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

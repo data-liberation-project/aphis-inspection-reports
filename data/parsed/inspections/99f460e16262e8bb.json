@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUDY HULETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2019"
+  "date": "12-NOV-2019",
+  "animals_total": 560,
+  "species": [
+    {
+      "count": 362,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 198,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

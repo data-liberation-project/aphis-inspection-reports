@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BIOANALYTICAL SYSTEMS, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2014"
+  "date": "28-MAY-2014",
+  "animals_total": 278,
+  "species": [
+    {
+      "count": 160,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 111,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

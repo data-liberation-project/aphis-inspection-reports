@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NESTLE PURINA COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2018"
+  "date": "08-FEB-2018",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

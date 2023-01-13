@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dewayne Schmucker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2022"
+  "date": "09-MAR-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

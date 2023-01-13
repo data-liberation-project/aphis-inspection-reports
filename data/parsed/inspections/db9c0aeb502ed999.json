@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "University of Texas",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2014"
+  "date": "04-FEB-2014",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 48,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 53,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

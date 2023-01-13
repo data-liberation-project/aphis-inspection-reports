@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "S.C. JOHNSON RESEARCH FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2021"
+  "date": "24-SEP-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 0,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

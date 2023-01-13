@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2019"
+  "date": "16-JUL-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Otolemur garnettii",
+      "common": "SMALL-EARED BUSHBABY / NORTHERN GREATER GALAGO"
+    }
+  ]
 }

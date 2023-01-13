@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DAWN L HOFFERBER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-DEC-2021"
+  "date": "08-DEC-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

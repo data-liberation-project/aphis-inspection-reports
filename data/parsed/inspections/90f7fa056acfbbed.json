@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "TED KROGH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2021"
+  "date": "08-DEC-2021",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 9,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 10,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    }
+  ]
 }

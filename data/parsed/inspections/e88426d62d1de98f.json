@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHELIA NAPIER & TOMMY NAPIER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2018"
+  "date": "25-APR-2018",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

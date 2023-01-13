@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHOENIX LAB SUPPLY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JAN-2015"
+  "date": "22-JAN-2015",
+  "animals_total": 2720,
+  "species": [
+    {
+      "count": 1600,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1120,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

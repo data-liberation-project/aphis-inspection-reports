@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Zola Price, Taylor Miner",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2022"
+  "date": "15-SEP-2022",
+  "animals_total": 192,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

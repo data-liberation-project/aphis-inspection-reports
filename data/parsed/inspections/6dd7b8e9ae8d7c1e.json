@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SANDCASTLE, INC. - GUAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2014"
+  "date": "04-SEP-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Rusa marianna",
+      "common": "PHILIPPINE DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

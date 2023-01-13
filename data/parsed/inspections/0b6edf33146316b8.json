@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GENTLE JUNGLE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2014"
+  "date": "25-JUN-2014",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

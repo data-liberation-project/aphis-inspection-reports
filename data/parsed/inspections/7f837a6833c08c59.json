@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT COTHRAN AND MARK CREECH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2015"
+  "date": "26-OCT-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

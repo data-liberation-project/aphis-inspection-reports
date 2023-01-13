@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "CAROLYN RICE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2015"
+  "date": "15-APR-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

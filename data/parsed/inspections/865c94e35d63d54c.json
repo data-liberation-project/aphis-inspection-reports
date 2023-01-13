@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JASON WALLANDER, LORA WALTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2016"
+  "date": "07-DEC-2016",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

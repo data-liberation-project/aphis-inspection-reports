@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PENNINGTON SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2017"
+  "date": "27-JUL-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 57,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

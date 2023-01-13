@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANET HUTSON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

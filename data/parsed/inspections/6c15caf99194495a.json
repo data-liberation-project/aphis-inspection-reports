@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TRIPLE H MINIATURE HORSE RESCUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2014"
+  "date": "03-SEP-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

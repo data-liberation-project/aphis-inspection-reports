@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ZUZANA KUKOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2019"
+  "date": "19-JUN-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

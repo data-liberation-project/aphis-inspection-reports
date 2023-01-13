@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILD WILDERNESS INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2019"
+  "date": "29-JUL-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 29,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

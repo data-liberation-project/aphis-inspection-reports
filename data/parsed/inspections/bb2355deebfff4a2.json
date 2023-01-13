@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ETHAN AND GARRY ZUMBACH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-FEB-2020"
+  "date": "12-FEB-2020",
+  "animals_total": 213,
+  "species": [
+    {
+      "count": 155,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Stacy Dobyns",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-JUL-2014"
+  "date": "23-JUL-2014",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

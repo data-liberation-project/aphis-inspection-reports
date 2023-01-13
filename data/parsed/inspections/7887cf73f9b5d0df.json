@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "CHESTER TAYLOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2021"
+  "date": "11-MAY-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 22,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

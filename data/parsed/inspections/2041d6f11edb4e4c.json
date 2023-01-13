@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PHOENIX LAB SUPPLY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2018"
+  "date": "25-JAN-2018",
+  "animals_total": 15500,
+  "species": [
+    {
+      "count": 1250,
+      "scientific": "Cricetulus barabensis",
+      "common": "STRIPED HAMSTER"
+    },
+    {
+      "count": 750,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 9000,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 3000,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 1500,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

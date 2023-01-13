@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ISAAC MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2015"
+  "date": "17-NOV-2015",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "site_id": "002",
   "site_name": "COYOTE CONSULTING COMPANY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2019"
+  "date": "02-OCT-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

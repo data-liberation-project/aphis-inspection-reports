@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CENTRAL STATE PRIMATES INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2015"
+  "date": "19-OCT-2015",
+  "animals_total": 196,
+  "species": [
+    {
+      "count": 125,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 71,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

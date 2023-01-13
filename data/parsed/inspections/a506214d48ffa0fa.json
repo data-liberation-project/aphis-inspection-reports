@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "YELLOW RIVER ANIMAL HOUSE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-MAR-2019"
+  "date": "19-MAR-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 6,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

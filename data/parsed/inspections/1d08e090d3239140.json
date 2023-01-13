@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "GULF BREEZE ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2015"
+  "date": "21-OCT-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

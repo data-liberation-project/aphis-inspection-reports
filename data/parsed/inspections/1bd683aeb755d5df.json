@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY HALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2022"
+  "date": "09-JUN-2022",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

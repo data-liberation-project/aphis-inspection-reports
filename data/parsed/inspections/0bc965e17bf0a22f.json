@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "MOUNT VERNON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2014"
+  "date": "29-MAY-2014",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 121,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

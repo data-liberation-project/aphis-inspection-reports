@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "KAMERON BEAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2017"
+  "date": "18-DEC-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix pumila",
+      "common": "PALAWAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

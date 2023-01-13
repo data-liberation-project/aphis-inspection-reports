@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BYRON BRENGMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2019"
+  "date": "18-APR-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

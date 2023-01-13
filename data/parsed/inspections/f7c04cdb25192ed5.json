@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "City of Lufkin",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2015"
+  "date": "11-AUG-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Neofelis nebulosa",
+      "common": "CLOUDED LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 5,
+      "scientific": "Pithecia pithecia",
+      "common": "WHITE-FACED SAKI"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lydia Stauffer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2018"
+  "date": "24-APR-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

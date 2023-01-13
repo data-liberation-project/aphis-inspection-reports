@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAGGIE J BULLOCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2017"
+  "date": "19-OCT-2017",
+  "animals_total": 344,
+  "species": [
+    {
+      "count": 271,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Barbara Crick",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2014"
+  "date": "28-MAY-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DERRICK, FREDERICK & KAY ROSS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2018"
+  "date": "06-FEB-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Helarctos malayanus",
+      "common": "MALAYAN SUN BEAR"
+    },
+    {
+      "count": 8,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    }
+  ]
 }

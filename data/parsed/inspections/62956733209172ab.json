@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FLORIDA PRIMATES & EXOTICS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2022"
+  "date": "11-MAY-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
 }

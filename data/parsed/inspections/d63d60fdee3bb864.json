@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BECTON DICKINSON TECHNOLOGIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2017"
+  "date": "07-MAR-2017",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 56,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

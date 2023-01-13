@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "SANFORD HEALTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2019"
+  "date": "31-JAN-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

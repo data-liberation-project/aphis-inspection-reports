@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "ATLANTIS MARINE WORLD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2014"
+  "date": "12-JUN-2014",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 100,
+      "scientific": "Glossophaga soricina",
+      "common": "PALLAS'S LONG-TONGUED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

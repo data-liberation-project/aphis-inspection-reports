@@ -8,5 +8,288 @@
   "site_id": "001",
   "site_name": "CLAUDE & JON CONLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2017"
+  "date": "08-AUG-2017",
+  "animals_total": 580,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 3,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 1,
+      "scientific": "Antidorcas marsupialis",
+      "common": "SPRINGBOK"
+    },
+    {
+      "count": 45,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Aotus nigriceps",
+      "common": "BLACK-HEADED NIGHT MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 14,
+      "scientific": "Axis porcinus",
+      "common": "HOG DEER"
+    },
+    {
+      "count": 32,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 5,
+      "scientific": "Bos frontalis",
+      "common": "GAYAL/GAUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 16,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 1,
+      "scientific": "Budorcas taxicolor",
+      "common": "TAKIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 56,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 65,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 21,
+      "scientific": "Connochaetes taurinus",
+      "common": "BRINDLED WILDEBEEST"
+    },
+    {
+      "count": 75,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Damaliscus pygargus",
+      "common": "BONTEBOK / BLESBOK"
+    },
+    {
+      "count": 11,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 8,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 8,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 13,
+      "scientific": "Kobus leche",
+      "common": "RED LECHWE / SOUTHERN LECHWE"
+    },
+    {
+      "count": 20,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 15,
+      "scientific": "Lama guanicoe",
+      "common": "GUANACO"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 9,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca nigra",
+      "common": "SULAWESI CRESTED MACAQUE"
+    },
+    {
+      "count": 18,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 3,
+      "scientific": "Naemorhedus goral",
+      "common": "HIMALAYAN GORAL / HIMALAYAN BROWN GORAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Nanger dama",
+      "common": "ADDRA GAZELLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryx gazella",
+      "common": "GEMSBOK"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Rupicapra rupicapra",
+      "common": "ALPINE CHAMOIS"
+    },
+    {
+      "count": 9,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Tapirus bairdii",
+      "common": "BAIRD'S TAPIR"
+    },
+    {
+      "count": 12,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 3,
+      "scientific": "Tragelaphus angasii",
+      "common": "NYALA"
+    },
+    {
+      "count": 5,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    },
+    {
+      "count": 3,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

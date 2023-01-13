@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "YOST MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2022"
+  "date": "09-NOV-2022",
+  "animals_total": 176,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

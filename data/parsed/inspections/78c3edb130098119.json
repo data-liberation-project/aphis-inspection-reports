@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER COX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2020"
+  "date": "16-SEP-2020",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

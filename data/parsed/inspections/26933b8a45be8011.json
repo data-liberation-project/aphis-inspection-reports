@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HARRIS CTY COMMISSIONERS CT BEAR CREEK PIONEERS PK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-FEB-2016"
+  "date": "09-FEB-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

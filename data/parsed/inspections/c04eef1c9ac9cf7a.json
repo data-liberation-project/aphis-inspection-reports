@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MBR WAVERLY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-AUG-2020"
+  "date": "24-AUG-2020",
+  "animals_total": 1296,
+  "species": [
+    {
+      "count": 650,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 646,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

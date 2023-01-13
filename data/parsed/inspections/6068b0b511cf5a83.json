@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Stacy Dobyns",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2018"
+  "date": "15-MAR-2018",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

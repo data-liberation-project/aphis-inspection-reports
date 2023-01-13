@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "A MAZE N FARMYARD LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2019"
+  "date": "25-SEP-2019",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAHLON SCHROCK, FANNIE SCHROCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2020"
+  "date": "06-AUG-2020",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

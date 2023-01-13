@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "NORTH AMERICAN SCIENCE ASSOCIATES INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "12-MAR-2019"
+  "date": "12-MAR-2019",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

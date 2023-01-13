@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTHERN BIOTECHNOLOGY ASSOCIATES INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "08-APR-2022"
+  "date": "08-APR-2022",
+  "animals_total": 146,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 115,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

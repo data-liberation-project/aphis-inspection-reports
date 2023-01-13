@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOSEPH MALDONADO PASSAGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2018"
+  "date": "19-NOV-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 8,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

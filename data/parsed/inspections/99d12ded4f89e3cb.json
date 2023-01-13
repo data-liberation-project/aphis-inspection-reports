@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lynn Stewart",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2019"
+  "date": "08-APR-2019",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

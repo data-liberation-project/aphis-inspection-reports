@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLAY SCOTT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2021"
+  "date": "09-DEC-2021",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

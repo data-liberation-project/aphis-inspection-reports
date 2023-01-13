@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARLA PEDERSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2021"
+  "date": "05-AUG-2021",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

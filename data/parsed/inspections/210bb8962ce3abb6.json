@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "SEAQUEST HOLDINGS, LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-JAN-2020"
+  "date": "13-JAN-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

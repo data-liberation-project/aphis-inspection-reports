@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KIM TIPTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2015"
+  "date": "05-JAN-2015",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 50,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Y T I CAREER INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2017"
+  "date": "19-JUL-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANN REMY & WILLIAM REMY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2014"
+  "date": "15-OCT-2014",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

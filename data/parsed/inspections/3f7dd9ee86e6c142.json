@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Carla J Epperson",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "20-JUL-2022"
+  "date": "20-JUL-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

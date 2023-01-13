@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KARI LEROY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2019"
+  "date": "29-JUL-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

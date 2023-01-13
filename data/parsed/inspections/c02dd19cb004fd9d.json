@@ -8,5 +8,28 @@
   "site_id": "028",
   "site_name": "CHARLES RIVER MATTAWAN",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 1421,
+  "species": [
+    {
+      "count": 1043,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 80,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 258,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

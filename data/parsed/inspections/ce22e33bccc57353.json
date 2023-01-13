@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Gallery Furniture",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2016"
+  "date": "20-APR-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

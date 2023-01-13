@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "EXOTICA COMPOUND INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-JUN-2015"
+  "date": "15-JUN-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

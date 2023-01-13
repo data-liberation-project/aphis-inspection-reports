@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER FABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2022"
+  "date": "30-MAR-2022",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

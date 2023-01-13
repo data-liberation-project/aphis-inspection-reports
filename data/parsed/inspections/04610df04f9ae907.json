@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "JASON REILLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2015"
+  "date": "25-AUG-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

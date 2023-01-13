@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "QUALITY PETS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2014"
+  "date": "27-MAY-2014",
+  "animals_total": 1678,
+  "species": [
+    {
+      "count": 316,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 26,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 102,
+      "scientific": "Gerbillus nanus",
+      "common": "BALUCHISTAN GERBIL"
+    },
+    {
+      "count": 1166,
+      "scientific": "Mesocricetus raddei",
+      "common": "CISCAUCASIAN HAMSTER"
+    },
+    {
+      "count": 65,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

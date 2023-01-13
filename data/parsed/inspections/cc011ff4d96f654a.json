@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL KINGDOM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2015"
+  "date": "27-FEB-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callosciurus prevostii",
+      "common": "PREVOST'S SQUIRREL / TRI-COLORED SQUIRREL"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

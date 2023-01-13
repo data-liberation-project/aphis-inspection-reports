@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Hourglass Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2017"
+  "date": "19-APR-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

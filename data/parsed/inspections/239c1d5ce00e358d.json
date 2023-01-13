@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "RANDY & CAMILLE DORIAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2015"
+  "date": "16-SEP-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cercopithecus ascanius",
+      "common": "RED-TAILED MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    }
+  ]
 }

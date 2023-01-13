@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNDERGROUND REPTILES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2019"
+  "date": "15-APR-2019",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 16,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes pallida",
+      "common": "PALE FOX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "City of Wichita",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2022"
+  "date": "04-OCT-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dipodomys ordii",
+      "common": "ORD'S KANGAROO RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

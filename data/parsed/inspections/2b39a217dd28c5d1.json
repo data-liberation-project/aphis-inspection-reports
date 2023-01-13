@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Acks Exotic Pets",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "21-OCT-2022"
+  "date": "21-OCT-2022",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 5,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 9,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

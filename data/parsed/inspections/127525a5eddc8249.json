@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tyler Jon Gerlach",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2022"
+  "date": "07-DEC-2022",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PUPPY PLACE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2021"
+  "date": "15-JUN-2021",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

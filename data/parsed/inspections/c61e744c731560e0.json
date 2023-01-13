@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RYAN & SARAH REUBER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-APR-2014"
+  "date": "25-APR-2014",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 47,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

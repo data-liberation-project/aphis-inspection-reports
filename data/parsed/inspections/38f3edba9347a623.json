@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RICHARD CUNNINGHAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2016"
+  "date": "13-OCT-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 11,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

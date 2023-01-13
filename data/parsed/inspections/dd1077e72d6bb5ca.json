@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Chupp",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "05-OCT-2021"
+  "date": "05-OCT-2021",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CITY OF GUYMON - MUNICIPAL GAME RESERVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2014"
+  "date": "07-AUG-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryx gazella",
+      "common": "GEMSBOK"
+    }
+  ]
 }

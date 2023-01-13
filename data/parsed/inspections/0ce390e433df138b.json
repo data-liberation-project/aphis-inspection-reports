@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R.D. Brown",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-JAN-2014"
+  "date": "30-JAN-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

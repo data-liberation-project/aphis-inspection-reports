@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HIDDEN HOLLOW K-9 LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2022"
+  "date": "29-MAR-2022",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

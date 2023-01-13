@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERI CHAPMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2021"
+  "date": "20-JAN-2021",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYMAN BOWMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2015"
+  "date": "12-MAY-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 60,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

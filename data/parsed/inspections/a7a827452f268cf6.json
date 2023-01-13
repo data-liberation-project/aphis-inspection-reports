@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "ENVIGO GLOBAL SERVICES INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-JUN-2022"
+  "date": "08-JUN-2022",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

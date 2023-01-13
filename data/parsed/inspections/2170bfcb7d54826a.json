@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "D & M RESOURCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2017"
+  "date": "13-JUL-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

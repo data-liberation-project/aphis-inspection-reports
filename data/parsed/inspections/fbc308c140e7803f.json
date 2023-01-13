@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DAVID ERWAY SR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2019"
+  "date": "19-DEC-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga x e. asinus",
+      "common": "ZEBRA-DONKEY HYBRID / ZEDONK / ZEBRINNY"
+    },
+    {
+      "count": 13,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

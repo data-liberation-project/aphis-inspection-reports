@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Samuel Mast, Clara Mast",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2016"
+  "date": "21-MAR-2016",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

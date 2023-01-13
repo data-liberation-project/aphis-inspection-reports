@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VIRGINIA TECH",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-MAY-2019"
+  "date": "14-MAY-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

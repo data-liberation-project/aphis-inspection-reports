@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Nancy Long- 002",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "30-MAR-2021"
+  "date": "30-MAR-2021",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AMY GORMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2021"
+  "date": "19-JUN-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Equus quagga X E. asinus",
+      "common": "ZEBRA-DONKEY HYBRID / ZEDONK / ZEBRINNY"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

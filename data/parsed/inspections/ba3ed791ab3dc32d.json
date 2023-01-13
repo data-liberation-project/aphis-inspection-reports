@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JACQUELINE KASHMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2019"
+  "date": "27-SEP-2019",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiurus borealis",
+      "common": "RED BAT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "MIDDLESEX COUNTY PARKS DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-NOV-2019"
+  "date": "01-NOV-2019",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 45,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

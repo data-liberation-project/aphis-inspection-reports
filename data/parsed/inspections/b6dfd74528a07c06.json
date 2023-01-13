@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABRAM & ELSA MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-AUG-2018"
+  "date": "10-AUG-2018",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

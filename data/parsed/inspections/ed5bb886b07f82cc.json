@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REBECCA POSTEN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "12-APR-2022"
+  "date": "12-APR-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

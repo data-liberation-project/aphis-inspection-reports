@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Paul Nichols",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2018"
+  "date": "03-APR-2018",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

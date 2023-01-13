@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RICHARD ROTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2014"
+  "date": "01-DEC-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Euphractus sexcinctus",
+      "common": "YELLOW ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

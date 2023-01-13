@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CIRCLE C PETTING FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2017"
+  "date": "31-JAN-2017",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

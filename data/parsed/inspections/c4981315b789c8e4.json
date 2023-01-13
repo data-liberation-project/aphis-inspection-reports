@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "SCHOOL OF MEDICINE AND DENTISTRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2017"
+  "date": "01-AUG-2017",
+  "animals_total": 263,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 124,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 50,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 10,
+      "scientific": "Nannospalax ehrenbergi",
+      "common": "PALESTINE MOLE-RAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

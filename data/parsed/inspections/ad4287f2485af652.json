@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Brittany Smith",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2017"
+  "date": "16-AUG-2017",
+  "animals_total": 276,
+  "species": [
+    {
+      "count": 189,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

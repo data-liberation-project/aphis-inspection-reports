@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2015"
+  "date": "05-MAY-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

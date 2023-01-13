@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "D & L Bulldogs",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2022"
+  "date": "01-AUG-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

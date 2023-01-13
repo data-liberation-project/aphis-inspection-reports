@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "HARRIS CTY COMMISSIONERS CT ALEXANDER DUESSEN PK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Abditomys latidens",
+      "common": "LUZON BROAD-TOOTHED RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

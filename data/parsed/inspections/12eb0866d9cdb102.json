@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ANIMAL CARE & LANGUAGE RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2018"
+  "date": "12-JUL-2018",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 31,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

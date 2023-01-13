@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROERS ZOOFARI LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-JUN-2017"
+  "date": "20-JUN-2017",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 9,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

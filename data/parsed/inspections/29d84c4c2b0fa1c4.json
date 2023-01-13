@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARLEY YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2017"
+  "date": "17-OCT-2017",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2015"
+  "date": "04-NOV-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

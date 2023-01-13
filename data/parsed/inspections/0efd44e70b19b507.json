@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "KERRY MCGUIRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2019"
+  "date": "27-JUN-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SALLY L CULVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2020"
+  "date": "02-NOV-2020",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

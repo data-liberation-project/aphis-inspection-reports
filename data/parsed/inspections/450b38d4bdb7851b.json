@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NORTHEAST AREA BELTSVILLE LOCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2022"
+  "date": "17-MAY-2022",
+  "animals_total": 1537,
+  "species": [
+    {
+      "count": 263,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 539,
+      "scientific": "ARS BIRDS",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 735,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH VARIETY)"
+    }
+  ]
 }

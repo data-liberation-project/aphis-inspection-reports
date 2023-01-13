@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAN KAUFFMAN",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "21-SEP-2020"
+  "date": "21-SEP-2020",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

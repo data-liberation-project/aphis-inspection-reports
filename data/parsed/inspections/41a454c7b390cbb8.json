@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LARRY & PAT PETERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2014"
+  "date": "11-JUN-2014",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

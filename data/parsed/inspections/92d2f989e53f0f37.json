@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAGGIE SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2020"
+  "date": "14-DEC-2020",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

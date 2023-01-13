@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDY & CRISTY BOWYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2015"
+  "date": "06-OCT-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

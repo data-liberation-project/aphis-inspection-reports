@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICK MC MANIGAL & SUSIE MC MANIGAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2021"
+  "date": "17-MAR-2021",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

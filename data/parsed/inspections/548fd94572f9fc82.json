@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "INSTITUTE FOR CANCER RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2016"
+  "date": "26-AUG-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

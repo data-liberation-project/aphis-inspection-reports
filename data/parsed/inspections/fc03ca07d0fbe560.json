@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL ERB",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-MAY-2022"
+  "date": "24-MAY-2022",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

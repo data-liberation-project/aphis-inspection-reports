@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDITH STUART",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2019"
+  "date": "14-MAR-2019",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

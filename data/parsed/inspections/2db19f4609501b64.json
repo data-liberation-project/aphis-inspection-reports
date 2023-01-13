@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE BURKHOLDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2019"
+  "date": "11-SEP-2019",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

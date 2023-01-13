@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOREN S REIFF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2022"
+  "date": "19-APR-2022",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

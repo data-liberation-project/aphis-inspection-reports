@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE COLLEGE SETTLEMENT OF PHILADELPHIA,",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2016"
+  "date": "19-JUL-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

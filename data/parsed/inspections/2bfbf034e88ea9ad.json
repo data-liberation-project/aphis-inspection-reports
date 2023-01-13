@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANS PETS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2014"
+  "date": "18-MAR-2014",
+  "animals_total": 380,
+  "species": [
+    {
+      "count": 234,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

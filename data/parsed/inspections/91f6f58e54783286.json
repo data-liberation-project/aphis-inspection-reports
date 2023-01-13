@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PAMELA L. BALDWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2016"
+  "date": "09-MAR-2016",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 128,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

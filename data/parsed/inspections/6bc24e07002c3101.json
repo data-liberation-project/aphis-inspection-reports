@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRENDA L. JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2021"
+  "date": "07-APR-2021",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

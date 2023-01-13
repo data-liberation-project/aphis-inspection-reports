@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Eli H Mullett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JAN-2017"
+  "date": "24-JAN-2017",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

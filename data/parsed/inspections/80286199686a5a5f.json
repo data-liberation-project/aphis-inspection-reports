@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-MAR-2019"
+  "date": "19-MAR-2019",
+  "animals_total": 758,
+  "species": [
+    {
+      "count": 226,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 39,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 259,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 55,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 52,
+      "scientific": "Peromyscus gossypinus",
+      "common": "COTTON DEERMOUSE"
+    },
+    {
+      "count": 25,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 52,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 45,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    }
+  ]
 }

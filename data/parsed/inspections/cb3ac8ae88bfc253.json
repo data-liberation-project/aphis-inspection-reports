@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LINDA K. AND C. SCOTT JUSTASON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2015"
+  "date": "30-DEC-2015",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

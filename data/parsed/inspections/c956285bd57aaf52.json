@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2021"
+  "date": "01-JUL-2021",
+  "animals_total": 371,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 49,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 36,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 72,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    },
+    {
+      "count": 38,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 11,
+      "scientific": "Peromyscus gossypinus",
+      "common": "COTTON DEERMOUSE"
+    },
+    {
+      "count": 81,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    }
+  ]
 }

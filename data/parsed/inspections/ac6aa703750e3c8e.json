@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2014"
+  "date": "26-JUN-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

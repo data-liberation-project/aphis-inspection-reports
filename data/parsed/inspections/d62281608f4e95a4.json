@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT V. BAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2016"
+  "date": "02-JUN-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

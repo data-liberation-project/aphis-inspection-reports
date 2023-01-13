@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LIBERTY NATURE CENTER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-MAY-2022"
+  "date": "04-MAY-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

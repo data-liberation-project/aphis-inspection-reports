@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUNY DOWNSTATE MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2021"
+  "date": "07-DEC-2021",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 148,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    }
+  ]
 }

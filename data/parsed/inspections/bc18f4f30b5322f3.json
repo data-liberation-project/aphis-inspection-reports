@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MOREHEAD STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2019"
+  "date": "12-FEB-2019",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

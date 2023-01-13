@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEVON STUTZMAN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "31-MAY-2022"
+  "date": "31-MAY-2022",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

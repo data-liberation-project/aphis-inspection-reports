@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON KNEPP & PHIL STOLL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2014"
+  "date": "21-OCT-2014",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

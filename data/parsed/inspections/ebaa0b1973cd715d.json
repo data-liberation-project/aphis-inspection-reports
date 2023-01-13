@@ -8,5 +8,483 @@
   "site_id": "001",
   "site_name": "COLUMBUS ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2021"
+  "date": "29-MAR-2021",
+  "animals_total": 465,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Nycticebus pygmaeus",
+      "common": "PYGMY SLOW LORIS"
+    },
+    {
+      "count": 2,
+      "scientific": "Otolemur garnettii",
+      "common": "SMALL-EARED BUSHBABY / NORTHERN GREATER GALAGO"
+    },
+    {
+      "count": 4,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 4,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    },
+    {
+      "count": 16,
+      "scientific": "Pan paniscus",
+      "common": "PYGMY CHIMPANZEE / BONOBO"
+    },
+    {
+      "count": 3,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    },
+    {
+      "count": 4,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    },
+    {
+      "count": 13,
+      "scientific": "Trachypithecus cristatus",
+      "common": "SILVERY LUTUNG / SILVERED LANGUR / LEAF MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 3,
+      "scientific": "Trichechus manatus",
+      "common": "CARIBBEAN MANATEE"
+    },
+    {
+      "count": 17,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 14,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Otocolobus manul",
+      "common": "PALLAS'S CAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Hystrix indica",
+      "common": "INDIAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 16,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 7,
+      "scientific": "Connochaetes taurinus",
+      "common": "BRINDLED WILDEBEEST"
+    },
+    {
+      "count": 8,
+      "scientific": "Nanger dama",
+      "common": "ADDRA GAZELLE"
+    },
+    {
+      "count": 5,
+      "scientific": "Gazella leptoceros",
+      "common": "SAND GAZELLE"
+    },
+    {
+      "count": 9,
+      "scientific": "Gazella thomsonii",
+      "common": "THOMSON'S GAZELLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Elaphodus cephalophus",
+      "common": "TUFTED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Moschus moschiferus",
+      "common": "SIBERIAN MUSK DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 3,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Orycteropus afer",
+      "common": "AARDVARK"
+    },
+    {
+      "count": 1,
+      "scientific": "Chaetophractus villosus",
+      "common": "LARGER HAIRY ARMADILLO"
+    },
+    {
+      "count": 6,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 4,
+      "scientific": "Pteropus pumilus",
+      "common": "LITTLE GOLDEN-MANTLED FLYING FOX"
+    },
+    {
+      "count": 10,
+      "scientific": "Pteropus vampyrus",
+      "common": "LARGE FLYING FOX"
+    },
+    {
+      "count": 5,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 2,
+      "scientific": "Tachyglossus aculeatus",
+      "common": "SHORT-BEAKED ECHIDNA"
+    },
+    {
+      "count": 6,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 17,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 9,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 3,
+      "scientific": "Phascolarctos cinereus",
+      "common": "KOALA"
+    },
+    {
+      "count": 3,
+      "scientific": "Okapia johnstoni",
+      "common": "OKAPI"
+    },
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Ailurus fulgens",
+      "common": "RED PANDA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bettongia penicillata",
+      "common": "BRUSH-TAILED RAT-KANGAROO"
+    },
+    {
+      "count": 5,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Dendrolagus matschiei",
+      "common": "MATSCHIE'S TREE KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Gulo gulo",
+      "common": "WOLVERINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 7,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus dingo",
+      "common": "DINGO"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 14,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiorhinus latifrons",
+      "common": "SOUTHERN HAIRY-NOSED WOMBAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Tragelaphus strepsiceros",
+      "common": "GREATER KUDU"
+    },
+    {
+      "count": 2,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis margarita",
+      "common": "SAND CAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 3,
+      "scientific": "Sarcophilus harrisii",
+      "common": "TASMANIAN DEVIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragulus napu",
+      "common": "GREATER MALAYAN CHEVROTAIN"
+    },
+    {
+      "count": 11,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 3,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 47,
+      "scientific": "Acrobates pygmaeus",
+      "common": "FLYING MOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra falconeri",
+      "common": "MARKHOR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Manis tricuspis",
+      "common": "TREE PANGOLIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DEBBIE PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2015"
+  "date": "09-JAN-2015",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

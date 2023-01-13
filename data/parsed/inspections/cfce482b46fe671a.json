@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SARAH YOUNG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2018"
+  "date": "27-MAR-2018",
+  "animals_total": 329,
+  "species": [
+    {
+      "count": 202,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

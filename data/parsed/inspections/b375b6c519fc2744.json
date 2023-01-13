@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sheryl A. Tietz",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2014"
+  "date": "28-OCT-2014",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

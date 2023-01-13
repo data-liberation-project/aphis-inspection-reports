@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CHRIS NILGES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2021"
+  "date": "21-JAN-2021",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

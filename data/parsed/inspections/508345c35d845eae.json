@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "COLLEEN ANGELO-COLVARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2015"
+  "date": "20-MAR-2015",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

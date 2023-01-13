@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROGER K MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-FEB-2017"
+  "date": "27-FEB-2017",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

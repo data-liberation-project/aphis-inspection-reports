@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JONAS DELAGRANGE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "20-DEC-2021"
+  "date": "20-DEC-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

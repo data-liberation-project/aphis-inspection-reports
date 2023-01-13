@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TITUS YODER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "25-JAN-2018"
+  "date": "25-JAN-2018",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

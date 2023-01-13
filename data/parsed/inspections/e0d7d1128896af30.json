@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COAT OF MANY COLORS KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2017"
+  "date": "07-AUG-2017",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

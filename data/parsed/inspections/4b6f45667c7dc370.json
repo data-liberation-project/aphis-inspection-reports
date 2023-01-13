@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICHARD HATTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2014"
+  "date": "09-SEP-2014",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

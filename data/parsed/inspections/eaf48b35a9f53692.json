@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUSTIN D RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2018"
+  "date": "04-JAN-2018",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

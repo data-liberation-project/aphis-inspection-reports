@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERENCE AND SHIRLENE SERR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2015"
+  "date": "04-AUG-2015",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

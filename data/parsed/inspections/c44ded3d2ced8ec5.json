@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MENNO ZOOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAY-2014"
+  "date": "14-MAY-2014",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

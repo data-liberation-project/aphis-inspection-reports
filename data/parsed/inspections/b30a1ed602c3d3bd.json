@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LONNIE YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2022"
+  "date": "19-JAN-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BIG BIG INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2017"
+  "date": "19-JUN-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

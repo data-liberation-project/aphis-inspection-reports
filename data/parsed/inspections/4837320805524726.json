@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REUBEN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2015"
+  "date": "19-NOV-2015",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

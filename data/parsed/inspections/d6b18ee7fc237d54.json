@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HERSHEY MEDICAL CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-JAN-2022"
+  "date": "03-JAN-2022",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

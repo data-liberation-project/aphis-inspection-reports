@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "FREDERICK RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2018"
+  "date": "20-JUN-2018",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 54,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

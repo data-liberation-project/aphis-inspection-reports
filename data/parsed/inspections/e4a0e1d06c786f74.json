@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NORTHEAST AREA BELTSVILLE LOCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2017"
+  "date": "14-SEP-2017",
+  "animals_total": 675,
+  "species": [
+    {
+      "count": 447,
+      "scientific": "Ars birds",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 164,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 64,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

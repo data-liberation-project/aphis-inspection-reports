@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Allen Stutzman",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "07-MAR-2022"
+  "date": "07-MAR-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

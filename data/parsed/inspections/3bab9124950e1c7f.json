@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "MARK R MORRISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2020"
+  "date": "09-DEC-2020",
+  "animals_total": 257,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 35,
+      "scientific": "Capra falconeri",
+      "common": "MARKHOR"
+    },
+    {
+      "count": 150,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries vignei",
+      "common": "URIAL SHEEP"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 20,
+      "scientific": "Ovis aries gmelini",
+      "common": "ARMENIAN MOUFLON"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "",
+      "common": "BLACK-TAILED DEER"
+    }
+  ]
 }

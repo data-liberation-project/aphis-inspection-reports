@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ED & JENNIFER ROBINSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2018"
+  "date": "04-JAN-2018",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 100,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 50,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

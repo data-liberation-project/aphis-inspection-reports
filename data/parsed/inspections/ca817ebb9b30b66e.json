@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ANIMAL CARE FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2017"
+  "date": "02-AUG-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

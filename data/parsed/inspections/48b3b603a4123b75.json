@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "BIOMEDICAL RESEARCH MODELS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2015"
+  "date": "28-JUL-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 20,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

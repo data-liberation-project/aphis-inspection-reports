@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DESIREE CAWTHON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-FEB-2021"
+  "date": "23-FEB-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

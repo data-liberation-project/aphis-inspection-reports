@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MICHAEL DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2022"
+  "date": "31-JAN-2022",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 22,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

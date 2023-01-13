@@ -8,5 +8,48 @@
   "site_id": "002",
   "site_name": "ROBERT H. & BONNIE J. RINGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2015"
+  "date": "26-AUG-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 12,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

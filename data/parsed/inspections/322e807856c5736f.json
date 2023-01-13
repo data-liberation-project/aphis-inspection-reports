@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF CINCINNATI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2014"
+  "date": "17-JUN-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Elaphodus cephalophus",
+      "common": "TUFTED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

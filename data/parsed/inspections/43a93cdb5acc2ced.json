@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Kimberly Murphy",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2017"
+  "date": "14-MAR-2017",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 6,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "CABALLERO PRODUCTIONS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

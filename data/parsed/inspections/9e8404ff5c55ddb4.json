@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DIGINITY HEALTH/BARROW NEUROLOGICAL INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2016"
+  "date": "10-MAR-2016",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "YOUTH SERVICES AGENCY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUL-2018"
+  "date": "11-JUL-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SUNNY COLLEGE OF TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2015"
+  "date": "19-AUG-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

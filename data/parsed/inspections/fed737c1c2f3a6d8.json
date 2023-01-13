@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Rockin Reindeer Ranch LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2022"
+  "date": "07-JUL-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

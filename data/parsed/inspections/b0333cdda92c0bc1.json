@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRAIG AND LINDA KLEVEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2014"
+  "date": "17-JUL-2014",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

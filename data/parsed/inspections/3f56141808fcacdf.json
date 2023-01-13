@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FLORIDA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2014"
+  "date": "03-SEP-2014",
+  "animals_total": 590,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 379,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 159,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
 }

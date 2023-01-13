@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KRIS GOODMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2022"
+  "date": "03-NOV-2022",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

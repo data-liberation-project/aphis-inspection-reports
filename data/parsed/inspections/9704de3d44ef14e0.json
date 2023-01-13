@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SAVANNAH POLSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2021"
+  "date": "25-OCT-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

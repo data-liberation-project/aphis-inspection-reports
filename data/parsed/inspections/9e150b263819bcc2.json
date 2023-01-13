@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLACK HAWK COUNTY CONSERVATION BOARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2014"
+  "date": "13-MAY-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

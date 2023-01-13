@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN ZEISET",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2014"
+  "date": "12-JUN-2014",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LONNIE & SHELLY COX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2015"
+  "date": "03-NOV-2015",
+  "animals_total": 291,
+  "species": [
+    {
+      "count": 224,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

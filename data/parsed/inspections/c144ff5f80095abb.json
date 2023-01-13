@@ -8,5 +8,13 @@
   "site_id": "TRA",
   "site_name": "Pella Wildlife Company",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2015"
+  "date": "09-JAN-2015",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

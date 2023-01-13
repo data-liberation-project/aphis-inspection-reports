@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VICKY SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2021"
+  "date": "30-MAR-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Perimyotis subflavus",
+      "common": "TRI-COLORED BAT / EASTERN PIPISTRELLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    }
+  ]
 }

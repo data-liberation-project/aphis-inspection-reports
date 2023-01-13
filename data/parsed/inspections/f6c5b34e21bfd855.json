@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTHWESTERN CT COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2016"
+  "date": "30-MAR-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

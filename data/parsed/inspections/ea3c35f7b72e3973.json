@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DALE BUMPERS SMALL FARMS RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2021"
+  "date": "23-JUN-2021",
+  "animals_total": 763,
+  "species": [
+    {
+      "count": 416,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 347,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

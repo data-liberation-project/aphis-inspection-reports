@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DAVE AND CINDY ESSARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2020"
+  "date": "07-JAN-2020",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 92,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

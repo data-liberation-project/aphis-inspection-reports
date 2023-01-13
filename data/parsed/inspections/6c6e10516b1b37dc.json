@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "CONSERVATION AMBASSADORS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2015"
+  "date": "21-JUL-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

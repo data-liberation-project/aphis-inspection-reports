@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Pittsburg State University",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2014"
+  "date": "20-MAY-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

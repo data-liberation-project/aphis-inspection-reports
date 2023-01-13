@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIKE JOUWSTRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2019"
+  "date": "15-FEB-2019",
+  "animals_total": 153,
+  "species": [
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

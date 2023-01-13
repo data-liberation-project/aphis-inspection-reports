@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRESNO'S CHAFFEE ZOO CORPORATION",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-AUG-2017"
+  "date": "07-AUG-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

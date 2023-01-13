@@ -8,5 +8,43 @@
   "site_id": "003",
   "site_name": "UNIVERSITY OF GEORGIA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2016"
+  "date": "21-SEP-2016",
+  "animals_total": 531,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 212,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 202,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

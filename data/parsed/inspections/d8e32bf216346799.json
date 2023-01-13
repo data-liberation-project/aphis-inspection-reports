@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL F WINGARD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-JUL-2018"
+  "date": "12-JUL-2018",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

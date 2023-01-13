@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mary Winkler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2022"
+  "date": "25-JAN-2022",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

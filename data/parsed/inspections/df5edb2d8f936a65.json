@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "H & L Sales Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2015"
+  "date": "08-JUN-2015",
+  "animals_total": 709,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 65,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 38,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 95,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 56,
+      "scientific": "Capra falconeri",
+      "common": "MARKHOR"
+    },
+    {
+      "count": 35,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 98,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 39,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 36,
+      "scientific": "Oryx gazella",
+      "common": "GEMSBOK"
+    },
+    {
+      "count": 36,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries vignei",
+      "common": "URIAL SHEEP"
+    },
+    {
+      "count": 58,
+      "scientific": "Ovis gmelini",
+      "common": "ARMENIAN MOUFLON"
+    },
+    {
+      "count": 124,
+      "scientific": "Rucervus duvaucelii",
+      "common": "BARASINGHA / SWAMP DEER"
+    }
+  ]
 }

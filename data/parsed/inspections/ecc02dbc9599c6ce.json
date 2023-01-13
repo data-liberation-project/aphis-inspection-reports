@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MCGEE WOMENS RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2022"
+  "date": "31-JAN-2022",
+  "animals_total": 332,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 305,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    }
+  ]
 }

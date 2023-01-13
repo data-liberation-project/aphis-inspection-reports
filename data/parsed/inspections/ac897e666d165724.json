@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICTORIA CASELLA",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-SEP-2022"
+  "date": "13-SEP-2022",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 196,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

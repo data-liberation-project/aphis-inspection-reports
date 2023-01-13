@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DC FARMS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2020"
+  "date": "12-MAR-2020",
+  "animals_total": 256,
+  "species": [
+    {
+      "count": 160,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

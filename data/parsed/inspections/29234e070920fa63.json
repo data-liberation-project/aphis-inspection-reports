@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2021"
+  "date": "15-SEP-2021",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 25,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    },
+    {
+      "count": 44,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 10,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    }
+  ]
 }

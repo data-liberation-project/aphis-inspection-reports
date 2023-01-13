@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CARE RESEARCH, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2018"
+  "date": "06-JUL-2018",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 42,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTHWESTERN CT COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2019"
+  "date": "13-NOV-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

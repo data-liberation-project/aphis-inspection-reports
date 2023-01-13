@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RAINBOW CREEK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2018"
+  "date": "12-JUN-2018",
+  "animals_total": 303,
+  "species": [
+    {
+      "count": 196,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 107,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

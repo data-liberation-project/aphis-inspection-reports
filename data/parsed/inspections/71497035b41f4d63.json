@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WALDENS PUDDLE WILDLIFE REHABILITATION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2022"
+  "date": "13-OCT-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

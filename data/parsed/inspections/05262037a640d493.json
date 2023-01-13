@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ZACHERY KEELER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-MAR-2022"
+  "date": "08-MAR-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    }
+  ]
 }

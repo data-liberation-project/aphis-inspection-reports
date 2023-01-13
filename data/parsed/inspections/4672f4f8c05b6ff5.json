@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Sue Stromer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2016"
+  "date": "31-MAR-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

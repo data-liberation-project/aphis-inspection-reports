@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RHONDA THOMAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2015"
+  "date": "17-MAR-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "P J SHUNKWILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2015"
+  "date": "31-MAR-2015",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

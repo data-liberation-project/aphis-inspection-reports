@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN VOGEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2016"
+  "date": "28-SEP-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "STAUTZENBERGER COLLEGE VET TECH PROG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2021"
+  "date": "05-JAN-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HEALTH SCIENCE CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2021"
+  "date": "13-MAY-2021",
+  "animals_total": 831,
+  "species": [
+    {
+      "count": 818,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

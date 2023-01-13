@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SMALLEY EXOTIC FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2014"
+  "date": "22-MAY-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Brachyteles arachnoides",
+      "common": "WOOLLY SPIDER MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca nigra",
+      "common": "SULAWESI CRESTED MACAQUE"
+    }
+  ]
 }

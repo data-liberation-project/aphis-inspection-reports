@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2015"
+  "date": "20-OCT-2015",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

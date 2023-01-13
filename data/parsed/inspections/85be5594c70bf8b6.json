@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "SILVER SCREEN ANIMALS INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2017"
+  "date": "20-JUN-2017",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Cricetulus migratorius",
+      "common": "ARMENIAN HAMSTER / MIGRATORY HAMSTER"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus aureogaster",
+      "common": "MEXICAN GREY SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

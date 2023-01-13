@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Glen Otto",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-APR-2022"
+  "date": "12-APR-2022",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE OLD RED SCHOOLHOUSE WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2017"
+  "date": "17-OCT-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Dorcopsis luctuosa",
+      "common": "GREY FOREST WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

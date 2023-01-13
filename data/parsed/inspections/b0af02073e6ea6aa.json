@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MEDTRONIC PHYSIOLOGICAL RESEARCH LABORATORIES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-SEP-2021"
+  "date": "14-SEP-2021",
+  "animals_total": 185,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 95,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 24,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

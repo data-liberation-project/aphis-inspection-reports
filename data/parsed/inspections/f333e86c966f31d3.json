@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL LEE STOLL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2014"
+  "date": "16-DEC-2014",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

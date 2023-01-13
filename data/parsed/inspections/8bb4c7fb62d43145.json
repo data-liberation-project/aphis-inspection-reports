@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THERESA PARSONS MAYOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2019"
+  "date": "26-JUN-2019",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

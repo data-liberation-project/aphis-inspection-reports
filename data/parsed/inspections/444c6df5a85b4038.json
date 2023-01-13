@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN BERHORST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-SEP-2019"
+  "date": "10-SEP-2019",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

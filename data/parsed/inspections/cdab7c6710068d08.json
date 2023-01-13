@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SPF NORTH AMERICAN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2018"
+  "date": "31-JAN-2018",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 83,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

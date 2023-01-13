@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "BEN SHROCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2014"
+  "date": "29-JUL-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus fuscicollis",
+      "common": "SADDLE-BACK TAMARIN"
+    }
+  ]
 }

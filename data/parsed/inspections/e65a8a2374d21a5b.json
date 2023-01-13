@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HENRY WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2021"
+  "date": "30-APR-2021",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

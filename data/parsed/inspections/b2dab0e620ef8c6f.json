@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTH CAROLINA A&T STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2017"
+  "date": "18-APR-2017",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 47,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

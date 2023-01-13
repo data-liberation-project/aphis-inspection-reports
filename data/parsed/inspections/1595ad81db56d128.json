@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "Dana Bryant",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2021"
+  "date": "19-MAY-2021",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

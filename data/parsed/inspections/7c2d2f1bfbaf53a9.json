@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "JASON RIGGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2017"
+  "date": "20-MAY-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 6,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 3,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

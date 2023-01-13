@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Phyllis Hastings",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2022"
+  "date": "26-OCT-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

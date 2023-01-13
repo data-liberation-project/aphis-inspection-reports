@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SEATTLE CHILDRENS RESEARCH INSTITUTE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-OCT-2017"
+  "date": "13-OCT-2017",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

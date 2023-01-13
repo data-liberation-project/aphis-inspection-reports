@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "Terranova Enterprises Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2015"
+  "date": "18-AUG-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

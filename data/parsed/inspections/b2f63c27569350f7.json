@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "MBR WAVERLY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2018"
+  "date": "02-AUG-2018",
+  "animals_total": 2653,
+  "species": [
+    {
+      "count": 213,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 196,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1356,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 888,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

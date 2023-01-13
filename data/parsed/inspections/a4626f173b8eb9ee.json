@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ERIN AND KALEB RODGERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2021"
+  "date": "08-JUL-2021",
+  "animals_total": 175,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 43,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

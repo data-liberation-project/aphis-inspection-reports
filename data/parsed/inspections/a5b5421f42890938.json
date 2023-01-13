@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "GLOBAL RESOURCES FOR ENVIRONMENTAL EDUC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2018"
+  "date": "14-MAR-2018",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 14,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 25,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

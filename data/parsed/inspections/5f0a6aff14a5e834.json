@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Adam Wiste",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2015"
+  "date": "08-SEP-2015",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 21,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 18,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

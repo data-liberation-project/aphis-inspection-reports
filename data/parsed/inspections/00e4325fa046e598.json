@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANDREY MIKIRTICHEV",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-MAY-2017"
+  "date": "18-MAY-2017",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

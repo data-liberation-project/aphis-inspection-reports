@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DONNA KRAMER & GEORGE KRAMER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2014"
+  "date": "16-OCT-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

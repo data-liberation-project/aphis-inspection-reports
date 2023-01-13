@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "KOWALSKI PET COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2015"
+  "date": "21-JAN-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 5,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon bridgesi",
+      "common": "BRIDGE'S DEGU"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
 }

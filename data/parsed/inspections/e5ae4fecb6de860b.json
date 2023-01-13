@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "THE MARINE MAMMAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2017"
+  "date": "31-OCT-2017",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctocephalus galapagoensis",
+      "common": "GALAPAGOS FUR SEAL"
+    },
+    {
+      "count": 7,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

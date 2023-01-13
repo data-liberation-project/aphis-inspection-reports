@@ -8,5 +8,13 @@
   "site_id": "003",
   "site_name": "ANTHONY SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2014"
+  "date": "16-DEC-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

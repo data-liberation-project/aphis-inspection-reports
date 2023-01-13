@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ROBERT FERRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2017"
+  "date": "17-OCT-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

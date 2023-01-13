@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CLAUDE CIOMPERLIK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2014"
+  "date": "02-OCT-2014",
+  "animals_total": 406,
+  "species": [
+    {
+      "count": 250,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 150,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CLAUDE & JON CONLEY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "18-SEP-2017"
+  "date": "18-SEP-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Damaliscus pygargus",
+      "common": "BONTEBOK / BLESBOK"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 1,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    }
+  ]
 }

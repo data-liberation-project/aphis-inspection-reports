@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALVIN KROGER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "16-JUN-2022"
+  "date": "16-JUN-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

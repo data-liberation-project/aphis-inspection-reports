@@ -3,6 +3,7 @@ import json
 import re
 import sys
 import typing
+from itertools import chain
 from operator import itemgetter
 from pathlib import Path
 
@@ -17,6 +18,11 @@ def parse_args() -> argparse.Namespace:
         help="Overwrite cached parsings in parsed/inspections?",
     )
     parser.add_argument(
+        "--start",
+        type=int,
+        help="Only start parsing the {n}th PDF. Mainly useful for testing new parsing code.",  # noqa: E501
+    )
+    parser.add_argument(
         "--test",
         type=str,
         help="Test parsing against a single PDF, writing results to stdout.",
@@ -24,8 +30,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def get_inspection_id_and_layout(pdf: pdfplumber.pdf.PDF) -> tuple[str, str]:
-    page = pdf.pages[0].dedupe_chars()
+def get_inspection_id_and_layout(page: pdfplumber.page.Page) -> tuple[str, str]:
     edges = sorted(page.edges, key=itemgetter("top", "x0"))
     top = page.crop((0, 0, page.width, edges[0]["top"]))
     top_text = top.extract_text(x_tolerance=2)
@@ -50,9 +55,7 @@ def norm_ws(text: str, newlines: bool = False) -> str:
     return text
 
 
-def get_top_section(pdf: pdfplumber.pdf.PDF, layout: str) -> dict[str, typing.Any]:
-    page = pdf.pages[0].dedupe_chars()
-
+def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing.Any]:
     if len(page.lines) > 2:
         line_objs = [page.lines[0], page.lines[2]]
     else:
@@ -95,19 +98,130 @@ def get_top_section(pdf: pdfplumber.pdf.PDF, layout: str) -> dict[str, typing.An
     }
 
 
+def get_species(
+    pages: list[pdfplumber.page.Page], layout: str
+) -> tuple[typing.Optional[int], list[dict[str, typing.Any]]]:
+    species = []
+
+    def is_header_char(obj: dict[str, typing.Any]) -> bool:
+        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > 11
+
+    def is_species_page(page: pdfplumber.page.Page) -> bool:
+        return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
+
+    def get_table_chars(
+        chars: list[dict[str, typing.Any]]
+    ) -> list[dict[str, typing.Any]]:
+        # There appear to be two main underlying structures of the
+        # species-table lists, although they appear largely similar to the
+        # human eye.
+        char_texts = "".join(c["text"][0] for c in chars)
+        match = re.search(
+            r"Page \d+ of \d+ +(Count Scientific Name Common Name )?(?P<table>.*)$",
+            char_texts,
+        )
+        if match:
+            return chars[match.start("table") : match.end("table")]
+        else:
+            chars_sorted = sorted(chars, key=itemgetter("top", "x0"))
+            char_texts = "".join(c["text"][0] for c in chars_sorted)
+            match = re.search(
+                r"(Count *Scientific *Name *Common *Name *)(?P<table>.*)Page (\d+|\{cp\}) of \d+ *$",  # noqa: E501
+                char_texts,
+            )
+            assert match, "Unrecognized char/layout structure"
+            return chars_sorted[match.start("table") : match.end("table")]
+
+    def parse_species_page(
+        page: pdfplumber.page.Page,
+    ) -> list[tuple[int, str, str]]:
+        rows = [[""]]
+        last_char = None
+
+        table_chars = get_table_chars(page.chars)
+
+        if not len(table_chars):
+            return []
+
+        for char in table_chars:
+            if last_char is None:
+                dist = 0
+            else:
+                dist = char["x0"] - last_char["x1"]
+            # If starting a new row
+            if dist < -200 or last_char is None:
+                # Append and pad out previous row
+                if last_char is not None:
+                    remaining = 3 - len(rows[-1])
+                    rows[-1] += [""] * remaining
+                # If starting at very beginning (typical)
+                if char["x0"] < 50:
+                    rows.append([char["text"]])
+                # Otherwise, consider the first cell blank
+                else:
+                    rows.append(["", char["text"]])
+            # If starting a new column (i.e., jumping right)
+            if last_char and dist > 5:
+                rows[-1].append(char["text"])
+            # If continuing the current chunk of text
+            else:
+                rows[-1][-1] += char["text"]
+            last_char = char
+
+        remaining = 3 - len(rows[-1])
+        rows[-1] += [""] * remaining
+
+        def has_data(row: list[str]) -> bool:
+            return bool(row[0].strip())
+
+        rows_with_data = filter(has_data, rows)
+        return [(int(a.strip()), b.strip(), c.strip()) for a, b, c in rows_with_data]
+
+    species_pages = list(filter(is_species_page, pages))
+    assert len(species_pages) > 0
+
+    rows_all = list(chain(*map(parse_species_page, species_pages)))
+    if not rows_all:
+        # Make sure we didn't just fail to grab the table
+        assert re.search(r"\d+\s+Total", species_pages[0].extract_text()) is None
+        return None, []
+
+    assert rows_all[-1][1] == "Total"  # Make sure last row is the total
+
+    species_rows = rows_all[:-1]
+    animals_total = sum(a for a, b, c in species_rows)
+    assert (
+        animals_total == rows_all[-1][0]
+    )  # Make sure the species totals sum to the overall total
+
+    species = [dict(count=a, scientific=b, common=c) for a, b, c in species_rows]
+    return animals_total, species
+
+
+def prep_page(page: pdfplumber.page.Page) -> pdfplumber.page.Page:
+    return page.dedupe_chars().filter(lambda obj: obj.get("text") != "(cid:9)")
+
+
 def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
-    insp_id, layout = get_inspection_id_and_layout(pdf)
-    top_section = get_top_section(pdf, layout)
+    pages = list(map(prep_page, pdf.pages))
+    insp_id, layout = get_inspection_id_and_layout(pages[0])
+    top_section = get_top_section(pages[0], layout)
+    animals_total, species = get_species(pages, layout)
     return {
         "insp_id": insp_id,
         "layout": layout,
         **top_section,
+        **dict(animals_total=animals_total, species=species),
     }
 
 
-def parse_all(overwrite: bool = False) -> None:
+def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
     paths = sorted(Path("pdfs/inspections/").glob("*.pdf"))
+    start_int = start or 0
     for i, path in enumerate(paths):
+        if i < start_int:
+            continue
+
         dest = Path(f"data/parsed/inspections/{path.stem}.json")
         if dest.exists() and not overwrite:
             continue
@@ -138,7 +252,7 @@ def main() -> None:
             json.dump(results, sys.stdout, indent=2)
             sys.stdout.write("\n")
     else:
-        parse_all(overwrite=args.overwrite)
+        parse_all(overwrite=args.overwrite, start=args.start)
         combine()
 
 

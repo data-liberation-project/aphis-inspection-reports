@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS AND MARY FARMWALD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-NOV-2019"
+  "date": "19-NOV-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

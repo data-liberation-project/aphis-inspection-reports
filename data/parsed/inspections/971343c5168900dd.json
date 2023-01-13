@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACKSON COUNTY PARKS & RECREATION",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-AUG-2015"
+  "date": "24-AUG-2015",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 22,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

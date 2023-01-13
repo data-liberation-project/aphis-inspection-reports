@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIRIAM AND CATHERINE NISLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2022"
+  "date": "31-OCT-2022",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

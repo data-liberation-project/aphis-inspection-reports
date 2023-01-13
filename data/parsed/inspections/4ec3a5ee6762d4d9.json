@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GWINDA SIMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2015"
+  "date": "04-AUG-2015",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "Sarah Hand",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2022"
+  "date": "09-SEP-2022",
+  "animals_total": 289,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    },
+    {
+      "count": 218,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 65,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    }
+  ]
 }

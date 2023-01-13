@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MINI MOO PETTING ZOO LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-NOV-2018"
+  "date": "21-NOV-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

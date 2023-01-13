@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "NELSON PEARSON I I I",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2018"
+  "date": "11-APR-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus parma",
+      "common": "PARMA WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

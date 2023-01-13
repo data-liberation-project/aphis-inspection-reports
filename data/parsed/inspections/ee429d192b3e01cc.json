@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Justin Gailey",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "18-JAN-2022"
+  "date": "18-JAN-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CENTRAL ANIMAL FACILITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-JUN-2022"
+  "date": "13-JUN-2022",
+  "animals_total": 157,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 123,
+      "scientific": "Scotinomys teguina",
+      "common": "ALSTON'S BROWN MOUSE / SHORT-TAILED SINGING MOUSE"
+    },
+    {
+      "count": 14,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

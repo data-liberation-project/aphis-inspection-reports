@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Kayann Herrman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2022"
+  "date": "19-SEP-2022",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

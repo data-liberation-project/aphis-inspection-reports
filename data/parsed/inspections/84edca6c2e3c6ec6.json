@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY FLEMMING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2021"
+  "date": "21-APR-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

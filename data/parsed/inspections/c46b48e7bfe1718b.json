@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WY. DEPT. OF STATE PKS&CULTURAL RESOURCES - BRSP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2016"
+  "date": "15-NOV-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

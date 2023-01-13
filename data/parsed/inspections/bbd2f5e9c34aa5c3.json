@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID SCHLABACH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-OCT-2019"
+  "date": "29-OCT-2019",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

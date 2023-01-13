@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "VARIOUS TRAVELING LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2018"
+  "date": "03-DEC-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

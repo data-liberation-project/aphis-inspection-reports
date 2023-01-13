@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "LES KIMES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2014"
+  "date": "18-NOV-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

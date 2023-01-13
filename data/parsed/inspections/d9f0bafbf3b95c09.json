@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRACE N RICHARDSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2022"
+  "date": "18-AUG-2022",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

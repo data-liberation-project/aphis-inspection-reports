@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PROSPECT HILL GARDEN CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2017"
+  "date": "06-JUN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Justine Smith Schumaker",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-JAN-2022"
+  "date": "24-JAN-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

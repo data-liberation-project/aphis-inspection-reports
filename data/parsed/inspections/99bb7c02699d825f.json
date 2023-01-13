@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT SARGENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 1240,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1200,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

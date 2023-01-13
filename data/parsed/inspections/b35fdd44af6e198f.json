@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Puget Sound Doodles LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2022"
+  "date": "20-SEP-2022",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

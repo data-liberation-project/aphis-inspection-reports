@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RODNIE KELLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2014"
+  "date": "09-JUL-2014",
+  "animals_total": 132,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 69,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

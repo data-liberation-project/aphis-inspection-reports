@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEPHENIE REYNOLDS & ELLEN DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2014"
+  "date": "13-FEB-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

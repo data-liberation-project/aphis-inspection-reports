@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALVIN KROGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2018"
+  "date": "29-JUN-2018",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

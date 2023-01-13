@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ERIE ZOOLOGICAL SOCIETY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-JUL-2017"
+  "date": "05-JUL-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

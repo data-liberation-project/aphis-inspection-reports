@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RACHAEL AND VERNON REIFF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

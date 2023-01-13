@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "APEX PROTECTION PROJECT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2021"
+  "date": "04-FEB-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CASE WESTERN RESERVE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2014"
+  "date": "28-JUL-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GAIL MC GONIGAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2021"
+  "date": "28-MAY-2021",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

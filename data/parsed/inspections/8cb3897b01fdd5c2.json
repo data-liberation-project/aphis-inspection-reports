@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEVI RABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-DEC-2017"
+  "date": "18-DEC-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "YELLOWSTONE BEAR WORLD INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2017"
+  "date": "09-MAR-2017",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oreamnos americanus",
+      "common": "ROCKY MOUNTAIN GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

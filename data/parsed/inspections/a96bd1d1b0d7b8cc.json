@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PIERCE COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2018"
+  "date": "03-OCT-2018",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

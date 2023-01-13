@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PAUL & RACHEL LAMPL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2014"
+  "date": "24-JUN-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    }
+  ]
 }

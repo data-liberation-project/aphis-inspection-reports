@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABE YODER & DANIEL WENGERD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2014"
+  "date": "20-MAR-2014",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 97,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

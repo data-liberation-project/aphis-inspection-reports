@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALBERT BELMONT JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2015"
+  "date": "07-APR-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

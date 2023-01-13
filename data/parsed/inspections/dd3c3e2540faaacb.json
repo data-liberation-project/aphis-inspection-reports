@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SOUTH DAKOTA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JAN-2016"
+  "date": "14-JAN-2016",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 26,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

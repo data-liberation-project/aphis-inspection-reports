@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOE OVERLEASE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2022"
+  "date": "05-JAN-2022",
+  "animals_total": 247,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 174,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

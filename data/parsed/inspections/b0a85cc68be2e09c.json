@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "University of Texas",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2016"
+  "date": "20-APR-2016",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 48,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 44,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 48,
+      "scientific": "Zapus hudsonius",
+      "common": "MEADOW JUMPING MOUSE"
+    }
+  ]
 }

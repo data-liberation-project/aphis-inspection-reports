@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "LAKE IMMUNOGENICS INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "26-JUL-2022"
+  "date": "26-JUL-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

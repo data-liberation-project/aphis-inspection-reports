@@ -8,5 +8,23 @@
   "site_id": "007",
   "site_name": "NIEMANN FOODS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2015"
+  "date": "14-JUL-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

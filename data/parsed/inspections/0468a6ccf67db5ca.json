@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "T R S LABS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 762,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 60,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 486,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 200,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

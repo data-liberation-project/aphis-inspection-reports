@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SO BRAN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2019"
+  "date": "24-JUL-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

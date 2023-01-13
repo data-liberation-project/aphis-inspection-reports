@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SHAWNA ADAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUL-2019"
+  "date": "03-JUL-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DEBORAH SNYDER, DOUG SMOOT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2015"
+  "date": "19-MAR-2015",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

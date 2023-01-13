@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LAUREN MC ANA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2016"
+  "date": "08-JUN-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 23,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

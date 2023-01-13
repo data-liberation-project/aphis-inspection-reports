@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHAD & HOLLIE KAHNKE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2018"
+  "date": "11-JUN-2018",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

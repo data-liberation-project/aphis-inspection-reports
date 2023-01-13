@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF & KIM WILLIAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2016"
+  "date": "03-NOV-2016",
+  "animals_total": 193,
+  "species": [
+    {
+      "count": 134,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

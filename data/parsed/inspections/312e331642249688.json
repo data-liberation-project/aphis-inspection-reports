@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHAMPAIGN PARK DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-AUG-2014"
+  "date": "11-AUG-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

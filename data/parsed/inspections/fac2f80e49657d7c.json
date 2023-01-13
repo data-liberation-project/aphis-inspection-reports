@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN HAMPTON PEGGY HAMPTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2018"
+  "date": "09-APR-2018",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

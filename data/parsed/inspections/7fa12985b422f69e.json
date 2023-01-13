@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Carol Barratt",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "14-APR-2015"
+  "date": "14-APR-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

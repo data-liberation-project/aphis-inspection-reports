@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "Darci Troyer & Melissa Troyer & Monty Troyer & Ro",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2017"
+  "date": "07-NOV-2017",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

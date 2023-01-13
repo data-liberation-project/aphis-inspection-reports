@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBORAH HUBBARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2021"
+  "date": "25-FEB-2021",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

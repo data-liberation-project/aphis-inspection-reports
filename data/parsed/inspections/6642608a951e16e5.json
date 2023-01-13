@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "Terry Floyd",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2015"
+  "date": "03-FEB-2015",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 6,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 2,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Hippotragus equinus",
+      "common": "ROAN ANTELOPE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 24,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORTHERN GREAT PLAINS RESEARCH LABORATORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2019"
+  "date": "19-JUN-2019",
+  "animals_total": 273,
+  "species": [
+    {
+      "count": 246,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

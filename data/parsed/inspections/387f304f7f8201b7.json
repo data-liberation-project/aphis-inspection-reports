@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DIV. OF LAB ANIMAL RESOURCES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-OCT-2017"
+  "date": "23-OCT-2017",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

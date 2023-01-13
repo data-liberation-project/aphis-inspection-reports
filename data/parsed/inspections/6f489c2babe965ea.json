@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATIONAL MISSISSIPPI RIVER MUSEUM AND AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2017"
+  "date": "17-OCT-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Euphractus sexcinctus",
+      "common": "YELLOW ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

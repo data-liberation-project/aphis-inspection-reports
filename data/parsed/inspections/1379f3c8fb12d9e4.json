@@ -8,5 +8,28 @@
   "site_id": "005",
   "site_name": "GAYLE PHELPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2022"
+  "date": "07-DEC-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

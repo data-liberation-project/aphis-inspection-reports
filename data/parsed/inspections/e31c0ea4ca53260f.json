@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WORLDWIDE MOVIE ANIMALS L L C",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "26-JAN-2022"
+  "date": "26-JAN-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
 }

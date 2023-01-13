@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Seattle Aquarium Society",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2014"
+  "date": "24-JUL-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Arctocephalus galapagoensis",
+      "common": "GALAPAGOS FUR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
 }

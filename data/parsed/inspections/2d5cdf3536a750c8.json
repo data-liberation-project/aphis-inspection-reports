@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOHN & MELISSA BOWLANDER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "16-JUL-2021"
+  "date": "16-JUL-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

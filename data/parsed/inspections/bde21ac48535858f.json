@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Creek Side Kennel L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2021"
+  "date": "20-APR-2021",
+  "animals_total": 551,
+  "species": [
+    {
+      "count": 356,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 195,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL AND BARRARA REECE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2015"
+  "date": "02-DEC-2015",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TOM ZEILSTRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2016"
+  "date": "03-NOV-2016",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

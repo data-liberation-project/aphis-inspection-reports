@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Pam Robertson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2014"
+  "date": "01-DEC-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 16,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 11,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    }
+  ]
 }

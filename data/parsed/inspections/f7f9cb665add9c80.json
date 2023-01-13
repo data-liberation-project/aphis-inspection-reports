@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "CHRISTOPHER DEMANGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-DEC-2016"
+  "date": "22-DEC-2016",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Aotus",
+      "common": "NIGHT MONKEY"
+    },
+    {
+      "count": 36,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 15,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 16,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 9,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 25,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

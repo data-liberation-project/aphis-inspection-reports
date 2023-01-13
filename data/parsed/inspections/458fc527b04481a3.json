@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TWO B KENNELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-OCT-2018"
+  "date": "22-OCT-2018",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 172,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

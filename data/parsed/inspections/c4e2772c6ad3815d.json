@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALIFORNIA STATE UNIVERSITY, SAN BERNARDINO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2017"
+  "date": "06-APR-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Dipodomys deserti",
+      "common": "DESERT KANGAROO RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Scalopus aquaticus",
+      "common": "EASTERN MOLE"
+    }
+  ]
 }

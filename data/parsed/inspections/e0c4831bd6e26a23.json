@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KANDYS PUPPIES L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2020"
+  "date": "05-MAR-2020",
+  "animals_total": 182,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

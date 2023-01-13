@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, RIVERSIDE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2016"
+  "date": "13-SEP-2016",
+  "animals_total": 194,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 150,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 30,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

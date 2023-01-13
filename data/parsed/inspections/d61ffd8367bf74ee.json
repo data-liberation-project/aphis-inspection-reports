@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROOSTER COGBURN OSTRICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2017"
+  "date": "01-DEC-2017",
+  "animals_total": 254,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 80,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 90,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

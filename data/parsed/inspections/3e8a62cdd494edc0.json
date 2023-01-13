@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIARWOOD INVESTMENTS INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-DEC-2016"
+  "date": "20-DEC-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Limestone Valley Kennel",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2022"
+  "date": "19-APR-2022",
+  "animals_total": 189,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

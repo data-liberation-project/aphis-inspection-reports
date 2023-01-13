@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Daniel Seematter",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2017"
+  "date": "05-JUN-2017",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

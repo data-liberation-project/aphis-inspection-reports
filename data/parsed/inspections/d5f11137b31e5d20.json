@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ISRAEL STOLTZFUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2022"
+  "date": "08-MAR-2022",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELAINE K WILSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2017"
+  "date": "13-SEP-2017",
+  "animals_total": 287,
+  "species": [
+    {
+      "count": 215,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Laure Braun",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2017"
+  "date": "13-JUL-2017",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

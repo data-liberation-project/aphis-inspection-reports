@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cedar Valley College DBA Veterinary Technology",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2021"
+  "date": "13-JUL-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

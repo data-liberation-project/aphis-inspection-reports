@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANN LORD & STAN COCHRAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2015"
+  "date": "21-APR-2015",
+  "animals_total": 204,
+  "species": [
+    {
+      "count": 158,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

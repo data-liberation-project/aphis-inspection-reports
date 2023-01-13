@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "University of Rhode Island",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 145,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
 }

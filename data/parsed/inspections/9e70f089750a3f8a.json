@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILDRED PARMLEY NEW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2014"
+  "date": "11-MAR-2014",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

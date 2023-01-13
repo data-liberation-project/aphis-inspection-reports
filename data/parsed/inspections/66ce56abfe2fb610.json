@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "City of Lawrence",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "30-DEC-2021"
+  "date": "30-DEC-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Caluromysiops irrupta",
+      "common": "BLACK-SHOULDERED OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

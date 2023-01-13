@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CHESTER BEACHY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2021"
+  "date": "09-SEP-2021",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

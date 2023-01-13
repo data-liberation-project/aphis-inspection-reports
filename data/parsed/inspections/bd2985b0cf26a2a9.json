@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PETER S ORNELAS & DEBRA SIEVERS JONES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-SEP-2019"
+  "date": "24-SEP-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

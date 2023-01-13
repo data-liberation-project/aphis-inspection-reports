@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DELORES CARLOS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2016"
+  "date": "26-OCT-2016",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 27,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "John Ham",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2015"
+  "date": "17-SEP-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chaetophractus vellerosus",
+      "common": "SCREAMING ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

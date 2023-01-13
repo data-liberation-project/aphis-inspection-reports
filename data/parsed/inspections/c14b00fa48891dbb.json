@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ERIE ZOOLOGICAL SOCIETY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-DEC-2018"
+  "date": "20-DEC-2018",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 8,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    }
+  ]
 }

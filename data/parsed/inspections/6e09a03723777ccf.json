@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLEMENS & LIZZIE BORNTREGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2022"
+  "date": "11-JAN-2022",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

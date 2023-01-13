@@ -8,5 +8,83 @@
   "site_id": "001",
   "site_name": "BETH CORLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2015"
+  "date": "16-NOV-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Arctos",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles fusciceps",
+      "common": "BROWN-HEADED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus dingo",
+      "common": "DINGO"
+    },
+    {
+      "count": 1,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera leo \u00d7 panthera tigris",
+      "common": "LIGER"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
 }

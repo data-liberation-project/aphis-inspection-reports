@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RAYMOND & MARLENE AURAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2020"
+  "date": "01-SEP-2020",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

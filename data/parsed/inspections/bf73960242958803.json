@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF SAN DIEGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2016"
+  "date": "28-APR-2016",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 136,
+      "scientific": "Chaetodipus californicus",
+      "common": "CALIFORNIA POCKET MOUSE"
+    },
+    {
+      "count": 21,
+      "scientific": "Cuon alpinus",
+      "common": "DHOLE"
+    }
+  ]
 }

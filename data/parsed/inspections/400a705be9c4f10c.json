@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LUV MY PUP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2019"
+  "date": "07-MAY-2019",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

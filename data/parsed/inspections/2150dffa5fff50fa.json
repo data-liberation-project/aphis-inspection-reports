@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WILDCARE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2020"
+  "date": "01-OCT-2020",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasionycteris noctivagans",
+      "common": "SILVER-HAIRED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

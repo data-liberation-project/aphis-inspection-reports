@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY & JO ANN NELSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2018"
+  "date": "29-MAR-2018",
+  "animals_total": 356,
+  "species": [
+    {
+      "count": 234,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 122,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

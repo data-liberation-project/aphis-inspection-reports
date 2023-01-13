@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOOSIER CAMEL ENCOUNTER LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "21-FEB-2018"
+  "date": "21-FEB-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

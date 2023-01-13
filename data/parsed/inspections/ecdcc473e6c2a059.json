@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAN FELTON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

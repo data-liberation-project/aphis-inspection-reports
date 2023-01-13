@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEXTER OSBORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2018"
+  "date": "22-AUG-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

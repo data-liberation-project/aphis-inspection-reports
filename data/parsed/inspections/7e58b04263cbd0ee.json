@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRISTA ANNE TAYLOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2021"
+  "date": "03-FEB-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

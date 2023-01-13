@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LEARNING RESOURCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2016"
+  "date": "11-APR-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

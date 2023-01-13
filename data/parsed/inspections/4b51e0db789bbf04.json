@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "STEVEN HIGGS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "04-OCT-2018"
+  "date": "04-OCT-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

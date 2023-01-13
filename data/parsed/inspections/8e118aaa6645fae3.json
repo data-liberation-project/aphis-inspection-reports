@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KEVAN EVANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2016"
+  "date": "07-JUN-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

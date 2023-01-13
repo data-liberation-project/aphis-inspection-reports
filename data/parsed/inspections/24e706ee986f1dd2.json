@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ITT RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2018"
+  "date": "22-FEB-2018",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 36,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

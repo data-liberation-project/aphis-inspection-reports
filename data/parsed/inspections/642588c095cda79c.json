@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "NC AQUARIUM AT ROANOKE ISLAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2020"
+  "date": "13-FEB-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

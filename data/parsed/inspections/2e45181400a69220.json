@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "BARTONS WEST END FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2014"
+  "date": "08-MAY-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

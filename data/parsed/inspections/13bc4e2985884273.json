@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES OTTO",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "23-NOV-2022"
+  "date": "23-NOV-2022",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

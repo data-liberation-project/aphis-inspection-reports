@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ESLE C YODER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "26-APR-2021"
+  "date": "26-APR-2021",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEITH A WARREN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2019"
+  "date": "19-DEC-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

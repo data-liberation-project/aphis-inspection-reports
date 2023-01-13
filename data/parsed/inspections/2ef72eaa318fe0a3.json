@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "LIBERTY SCIENCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2016"
+  "date": "07-JUL-2016",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 5,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

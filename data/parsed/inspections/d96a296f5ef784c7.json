@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Frances Roberson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2021"
+  "date": "22-JUL-2021",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

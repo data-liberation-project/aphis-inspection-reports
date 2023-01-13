@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BURKE NURSERY & GARDEN CENTRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2016"
+  "date": "30-SEP-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

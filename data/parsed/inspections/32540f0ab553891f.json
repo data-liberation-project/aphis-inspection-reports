@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIV.OF NEW MEXICO - MAIN CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2015"
+  "date": "15-APR-2015",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 67,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

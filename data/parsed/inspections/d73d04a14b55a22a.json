@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JONI & LUELLA MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2017"
+  "date": "25-SEP-2017",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

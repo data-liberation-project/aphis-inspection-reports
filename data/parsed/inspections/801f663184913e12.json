@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "MIDDLE CREEK VETERINARY HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2021"
+  "date": "14-DEC-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY OTTO",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-FEB-2018"
+  "date": "22-FEB-2018",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

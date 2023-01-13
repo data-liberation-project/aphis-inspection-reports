@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CITY OF GAYLORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2022"
+  "date": "20-APR-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 35,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

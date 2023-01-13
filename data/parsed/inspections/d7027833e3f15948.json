@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOE SCHWARTZ & SARAH SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2014"
+  "date": "03-JUN-2014",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

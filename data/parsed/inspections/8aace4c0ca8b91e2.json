@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Sternberg Museum of Natural History",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2017"
+  "date": "16-FEB-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dipodomys ordii",
+      "common": "ORD'S KANGAROO RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nycticeius humeralis",
+      "common": "EVENING BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Onychomys leucogaster",
+      "common": "NORTHERN GRASSHOPPER MOUSE"
+    }
+  ]
 }

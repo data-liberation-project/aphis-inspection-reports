@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Arnold Bruna, Linda Bruna",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JAN-2018"
+  "date": "17-JAN-2018",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

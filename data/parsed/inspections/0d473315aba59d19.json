@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Jon Adwell",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "11-JAN-2021"
+  "date": "11-JAN-2021",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

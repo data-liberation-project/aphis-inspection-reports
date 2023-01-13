@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOT'S LITTLE DOGGIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2014"
+  "date": "11-MAR-2014",
+  "animals_total": 396,
+  "species": [
+    {
+      "count": 289,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 107,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUZANNAH & ADAM HELMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2019"
+  "date": "16-OCT-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

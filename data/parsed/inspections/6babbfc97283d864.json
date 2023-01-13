@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "TULANE UNIVERSITY (NAT'L PRIMATE RES CTR)",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2019"
+  "date": "14-AUG-2019",
+  "animals_total": 4932,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Cercocebus torquatus",
+      "common": "RED-CAPPED MANGABEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4861,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 52,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

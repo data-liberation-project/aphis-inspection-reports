@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAINT FRANCIS WOLF SANCTUARY INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2018"
+  "date": "21-MAR-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

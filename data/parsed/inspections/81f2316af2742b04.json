@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEON A MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JUN-2018"
+  "date": "29-JUN-2018",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

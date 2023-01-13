@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRISTIAN LAMBRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2016"
+  "date": "20-JAN-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

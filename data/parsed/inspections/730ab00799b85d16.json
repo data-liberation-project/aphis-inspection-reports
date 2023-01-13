@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE ECLECTIC BUG L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2021"
+  "date": "26-MAY-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

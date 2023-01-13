@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GINA WESTERCAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2016"
+  "date": "03-MAY-2016",
+  "animals_total": 176,
+  "species": [
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

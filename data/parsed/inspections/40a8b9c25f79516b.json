@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHNNIE AND RACHEL GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2019"
+  "date": "09-APR-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FOX WOOD WILDLIFE RESCUE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2015"
+  "date": "03-JUN-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 3,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

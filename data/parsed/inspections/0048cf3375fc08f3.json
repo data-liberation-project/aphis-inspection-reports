@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THOMAS D. MORRIS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2016"
+  "date": "09-MAY-2016",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 77,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 22,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

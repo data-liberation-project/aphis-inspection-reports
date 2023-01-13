@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SAWGRASS NATURE CENTER & WILDLIFE HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2017"
+  "date": "20-JUN-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

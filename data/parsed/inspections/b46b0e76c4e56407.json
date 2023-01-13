@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KUIPER RABBIT RANCH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2019"
+  "date": "15-AUG-2019",
+  "animals_total": 2000,
+  "species": [
+    {
+      "count": 1800,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 200,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

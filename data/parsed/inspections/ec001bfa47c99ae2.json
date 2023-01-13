@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LAMPIRE BIOLOGICAL LABORATORIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2016"
+  "date": "19-JAN-2016",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 152,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

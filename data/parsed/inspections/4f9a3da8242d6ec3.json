@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOLLY PARTONS STAMPEED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2022"
+  "date": "05-APR-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    }
+  ]
 }

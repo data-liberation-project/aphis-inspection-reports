@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mayra Bremer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2019"
+  "date": "25-SEP-2019",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

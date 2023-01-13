@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILCOX BAIT & TACKLE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2022"
+  "date": "25-JAN-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

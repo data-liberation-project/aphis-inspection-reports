@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GRADUATE SCIENCE RESEARCH CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-AUG-2022"
+  "date": "23-AUG-2022",
+  "animals_total": 2911,
+  "species": [
+    {
+      "count": 453,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 108,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 926,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 899,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 525,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    }
+  ]
 }

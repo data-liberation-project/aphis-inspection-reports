@@ -8,5 +8,18 @@
   "site_id": "008",
   "site_name": "Texas Tech School of Veterinary Medicine",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2022"
+  "date": "03-MAY-2022",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 19,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

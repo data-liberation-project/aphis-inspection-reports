@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERNON B & SUSAN L ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2021"
+  "date": "18-NOV-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

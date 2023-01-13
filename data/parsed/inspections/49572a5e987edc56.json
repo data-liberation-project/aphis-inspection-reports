@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CANDY FIELDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2018"
+  "date": "25-JUL-2018",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

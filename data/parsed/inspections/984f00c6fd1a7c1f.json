@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "SELECT PUPPIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2019"
+  "date": "19-DEC-2019",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

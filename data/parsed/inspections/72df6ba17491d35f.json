@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORMAN E YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-OCT-2021"
+  "date": "12-OCT-2021",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

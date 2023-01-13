@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MENOMONIE LIONS CLUB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2020"
+  "date": "03-MAR-2020",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 6,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 7,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

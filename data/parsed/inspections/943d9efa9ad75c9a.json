@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "COLLEGE OF OPTOMETRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2014"
+  "date": "18-NOV-2014",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

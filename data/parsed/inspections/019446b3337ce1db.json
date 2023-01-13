@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HONEY HILL PET CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2016"
+  "date": "12-SEP-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

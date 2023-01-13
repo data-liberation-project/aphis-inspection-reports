@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OLD DOMINION UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-DEC-2019"
+  "date": "05-DEC-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

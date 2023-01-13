@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STANFORD UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2016"
+  "date": "07-SEP-2016",
+  "animals_total": 1233,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Microcebus murinus",
+      "common": "LESSER MOUSE LEMUR"
+    },
+    {
+      "count": 1199,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 8,
+      "scientific": "Suncus etruscus",
+      "common": "PYGMY WHITE-TOOTHED SHREW"
+    }
+  ]
 }

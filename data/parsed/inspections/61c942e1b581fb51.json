@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ENVIGO GLOBAL SERVICES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2021"
+  "date": "20-JUL-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

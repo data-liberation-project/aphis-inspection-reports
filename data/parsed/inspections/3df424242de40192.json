@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "VICKIS PETZ N MORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2014"
+  "date": "22-JUL-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

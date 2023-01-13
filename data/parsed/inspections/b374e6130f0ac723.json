@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESTER KEMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2018"
+  "date": "11-JAN-2018",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

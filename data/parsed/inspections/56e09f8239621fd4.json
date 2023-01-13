@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "OHIO WILDLIFE CENTER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-AUG-2017"
+  "date": "16-AUG-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Menetes berdmorei",
+      "common": "INDOCHINESE / BERDMORE'S GROUND SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Myotis lucifugus",
+      "common": "LITTLE BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

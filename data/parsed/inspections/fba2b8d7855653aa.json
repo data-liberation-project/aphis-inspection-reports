@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Glen Brammer Lora Brammer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2015"
+  "date": "02-DEC-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

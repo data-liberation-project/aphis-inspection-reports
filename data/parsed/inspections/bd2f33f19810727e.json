@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NEW YORK UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "09-AUG-2022"
+  "date": "09-AUG-2022",
+  "animals_total": 218,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 29,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 158,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

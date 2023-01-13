@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANDREW BORNTREGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2018"
+  "date": "06-AUG-2018",
+  "animals_total": 206,
+  "species": [
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

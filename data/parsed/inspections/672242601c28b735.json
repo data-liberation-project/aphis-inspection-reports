@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACK & MELISA PARSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-NOV-2016"
+  "date": "21-NOV-2016",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

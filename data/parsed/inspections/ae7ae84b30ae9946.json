@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "TODD AND KAREN O'NEILL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2018"
+  "date": "06-DEC-2018",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 14,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

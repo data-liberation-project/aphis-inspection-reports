@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SYNCHRONY LABS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2022"
+  "date": "14-FEB-2022",
+  "animals_total": 109,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, RIVERSIDE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-AUG-2018"
+  "date": "23-AUG-2018",
+  "animals_total": 431,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Antrozous pallidus",
+      "common": "PALLID BAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 378,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 33,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOBBY & LORI SCHROEDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2018"
+  "date": "12-SEP-2018",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

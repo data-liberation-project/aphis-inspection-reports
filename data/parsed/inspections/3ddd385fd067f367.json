@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELVA & DAVE LEFDAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2017"
+  "date": "29-NOV-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

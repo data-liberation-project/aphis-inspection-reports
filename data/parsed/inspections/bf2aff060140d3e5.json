@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "BETH BISHOP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2017"
+  "date": "14-MAR-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    }
+  ]
 }

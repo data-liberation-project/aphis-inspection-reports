@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Red Beast Enterprises, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2015"
+  "date": "29-JUN-2015",
+  "animals_total": 207,
+  "species": [
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

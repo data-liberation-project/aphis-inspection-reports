@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "FUND FOR ANIMALS WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2017"
+  "date": "20-JUL-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hexaprotodon liberiensis",
+      "common": "PYGMY HIPPOPOTAMUS"
+    },
+    {
+      "count": 8,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

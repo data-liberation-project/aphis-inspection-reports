@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "COUGAR MOUNTIAN ZOOLOGICAL PARK",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-DEC-2017"
+  "date": "20-DEC-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

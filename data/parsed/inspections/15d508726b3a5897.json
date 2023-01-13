@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUMMER WIND FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2017"
+  "date": "25-APR-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    }
+  ]
 }

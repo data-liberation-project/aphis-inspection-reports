@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OKLAHOMA CITY ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-AUG-2019"
+  "date": "05-AUG-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 2,
+      "scientific": "Pongo abelii",
+      "common": "SUMATRAN ORANGUTAN"
+    }
+  ]
 }

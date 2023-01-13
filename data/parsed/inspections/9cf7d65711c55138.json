@@ -8,5 +8,18 @@
   "site_id": "MIA",
   "site_name": "MARTINAIR HOLLAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2020"
+  "date": "27-FEB-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LELA HUGHS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2019"
+  "date": "26-FEB-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

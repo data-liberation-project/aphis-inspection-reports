@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CASA DE SHENANDOAH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2018"
+  "date": "23-JAN-2018",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 7,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
 }

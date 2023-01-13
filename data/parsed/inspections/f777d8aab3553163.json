@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WALNUT ACRE PUPPIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2021"
+  "date": "21-OCT-2021",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

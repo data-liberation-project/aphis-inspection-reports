@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OXFORD CARE FACILITIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2021"
+  "date": "18-OCT-2021",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 65,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

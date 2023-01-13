@@ -6,7 +6,20 @@
   "customer_addr": "1863 215th St\nRed Oak, IA 51566",
   "certificate": "42-A-1641",
   "site_id": "001",
-  "site_name": "RICHARD L MCALPIN(cid:9)",
+  "site_name": "RICHARD L MCALPIN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-FEB-2020"
+  "date": "27-FEB-2020",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALLEN WENGERD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2018"
+  "date": "18-JUN-2018",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "GAIL F BARR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2021"
+  "date": "22-APR-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

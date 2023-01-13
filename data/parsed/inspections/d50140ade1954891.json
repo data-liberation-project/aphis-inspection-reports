@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LERAK ENTERPRISES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2020"
+  "date": "13-AUG-2020",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

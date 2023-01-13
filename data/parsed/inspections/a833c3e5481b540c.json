@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RYAN KRUEGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

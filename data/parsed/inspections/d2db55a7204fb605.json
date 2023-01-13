@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MARGARET MANNING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2016"
+  "date": "19-JUL-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

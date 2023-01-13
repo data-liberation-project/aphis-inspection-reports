@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Billy Joe Toney",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2014"
+  "date": "24-SEP-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

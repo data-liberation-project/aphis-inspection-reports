@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Midwest New Found Land L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2017"
+  "date": "14-FEB-2017",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

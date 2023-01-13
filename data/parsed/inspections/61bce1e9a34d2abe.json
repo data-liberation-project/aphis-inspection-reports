@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "WILLIAM RUSH JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2016"
+  "date": "14-JUL-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 15,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

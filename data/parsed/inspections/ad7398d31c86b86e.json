@@ -8,5 +8,18 @@
   "site_id": "DFW",
   "site_name": "G2 SECURE STAFF, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JAN-2020"
+  "date": "29-JAN-2020",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

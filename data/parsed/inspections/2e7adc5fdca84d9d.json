@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COUNTRY BUMPKIN LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2022"
+  "date": "12-APR-2022",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DANIEL WALLEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2017"
+  "date": "28-MAR-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

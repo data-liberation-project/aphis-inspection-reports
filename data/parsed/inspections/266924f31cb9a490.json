@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LIONSHARE EDUCATION ORGANIZATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2021"
+  "date": "15-SEP-2021",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Vicugna vicugna",
+      "common": "VICUGNA"
+    },
+    {
+      "count": 2,
+      "scientific": "Callicebus moloch",
+      "common": "DUSKY TITI"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

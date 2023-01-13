@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "SHELLY RUTHERFORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2015"
+  "date": "03-AUG-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 4,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon bridgesi",
+      "common": "BRIDGE'S DEGU"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

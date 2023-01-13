@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "CENTER FOR ANIMAL RESEARCH & EDUCATION, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2015"
+  "date": "26-MAY-2015",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "BROWN-NOSED COATI"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 26,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

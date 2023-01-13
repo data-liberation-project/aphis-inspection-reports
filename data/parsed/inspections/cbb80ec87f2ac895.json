@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JURASSIC PETS, LLC",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "13-MAR-2014"
+  "date": "13-MAR-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

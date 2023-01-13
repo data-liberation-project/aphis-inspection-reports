@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Pet Planet LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2022"
+  "date": "16-AUG-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

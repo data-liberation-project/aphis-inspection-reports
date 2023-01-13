@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JULIE SNIDOW & JAY BLACKBURN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2015"
+  "date": "05-OCT-2015",
+  "animals_total": 217,
+  "species": [
+    {
+      "count": 153,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

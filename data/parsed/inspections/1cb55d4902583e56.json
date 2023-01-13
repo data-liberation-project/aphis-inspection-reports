@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Don Reece Kathy Reece",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "12-AUG-2021"
+  "date": "12-AUG-2021",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 35,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

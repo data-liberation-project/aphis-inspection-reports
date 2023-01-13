@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "O C T C VETERINARY TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2019"
+  "date": "12-MAR-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

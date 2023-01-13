@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOREN MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2015"
+  "date": "07-DEC-2015",
+  "animals_total": 132,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

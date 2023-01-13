@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "RAY & JOEY STROM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 26,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 6,
+      "scientific": "Osphranter bernardus",
+      "common": "BERNARD'S WALLAROO / BLACK WALLAROO"
+    },
+    {
+      "count": 10,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
 }

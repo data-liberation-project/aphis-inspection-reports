@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DR SARAH PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2022"
+  "date": "25-AUG-2022",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,73 @@
   "site_id": "001",
   "site_name": "OHIO STATE UNIVERSITY CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2016"
+  "date": "14-JUL-2016",
+  "animals_total": 390,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Aotus",
+      "common": "NIGHT MONKEY"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 6,
+      "scientific": "Didelphis marsupialis",
+      "common": "SOUTHERN OPOSSUM"
+    },
+    {
+      "count": 48,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 84,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 125,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 38,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

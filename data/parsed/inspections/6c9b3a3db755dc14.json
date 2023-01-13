@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DENNIS & GAIL CONNOLLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2016"
+  "date": "15-AUG-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 10,
+      "scientific": "Sciurus vulgaris",
+      "common": "EURASIAN RED SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

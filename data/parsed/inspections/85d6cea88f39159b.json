@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF KENTUCKY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-APR-2022"
+  "date": "19-APR-2022",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

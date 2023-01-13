@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF OK-NORMAN, COLLEGE OF A & S",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2022"
+  "date": "26-MAY-2022",
+  "animals_total": 329,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Onychomys torridus",
+      "common": "SOUTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 189,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    }
+  ]
 }

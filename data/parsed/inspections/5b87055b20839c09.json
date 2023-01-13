@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Heyd Away Exotics",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2022"
+  "date": "07-JUN-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

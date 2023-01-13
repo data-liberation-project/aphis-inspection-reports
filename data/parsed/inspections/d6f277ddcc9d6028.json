@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAPLETON MANOR LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2021"
+  "date": "03-JUN-2021",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

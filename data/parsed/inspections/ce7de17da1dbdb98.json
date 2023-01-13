@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Griffin Kennels, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2022"
+  "date": "29-AUG-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

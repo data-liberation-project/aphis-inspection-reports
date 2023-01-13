@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LOUISIANA STATE UNIVERSITY SYSTEM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2021"
+  "date": "11-MAR-2021",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

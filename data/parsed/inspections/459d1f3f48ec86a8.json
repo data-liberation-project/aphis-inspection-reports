@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNDERGROUND REPTILES INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-JUN-2014"
+  "date": "05-JUN-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 12,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 7,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

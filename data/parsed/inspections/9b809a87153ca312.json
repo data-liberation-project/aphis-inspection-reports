@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEREK DOUGHERTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2021"
+  "date": "31-MAR-2021",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CITY OF WICHITA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2022"
+  "date": "12-APR-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

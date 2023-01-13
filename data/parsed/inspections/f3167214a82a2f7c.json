@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Peter Mimikos",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2018"
+  "date": "04-JAN-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eira barbara",
+      "common": "TAYRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

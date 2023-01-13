@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Redden River Exotics LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-JUN-2022"
+  "date": "24-JUN-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes rueppellii",
+      "common": "SAND FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 14,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALVIN KORTLEVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2015"
+  "date": "14-SEP-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

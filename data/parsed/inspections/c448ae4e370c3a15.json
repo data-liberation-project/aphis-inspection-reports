@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MRI Global",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2016"
+  "date": "21-MAR-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

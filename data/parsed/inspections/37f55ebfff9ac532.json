@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sierra Green",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "06-JUL-2022"
+  "date": "06-JUL-2022",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

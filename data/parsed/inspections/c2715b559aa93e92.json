@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHIRLEY OR MELVIN WALTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2019"
+  "date": "25-FEB-2019",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

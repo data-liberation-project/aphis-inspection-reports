@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Blake Wellington, Cindy Wellington",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAY-2014"
+  "date": "21-MAY-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

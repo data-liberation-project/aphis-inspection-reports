@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES FELDMANN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2018"
+  "date": "20-SEP-2018",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

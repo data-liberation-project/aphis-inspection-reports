@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Kimberly Sue Murphy",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2014"
+  "date": "24-APR-2014",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 8,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

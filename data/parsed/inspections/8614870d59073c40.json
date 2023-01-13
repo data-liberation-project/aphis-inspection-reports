@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAMAR ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2019"
+  "date": "20-NOV-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

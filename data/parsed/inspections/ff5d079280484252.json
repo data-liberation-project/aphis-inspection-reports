@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Brett Bonham",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2015"
+  "date": "06-OCT-2015",
+  "animals_total": 284,
+  "species": [
+    {
+      "count": 214,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

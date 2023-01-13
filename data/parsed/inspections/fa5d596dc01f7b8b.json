@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RAYMOND RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2017"
+  "date": "13-APR-2017",
+  "animals_total": 171,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Wild Hearts Animal Haven",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-JUN-2015"
+  "date": "22-JUN-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

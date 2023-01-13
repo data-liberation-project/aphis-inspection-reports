@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JODY MC CLOUD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2021"
+  "date": "13-JAN-2021",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

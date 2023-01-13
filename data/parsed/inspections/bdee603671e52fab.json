@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MICHAEL AND BEVERLY KOOIKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2017"
+  "date": "14-FEB-2017",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

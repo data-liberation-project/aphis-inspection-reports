@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "UNIVERSITY OF MINNESOTA RAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2016"
+  "date": "20-JUN-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

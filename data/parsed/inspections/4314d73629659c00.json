@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL J PROTHE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2014"
+  "date": "24-JUN-2014",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

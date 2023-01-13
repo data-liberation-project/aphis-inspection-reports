@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "OHIO AGRICULTURE AND DEVELOPMENT CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "06-JUN-2022"
+  "date": "06-JUN-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 40,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

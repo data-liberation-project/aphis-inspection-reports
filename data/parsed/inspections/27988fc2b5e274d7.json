@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NATURAL HISTORY MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAY-2016"
+  "date": "10-MAY-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

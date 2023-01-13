@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WOLF PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2022"
+  "date": "06-SEP-2022",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 11,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "SHAWNA ADAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2017"
+  "date": "28-JUN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

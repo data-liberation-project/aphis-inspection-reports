@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Mary Yoder",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2014"
+  "date": "03-DEC-2014",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

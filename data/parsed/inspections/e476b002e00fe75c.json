@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TECHNI-COAT, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2015"
+  "date": "11-MAR-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter bernardus",
+      "common": "BERNARD'S WALLAROO / BLACK WALLAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

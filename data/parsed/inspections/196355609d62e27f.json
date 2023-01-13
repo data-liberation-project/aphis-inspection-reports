@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA L. SMITH",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "06-MAR-2014"
+  "date": "06-MAR-2014",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

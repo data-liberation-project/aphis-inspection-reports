@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CROC ENCOUNTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2018"
+  "date": "05-MAR-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

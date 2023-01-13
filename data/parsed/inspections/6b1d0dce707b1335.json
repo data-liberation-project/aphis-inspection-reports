@@ -8,5 +8,13 @@
   "site_id": "TRA",
   "site_name": "TRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2017"
+  "date": "05-OCT-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

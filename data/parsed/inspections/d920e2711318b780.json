@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN BONTRAGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-FEB-2017"
+  "date": "21-FEB-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

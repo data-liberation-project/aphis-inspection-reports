@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALVIN CANTRELL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-AUG-2019"
+  "date": "29-AUG-2019",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

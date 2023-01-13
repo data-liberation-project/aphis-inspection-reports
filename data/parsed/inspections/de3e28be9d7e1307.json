@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "The California Medical Innovations Institute Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2018"
+  "date": "25-MAY-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DEPARTMENT OF ANIMAL CARE & TECHNOLOGIES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-APR-2022"
+  "date": "20-APR-2022",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 19,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

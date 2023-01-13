@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EASTERN VIRGINIA MEDICAL SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2017"
+  "date": "13-JUN-2017",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TEATOWN LAKE RESERVATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2014"
+  "date": "06-AUG-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

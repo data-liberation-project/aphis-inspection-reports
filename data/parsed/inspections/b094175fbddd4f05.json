@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BEVERLY NYDAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2018"
+  "date": "14-MAR-2018",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNION STATION K C, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2017"
+  "date": "20-SEP-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

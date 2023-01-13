@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILLERS WILDLIFE LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-FEB-2020"
+  "date": "13-FEB-2020",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

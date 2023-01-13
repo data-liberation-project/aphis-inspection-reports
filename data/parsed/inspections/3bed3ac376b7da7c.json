@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SCIENCE SPECTRUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

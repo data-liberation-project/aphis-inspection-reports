@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHANGRILA KENNEL L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2019"
+  "date": "17-MAY-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

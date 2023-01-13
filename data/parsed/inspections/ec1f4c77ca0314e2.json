@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Fawn River Kennels",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "27-SEP-2022"
+  "date": "27-SEP-2022",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

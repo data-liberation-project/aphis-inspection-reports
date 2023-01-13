@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL & VERNA BYLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2020"
+  "date": "07-OCT-2020",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HICKORY LANE PUPPIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2019"
+  "date": "07-FEB-2019",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

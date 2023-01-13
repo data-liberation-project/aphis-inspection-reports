@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ZOETIS VETERINARY MEDICINE AND RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2022"
+  "date": "15-NOV-2022",
+  "animals_total": 861,
+  "species": [
+    {
+      "count": 519,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 266,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

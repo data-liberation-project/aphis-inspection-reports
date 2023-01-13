@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "MELISSA MEADOWS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2018"
+  "date": "07-JUN-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

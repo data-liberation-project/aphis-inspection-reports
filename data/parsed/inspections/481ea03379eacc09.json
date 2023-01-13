@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MICHAEL MAYFIELD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2015"
+  "date": "21-OCT-2015",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

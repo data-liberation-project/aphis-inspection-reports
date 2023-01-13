@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R Family Kennel LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2016"
+  "date": "11-FEB-2016",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EDWARDS LIFESCIENCES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2021"
+  "date": "21-SEP-2021",
+  "animals_total": 137,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 54,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 50,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

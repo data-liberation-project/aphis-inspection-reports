@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALIFORNIA STATE POLYTECHNIC UNIVERSITY, POMONA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2015"
+  "date": "28-JUL-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

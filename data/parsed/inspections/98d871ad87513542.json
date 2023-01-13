@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PEACEABLE PRIMATE SANCTUARY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "27-APR-2022"
+  "date": "27-APR-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 18,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 18,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 6,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
 }

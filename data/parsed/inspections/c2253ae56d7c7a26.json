@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAVERNE EICHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2018"
+  "date": "22-MAY-2018",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

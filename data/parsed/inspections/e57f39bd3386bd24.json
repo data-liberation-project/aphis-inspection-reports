@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "A1 K-9",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2019"
+  "date": "01-AUG-2019",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

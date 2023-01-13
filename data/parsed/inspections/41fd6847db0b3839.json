@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALISON HAWKINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JAN-2015"
+  "date": "29-JAN-2015",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

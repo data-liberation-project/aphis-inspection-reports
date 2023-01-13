@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Dexter Osborn - AL",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "14-DEC-2022"
+  "date": "14-DEC-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    }
+  ]
 }

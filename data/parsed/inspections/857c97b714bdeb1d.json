@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "H & L Sales Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2021"
+  "date": "19-JUL-2021",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Capra nubiana",
+      "common": "NUBIAN IBEX"
+    },
+    {
+      "count": 40,
+      "scientific": "Capra falconeri",
+      "common": "MARKHOR"
+    },
+    {
+      "count": 64,
+      "scientific": "Ovis aries vignei",
+      "common": "URIAL SHEEP"
+    }
+  ]
 }

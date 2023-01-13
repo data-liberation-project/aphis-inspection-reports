@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MIKAYLA RAINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAR-2019"
+  "date": "26-MAR-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 16,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LONE STAR COLLEGE - TOMBALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2014"
+  "date": "18-FEB-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

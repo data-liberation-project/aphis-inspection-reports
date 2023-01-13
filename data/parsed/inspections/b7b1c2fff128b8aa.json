@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDY & DEBI BARTKOSKI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2015"
+  "date": "08-JUN-2015",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

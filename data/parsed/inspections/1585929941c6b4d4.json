@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WHISPERING PINES PUPPIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2022"
+  "date": "31-MAR-2022",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

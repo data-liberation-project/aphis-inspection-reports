@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CATHERINE MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2015"
+  "date": "06-APR-2015",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

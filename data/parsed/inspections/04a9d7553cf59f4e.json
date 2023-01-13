@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JUDITH A. BOWER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2015"
+  "date": "04-MAY-2015",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

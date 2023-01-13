@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ENVIGO GLOBAL SERVICES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2019"
+  "date": "03-SEP-2019",
+  "animals_total": 9280,
+  "species": [
+    {
+      "count": 5265,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4015,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

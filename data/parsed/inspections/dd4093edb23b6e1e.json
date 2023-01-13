@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DEBI WILLOUGHBY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2015"
+  "date": "08-JUN-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

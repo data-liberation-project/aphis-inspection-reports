@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TREEHOUSE WILDLIFE CENTER INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-AUG-2014"
+  "date": "25-AUG-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 4,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

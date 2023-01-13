@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALCON RESEARCH, LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 381,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 334,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

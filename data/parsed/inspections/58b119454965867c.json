@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE SERVICE TEAM, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2015"
+  "date": "30-NOV-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

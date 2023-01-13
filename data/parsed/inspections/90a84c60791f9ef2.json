@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DISCOVERY CENTER AT MURFREE SPRING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2015"
+  "date": "05-JAN-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2021"
+  "date": "22-SEP-2021",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 147,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

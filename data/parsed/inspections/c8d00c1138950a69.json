@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2017"
+  "date": "16-AUG-2017",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

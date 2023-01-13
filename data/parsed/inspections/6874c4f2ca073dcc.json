@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sue Stromer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2014"
+  "date": "08-APR-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRADFORD AND WILLIAM TOWLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2016"
+  "date": "07-NOV-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

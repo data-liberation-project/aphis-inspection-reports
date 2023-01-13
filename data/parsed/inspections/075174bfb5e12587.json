@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHUPP FARMS CANINE LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2022"
+  "date": "26-MAY-2022",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

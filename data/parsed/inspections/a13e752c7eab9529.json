@@ -8,5 +8,18 @@
   "site_id": "008",
   "site_name": "BRISTOL MYERS SQUIBB COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2018"
+  "date": "13-JUN-2018",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 151,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

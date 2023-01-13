@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOY GASTLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2014"
+  "date": "30-JUN-2014",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

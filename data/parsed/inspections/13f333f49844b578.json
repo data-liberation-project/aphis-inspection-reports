@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MISPRO BIOTECH SERVICES CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JAN-2018"
+  "date": "10-JAN-2018",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

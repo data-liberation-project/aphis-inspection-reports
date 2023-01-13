@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "VARIOUS TRAVEL LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2014"
+  "date": "02-OCT-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ACADIA ZOOLOGICAL PARK INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-AUG-2021"
+  "date": "23-AUG-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    }
+  ]
 }

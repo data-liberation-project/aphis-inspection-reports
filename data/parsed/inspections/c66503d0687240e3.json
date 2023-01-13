@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "Robert Glass",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2014"
+  "date": "22-APR-2014",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JAMIE AND KIRBY FULLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2020"
+  "date": "20-FEB-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

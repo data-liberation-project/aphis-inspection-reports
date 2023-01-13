@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF VERMONT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2022"
+  "date": "02-SEP-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

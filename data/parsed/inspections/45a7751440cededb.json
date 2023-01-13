@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELLA MAE BRUBAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2019"
+  "date": "11-SEP-2019",
+  "animals_total": 159,
+  "species": [
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

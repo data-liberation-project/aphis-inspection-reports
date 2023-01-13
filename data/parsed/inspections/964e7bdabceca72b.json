@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANDELION ACRES LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-NOV-2019"
+  "date": "05-NOV-2019",
+  "animals_total": 172,
+  "species": [
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

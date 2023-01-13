@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JUL-2015"
+  "date": "29-JUL-2015",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

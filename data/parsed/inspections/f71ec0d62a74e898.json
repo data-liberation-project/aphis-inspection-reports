@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "John Wagler, Betty Wagler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2016"
+  "date": "13-APR-2016",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

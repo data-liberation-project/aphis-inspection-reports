@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Melynda Ables",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2015"
+  "date": "18-SEP-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 42,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

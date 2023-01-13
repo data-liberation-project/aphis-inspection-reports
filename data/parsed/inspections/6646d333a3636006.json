@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PATRICK MCLAUGHLIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2015"
+  "date": "04-MAR-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 12,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

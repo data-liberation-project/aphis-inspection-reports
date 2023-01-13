@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOUISVILLE ZOOLOGICAL GARDEN",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-JUN-2022"
+  "date": "02-JUN-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    }
+  ]
 }

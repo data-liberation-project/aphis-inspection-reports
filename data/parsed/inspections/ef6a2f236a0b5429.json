@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN E ALLEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2021"
+  "date": "05-OCT-2021",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 0,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

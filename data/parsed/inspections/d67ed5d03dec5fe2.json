@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Everything Pets L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2014"
+  "date": "15-DEC-2014",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

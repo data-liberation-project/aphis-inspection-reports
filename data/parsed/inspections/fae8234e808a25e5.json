@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LAS VEGAS VALLEY WATER DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2017"
+  "date": "31-JAN-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Dipodomys merriami",
+      "common": "MERRIAM'S KANGAROO RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Geomys arenarius",
+      "common": "DESERT POCKET GOPHER"
+    },
+    {
+      "count": 4,
+      "scientific": "Sylvilagus audubonii",
+      "common": "DESERT COTTONTAIL RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

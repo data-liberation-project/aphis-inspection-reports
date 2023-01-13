@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BONNIE & TERRY WALSH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2016"
+  "date": "12-JUL-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Kobus leche",
+      "common": "RED LECHWE / SOUTHERN LECHWE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHYLLIS SHIPLEY",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "02-SEP-2014"
+  "date": "02-SEP-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL HOCHSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2022"
+  "date": "13-MAY-2022",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

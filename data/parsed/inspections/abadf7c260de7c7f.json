@@ -6,7 +6,20 @@
   "customer_addr": "13995 State Road A T\nLicking, MO 65542",
   "certificate": "43-A-6168",
   "site_id": "001",
-  "site_name": "SAM P NEUENSCHWANDER(cid:9)",
+  "site_name": "SAM P NEUENSCHWANDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2018"
+  "date": "24-JUL-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

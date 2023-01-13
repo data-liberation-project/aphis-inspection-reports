@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GULF WORLD MARINE PARK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2016"
+  "date": "01-JUN-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Steno bredanensis",
+      "common": "ROUGH-TOOTHED DOLPHIN"
+    },
+    {
+      "count": 18,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

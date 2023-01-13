@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "FLAMINGO GARDENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2015"
+  "date": "15-SEP-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 6,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Spilogale pygmaea",
+      "common": "PYGMY SPOTTED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

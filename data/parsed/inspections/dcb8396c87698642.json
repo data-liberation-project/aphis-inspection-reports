@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA NETROY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2014"
+  "date": "22-JUL-2014",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

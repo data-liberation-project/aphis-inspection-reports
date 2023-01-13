@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA CONNOLLY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-FEB-2015"
+  "date": "26-FEB-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

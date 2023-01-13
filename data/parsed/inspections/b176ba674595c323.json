@@ -8,5 +8,13 @@
   "site_id": "007",
   "site_name": "University of Texas",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2016"
+  "date": "20-SEP-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

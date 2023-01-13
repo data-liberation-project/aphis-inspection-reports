@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DELANA DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

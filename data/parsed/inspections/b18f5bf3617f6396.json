@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Vickie Duryea",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2014"
+  "date": "29-MAY-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

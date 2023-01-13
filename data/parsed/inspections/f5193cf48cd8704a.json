@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KNIPLING-BUSHLAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAY-2019"
+  "date": "14-MAY-2019",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

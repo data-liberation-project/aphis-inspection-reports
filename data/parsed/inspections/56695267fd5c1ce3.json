@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "JAVON STACKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2015"
+  "date": "15-JUN-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

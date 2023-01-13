@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALEXANDRA DREIBEL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-FEB-2016"
+  "date": "01-FEB-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

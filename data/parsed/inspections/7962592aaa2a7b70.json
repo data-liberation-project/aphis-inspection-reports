@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMIE WARD",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "15-SEP-2021"
+  "date": "15-SEP-2021",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

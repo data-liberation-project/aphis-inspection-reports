@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OFFICE OF ANIMAL RESOURCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2017"
+  "date": "13-JUL-2017",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

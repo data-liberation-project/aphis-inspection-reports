@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FREEMAN, SHARON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2015"
+  "date": "01-DEC-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
 }

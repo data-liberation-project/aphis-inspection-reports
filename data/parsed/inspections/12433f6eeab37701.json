@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN BEER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2016"
+  "date": "11-APR-2016",
+  "animals_total": 264,
+  "species": [
+    {
+      "count": 179,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

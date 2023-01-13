@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "JOHNSONS FARM AT LOCUST HALL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-APR-2015"
+  "date": "24-APR-2015",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

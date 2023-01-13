@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDDIE RABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-AUG-2014"
+  "date": "07-AUG-2014",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

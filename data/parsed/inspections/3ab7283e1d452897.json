@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHESTER AND MILDRED MILES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2019"
+  "date": "17-APR-2019",
+  "animals_total": 154,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

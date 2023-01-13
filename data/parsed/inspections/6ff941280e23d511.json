@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "William & Monika Barnett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2021"
+  "date": "16-DEC-2021",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALANDA KOENEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2018"
+  "date": "29-AUG-2018",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

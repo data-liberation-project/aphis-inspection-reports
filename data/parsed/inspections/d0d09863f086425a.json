@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Connie Crewse",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2021"
+  "date": "04-NOV-2021",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

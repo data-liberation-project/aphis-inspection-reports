@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARLA HILTON & ROBERT HILTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2019"
+  "date": "03-APR-2019",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

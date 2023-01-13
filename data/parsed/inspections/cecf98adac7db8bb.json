@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R & R RESEARCH L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2017"
+  "date": "14-MAR-2017",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 198,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

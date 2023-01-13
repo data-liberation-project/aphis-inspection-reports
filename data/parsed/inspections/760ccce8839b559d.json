@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "FOX VALLEY WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2017"
+  "date": "12-APR-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    }
+  ]
 }

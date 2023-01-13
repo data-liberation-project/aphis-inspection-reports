@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LLOYD BUCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "WILLIAM COBURN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2015"
+  "date": "06-JAN-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Notamacropus parma",
+      "common": "PARMA WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

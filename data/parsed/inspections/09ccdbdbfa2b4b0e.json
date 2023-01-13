@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Timbercreek Puppies, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2020"
+  "date": "24-MAR-2020",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

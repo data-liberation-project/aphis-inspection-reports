@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Texas Biomedical Research Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2018"
+  "date": "10-DEC-2018",
+  "animals_total": 2032,
+  "species": [
+    {
+      "count": 305,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 790,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 99,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 838,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

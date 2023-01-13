@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "NORTHWESTERN STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2017"
+  "date": "28-APR-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

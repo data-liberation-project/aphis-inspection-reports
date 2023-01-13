@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BRIAN AND BECKY HABERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2021"
+  "date": "25-MAY-2021",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

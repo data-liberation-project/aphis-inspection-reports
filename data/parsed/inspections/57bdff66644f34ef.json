@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HILDA & GENE HOOGENDOORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2015"
+  "date": "29-JUN-2015",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

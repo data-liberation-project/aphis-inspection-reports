@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ENOS EJ SCHWARTZ",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "03-DEC-2021"
+  "date": "03-DEC-2021",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

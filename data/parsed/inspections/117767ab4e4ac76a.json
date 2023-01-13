@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "ROBERT H. & BONNIE J. RINGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2014"
+  "date": "03-APR-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 14,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

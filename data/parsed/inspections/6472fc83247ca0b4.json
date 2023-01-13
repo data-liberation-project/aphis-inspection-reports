@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HILL'S PET NUTRITION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2022"
+  "date": "13-APR-2022",
+  "animals_total": 889,
+  "species": [
+    {
+      "count": 455,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 432,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

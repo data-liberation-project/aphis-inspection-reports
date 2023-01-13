@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UTAH ZOOLOGICAL SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2014"
+  "date": "02-MAY-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

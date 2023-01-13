@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KCR Ozark Mountain Bloodhounds",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2022"
+  "date": "22-NOV-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

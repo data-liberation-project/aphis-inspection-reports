@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Noah Shetler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2022"
+  "date": "12-APR-2022",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

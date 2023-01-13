@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RATTLEBOX NATURE CENTER LIMITED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2016"
+  "date": "04-FEB-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

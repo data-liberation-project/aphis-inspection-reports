@@ -8,5 +8,48 @@
   "site_id": "002",
   "site_name": "THE MONKEY WHISPERER L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2018"
+  "date": "09-OCT-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 8,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    },
+    {
+      "count": 13,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

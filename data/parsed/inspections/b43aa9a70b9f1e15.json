@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Kimberly Olson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-OCT-2017"
+  "date": "23-OCT-2017",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

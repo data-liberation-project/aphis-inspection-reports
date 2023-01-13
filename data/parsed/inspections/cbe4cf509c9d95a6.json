@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY SLOBE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2016"
+  "date": "27-JUN-2016",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 116,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

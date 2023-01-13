@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREGG & CATHY PITTMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2022"
+  "date": "25-MAY-2022",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

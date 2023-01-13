@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Weda Gyburn",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2015"
+  "date": "18-NOV-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 6,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "BROWN-NOSED COATI"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    }
+  ]
 }

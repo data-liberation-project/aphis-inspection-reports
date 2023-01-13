@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OLa Jo's LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "09-DEC-2022"
+  "date": "09-DEC-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

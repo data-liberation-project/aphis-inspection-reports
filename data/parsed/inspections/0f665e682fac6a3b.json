@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "MISSISSIPPI STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2015"
+  "date": "05-AUG-2015",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 71,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

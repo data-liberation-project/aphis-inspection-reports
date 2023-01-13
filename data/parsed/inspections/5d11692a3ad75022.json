@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "DAVID S HOXSIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2018"
+  "date": "08-DEC-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

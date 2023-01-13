@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OREGON DAIRY INC",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "12-FEB-2015"
+  "date": "12-FEB-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

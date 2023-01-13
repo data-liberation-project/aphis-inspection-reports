@@ -8,5 +8,33 @@
   "site_id": "005",
   "site_name": "CHARLES RIVER LABORATORIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2015"
+  "date": "25-MAR-2015",
+  "animals_total": 2720,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2481,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 135,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

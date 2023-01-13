@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAREN WEBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2014"
+  "date": "17-JUL-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

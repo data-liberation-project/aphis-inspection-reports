@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Charlene Koster, Darlene Koster",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2014"
+  "date": "13-FEB-2014",
+  "animals_total": 182,
+  "species": [
+    {
+      "count": 129,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

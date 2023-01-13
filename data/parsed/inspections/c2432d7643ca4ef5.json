@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SCHOMBERG KENNELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2016"
+  "date": "01-MAR-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

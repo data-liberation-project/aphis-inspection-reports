@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LEARNING RESOURCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2020"
+  "date": "17-AUG-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

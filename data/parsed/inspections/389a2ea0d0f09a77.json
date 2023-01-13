@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Dewberry Farm",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2015"
+  "date": "16-SEP-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

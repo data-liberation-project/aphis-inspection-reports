@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Louis Willems",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia magna",
+      "common": "GREATER GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Muntiacus crinifrons",
+      "common": "BLACK MUNTJAC"
+    },
+    {
+      "count": 8,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 26,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

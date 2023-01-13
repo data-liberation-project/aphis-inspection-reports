@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMY HENSON & JEFF HENSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2019"
+  "date": "27-MAR-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

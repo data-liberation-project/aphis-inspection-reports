@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RAMSEY PARK ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

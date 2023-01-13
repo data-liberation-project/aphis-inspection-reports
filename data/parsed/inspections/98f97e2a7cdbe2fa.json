@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Beth Everrett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

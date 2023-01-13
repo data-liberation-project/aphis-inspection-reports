@@ -8,5 +8,43 @@
   "site_id": "003",
   "site_name": "ANIMAL AMBASSADORS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2018"
+  "date": "20-SEP-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aotus vociferans",
+      "common": "SPIXS NIGHT MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

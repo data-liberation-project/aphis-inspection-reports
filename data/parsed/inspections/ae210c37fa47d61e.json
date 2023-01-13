@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LYNETTE LYON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2021"
+  "date": "28-SEP-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Otolemur garnettii",
+      "common": "NORTHERN GREATER GALAGO"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    }
+  ]
 }

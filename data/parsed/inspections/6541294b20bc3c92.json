@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2021"
+  "date": "27-OCT-2021",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

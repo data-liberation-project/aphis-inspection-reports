@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GASTON COLLEGE/VET TECH PROGRAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2016"
+  "date": "22-MAR-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

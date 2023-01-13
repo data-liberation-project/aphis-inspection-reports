@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BROWARD CTY PARKS & RECREATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2016"
+  "date": "03-FEB-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

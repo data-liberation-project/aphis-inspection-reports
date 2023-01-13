@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BUCK INSTITUTE FOR RESEARCH ON AGING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2018"
+  "date": "02-MAY-2018",
+  "animals_total": 3908,
+  "species": [
+    {
+      "count": 250,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND BLESMOL"
+    },
+    {
+      "count": 3658,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    }
+  ]
 }

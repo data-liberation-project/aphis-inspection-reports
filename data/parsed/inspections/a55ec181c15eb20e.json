@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LICHTERMAN NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2020"
+  "date": "28-JAN-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

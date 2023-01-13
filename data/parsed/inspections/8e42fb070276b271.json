@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY DEAN CARDEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2019"
+  "date": "16-JUL-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    }
+  ]
 }

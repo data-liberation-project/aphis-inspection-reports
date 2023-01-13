@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FLOYD MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2019"
+  "date": "04-FEB-2019",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

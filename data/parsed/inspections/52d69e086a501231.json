@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "POCONO RABBIT FARM AND LABORATORY INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAR-2017"
+  "date": "23-MAR-2017",
+  "animals_total": 267,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 250,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

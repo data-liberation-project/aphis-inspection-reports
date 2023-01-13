@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "Project Wildlife and San Diego Humane Society",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2021"
+  "date": "21-OCT-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Myotis yumanensis",
+      "common": "YUMA MYOTIS"
+    },
+    {
+      "count": 1,
+      "scientific": "Parastrellus hesperus",
+      "common": "CANYON BAT/ WESTERN PIPISTRELLLE"
+    }
+  ]
 }

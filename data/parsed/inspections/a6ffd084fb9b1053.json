@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Rolando Garcia",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2022"
+  "date": "30-JUN-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Aotus azarae",
+      "common": "AZARAS NIGHT MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    }
+  ]
 }

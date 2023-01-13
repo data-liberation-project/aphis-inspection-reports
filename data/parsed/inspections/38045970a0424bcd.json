@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEVI NISLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2018"
+  "date": "18-SEP-2018",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENISE DICKELMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUL-2019"
+  "date": "23-JUL-2019",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

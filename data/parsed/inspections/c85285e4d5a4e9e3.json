@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Nick Kilburg",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "17-MAR-2022"
+  "date": "17-MAR-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DES MOINES AREA COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2019"
+  "date": "21-FEB-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Bob Nienke, Julie Nienke",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2017"
+  "date": "14-DEC-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

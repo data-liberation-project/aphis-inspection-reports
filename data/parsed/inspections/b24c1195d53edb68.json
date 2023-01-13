@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ERIC SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2019"
+  "date": "12-SEP-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF TEXAS - M.D. Anderson Cancer Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

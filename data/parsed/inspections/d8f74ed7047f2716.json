@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURTIS SLATE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2015"
+  "date": "05-OCT-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

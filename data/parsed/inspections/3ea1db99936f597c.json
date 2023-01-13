@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEAN ANDERSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2017"
+  "date": "11-JAN-2017",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

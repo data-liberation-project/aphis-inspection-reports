@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GWEN LANDT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2020"
+  "date": "26-FEB-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aotus trivirgatus",
+      "common": "THREE-STRIPED NIGHT MONKEY / OWL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

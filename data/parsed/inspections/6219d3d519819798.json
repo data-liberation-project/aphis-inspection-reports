@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PATRICIA A. SHELLABARGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2019"
+  "date": "18-MAR-2019",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 97,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

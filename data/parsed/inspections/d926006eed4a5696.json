@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BAR SGR LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2015"
+  "date": "21-OCT-2015",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

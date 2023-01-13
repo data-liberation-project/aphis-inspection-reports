@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SONJA GREGERSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2022"
+  "date": "24-MAR-2022",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

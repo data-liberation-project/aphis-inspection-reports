@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Margaret Smith",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-FEB-2016"
+  "date": "09-FEB-2016",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

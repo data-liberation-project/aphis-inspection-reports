@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRANZEN BROTHERS CIRCUS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2020"
+  "date": "12-NOV-2020",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

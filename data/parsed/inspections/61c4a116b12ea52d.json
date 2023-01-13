@@ -8,5 +8,88 @@
   "site_id": "001",
   "site_name": "JOHN WEICKERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2016"
+  "date": "17-NOV-2016",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 15,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Gulo gulo",
+      "common": "WOLVERINE"
+    },
+    {
+      "count": 7,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 8,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 10,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Martes martes",
+      "common": "PINE MARTEN"
+    },
+    {
+      "count": 7,
+      "scientific": "Martes pennanti",
+      "common": "FISHER"
+    },
+    {
+      "count": 2,
+      "scientific": "Meles meles",
+      "common": "EURASIAN BADGER"
+    },
+    {
+      "count": 5,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 12,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 4,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 15,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

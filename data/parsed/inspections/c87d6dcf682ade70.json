@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Nicole Richey",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2022"
+  "date": "01-FEB-2022",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sequoyah State Park, Three Forks Nature Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-AUG-2017"
+  "date": "29-AUG-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

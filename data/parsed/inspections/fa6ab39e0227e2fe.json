@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL TREASURES L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

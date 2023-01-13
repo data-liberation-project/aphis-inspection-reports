@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Sherry Farquharson",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "08-DEC-2022"
+  "date": "08-DEC-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 19,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    }
+  ]
 }

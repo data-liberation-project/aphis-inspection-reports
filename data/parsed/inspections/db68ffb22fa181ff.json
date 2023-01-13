@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL ADVOCATES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2014"
+  "date": "24-JUL-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Gracilinanus agilis",
+      "common": "AGILE GRACILE MOUSE OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamiasciurus hudsonicus",
+      "common": "AMERICAN RED SQUIRREL"
+    }
+  ]
 }

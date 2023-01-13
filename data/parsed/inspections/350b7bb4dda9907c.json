@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joseph Stutzman",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-FEB-2021"
+  "date": "24-FEB-2021",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

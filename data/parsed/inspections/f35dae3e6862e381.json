@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RMG Bulldogs & teacups LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2021"
+  "date": "13-JUL-2021",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORISA WHITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2019"
+  "date": "15-MAY-2019",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

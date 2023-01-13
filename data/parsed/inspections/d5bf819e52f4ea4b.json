@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MOSE HERSHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2017"
+  "date": "01-MAY-2017",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

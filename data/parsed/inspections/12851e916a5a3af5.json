@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Andrew Troyer & Jim Troyer & John Troyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2020"
+  "date": "11-MAR-2020",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

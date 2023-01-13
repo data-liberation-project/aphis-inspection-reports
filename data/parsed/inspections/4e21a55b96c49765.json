@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LITTLE COUNTRY PAWS KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2015"
+  "date": "16-JUN-2015",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

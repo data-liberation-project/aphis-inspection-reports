@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SECOND NATURE WILDLIFE REHABILITATION",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-JAN-2017"
+  "date": "18-JAN-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

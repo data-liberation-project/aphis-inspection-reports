@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "FORT WORTH MUSEUM OF SCIENCE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-MAY-2022"
+  "date": "19-MAY-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dipodomys ordii",
+      "common": "ORD'S KANGAROO RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    }
+  ]
 }

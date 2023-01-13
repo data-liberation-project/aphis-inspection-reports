@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT D MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-JAN-2020"
+  "date": "30-JAN-2020",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TONI JONES & WENDY JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-NOV-2014"
+  "date": "24-NOV-2014",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROYAL CANIN U S A INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2016"
+  "date": "22-AUG-2016",
+  "animals_total": 293,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 182,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    }
+  ]
 }

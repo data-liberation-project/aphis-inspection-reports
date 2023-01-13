@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GO AQUATICS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2021"
+  "date": "28-JAN-2021",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 11,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

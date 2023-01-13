@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRENDA RAUBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2019"
+  "date": "24-JUN-2019",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

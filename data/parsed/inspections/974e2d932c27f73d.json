@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cletus Yoder",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2021"
+  "date": "22-SEP-2021",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

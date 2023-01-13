@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CITY OF WHITTIER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2022"
+  "date": "21-JAN-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

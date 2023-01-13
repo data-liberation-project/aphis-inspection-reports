@@ -8,5 +8,13 @@
   "site_id": "002",
   "site_name": "HTRL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2021"
+  "date": "01-MAR-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

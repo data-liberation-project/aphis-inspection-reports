@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI AND MARY KING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2019"
+  "date": "13-JUN-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

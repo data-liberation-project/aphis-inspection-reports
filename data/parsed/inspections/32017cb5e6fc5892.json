@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Bay.org",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2017"
+  "date": "19-OCT-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

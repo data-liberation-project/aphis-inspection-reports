@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CONNIE FAHEY",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "18-AUG-2020"
+  "date": "18-AUG-2020",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

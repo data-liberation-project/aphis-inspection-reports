@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "F & F PRODUCTION LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2017"
+  "date": "16-FEB-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

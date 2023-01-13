@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RON SUVERKRUBBE JR",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-JAN-2015"
+  "date": "30-JAN-2015",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 12,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 5,
+      "scientific": "Octodon lunatus",
+      "common": "MOON-TOOTHED DEGU"
+    },
+    {
+      "count": 25,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

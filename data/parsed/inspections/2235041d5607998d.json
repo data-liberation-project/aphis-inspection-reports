@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Titus Coblentz, Elaine Coblentz",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2020"
+  "date": "18-MAR-2020",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

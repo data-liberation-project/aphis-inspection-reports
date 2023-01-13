@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TINA HERSHBERGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-MAR-2019"
+  "date": "26-MAR-2019",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mark J Mast",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "05-JAN-2022"
+  "date": "05-JAN-2022",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

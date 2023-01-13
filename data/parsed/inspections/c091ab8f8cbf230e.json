@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOHNSON COUNTY PARK & RECREATION DISTRICT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2017"
+  "date": "15-MAR-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    }
+  ]
 }

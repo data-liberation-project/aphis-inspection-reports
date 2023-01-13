@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SOUTH CAROLINA AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2014"
+  "date": "28-OCT-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

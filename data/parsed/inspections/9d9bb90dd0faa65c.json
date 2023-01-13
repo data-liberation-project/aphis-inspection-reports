@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "IOWA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2018"
+  "date": "28-JUN-2018",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 78,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "E M D MILLIPORE CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2019"
+  "date": "06-SEP-2019",
+  "animals_total": 428,
+  "species": [
+    {
+      "count": 398,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 30,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

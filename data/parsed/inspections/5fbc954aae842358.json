@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY DEPT.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2022"
+  "date": "09-MAR-2022",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

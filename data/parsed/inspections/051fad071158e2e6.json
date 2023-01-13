@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY SNEEDEN MC NALLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2017"
+  "date": "14-DEC-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

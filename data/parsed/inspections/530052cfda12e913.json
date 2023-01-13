@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Charles Stonecipher",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2016"
+  "date": "27-JAN-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    }
+  ]
 }

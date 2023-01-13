@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SIM LAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2021"
+  "date": "29-SEP-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRIFFITH PARK PONY RIDES, INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-JUN-2019"
+  "date": "19-JUN-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ACTION ANIMALS U S A INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2014"
+  "date": "02-DEC-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Beverly Christy & Fred Christy",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2017"
+  "date": "27-JUN-2017",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

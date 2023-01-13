@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIMBERLEE CAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2014"
+  "date": "27-FEB-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

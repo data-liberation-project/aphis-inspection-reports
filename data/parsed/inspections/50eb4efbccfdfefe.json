@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOUISE HITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2014"
+  "date": "06-MAR-2014",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

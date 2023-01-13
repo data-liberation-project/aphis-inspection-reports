@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, BERKELEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2022"
+  "date": "14-NOV-2022",
+  "animals_total": 697,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 279,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 155,
+      "scientific": "Ctenomys sociabilis",
+      "common": "COLONIAL TUCO-TUCO"
+    },
+    {
+      "count": 42,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 120,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "OREGON STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-DEC-2018"
+  "date": "20-DEC-2018",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 16,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 21,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

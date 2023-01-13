@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ANIMAL DISEASE RESEARCH UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2018"
+  "date": "06-JUN-2018",
+  "animals_total": 432,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 103,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 231,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH VARIETY)"
+    },
+    {
+      "count": 68,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

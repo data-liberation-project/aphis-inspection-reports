@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELAM WICKEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2021"
+  "date": "22-NOV-2021",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

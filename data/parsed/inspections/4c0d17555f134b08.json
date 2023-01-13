@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Debra Shine",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2019"
+  "date": "03-DEC-2019",
+  "animals_total": 162,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

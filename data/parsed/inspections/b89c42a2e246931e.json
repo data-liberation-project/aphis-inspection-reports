@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOUBLE D KENNEL LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2018"
+  "date": "25-JUL-2018",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

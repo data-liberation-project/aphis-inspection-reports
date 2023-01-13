@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MONTANA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2019"
+  "date": "30-APR-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

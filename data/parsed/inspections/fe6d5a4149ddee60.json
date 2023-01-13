@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE ARK AT JFK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2021"
+  "date": "08-JUN-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

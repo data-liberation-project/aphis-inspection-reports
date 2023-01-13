@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "Tyler Cleckley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2015"
+  "date": "17-NOV-2015",
+  "animals_total": 664,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 650,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "Laredo Community College",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "22-FEB-2022"
+  "date": "22-FEB-2022",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Pecari tajacu",
+      "common": "COLLARED PECCARY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 22,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET VARIETY)"
+    },
+    {
+      "count": 6,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE"
+    }
+  ]
 }

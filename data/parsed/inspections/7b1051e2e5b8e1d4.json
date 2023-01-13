@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CREEKSIDE KENNELS LLC",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "18-JUL-2016"
+  "date": "18-JUL-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

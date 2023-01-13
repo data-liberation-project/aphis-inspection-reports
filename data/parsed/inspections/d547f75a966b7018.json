@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVE RUTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2021"
+  "date": "16-JUL-2021",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

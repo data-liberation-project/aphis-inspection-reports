@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "The Wild Felid Advocacy Center of Washington",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-APR-2021"
+  "date": "23-APR-2021",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris",
+      "common": "WILDCAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

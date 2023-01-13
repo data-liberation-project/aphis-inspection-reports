@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Robert and Sarah Martin",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2022"
+  "date": "09-NOV-2022",
+  "animals_total": 228,
+  "species": [
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

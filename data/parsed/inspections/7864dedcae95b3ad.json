@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Grandview Puppies LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "16-FEB-2022"
+  "date": "16-FEB-2022",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

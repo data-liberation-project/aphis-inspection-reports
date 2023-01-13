@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, LOS ANGELES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2015"
+  "date": "29-SEP-2015",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 33,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 26,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

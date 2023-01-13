@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marvin & JoAnna Newswanger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2019"
+  "date": "28-MAR-2019",
+  "animals_total": 540,
+  "species": [
+    {
+      "count": 330,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 210,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

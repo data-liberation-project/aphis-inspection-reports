@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRANSPORT CENTRAL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-OCT-2014"
+  "date": "27-OCT-2014",
+  "animals_total": 249,
+  "species": [
+    {
+      "count": 248,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

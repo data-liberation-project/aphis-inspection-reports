@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "BARTONS WEST END FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2017"
+  "date": "31-JAN-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

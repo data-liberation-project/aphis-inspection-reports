@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SADIE RIEHL",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "17-MAY-2016"
+  "date": "17-MAY-2016",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

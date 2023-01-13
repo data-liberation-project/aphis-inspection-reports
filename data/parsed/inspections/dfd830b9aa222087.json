@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SOUTHERN ILLINOIS UNIV. - CARBONDALE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2018"
+  "date": "04-APR-2018",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 50,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    }
+  ]
 }

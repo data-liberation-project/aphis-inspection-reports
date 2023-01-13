@@ -8,5 +8,18 @@
   "site_id": "013",
   "site_name": "Pima Medical Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2022"
+  "date": "01-MAR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "VICKIE LLOYD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-JAN-2015"
+  "date": "13-JAN-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 7,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela eversmannii",
+      "common": "STEPPE POLECAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEPHEN STOLTZFOOS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2015"
+  "date": "02-JUN-2015",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 102,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN WILSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2022"
+  "date": "27-JUN-2022",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

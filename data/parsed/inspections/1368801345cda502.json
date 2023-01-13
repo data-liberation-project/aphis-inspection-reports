@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PRAIRIE VIEW A & M UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2019"
+  "date": "14-AUG-2019",
+  "animals_total": 387,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 300,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

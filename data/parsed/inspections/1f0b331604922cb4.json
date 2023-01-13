@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JODI & TRAVIS BRITTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2020"
+  "date": "30-JUL-2020",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

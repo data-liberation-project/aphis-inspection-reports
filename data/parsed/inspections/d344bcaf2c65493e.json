@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WOLF SANCTUARY OF PA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2021"
+  "date": "13-MAY-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

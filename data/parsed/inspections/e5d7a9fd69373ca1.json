@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID ALDRICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2017"
+  "date": "13-JUN-2017",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 18,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

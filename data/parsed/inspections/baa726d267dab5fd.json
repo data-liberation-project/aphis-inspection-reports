@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BURKE NURSERY & GARDEN CENTRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2018"
+  "date": "05-OCT-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

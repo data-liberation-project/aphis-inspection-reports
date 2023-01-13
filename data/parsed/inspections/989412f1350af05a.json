@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY CROWLEY & DEBRA CROWLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2018"
+  "date": "31-JAN-2018",
+  "animals_total": 156,
+  "species": [
+    {
+      "count": 128,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

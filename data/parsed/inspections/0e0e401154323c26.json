@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "SCOTT HEINRICHS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2022"
+  "date": "03-OCT-2022",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hipposideros pomona",
+      "common": "LEAF-NOSED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 4,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 4,
+      "scientific": "Setifer setosus",
+      "common": "GREATER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Melogale orientalis",
+      "common": "JAVAN FERRET BADGER"
+    }
+  ]
 }

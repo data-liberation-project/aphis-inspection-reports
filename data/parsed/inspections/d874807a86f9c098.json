@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERNON BURKHOLDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

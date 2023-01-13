@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ALCON RESEARCH, LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2014"
+  "date": "03-SEP-2014",
+  "animals_total": 1222,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 372,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 606,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 215,
+      "scientific": "Psammomys obesus",
+      "common": "FAT SAND RAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "LAZY 5 RANCH",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "25-APR-2022"
+  "date": "25-APR-2022",
+  "animals_total": 236,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 38,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 94,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 64,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 32,
+      "scientific": "Pecari tajacu",
+      "common": "COLLARED PECCARY"
+    }
+  ]
 }

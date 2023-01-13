@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILD THINGS FARM L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2014"
+  "date": "08-OCT-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GALLAGHERS FARM MARKET",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-SEP-2014"
+  "date": "23-SEP-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

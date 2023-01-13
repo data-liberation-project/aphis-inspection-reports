@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN & SUE CHANEY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-MAR-2022"
+  "date": "24-MAR-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

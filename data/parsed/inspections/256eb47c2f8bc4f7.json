@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Diana Pankonin",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2016"
+  "date": "15-NOV-2016",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

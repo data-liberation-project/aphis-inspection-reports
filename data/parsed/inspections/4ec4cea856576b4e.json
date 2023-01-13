@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANNY HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2015"
+  "date": "11-FEB-2015",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

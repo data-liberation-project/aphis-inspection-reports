@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Wild Hearts Animal Haven",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2016"
+  "date": "14-MAR-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "BROWN-NOSED COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

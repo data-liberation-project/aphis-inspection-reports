@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANNETTE MOELLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2015"
+  "date": "08-MAY-2015",
+  "animals_total": 217,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 170,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

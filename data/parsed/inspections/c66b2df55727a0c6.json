@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LAMPIRE BIOLOGICAL LABORATORIES",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "30-APR-2019"
+  "date": "30-APR-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 36,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

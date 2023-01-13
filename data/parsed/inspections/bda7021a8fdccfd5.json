@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SHAWN ZIELKE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2014"
+  "date": "01-OCT-2014",
+  "animals_total": 1157,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 924,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 124,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 97,
+      "scientific": "Taterillus emini",
+      "common": "EMIN'S TATERIL"
+    }
+  ]
 }

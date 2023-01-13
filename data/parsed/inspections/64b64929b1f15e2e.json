@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALEXANDER MARRERO RODRIGUEZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2014"
+  "date": "16-JUN-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

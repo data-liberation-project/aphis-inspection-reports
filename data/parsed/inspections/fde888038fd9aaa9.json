@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON & ASHLAE SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2019"
+  "date": "04-MAR-2019",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

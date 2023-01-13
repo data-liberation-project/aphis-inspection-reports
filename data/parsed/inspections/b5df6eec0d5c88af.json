@@ -8,5 +8,18 @@
   "site_id": "006",
   "site_name": "JUDY GREEN",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "08-JUL-2021"
+  "date": "08-JUL-2021",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

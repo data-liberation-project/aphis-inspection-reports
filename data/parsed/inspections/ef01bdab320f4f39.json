@@ -8,5 +8,63 @@
   "site_id": "003",
   "site_name": "Ryan Blakley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2022"
+  "date": "09-AUG-2022",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cryptoprocta ferox",
+      "common": "FOSSA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Acomys russatus",
+      "common": "GOLDEN SPINY MOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Galictis vittata",
+      "common": "GREATER GRISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Mellivora capensis",
+      "common": "RATEL / HONEY BADGER"
+    },
+    {
+      "count": 27,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 63,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 42,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

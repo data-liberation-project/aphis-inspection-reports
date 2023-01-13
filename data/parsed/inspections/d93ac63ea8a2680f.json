@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAX PLANCK FLORIDA CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2022"
+  "date": "02-SEP-2022",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 151,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    },
+    {
+      "count": 14,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

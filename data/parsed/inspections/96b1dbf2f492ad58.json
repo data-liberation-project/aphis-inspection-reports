@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLACK ROCK RETREAT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JAN-2020"
+  "date": "22-JAN-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

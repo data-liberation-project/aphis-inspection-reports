@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KYLIE BYRN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-AUG-2018"
+  "date": "07-AUG-2018",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "JUNGLE FRENZY LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "27-AUG-2020"
+  "date": "27-AUG-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    }
+  ]
 }

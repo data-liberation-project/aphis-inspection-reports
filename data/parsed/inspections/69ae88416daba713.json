@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA SHUBERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2016"
+  "date": "16-NOV-2016",
+  "animals_total": 678,
+  "species": [
+    {
+      "count": 558,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

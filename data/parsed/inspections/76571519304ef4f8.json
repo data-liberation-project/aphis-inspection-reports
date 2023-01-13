@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAWN COFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2022"
+  "date": "09-MAR-2022",
+  "animals_total": 283,
+  "species": [
+    {
+      "count": 213,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

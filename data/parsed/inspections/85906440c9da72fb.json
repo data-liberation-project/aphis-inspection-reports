@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "WILD THINGS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2014"
+  "date": "26-JUN-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

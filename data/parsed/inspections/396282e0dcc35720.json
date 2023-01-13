@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JD TRANSPORTATION LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-AUG-2022"
+  "date": "24-AUG-2022",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

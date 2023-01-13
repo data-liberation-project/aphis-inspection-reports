@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUSTIN & JERI FRAKES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2018"
+  "date": "15-AUG-2018",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

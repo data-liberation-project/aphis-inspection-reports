@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RYAN & SARAH REUBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2014"
+  "date": "28-NOV-2014",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 39,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

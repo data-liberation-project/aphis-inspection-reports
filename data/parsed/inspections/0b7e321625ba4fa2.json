@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Peggy Pierce",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2014"
+  "date": "10-MAR-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

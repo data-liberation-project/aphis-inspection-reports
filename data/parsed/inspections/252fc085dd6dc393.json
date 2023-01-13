@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-DEC-2018"
+  "date": "04-DEC-2018",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

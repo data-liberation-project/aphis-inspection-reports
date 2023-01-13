@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MELISSA A MORRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-DEC-2021"
+  "date": "29-DEC-2021",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

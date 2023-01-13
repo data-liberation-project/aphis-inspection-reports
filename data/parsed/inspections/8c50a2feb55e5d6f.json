@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "Various Travel Locations",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2021"
+  "date": "02-DEC-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN J MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2021"
+  "date": "25-OCT-2021",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

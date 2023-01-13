@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TAMMY HAUPTMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-OCT-2015"
+  "date": "14-OCT-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "C. pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Cercopithecus ascanius",
+      "common": "RED-TAILED MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE *MALE"
+    }
+  ]
 }

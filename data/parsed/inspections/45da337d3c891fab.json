@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL & EVELYN RYAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2022"
+  "date": "31-AUG-2022",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

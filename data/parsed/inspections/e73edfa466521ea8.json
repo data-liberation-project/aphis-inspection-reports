@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATURAL HISTORY MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2020"
+  "date": "09-SEP-2020",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    }
+  ]
 }

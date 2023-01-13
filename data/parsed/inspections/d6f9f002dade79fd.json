@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE FAMILY PATCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2015"
+  "date": "13-APR-2015",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

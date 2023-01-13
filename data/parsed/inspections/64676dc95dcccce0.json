@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA OWENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2014"
+  "date": "13-AUG-2014",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

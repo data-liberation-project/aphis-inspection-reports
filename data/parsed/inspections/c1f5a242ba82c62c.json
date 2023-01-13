@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "TRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2022"
+  "date": "08-APR-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

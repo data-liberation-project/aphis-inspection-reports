@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY KEITH HARRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2014"
+  "date": "27-FEB-2014",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

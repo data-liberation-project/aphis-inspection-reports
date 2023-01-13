@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TENNESSEE AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2015"
+  "date": "27-AUG-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 6,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA 2",
   "site_name": "GREEN UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2017"
+  "date": "08-SEP-2017",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

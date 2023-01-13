@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLE GORDON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-DEC-2020"
+  "date": "29-DEC-2020",
+  "animals_total": 346,
+  "species": [
+    {
+      "count": 207,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 139,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

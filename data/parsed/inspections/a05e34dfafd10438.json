@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tails & Scales Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2015"
+  "date": "30-JAN-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    }
+  ]
 }

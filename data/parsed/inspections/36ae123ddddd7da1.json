@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WHALE BRANCH ANIMAL SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2016"
+  "date": "04-AUG-2016",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

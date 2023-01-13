@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CALVERT LABORATORIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2021"
+  "date": "05-AUG-2021",
+  "animals_total": 446,
+  "species": [
+    {
+      "count": 231,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 176,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 25,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

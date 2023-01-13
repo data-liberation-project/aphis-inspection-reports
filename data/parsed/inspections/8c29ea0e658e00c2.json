@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "THE LIVING PLANET AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2014"
+  "date": "10-DEC-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

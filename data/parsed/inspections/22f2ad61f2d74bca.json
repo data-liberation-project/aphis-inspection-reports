@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOIS KUEPFER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "05-OCT-2022"
+  "date": "05-OCT-2022",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

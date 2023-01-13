@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON BORNTREGER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "14-OCT-2020"
+  "date": "14-OCT-2020",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

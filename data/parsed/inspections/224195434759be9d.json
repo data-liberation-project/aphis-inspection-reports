@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON & KATHY MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2016"
+  "date": "26-APR-2016",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

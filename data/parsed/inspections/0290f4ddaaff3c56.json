@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "QUALITY PETS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2015"
+  "date": "17-DEC-2015",
+  "animals_total": 607,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 68,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 31,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 22,
+      "scientific": "Gerbillus nanus",
+      "common": "BALUCHISTAN GERBIL"
+    },
+    {
+      "count": 143,
+      "scientific": "Mesocricetus raddei",
+      "common": "CISCAUCASIAN HAMSTER"
+    },
+    {
+      "count": 25,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 228,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 48,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    }
+  ]
 }

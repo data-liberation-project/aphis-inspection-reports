@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "RUCKER PET & WILD BIRD THREE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2014"
+  "date": "08-MAY-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

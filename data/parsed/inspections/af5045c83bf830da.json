@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Puppies and Reptiles For Parties LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "22-APR-2022"
+  "date": "22-APR-2022",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

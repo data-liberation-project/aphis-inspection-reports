@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF NEBRASKA, LINCOLN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2019"
+  "date": "03-DEC-2019",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

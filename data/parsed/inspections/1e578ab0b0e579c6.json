@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "COLUMBUS CHILDREN'S RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2016"
+  "date": "26-OCT-2016",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

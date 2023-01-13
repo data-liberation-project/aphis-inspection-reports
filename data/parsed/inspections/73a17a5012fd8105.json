@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CITY OF STANLEY CHAPMAN PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-APR-2019"
+  "date": "01-APR-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 11,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

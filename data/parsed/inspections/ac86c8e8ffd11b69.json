@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Miami Seaquarium",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "06-JUL-2022"
+  "date": "06-JUL-2022",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Trichechus manatus",
+      "common": "CARIBBEAN MANATEE"
+    },
+    {
+      "count": 9,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 13,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

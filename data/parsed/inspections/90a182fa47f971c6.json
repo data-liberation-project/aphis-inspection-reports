@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTHEAST AREA BELTSVILLE LOCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2022"
+  "date": "25-OCT-2022",
+  "animals_total": 1470,
+  "species": [
+    {
+      "count": 260,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 507,
+      "scientific": "ARS BIRDS",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 32,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 671,
+      "scientific": "ARS MICE",
+      "common": "ARS MICE"
+    }
+  ]
 }

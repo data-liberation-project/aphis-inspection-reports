@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "University of Kansas ANIMAL CARE UNIT",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-SEP-2019"
+  "date": "19-SEP-2019",
+  "animals_total": 300,
+  "species": [
+    {
+      "count": 300,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    }
+  ]
 }

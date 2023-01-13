@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIGINITY HEALTH/BARROW NEUROLOGICAL INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2022"
+  "date": "17-FEB-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

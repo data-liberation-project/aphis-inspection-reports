@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOEL & LIZZIE MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2017"
+  "date": "16-MAY-2017",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

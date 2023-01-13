@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "B P D INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2022"
+  "date": "25-JAN-2022",
+  "animals_total": 2120,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 808,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 1300,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    }
+  ]
 }

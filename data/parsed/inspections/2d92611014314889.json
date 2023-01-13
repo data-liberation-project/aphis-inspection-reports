@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TEMPLE UNIVERSITY MEDICAL RESEARCH BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2021"
+  "date": "07-APR-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

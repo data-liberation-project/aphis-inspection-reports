@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIGINITY HEALTH/BARROW NEUROLOGICAL INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2019"
+  "date": "06-FEB-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LORIE GRAY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "17-FEB-2022"
+  "date": "17-FEB-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

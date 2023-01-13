@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Harvey Miller",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2021"
+  "date": "09-SEP-2021",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

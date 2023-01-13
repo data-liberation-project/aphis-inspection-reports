@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LAMAR Z MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2020"
+  "date": "07-JAN-2020",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

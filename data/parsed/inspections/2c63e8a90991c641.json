@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STORYBOOK LAND INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2018"
+  "date": "20-APR-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

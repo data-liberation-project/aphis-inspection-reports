@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CALUSA NATURE CENTER AND PLANETARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-NOV-2014"
+  "date": "06-NOV-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis marsupialis",
+      "common": "SOUTHERN OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "POTENZA PETS FEED AND SUPPLY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2021"
+  "date": "02-FEB-2021",
+  "animals_total": 168,
+  "species": [
+    {
+      "count": 153,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 15,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

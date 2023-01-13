@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LORI HUBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-FEB-2022"
+  "date": "10-FEB-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

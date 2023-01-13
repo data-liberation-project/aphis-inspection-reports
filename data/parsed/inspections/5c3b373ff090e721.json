@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2018"
+  "date": "29-OCT-2018",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

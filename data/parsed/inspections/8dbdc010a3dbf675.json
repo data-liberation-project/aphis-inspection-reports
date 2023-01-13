@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HYATT REGENCY RESORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2017"
+  "date": "23-MAY-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRANK PECK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

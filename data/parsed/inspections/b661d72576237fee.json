@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOMA LINDA UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2015"
+  "date": "03-JUN-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

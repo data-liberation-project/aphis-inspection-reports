@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF CINCINNATI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2016"
+  "date": "06-APR-2016",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 1,
+      "scientific": "Elaphodus cephalophus",
+      "common": "TUFTED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIAMS RUN KENNELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2018"
+  "date": "24-JUL-2018",
+  "animals_total": 159,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

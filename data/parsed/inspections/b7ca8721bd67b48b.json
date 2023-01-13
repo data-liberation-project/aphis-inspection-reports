@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "KELLY CATO, JEFF CATO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2014"
+  "date": "30-JUL-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
 }

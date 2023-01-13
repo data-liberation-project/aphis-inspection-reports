@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "DEBORAH A JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2019"
+  "date": "09-MAY-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

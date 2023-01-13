@@ -8,5 +8,48 @@
   "site_id": "TRA",
   "site_name": "SHERRIE IVIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2021"
+  "date": "03-APR-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus domestic",
+      "common": "DOMESTIC BACTRIAN CAMEL"
+    }
+  ]
 }

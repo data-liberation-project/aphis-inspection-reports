@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY MC CLURE & ALLEN STRENKE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2022"
+  "date": "18-MAY-2022",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

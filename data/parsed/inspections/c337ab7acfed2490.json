@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBRA GAUS & JESSICA GAUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2014"
+  "date": "12-FEB-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "NOBLE LIFE SCIENCES INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-FEB-2016"
+  "date": "25-FEB-2016",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

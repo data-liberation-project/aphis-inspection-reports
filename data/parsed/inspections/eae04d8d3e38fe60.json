@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Creek Bottom Kennels LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2022"
+  "date": "15-JUN-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

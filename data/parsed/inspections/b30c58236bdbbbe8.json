@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CHINA MORRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2018"
+  "date": "17-OCT-2018",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

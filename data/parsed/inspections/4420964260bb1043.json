@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MENNING ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2014"
+  "date": "05-FEB-2014",
+  "animals_total": 831,
+  "species": [
+    {
+      "count": 541,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 290,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

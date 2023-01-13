@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "NOCONA THOMPSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2017"
+  "date": "06-SEP-2017",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

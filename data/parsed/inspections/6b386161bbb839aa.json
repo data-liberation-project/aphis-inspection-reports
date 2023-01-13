@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "001 - Exotic Pet Kingdom LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "22-JAN-2021"
+  "date": "22-JAN-2021",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 8,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 9,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

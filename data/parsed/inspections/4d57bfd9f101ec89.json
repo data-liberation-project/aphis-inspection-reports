@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HELEN AND SCOTT KETELSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2022"
+  "date": "16-NOV-2022",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

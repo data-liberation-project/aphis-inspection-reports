@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NICHOLAS L WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-APR-2022"
+  "date": "14-APR-2022",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

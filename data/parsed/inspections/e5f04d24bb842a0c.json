@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES KOAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2015"
+  "date": "16-JUL-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

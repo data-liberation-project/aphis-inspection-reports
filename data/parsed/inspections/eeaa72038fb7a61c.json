@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GAIL BEAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2018"
+  "date": "28-MAR-2018",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

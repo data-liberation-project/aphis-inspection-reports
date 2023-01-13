@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN BEUKELMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2022"
+  "date": "19-APR-2022",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

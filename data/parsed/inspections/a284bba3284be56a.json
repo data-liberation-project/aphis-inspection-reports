@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ETHICON ENDO-SURGERY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2017"
+  "date": "17-JUL-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

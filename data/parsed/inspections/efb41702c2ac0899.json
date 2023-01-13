@@ -8,5 +8,18 @@
   "site_id": "006",
   "site_name": "UNIVERSITY OF KENTUCKY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2021"
+  "date": "15-JUN-2021",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

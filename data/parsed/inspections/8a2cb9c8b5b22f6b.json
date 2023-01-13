@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARVEY TROYER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-JAN-2016"
+  "date": "08-JAN-2016",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

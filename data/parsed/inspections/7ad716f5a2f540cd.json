@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "NOBLE LIFE SCIENCES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2017"
+  "date": "13-JUL-2017",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

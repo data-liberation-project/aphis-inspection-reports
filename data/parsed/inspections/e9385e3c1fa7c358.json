@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jon Fenner",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "01-FEB-2022"
+  "date": "01-FEB-2022",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 35,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

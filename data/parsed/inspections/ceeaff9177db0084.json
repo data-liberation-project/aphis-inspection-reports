@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ST JUDE CHILDRENS RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2021"
+  "date": "21-APR-2021",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 45,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

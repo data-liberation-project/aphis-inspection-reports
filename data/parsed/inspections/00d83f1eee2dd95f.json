@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "WHALE BRANCH ANIMAL SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2018"
+  "date": "09-JUL-2018",
+  "animals_total": 234,
+  "species": [
+    {
+      "count": 216,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

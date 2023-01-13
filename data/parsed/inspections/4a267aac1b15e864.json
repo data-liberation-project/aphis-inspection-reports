@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WOLVES WOODS & WILDLIFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2014"
+  "date": "07-MAR-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Martes pennanti",
+      "common": "FISHER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

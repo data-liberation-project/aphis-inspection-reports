@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SEA WORLD OF FLORIDA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-APR-2018"
+  "date": "05-APR-2018",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Globicephala macrorhynchus",
+      "common": "SHORTFINNED PILOT WHALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    },
+    {
+      "count": 18,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
 }

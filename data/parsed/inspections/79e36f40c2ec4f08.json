@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Austin Nature & Science Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JAN-2022"
+  "date": "18-JAN-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 3,
+      "scientific": "Hipposideros pomona",
+      "common": "LEAF-NOSED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

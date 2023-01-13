@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Elisa Brandvik",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2022"
+  "date": "07-NOV-2022",
+  "animals_total": 172,
+  "species": [
+    {
+      "count": 134,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

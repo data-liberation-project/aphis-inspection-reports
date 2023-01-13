@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Carolyn Anderson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2018"
+  "date": "08-FEB-2018",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

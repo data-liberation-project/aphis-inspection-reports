@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NANCY OGLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2020"
+  "date": "24-SEP-2020",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

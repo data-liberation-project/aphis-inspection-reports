@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "USDA ARS ADRU",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2022"
+  "date": "21-SEP-2022",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 39,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

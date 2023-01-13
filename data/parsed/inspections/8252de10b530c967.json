@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RONNIE BEAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2015"
+  "date": "14-JUL-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 7,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

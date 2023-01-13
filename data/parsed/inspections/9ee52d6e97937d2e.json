@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVY COOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2019"
+  "date": "19-FEB-2019",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

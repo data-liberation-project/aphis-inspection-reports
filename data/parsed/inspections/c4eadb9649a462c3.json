@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ON THE WILD SIDE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2014"
+  "date": "31-JUL-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

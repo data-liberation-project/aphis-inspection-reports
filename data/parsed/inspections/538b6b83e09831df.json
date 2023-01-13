@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NEW ENGLAND AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2021"
+  "date": "16-SEP-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

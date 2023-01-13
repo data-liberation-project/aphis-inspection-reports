@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOWLING WOODS FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2021"
+  "date": "22-NOV-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans x C. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    }
+  ]
 }

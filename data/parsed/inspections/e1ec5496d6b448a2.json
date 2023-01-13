@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACK'S PET CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-DEC-2017"
+  "date": "07-DEC-2017",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    }
+  ]
 }

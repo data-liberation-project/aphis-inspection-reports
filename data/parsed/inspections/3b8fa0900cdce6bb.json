@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNETH WASHAUSEN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-APR-2016"
+  "date": "14-APR-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

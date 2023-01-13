@@ -8,5 +8,18 @@
   "site_id": "007",
   "site_name": "COVANCE LABORATORIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2017"
+  "date": "13-JUN-2017",
+  "animals_total": 463,
+  "species": [
+    {
+      "count": 373,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 90,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CONNECTICUT AUDUBON CENTER AT GLASTONBURY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2015"
+  "date": "29-OCT-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

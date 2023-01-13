@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARRELL GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2014"
+  "date": "16-DEC-2014",
+  "animals_total": 164,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

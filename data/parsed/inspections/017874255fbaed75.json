@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "IMMVAC INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2017"
+  "date": "19-JAN-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

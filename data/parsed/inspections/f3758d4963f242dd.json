@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTIE STARLING",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-NOV-2014"
+  "date": "12-NOV-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

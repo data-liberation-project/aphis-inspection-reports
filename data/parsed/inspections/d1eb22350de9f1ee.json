@@ -8,5 +8,18 @@
   "site_id": "ORD",
   "site_name": "OHARE INTERNATIONAL AIRPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-AUG-2019"
+  "date": "22-AUG-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

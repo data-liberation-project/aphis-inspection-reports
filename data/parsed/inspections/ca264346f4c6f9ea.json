@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN BONTRAGER JR",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-FEB-2022"
+  "date": "24-FEB-2022",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

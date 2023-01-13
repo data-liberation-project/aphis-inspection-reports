@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EMANUEL TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-OCT-2015"
+  "date": "14-OCT-2015",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 132,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "ROBERT TUMA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2014"
+  "date": "18-JUN-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chaetophractus villosus",
+      "common": "LARGER HAIRY ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

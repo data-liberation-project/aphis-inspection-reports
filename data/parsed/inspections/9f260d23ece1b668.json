@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLYDE HORST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2018"
+  "date": "30-JAN-2018",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

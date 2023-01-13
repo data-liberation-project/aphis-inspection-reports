@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOE OVERLEASE",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "13-MAR-2014"
+  "date": "13-MAR-2014",
+  "animals_total": 260,
+  "species": [
+    {
+      "count": 162,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

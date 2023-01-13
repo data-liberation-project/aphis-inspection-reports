@@ -8,5 +8,88 @@
   "site_id": "001",
   "site_name": "BOB DUNNS ANIMAL SERVICES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2017"
+  "date": "19-APR-2017",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callosciurus prevostii",
+      "common": "PREVOST'S SQUIRREL / TRI-COLORED SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lepus europaeus",
+      "common": "EUROPEAN HARE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lepus europaeus",
+      "common": "EUROPEAN HARE"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE / SNOW MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    }
+  ]
 }

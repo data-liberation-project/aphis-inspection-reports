@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOCKWOOD FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2014"
+  "date": "21-APR-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

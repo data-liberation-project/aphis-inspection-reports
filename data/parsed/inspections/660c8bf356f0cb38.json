@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JURASSIC PETS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2016"
+  "date": "06-DEC-2016",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    }
+  ]
 }

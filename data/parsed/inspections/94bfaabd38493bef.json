@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BLACK HAWK COUNTY CONSERVATION BOARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2018"
+  "date": "12-SEP-2018",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

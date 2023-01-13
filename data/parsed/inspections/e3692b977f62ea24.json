@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sara Detweiler",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-MAY-2022"
+  "date": "12-MAY-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

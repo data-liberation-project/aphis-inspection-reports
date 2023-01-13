@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA MULDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2016"
+  "date": "18-FEB-2016",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

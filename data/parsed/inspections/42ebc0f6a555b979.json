@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Bay.org",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2020"
+  "date": "21-DEC-2020",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    }
+  ]
 }

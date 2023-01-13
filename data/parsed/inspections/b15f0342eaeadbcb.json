@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOHN H BEILER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-OCT-2021"
+  "date": "14-OCT-2021",
+  "animals_total": 1525,
+  "species": [
+    {
+      "count": 1520,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

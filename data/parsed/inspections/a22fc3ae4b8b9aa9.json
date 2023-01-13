@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALL CAMPUS LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2017"
+  "date": "12-JUL-2017",
+  "animals_total": 852,
+  "species": [
+    {
+      "count": 563,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 288,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

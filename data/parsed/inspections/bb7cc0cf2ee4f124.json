@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BIRDS & ANIMALS UNLIMITED",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "04-JAN-2017"
+  "date": "04-JAN-2017",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

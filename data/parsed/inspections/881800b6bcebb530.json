@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHONDA L. GEAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2015"
+  "date": "15-APR-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DARREL WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2017"
+  "date": "11-MAY-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

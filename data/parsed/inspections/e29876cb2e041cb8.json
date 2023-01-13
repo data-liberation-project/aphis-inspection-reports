@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KUNTRY PUPS KENNEL L. L. C.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2021"
+  "date": "14-DEC-2021",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

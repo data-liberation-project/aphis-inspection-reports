@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN DIEGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2022"
+  "date": "08-FEB-2022",
+  "animals_total": 326,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 99,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 113,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 77,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
 }

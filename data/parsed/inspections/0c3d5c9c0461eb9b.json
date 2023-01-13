@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ST PETERSBURG COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2018"
+  "date": "06-JUN-2018",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

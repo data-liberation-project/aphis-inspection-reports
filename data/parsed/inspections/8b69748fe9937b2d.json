@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Coleen Burnham-Gladston",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2016"
+  "date": "07-NOV-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jaybird Noel LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2022"
+  "date": "30-AUG-2022",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

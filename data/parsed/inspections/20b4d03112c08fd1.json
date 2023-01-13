@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERRY & TAMMY LANSDOWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2019"
+  "date": "22-MAY-2019",
+  "animals_total": 281,
+  "species": [
+    {
+      "count": 198,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID BENARON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2020"
+  "date": "02-OCT-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

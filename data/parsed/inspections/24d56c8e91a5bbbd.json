@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jessica Perry",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2019"
+  "date": "07-AUG-2019",
+  "animals_total": 403,
+  "species": [
+    {
+      "count": 241,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 162,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Devin Jones",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2014"
+  "date": "21-APR-2014",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

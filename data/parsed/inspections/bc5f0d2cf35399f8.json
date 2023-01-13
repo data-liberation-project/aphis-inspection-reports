@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "OREGON HEALTH & SCIENCE UNIV.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2022"
+  "date": "27-JUN-2022",
+  "animals_total": 252,
+  "species": [
+    {
+      "count": 219,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 24,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

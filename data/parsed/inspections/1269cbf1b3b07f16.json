@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "EDWARD BARKER & WANDA BARKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2015"
+  "date": "14-DEC-2015",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

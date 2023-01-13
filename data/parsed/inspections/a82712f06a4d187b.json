@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SEAN POPPY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-MAY-2022"
+  "date": "04-MAY-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

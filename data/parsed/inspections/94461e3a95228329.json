@@ -8,5 +8,23 @@
   "site_id": "009",
   "site_name": "BRISTOL MYERS SQUIBB COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2015"
+  "date": "14-AUG-2015",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

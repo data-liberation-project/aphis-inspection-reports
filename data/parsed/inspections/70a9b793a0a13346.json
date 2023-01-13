@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JODIE HANCOCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-OCT-2019"
+  "date": "10-OCT-2019",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

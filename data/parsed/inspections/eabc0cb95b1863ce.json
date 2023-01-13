@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STACIE STUTESMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2017"
+  "date": "21-MAR-2017",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

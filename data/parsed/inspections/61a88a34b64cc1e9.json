@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "TAMMIE S JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-DEC-2018"
+  "date": "13-DEC-2018",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

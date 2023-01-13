@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DIANE KIPNIS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-FEB-2020"
+  "date": "18-FEB-2020",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 7,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 69,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    }
+  ]
 }

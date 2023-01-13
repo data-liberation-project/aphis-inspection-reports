@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2015"
+  "date": "30-JUN-2015",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 36,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 16,
+      "scientific": "Tarandus",
+      "common": "CARIBOU"
+    }
+  ]
 }

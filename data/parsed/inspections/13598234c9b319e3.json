@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BILL NORED",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-AUG-2022"
+  "date": "23-AUG-2022",
+  "animals_total": 167,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

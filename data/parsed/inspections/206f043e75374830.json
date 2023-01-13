@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PLEASANT VIEW KENNEL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-JAN-2017"
+  "date": "23-JAN-2017",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

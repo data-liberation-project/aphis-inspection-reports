@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRACIE PERRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2021"
+  "date": "04-MAR-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    }
+  ]
 }

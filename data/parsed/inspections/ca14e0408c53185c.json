@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WOODSIDE RANCH RESORT LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2017"
+  "date": "15-MAR-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Fontenelle Forest",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2016"
+  "date": "11-OCT-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

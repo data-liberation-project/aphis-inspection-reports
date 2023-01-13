@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "W. L. GORE & ASSOCIATES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2015"
+  "date": "24-JUN-2015",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 33,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 42,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

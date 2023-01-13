@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANTAS LAND INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2016"
+  "date": "16-MAY-2016",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

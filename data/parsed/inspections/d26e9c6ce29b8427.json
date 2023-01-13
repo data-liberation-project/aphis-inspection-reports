@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VALLEY WILDLIFE CARE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2018"
+  "date": "14-AUG-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

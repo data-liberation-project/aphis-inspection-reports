@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JUNGLE EVENTS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-MAY-2019"
+  "date": "16-MAY-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

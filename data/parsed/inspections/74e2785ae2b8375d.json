@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FAWN RIVER KENNELS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-OCT-2017"
+  "date": "24-OCT-2017",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

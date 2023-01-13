@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "Wildlife Rehab of Greenville",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "07-OCT-2021"
+  "date": "07-OCT-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

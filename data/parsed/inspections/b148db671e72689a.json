@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "D & M RESOURCES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2016"
+  "date": "09-MAY-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

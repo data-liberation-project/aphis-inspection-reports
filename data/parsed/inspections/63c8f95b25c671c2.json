@@ -6,7 +6,25 @@
   "customer_addr": "5311 Hwy 70 West\nNew Hope, AR 71959",
   "certificate": "71-C-0187",
   "site_id": "001",
-  "site_name": "BO AND AMANDA CHANDLER INC(cid:9)",
+  "site_name": "BO AND AMANDA CHANDLER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2018"
+  "date": "17-SEP-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

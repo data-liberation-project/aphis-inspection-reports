@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SILVER DOLLAR CITY INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-OCT-2014"
+  "date": "09-OCT-2014",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

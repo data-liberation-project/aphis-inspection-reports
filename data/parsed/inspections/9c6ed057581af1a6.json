@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOB MEHMERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2020"
+  "date": "24-FEB-2020",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

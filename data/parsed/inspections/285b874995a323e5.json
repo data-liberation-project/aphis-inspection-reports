@@ -8,5 +8,78 @@
   "site_id": "004",
   "site_name": "DISNEYS ANIMAL KINGDOM LODGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2014"
+  "date": "02-JUN-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus africanus",
+      "common": "AFRICAN WILD ASS"
+    },
+    {
+      "count": 9,
+      "scientific": "Equus zebra",
+      "common": "MOUNTAIN ZEBRA / HARTMANN'S ZEBRA"
+    },
+    {
+      "count": 10,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 6,
+      "scientific": "Hippotragus equinus",
+      "common": "ROAN ANTELOPE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 7,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 4,
+      "scientific": "Okapia johnstoni",
+      "common": "OKAPI"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 2,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 12,
+      "scientific": "Tragelaphus angasii",
+      "common": "NYALA"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    }
+  ]
 }

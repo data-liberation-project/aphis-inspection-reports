@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SUMMIT RIDGE FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JAN-2015"
+  "date": "15-JAN-2015",
+  "animals_total": 1288,
+  "species": [
+    {
+      "count": 704,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 580,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

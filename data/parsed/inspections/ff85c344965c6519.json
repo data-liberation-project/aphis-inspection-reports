@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDLIFE AMBASSADORS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2015"
+  "date": "21-JUL-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

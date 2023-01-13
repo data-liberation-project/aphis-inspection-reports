@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELDON GRABER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "01-AUG-2014"
+  "date": "01-AUG-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

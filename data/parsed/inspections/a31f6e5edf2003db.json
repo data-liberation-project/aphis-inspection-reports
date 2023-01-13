@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SHELBA CANFIELD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2019"
+  "date": "06-JUN-2019",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MRI Global",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-JAN-2021"
+  "date": "27-JAN-2021",
+  "animals_total": 171,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 63,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    },
+    {
+      "count": 48,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

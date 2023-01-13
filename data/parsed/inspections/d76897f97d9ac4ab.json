@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EAST MAUI ANIMAL REFUGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2016"
+  "date": "08-JUL-2016",
+  "animals_total": 175,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 54,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 93,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

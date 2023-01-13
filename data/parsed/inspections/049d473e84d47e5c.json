@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN & LAVERA KAUFFMAN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-APR-2014"
+  "date": "24-APR-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

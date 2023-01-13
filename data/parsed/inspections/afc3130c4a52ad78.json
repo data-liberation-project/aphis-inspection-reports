@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lovin' Pups, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2022"
+  "date": "17-MAR-2022",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

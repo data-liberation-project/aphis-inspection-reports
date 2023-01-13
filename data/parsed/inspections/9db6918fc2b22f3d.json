@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN HERSHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2019"
+  "date": "11-DEC-2019",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

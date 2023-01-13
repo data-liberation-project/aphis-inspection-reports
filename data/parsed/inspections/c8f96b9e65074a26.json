@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GOLD COUNTRY WILDLIFE RESCUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2022"
+  "date": "16-NOV-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

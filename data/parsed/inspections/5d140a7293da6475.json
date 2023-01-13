@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEWIS YUTZY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-FEB-2016"
+  "date": "10-FEB-2016",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

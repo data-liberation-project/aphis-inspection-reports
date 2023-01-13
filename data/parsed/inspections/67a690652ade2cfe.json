@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2014"
+  "date": "11-DEC-2014",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

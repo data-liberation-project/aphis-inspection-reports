@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEVON SCHLABACH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2017"
+  "date": "25-OCT-2017",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

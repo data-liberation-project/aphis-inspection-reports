@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LITTLE PONDEROSA INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-JUL-2022"
+  "date": "27-JUL-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

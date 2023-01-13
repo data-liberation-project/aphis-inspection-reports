@@ -8,5 +8,28 @@
   "site_id": "026",
   "site_name": "WIL RESEARCH SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2022"
+  "date": "28-JUN-2022",
+  "animals_total": 1474,
+  "species": [
+    {
+      "count": 570,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 504,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 374,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 26,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
 }

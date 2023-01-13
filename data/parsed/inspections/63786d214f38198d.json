@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN BEAUCHAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2014"
+  "date": "21-AUG-2014",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BECKER COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2018"
+  "date": "31-OCT-2018",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

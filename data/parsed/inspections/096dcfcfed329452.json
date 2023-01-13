@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "Dora Turner- 003",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2021"
+  "date": "20-JAN-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

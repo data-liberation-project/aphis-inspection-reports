@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dana Tompkins",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2017"
+  "date": "12-JUL-2017",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

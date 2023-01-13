@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN & PAMELA PAPE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "16-JUN-2021"
+  "date": "16-JUN-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

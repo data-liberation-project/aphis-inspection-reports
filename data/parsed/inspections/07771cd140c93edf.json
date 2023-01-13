@@ -8,5 +8,28 @@
   "site_id": "005",
   "site_name": "ZANY ZOO PETS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2017"
+  "date": "30-NOV-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Galago moholi",
+      "common": "SENEGAL BUSHBABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOREN AND LORA KOOIMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2014"
+  "date": "20-AUG-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

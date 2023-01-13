@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "RICHARD & ROBIN TOWNSEND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2022"
+  "date": "31-JAN-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles hybridus",
+      "common": "BROWN (WHITE-BELLIED) SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
 }

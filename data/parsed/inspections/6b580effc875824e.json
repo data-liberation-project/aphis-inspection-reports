@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Lorilee Thomas",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2019"
+  "date": "08-OCT-2019",
+  "animals_total": 1038,
+  "species": [
+    {
+      "count": 659,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 379,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

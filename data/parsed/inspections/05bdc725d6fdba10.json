@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GERALDINE GRISWOLD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2015"
+  "date": "30-SEP-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    }
+  ]
 }

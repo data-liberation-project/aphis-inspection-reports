@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Katherine Muller-Crane",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2017"
+  "date": "04-MAY-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

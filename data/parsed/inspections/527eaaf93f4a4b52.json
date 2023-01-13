@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Allen Coalson, Susan Coalson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2014"
+  "date": "07-OCT-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

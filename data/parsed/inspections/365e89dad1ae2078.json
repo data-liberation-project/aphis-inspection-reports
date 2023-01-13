@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Big Heart Pet Brands",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2015"
+  "date": "11-DEC-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

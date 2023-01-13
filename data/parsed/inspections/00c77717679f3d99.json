@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE WOOD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2018"
+  "date": "12-JUN-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 8,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    }
+  ]
 }

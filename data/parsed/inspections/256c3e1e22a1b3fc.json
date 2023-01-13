@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAREN KAYE MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 252,
+  "species": [
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 121,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

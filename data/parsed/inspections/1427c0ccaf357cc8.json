@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Peter Mimikos",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "18-MAY-2015"
+  "date": "18-MAY-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eira barbara",
+      "common": "TAYRA"
+    },
+    {
+      "count": 4,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

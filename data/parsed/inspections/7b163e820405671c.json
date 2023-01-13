@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIM KITCHENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2015"
+  "date": "06-MAY-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Madoqua saltiana",
+      "common": "SALT'S DIKDIK / SALTS DIK-DIK"
+    }
+  ]
 }

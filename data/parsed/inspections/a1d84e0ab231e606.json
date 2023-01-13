@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEON A MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-FEB-2021"
+  "date": "23-FEB-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

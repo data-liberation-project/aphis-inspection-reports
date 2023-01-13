@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN E SCHMUCKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2022"
+  "date": "14-FEB-2022",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

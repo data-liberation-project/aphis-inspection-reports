@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CENTRAL CAROLINA COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2019"
+  "date": "30-MAY-2019",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

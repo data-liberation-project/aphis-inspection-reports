@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIANE VAN TWUYVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JAN-2015"
+  "date": "15-JAN-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

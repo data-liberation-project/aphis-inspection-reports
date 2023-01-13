@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tri Star Pets",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2022"
+  "date": "14-FEB-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

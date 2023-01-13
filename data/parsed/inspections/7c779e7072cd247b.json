@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "OREGON STATE UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "23-MAY-2018"
+  "date": "23-MAY-2018",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 22,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

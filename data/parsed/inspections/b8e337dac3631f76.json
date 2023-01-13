@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "CITY OF DODGE CITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2015"
+  "date": "26-FEB-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

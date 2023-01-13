@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "University of Houston",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2022"
+  "date": "06-DEC-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

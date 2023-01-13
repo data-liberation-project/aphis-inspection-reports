@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "JOSEPH ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2022"
+  "date": "07-JAN-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

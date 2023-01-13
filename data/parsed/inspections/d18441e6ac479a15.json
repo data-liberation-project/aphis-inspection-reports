@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "F & F PRODUCTION LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2022"
+  "date": "12-MAY-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

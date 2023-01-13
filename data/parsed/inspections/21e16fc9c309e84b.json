@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CONNIE DECKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2021"
+  "date": "09-SEP-2021",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

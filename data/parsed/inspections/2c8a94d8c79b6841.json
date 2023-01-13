@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARILYN KERN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2014"
+  "date": "21-MAR-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

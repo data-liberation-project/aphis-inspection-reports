@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL HAYS",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "25-SEP-2020"
+  "date": "25-SEP-2020",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

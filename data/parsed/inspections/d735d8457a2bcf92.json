@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "Sea Lion Splash LLC TRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2022"
+  "date": "11-OCT-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Otaria byronia",
+      "common": "SOUTH AMERICAN SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DAVE HUITINK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-AUG-2017"
+  "date": "31-AUG-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Oreamnos americanus",
+      "common": "ROCKY MOUNTAIN GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

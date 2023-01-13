@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "JASON RIGGS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-FEB-2014"
+  "date": "25-FEB-2014",
+  "animals_total": 209,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 26,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    },
+    {
+      "count": 105,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 9,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 42,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 20,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

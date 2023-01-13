@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BECTON DICKINSON TECHNOLOGIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2014"
+  "date": "04-NOV-2014",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 36,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

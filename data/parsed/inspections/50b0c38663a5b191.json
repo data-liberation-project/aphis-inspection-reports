@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joshua Dillow",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2017"
+  "date": "18-OCT-2017",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

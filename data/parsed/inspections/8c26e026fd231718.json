@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHOW ME LABS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2017"
+  "date": "25-OCT-2017",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AVOGADRO LS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2015"
+  "date": "17-AUG-2015",
+  "animals_total": 174,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 96,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "01",
   "site_name": "HOME",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-JUL-2018"
+  "date": "03-JUL-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

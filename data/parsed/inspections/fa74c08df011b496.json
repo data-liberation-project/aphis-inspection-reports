@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ORVAN BEECHY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "23-SEP-2021"
+  "date": "23-SEP-2021",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

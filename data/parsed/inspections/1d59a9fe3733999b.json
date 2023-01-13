@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY W GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2017"
+  "date": "12-DEC-2017",
+  "animals_total": 184,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

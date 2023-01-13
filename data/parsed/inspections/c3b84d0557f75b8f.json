@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GLAXO SMITH KLINE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2018"
+  "date": "02-MAY-2018",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 98,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

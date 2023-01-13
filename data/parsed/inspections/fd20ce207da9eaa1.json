@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "PBRC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2017"
+  "date": "02-MAR-2017",
+  "animals_total": 149,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 35,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 77,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

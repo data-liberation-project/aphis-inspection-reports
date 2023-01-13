@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARLA BROVONT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2019"
+  "date": "28-OCT-2019",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

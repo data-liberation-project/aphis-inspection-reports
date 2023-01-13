@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID MOSS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2019"
+  "date": "29-JUL-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

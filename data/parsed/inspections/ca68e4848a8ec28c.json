@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "URA MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2018"
+  "date": "30-OCT-2018",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }
