@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIV. OF MEMPHIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2019"
+  "date": "06-AUG-2019",
+  "animals_total": 920,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 264,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND BLESMOL"
+    },
+    {
+      "count": 127,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 396,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

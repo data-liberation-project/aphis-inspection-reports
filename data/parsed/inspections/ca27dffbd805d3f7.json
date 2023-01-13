@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BIOSURG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2021"
+  "date": "09-JUN-2021",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 15,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

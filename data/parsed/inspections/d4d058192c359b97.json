@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MONROE COUNTY CONSERVATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2015"
+  "date": "16-NOV-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 5,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

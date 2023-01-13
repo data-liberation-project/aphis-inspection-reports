@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2018"
+  "date": "07-FEB-2018",
+  "animals_total": 226,
+  "species": [
+    {
+      "count": 210,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

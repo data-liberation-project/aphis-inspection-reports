@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GLORIA STILL",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "17-DEC-2021"
+  "date": "17-DEC-2021",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Old Mac Donalds Farm Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2022"
+  "date": "26-SEP-2022",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 9,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

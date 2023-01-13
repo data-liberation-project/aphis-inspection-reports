@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Seattle Aquarium Society",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2019"
+  "date": "26-SEP-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
 }

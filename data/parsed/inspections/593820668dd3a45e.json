@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOB HUGHES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2022"
+  "date": "18-JUN-2022",
+  "animals_total": 308,
+  "species": [
+    {
+      "count": 272,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA FROMM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2015"
+  "date": "11-FEB-2015",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

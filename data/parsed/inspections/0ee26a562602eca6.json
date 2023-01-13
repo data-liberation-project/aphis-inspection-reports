@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "Westside Tennis Club",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2014"
+  "date": "03-APR-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 7,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRISTINE COLLINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2021"
+  "date": "22-JUN-2021",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

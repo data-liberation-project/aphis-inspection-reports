@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "SCHREINER FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2017"
+  "date": "14-JUL-2017",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 13,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 12,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    },
+    {
+      "count": 11,
+      "scientific": "Osphranter antilopinus",
+      "common": "ANTILOPINE WALLAROO / ANTELOPE WALLAROO"
+    }
+  ]
 }

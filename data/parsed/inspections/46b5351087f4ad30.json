@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONALD SCHRAGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2014"
+  "date": "30-APR-2014",
+  "animals_total": 184,
+  "species": [
+    {
+      "count": 136,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

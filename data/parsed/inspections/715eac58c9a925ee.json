@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "WOLF PARK",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "27-JAN-2017"
+  "date": "27-JAN-2017",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

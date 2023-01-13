@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Alice Shaffer",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "20-NOV-2015"
+  "date": "20-NOV-2015",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

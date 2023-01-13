@@ -8,5 +8,13 @@
   "site_id": "003",
   "site_name": "S & S FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2019"
+  "date": "25-JUN-2019",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

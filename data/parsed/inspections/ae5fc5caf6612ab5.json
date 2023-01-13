@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GENE WHEELER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2017"
+  "date": "05-SEP-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
 }

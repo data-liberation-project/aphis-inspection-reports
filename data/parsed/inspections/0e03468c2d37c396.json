@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "JACK'S PET CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2022"
+  "date": "30-JUN-2022",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

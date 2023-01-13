@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLLEEN HARLOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2022"
+  "date": "27-JAN-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jan Budden",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2015"
+  "date": "20-OCT-2015",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

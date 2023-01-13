@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Matthew & Jolena Herschberger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2022"
+  "date": "04-APR-2022",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

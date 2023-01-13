@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Sarah Hand",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2018"
+  "date": "20-APR-2018",
+  "animals_total": 227,
+  "species": [
+    {
+      "count": 198,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 11,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 3,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 15,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

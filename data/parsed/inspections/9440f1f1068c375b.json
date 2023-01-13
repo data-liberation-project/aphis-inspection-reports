@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOARDING KENNELS - PET MEMORIAL GARDENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2014"
+  "date": "25-AUG-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

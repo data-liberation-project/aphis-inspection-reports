@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROBERT RASH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2016"
+  "date": "16-JUN-2016",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

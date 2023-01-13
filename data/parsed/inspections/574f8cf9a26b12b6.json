@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marty Murray",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "26-MAY-2022"
+  "date": "26-MAY-2022",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 97,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

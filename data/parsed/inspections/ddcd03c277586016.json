@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TINA TRAMMELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2016"
+  "date": "06-DEC-2016",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

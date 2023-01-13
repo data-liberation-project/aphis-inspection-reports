@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "INDIAN RIDGE KENNEL LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2017"
+  "date": "31-AUG-2017",
+  "animals_total": 301,
+  "species": [
+    {
+      "count": 181,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

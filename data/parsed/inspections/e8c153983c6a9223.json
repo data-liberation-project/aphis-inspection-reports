@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JESSICA MARTIN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-AUG-2018"
+  "date": "27-AUG-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

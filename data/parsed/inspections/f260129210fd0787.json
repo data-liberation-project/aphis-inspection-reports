@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NICOLE PULTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2021"
+  "date": "26-AUG-2021",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

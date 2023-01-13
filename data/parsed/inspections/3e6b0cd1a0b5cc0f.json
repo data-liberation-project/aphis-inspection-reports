@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARSH HAVEN NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

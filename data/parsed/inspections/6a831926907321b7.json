@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MACK MOSS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-OCT-2014"
+  "date": "10-OCT-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

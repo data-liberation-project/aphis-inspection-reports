@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-APR-2016"
+  "date": "05-APR-2016",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

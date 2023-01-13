@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JO ANNE ISAAC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2015"
+  "date": "20-JAN-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MEDICAL COLLEGE OF WI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-SEP-2021"
+  "date": "16-SEP-2021",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 130,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    }
+  ]
 }

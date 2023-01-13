@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENTUCKY WILDLIFE CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2020"
+  "date": "03-FEB-2020",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 10,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

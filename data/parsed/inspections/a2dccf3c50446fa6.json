@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RODNEY ALLISON & LEAH ALLISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2014"
+  "date": "07-AUG-2014",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

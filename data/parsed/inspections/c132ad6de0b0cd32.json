@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "LINDA FLOYD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-MAR-2017"
+  "date": "17-MAR-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 12,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 3,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 7,
+      "scientific": "Dorcopsis luctuosa",
+      "common": "GREY FOREST WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryx gazella",
+      "common": "GEMSBOK"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    }
+  ]
 }

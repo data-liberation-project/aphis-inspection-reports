@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "PERFECT PETS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2019"
+  "date": "24-SEP-2019",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Dorcopsis luctuosa",
+      "common": "GREY FOREST WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 14,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 29,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 7,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 4,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
 }

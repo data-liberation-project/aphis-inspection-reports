@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "COLORADO PARKS AND WILDLIFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2017"
+  "date": "01-MAY-2017",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 9,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 42,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 28,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

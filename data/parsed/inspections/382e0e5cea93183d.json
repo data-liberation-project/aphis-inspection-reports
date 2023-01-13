@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARION GIGER & LEILA GIGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-DEC-2015"
+  "date": "16-DEC-2015",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BAYOU PIERRE ALLIGATOR FARM, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2015"
+  "date": "14-AUG-2015",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

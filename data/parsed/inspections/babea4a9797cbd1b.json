@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DESIREE HARTSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2014"
+  "date": "20-FEB-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

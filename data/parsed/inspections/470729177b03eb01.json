@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TRACIE PERRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2016"
+  "date": "22-SEP-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    }
+  ]
 }

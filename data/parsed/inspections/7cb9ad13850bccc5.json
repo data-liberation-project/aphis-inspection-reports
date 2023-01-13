@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CITY BATS CONSERVANCY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2014"
+  "date": "17-DEC-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Nycticeius humeralis",
+      "common": "EVENING BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    }
+  ]
 }

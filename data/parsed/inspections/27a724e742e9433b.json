@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BEVERLYS PET CENTER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "17-MAY-2022"
+  "date": "17-MAY-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

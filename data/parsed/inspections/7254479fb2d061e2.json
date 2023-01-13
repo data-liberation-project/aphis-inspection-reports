@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GENE & KAREN RICKETTS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2014"
+  "date": "24-MAR-2014",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

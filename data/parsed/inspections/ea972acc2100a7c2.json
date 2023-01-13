@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARKA ENTERPRISES INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2014"
+  "date": "30-JAN-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

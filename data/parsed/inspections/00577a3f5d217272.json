@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIS KNEPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2019"
+  "date": "03-OCT-2019",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

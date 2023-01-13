@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "A C C Ranch",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2015"
+  "date": "08-SEP-2015",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

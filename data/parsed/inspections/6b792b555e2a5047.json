@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBRA TIGNOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2016"
+  "date": "02-NOV-2016",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDSEY FORQUER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-DEC-2019"
+  "date": "05-DEC-2019",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROY KAUFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2019"
+  "date": "24-MAY-2019",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

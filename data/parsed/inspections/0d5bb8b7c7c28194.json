@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY & STEVEN WHITEAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2015"
+  "date": "09-MAR-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHAWNIE EVANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2022"
+  "date": "11-JAN-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

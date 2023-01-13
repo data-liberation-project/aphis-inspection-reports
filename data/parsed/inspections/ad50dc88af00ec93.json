@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "LEMUR CONSERVATION FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JAN-2020"
+  "date": "15-JAN-2020",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Eulemur collaris",
+      "common": "RED-COLLARED BROWN LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 19,
+      "scientific": "Eulemur mongoz",
+      "common": "MONGOOSE LEMUR"
+    },
+    {
+      "count": 11,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 7,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

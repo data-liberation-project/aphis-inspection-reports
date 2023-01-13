@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "YORKS WILD KINGDOM INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "01-MAR-2021"
+  "date": "01-MAR-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cercopithecus neglectus",
+      "common": "DE BRAZZA'S MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

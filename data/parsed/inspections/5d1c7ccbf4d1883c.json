@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELLEN ROBERTS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-JAN-2022"
+  "date": "19-JAN-2022",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 129,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

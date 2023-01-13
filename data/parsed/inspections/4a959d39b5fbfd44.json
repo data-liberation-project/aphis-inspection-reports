@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "University of Texas",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "01-MAY-2019"
+  "date": "01-MAY-2019",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

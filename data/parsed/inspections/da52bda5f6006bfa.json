@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CITY OF WICHITA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Dipodomys ordii",
+      "common": "ORD'S KANGAROO RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN AND ROSEMARY MULLET",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2015"
+  "date": "28-JAN-2015",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA & RICHARD BARTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2017"
+  "date": "03-MAY-2017",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

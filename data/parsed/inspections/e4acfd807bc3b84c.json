@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Karen Becker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2017"
+  "date": "16-MAY-2017",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

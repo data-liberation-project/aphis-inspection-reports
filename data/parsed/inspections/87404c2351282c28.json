@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MANNHEIMER FOUNDATION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2016"
+  "date": "22-SEP-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
 }

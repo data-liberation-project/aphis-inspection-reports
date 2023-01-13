@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY ALBRECHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2017"
+  "date": "29-MAR-2017",
+  "animals_total": 392,
+  "species": [
+    {
+      "count": 299,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

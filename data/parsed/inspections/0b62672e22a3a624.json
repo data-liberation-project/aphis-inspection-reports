@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CUTE COCKAPOOS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-FEB-2018"
+  "date": "22-FEB-2018",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

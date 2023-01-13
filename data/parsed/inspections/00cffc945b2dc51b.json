@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WOODLAND PAWS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-JUL-2022"
+  "date": "14-JUL-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

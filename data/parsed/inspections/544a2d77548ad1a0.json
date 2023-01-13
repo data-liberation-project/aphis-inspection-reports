@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KEVAN EVANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-NOV-2014"
+  "date": "26-NOV-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

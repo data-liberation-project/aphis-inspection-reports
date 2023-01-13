@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACK, JACQUELYN, & NORMA SCHLESSMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2016"
+  "date": "02-JUN-2016",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

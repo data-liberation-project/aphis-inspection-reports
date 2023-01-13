@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN A TROYER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "15-SEP-2022"
+  "date": "15-SEP-2022",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

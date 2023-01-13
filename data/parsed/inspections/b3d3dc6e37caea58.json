@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-JUL-2022"
+  "date": "19-JUL-2022",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Dipodomys merriami",
+      "common": "MERRIAM'S KANGAROO RAT"
+    }
+  ]
 }

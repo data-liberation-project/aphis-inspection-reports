@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILLWOOD PUPPIES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 214,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

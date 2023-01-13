@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CREEKVIEW CANINES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2022"
+  "date": "29-JUN-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

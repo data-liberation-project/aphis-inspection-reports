@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Rebecca Thompson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2021"
+  "date": "18-NOV-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

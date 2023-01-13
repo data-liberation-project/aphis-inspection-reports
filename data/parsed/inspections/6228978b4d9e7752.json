@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HUNTINGDON LIFE SCIENCES INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "01-MAY-2019"
+  "date": "01-MAY-2019",
+  "animals_total": 769,
+  "species": [
+    {
+      "count": 202,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 364,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 140,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 63,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

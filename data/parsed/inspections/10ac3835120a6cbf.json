@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LIVESTOCK BEHAVIOR RESEARCH UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2017"
+  "date": "06-APR-2017",
+  "animals_total": 389,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Ars birds",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 247,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHAYLA PETRI SHOEMAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2019"
+  "date": "22-JUL-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

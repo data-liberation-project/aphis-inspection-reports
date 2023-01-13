@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NANCY HELMS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "21-NOV-2022"
+  "date": "21-NOV-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

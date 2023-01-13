@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILMA JINSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2014"
+  "date": "28-AUG-2014",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

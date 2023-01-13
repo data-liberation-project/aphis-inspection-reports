@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CUDDLY CRITTERS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-APR-2018"
+  "date": "02-APR-2018",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

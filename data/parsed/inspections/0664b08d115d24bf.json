@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "COMPARATIVE BIOSCIENCES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2014"
+  "date": "27-AUG-2014",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 80,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA ARNOLD & JEFF JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2016"
+  "date": "14-NOV-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

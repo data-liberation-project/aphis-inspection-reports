@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CHRISTEN KREUTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2016"
+  "date": "09-MAR-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

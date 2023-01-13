@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAWRENCE WEAVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2018"
+  "date": "09-AUG-2018",
+  "animals_total": 171,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

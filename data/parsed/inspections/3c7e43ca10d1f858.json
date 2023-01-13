@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "SIEMENS HEALTHCARE DIAGNOSTICS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2014"
+  "date": "13-AUG-2014",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

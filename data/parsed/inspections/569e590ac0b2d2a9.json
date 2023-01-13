@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARRY COGGINS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "06-JUL-2022"
+  "date": "06-JUL-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

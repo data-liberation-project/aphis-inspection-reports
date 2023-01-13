@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRASSY RIDGE KENNELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2019"
+  "date": "18-MAR-2019",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

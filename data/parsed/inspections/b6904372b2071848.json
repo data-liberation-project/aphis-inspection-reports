@@ -8,5 +8,28 @@
   "site_id": "004",
   "site_name": "PET WAREHOUSE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2015"
+  "date": "01-JUL-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

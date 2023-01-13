@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SIMLERS KENNEL LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-APR-2014"
+  "date": "22-APR-2014",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

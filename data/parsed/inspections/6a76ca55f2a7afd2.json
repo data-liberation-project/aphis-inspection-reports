@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ANTECH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2014"
+  "date": "19-FEB-2014",
+  "animals_total": 306,
+  "species": [
+    {
+      "count": 282,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

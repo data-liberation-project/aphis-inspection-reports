@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID BURKHOLDER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-FEB-2019"
+  "date": "12-FEB-2019",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joyce Cairns",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2017"
+  "date": "16-FEB-2017",
+  "animals_total": 176,
+  "species": [
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

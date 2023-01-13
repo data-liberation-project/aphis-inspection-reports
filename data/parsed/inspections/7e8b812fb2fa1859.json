@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Sasha Kelly",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2014"
+  "date": "26-FEB-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 22,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

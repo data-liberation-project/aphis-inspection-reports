@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEN TROYER & EMMA TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2021"
+  "date": "02-SEP-2021",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

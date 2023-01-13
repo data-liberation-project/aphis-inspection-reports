@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PRE-CLINICAL RESEARCH SERVICES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUL-2018"
+  "date": "23-JUL-2018",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

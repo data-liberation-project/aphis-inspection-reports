@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VET. TECH SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2022"
+  "date": "08-JUL-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIGINITY HEALTH/BARROW NEUROLOGICAL INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2020"
+  "date": "25-FEB-2020",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

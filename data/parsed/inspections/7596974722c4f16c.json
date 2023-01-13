@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "B T S RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 381,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 216,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 56,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 105,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

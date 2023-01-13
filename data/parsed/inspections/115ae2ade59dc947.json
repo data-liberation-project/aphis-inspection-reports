@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY ANN MC GREGOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-NOV-2018"
+  "date": "06-NOV-2018",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "KEVIN YATES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2016"
+  "date": "29-SEP-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus nigricollis",
+      "common": "BLACK-AND-RED TAMARIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

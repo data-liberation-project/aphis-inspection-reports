@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HIDDEN CLOVER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2014"
+  "date": "20-FEB-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    }
+  ]
 }

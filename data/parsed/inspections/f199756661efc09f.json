@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SIEMENS HEALTHCARE DIAGNOSTICS INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "21-JUN-2022"
+  "date": "21-JUN-2022",
+  "animals_total": 697,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 505,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 98,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

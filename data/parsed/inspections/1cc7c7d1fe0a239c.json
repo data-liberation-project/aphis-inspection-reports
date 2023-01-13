@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN L. RINER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2015"
+  "date": "24-JUL-2015",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

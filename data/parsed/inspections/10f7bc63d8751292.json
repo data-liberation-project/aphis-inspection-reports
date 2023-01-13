@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Davidson Enterprises",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2019"
+  "date": "22-JUL-2019",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

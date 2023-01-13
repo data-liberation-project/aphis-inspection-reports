@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PACIFIC DOODLES LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-JAN-2020"
+  "date": "22-JAN-2020",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

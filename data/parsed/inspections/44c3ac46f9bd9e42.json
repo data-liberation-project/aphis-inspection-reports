@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDSEY BESSETTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2016"
+  "date": "20-JUN-2016",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 23,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

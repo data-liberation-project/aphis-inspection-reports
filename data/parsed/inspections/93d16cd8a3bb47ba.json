@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANE HOBBS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-SEP-2017"
+  "date": "27-SEP-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

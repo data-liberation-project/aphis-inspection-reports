@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEREK DOUGHERTY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-MAY-2017"
+  "date": "17-MAY-2017",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

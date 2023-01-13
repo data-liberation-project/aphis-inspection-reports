@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SARAH MALONE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-JUL-2018"
+  "date": "14-JUL-2018",
+  "animals_total": 1150,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 116,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 935,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    }
+  ]
 }

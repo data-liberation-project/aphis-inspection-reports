@@ -8,5 +8,33 @@
   "site_id": "RED",
   "site_name": "RED UNIT VARIOUS TRAVELLING LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2016"
+  "date": "28-OCT-2016",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama guanicoe",
+      "common": "GUANACO"
+    },
+    {
+      "count": 17,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

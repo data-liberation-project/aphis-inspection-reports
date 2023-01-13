@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "WESTERN VETERINARY CONFERENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2014"
+  "date": "28-MAY-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

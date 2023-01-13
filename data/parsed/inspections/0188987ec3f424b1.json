@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "BIOQUAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2022"
+  "date": "06-JUL-2022",
+  "animals_total": 679,
+  "species": [
+    {
+      "count": 365,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 20,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 36,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 252,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

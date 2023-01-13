@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marcia Smith",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2018"
+  "date": "16-APR-2018",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

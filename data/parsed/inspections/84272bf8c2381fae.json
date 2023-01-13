@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "NIKKI STONERR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUL-2014"
+  "date": "03-JUL-2014",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 9,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 28,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 48,
+      "scientific": "Natalensis",
+      "common": "AFRICAN SOFT-FURRED RAT"
+    },
+    {
+      "count": 27,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

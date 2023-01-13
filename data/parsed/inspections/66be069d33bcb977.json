@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Geneva Taylor, Ronald Taylor",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2015"
+  "date": "03-NOV-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

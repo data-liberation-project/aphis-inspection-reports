@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GEORGIA SOUTHERN UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2022"
+  "date": "26-APR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

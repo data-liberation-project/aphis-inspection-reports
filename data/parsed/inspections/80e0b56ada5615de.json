@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "NEW YORK AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2014"
+  "date": "04-JUN-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Odobenus rosmarus",
+      "common": "WALRUS"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

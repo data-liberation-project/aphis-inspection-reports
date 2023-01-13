@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF BIRMINGHAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2016"
+  "date": "29-MAR-2016",
+  "animals_total": 292,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 122,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 36,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 71,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    }
+  ]
 }

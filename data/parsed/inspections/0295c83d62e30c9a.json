@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID & DORIS MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2021"
+  "date": "18-MAY-2021",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

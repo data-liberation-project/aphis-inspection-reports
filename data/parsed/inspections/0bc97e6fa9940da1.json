@@ -6,7 +6,20 @@
   "customer_addr": "2111 H Hwy\nMyrtle, MO 65778",
   "certificate": "43-A-6218",
   "site_id": "001",
-  "site_name": "RODNEY J LEONARD JR(cid:9)",
+  "site_name": "RODNEY J LEONARD JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2020"
+  "date": "20-MAR-2020",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

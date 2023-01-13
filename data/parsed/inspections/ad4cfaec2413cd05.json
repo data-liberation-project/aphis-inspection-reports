@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Daniel Yoder",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

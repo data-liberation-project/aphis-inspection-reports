@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "N B J Zoological Park Ltd",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "22-MAY-2017"
+  "date": "22-MAY-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 5,
+      "scientific": "Nomascus leucogenys",
+      "common": "WHITE-CHEEKED GIBBON"
+    },
+    {
+      "count": 7,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    }
+  ]
 }

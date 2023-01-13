@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DESIREE CAWTHON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2017"
+  "date": "12-DEC-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

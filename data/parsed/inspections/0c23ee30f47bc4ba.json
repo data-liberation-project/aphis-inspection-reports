@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN WITTMER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "30-JUN-2015"
+  "date": "30-JUN-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

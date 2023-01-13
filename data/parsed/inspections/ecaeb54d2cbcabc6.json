@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA VINYARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2017"
+  "date": "31-OCT-2017",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

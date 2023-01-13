@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDWARD CANNON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2021"
+  "date": "19-NOV-2021",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

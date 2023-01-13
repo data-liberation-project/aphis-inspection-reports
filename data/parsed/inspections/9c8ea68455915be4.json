@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY J YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

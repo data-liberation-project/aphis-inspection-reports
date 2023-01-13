@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAX & CATHY BLACKLOCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2017"
+  "date": "26-OCT-2017",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

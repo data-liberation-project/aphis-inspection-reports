@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Exotic Tropical Pet World",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-FEB-2014"
+  "date": "13-FEB-2014",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Atelerix frontalis",
+      "common": "SOUTH AFRICAN HEDGEHOG"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Natalensis",
+      "common": "AFRICAN SOFT-FURRED RAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 34,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELLS DWARF HAMSTER"
+    }
+  ]
 }

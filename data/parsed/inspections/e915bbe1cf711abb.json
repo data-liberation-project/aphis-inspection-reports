@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CITY OF POCATELLO ZOO IDAHO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2016"
+  "date": "25-MAY-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 2,
+      "scientific": "Arctos",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 7,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    }
+  ]
 }

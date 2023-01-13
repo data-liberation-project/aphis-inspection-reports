@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "LOS ANGELES COUNTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2022"
+  "date": "21-OCT-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

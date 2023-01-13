@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF VIRGINIA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2016"
+  "date": "06-JUN-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cricetomys gambianus",
+      "common": "GAMBIAN POUCHED RAT / NORTHERN GIANT POUCHED RAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

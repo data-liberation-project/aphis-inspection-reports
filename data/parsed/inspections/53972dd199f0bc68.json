@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "BRANSONS WILD WORLD INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2019"
+  "date": "26-JUN-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Genetta genetta",
+      "common": "SMALL SPOTTED GENET"
+    },
+    {
+      "count": 7,
+      "scientific": "Hipposideros pomona",
+      "common": "LEAF-NOSED BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

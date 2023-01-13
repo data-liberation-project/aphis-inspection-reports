@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RAYMOND & MARLENE AURAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2014"
+  "date": "01-OCT-2014",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

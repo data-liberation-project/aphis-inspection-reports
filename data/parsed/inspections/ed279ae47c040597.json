@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHILIP M. HOOVER, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2019"
+  "date": "23-MAY-2019",
+  "animals_total": 577,
+  "species": [
+    {
+      "count": 396,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 181,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

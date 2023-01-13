@@ -8,5 +8,28 @@
   "site_id": "004",
   "site_name": "COVANCE LABORATORIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUL-2017"
+  "date": "18-JUL-2017",
+  "animals_total": 902,
+  "species": [
+    {
+      "count": 210,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 403,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 249,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 40,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

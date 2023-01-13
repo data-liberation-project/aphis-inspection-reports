@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATIONAL JEWISH HEALTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2017"
+  "date": "31-JUL-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

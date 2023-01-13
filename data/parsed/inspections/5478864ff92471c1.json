@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "EXPERIMUR LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2021"
+  "date": "28-JAN-2021",
+  "animals_total": 251,
+  "species": [
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 128,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

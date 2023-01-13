@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "ROBERT BALE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2015"
+  "date": "02-MAY-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Brachyteles arachnoides",
+      "common": "WOOLLY SPIDER MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias minimus",
+      "common": "LEAST CHIPMUNK"
+    }
+  ]
 }

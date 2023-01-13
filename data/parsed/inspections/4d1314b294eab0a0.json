@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LLOYDA THARP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2016"
+  "date": "28-MAR-2016",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

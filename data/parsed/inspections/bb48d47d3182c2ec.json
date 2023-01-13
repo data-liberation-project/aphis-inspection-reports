@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY BARTHOLOMEW",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-AUG-2015"
+  "date": "20-AUG-2015",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 109,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

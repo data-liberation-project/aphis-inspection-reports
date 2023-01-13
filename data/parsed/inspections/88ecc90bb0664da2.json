@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAURA WITCHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2014"
+  "date": "15-JUL-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

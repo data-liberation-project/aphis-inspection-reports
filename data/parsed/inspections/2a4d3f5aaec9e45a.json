@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NOVARTIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2018"
+  "date": "27-JUN-2018",
+  "animals_total": 157,
+  "species": [
+    {
+      "count": 141,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

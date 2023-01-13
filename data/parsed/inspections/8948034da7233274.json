@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "ANTIGONE MEANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2021"
+  "date": "13-SEP-2021",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Hemiechinus aethiopicus",
+      "common": "ETHIOPIAN HEDGEHOG"
+    },
+    {
+      "count": 10,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 3,
+      "scientific": "Tenrec ecaudatus",
+      "common": "TAIL-LESS TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Setifer setosus",
+      "common": "GREATER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 19,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 5,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    }
+  ]
 }

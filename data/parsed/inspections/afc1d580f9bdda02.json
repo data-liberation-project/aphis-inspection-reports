@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTH CAROLINA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2022"
+  "date": "21-JUL-2022",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 49,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 33,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 23,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

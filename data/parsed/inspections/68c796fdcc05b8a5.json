@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KAREN STECKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2014"
+  "date": "18-JUN-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

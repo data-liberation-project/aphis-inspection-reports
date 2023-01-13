@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "T ROAD KENNELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2017"
+  "date": "13-SEP-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROOSTER COGBURN OSTRICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2014"
+  "date": "03-OCT-2014",
+  "animals_total": 274,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 150,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 75,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

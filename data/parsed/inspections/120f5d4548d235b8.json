@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ronnie Chappell",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2021"
+  "date": "19-MAY-2021",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

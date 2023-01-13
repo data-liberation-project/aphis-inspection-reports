@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "SIERRA AQUATICS, L.L.C.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2018"
+  "date": "07-FEB-2018",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 5,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

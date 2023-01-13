@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Texas Biomedical Research Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2014"
+  "date": "06-JUN-2014",
+  "animals_total": 776,
+  "species": [
+    {
+      "count": 628,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 148,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

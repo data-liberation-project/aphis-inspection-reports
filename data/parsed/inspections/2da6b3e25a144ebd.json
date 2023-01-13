@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ACADIANA ANIMAL AID",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2019"
+  "date": "10-DEC-2019",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 63,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELAINE CRAIG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2020"
+  "date": "15-SEP-2020",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 169,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

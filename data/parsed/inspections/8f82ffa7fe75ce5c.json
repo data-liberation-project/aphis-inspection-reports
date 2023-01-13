@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN SHARP, D. V. M.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2019"
+  "date": "06-AUG-2019",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

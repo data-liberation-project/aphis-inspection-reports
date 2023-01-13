@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL PROTHE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "15-NOV-2021"
+  "date": "15-NOV-2021",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

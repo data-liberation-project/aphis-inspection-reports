@@ -8,5 +8,23 @@
   "site_id": "007",
   "site_name": "Rusty Admire",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-AUG-2022"
+  "date": "10-AUG-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

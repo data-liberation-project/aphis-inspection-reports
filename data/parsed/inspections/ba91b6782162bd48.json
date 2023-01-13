@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON AND RACHEL WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2018"
+  "date": "07-NOV-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

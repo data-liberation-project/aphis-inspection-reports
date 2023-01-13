@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA FIELDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2021"
+  "date": "07-JUN-2021",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

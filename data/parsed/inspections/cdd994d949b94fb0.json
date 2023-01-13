@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELNA M SMITH FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2017"
+  "date": "22-JUN-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 33,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

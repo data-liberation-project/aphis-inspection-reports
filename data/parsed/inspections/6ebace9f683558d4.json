@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE WOLF CONSERVATION CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2016"
+  "date": "01-MAR-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    }
+  ]
 }

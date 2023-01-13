@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDRA SAWYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2016"
+  "date": "11-MAY-2016",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

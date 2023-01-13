@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SALLY L CULVER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-MAR-2018"
+  "date": "26-MAR-2018",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIM PENDLETON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2019"
+  "date": "08-OCT-2019",
+  "animals_total": 186,
+  "species": [
+    {
+      "count": 128,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

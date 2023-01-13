@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZUZANA KUKOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2018"
+  "date": "16-AUG-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo x  p. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

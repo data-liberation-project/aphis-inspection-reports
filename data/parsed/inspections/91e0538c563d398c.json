@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "OREGON HEALTH & SCIENCE UNIV.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2017"
+  "date": "25-SEP-2017",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 61,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 7,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 14,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENNIS W. ORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2016"
+  "date": "05-JAN-2016",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

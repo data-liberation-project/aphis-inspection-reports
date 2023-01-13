@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RICHARD D ENGLISH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Lontra longicaudis",
+      "common": "NEOTROPICAL OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

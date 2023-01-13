@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAUREN HAAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2017"
+  "date": "30-OCT-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

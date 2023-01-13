@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERE TAYLOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2018"
+  "date": "01-FEB-2018",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PRO SCI, INC.",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "15-AUG-2017"
+  "date": "15-AUG-2017",
+  "animals_total": 649,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 23,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 546,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 56,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

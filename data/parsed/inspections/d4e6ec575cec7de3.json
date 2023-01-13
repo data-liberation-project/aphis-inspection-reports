@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID WOOTEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2015"
+  "date": "20-JAN-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    }
+  ]
 }

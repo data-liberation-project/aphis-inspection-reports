@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OAK VALLEY KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2014"
+  "date": "22-SEP-2014",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

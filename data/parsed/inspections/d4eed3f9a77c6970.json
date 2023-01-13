@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BUCKSHIRE CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2015"
+  "date": "18-NOV-2015",
+  "animals_total": 153,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL *MALE"
+    }
+  ]
 }

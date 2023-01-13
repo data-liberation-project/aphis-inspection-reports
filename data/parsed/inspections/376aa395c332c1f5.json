@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIFFANIES L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2014"
+  "date": "08-JUL-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

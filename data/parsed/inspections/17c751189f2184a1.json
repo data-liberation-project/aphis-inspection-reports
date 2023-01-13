@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERVIN BONTRAGER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-NOV-2016"
+  "date": "14-NOV-2016",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

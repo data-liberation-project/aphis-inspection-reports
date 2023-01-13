@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DEXTER OSBORN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "25-FEB-2022"
+  "date": "25-FEB-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

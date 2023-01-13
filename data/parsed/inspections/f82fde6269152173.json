@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "NATICK MALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2015"
+  "date": "09-MAR-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

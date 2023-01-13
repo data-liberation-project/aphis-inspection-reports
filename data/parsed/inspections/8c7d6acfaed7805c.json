@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Brenda Tisdale",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2016"
+  "date": "28-JUN-2016",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

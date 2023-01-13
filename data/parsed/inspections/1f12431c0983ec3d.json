@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SDIX LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2018"
+  "date": "05-APR-2018",
+  "animals_total": 3221,
+  "species": [
+    {
+      "count": 425,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2737,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Hill Peak, Inc.",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "07-APR-2015"
+  "date": "07-APR-2015",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "003 - MIDDLESEX COUNTY PARKS DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2022"
+  "date": "06-SEP-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "MONTEREY BAY AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2016"
+  "date": "02-FEB-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
 }

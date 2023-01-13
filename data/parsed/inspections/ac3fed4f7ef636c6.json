@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "OHIO WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2014"
+  "date": "19-MAY-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Anomalurus derbianus",
+      "common": "LORD DERBYS FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Callosciurus caniceps",
+      "common": "GREY-BELLIED SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Plecotus auritus",
+      "common": "BROWN LONG-EARED BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias senex",
+      "common": "SHADOW CHIPMUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS KING",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-DEC-2018"
+  "date": "14-DEC-2018",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

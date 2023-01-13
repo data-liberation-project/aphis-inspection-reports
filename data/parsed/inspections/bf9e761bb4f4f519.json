@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CAPRALOGICS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2015"
+  "date": "20-AUG-2015",
+  "animals_total": 444,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 50,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 306,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMMY WILLIAMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2022"
+  "date": "22-FEB-2022",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 153,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

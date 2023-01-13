@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Heather Campbell",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2015"
+  "date": "14-AUG-2015",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

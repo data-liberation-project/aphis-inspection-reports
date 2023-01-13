@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLORADO SERUM COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2019"
+  "date": "05-JUN-2019",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

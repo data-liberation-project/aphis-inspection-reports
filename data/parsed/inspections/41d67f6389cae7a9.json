@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "3932 NE 151 Rd",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "01-MAR-2021"
+  "date": "01-MAR-2021",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

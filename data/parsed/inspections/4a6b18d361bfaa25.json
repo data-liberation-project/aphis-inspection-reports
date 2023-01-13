@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUE HENDERSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2019"
+  "date": "16-MAY-2019",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

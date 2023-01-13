@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANNA MAE GRABER & DALLAS GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2021"
+  "date": "18-AUG-2021",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

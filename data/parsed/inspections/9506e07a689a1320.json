@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHIPLEY CANE CORSO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2021"
+  "date": "30-APR-2021",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

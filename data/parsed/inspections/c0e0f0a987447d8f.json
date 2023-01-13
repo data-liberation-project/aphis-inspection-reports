@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Anna Hoover & Janet Sloan",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2022"
+  "date": "15-MAR-2022",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

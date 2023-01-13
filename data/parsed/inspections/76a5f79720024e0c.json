@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SUNY DOWNSTATE MEDICAL CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-MAY-2019"
+  "date": "28-MAY-2019",
+  "animals_total": 154,
+  "species": [
+    {
+      "count": 125,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 27,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

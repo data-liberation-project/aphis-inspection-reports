@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARRISON COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2017"
+  "date": "15-AUG-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

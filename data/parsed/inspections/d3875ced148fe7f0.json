@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RIVER VIEW CANINES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-MAR-2014"
+  "date": "17-MAR-2014",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROCKY HILL KENNEL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-FEB-2020"
+  "date": "26-FEB-2020",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

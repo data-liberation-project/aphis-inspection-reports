@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RODROHERICK CORREA III LOPEZ,",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-OCT-2019"
+  "date": "10-OCT-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

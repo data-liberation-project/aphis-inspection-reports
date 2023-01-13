@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "J AND J LARK LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2020"
+  "date": "09-JAN-2020",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

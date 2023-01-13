@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN & WANDA KOEDAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2018"
+  "date": "01-JUN-2018",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

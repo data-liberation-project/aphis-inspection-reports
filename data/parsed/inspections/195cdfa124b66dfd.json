@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Raymond Stutzman",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "12-OCT-2021"
+  "date": "12-OCT-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

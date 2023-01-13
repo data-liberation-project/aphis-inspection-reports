@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN HOCHSTETLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-JUN-2016"
+  "date": "09-JUN-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

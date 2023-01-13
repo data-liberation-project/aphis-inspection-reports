@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "CHERYL ULLRICH & BILLY JOHNSTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2014"
+  "date": "18-JUN-2014",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aotus",
+      "common": "NIGHT MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 11,
+      "scientific": "Erinaceus europaeus",
+      "common": "WESTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

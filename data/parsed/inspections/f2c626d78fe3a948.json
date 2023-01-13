@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JAMES M. HUNTER, JAMES C. HUNTER & GREG HUNTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

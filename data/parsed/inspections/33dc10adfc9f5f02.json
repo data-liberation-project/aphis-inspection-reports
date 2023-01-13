@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JONAS E ESH JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2019"
+  "date": "15-OCT-2019",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

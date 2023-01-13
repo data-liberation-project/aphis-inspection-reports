@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIAM KURTZ",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "31-OCT-2014"
+  "date": "31-OCT-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

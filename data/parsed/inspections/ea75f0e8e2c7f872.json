@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Judy Koehn",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2021"
+  "date": "08-DEC-2021",
+  "animals_total": 417,
+  "species": [
+    {
+      "count": 263,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 154,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

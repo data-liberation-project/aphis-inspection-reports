@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "James Plunkett, Cristine Herriot",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2016"
+  "date": "14-JUL-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

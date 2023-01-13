@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RICHMOND WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2019"
+  "date": "31-OCT-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
 }

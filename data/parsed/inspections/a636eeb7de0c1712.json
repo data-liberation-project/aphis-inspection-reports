@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHO-ME KENNELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2018"
+  "date": "06-DEC-2018",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

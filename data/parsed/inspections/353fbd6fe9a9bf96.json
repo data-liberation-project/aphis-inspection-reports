@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF SOUTH FLORIDA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "11-DEC-2019"
+  "date": "11-DEC-2019",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 17,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    }
+  ]
 }

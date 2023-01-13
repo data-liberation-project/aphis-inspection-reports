@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JOHN L LAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2015"
+  "date": "05-NOV-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PACIFIC BIOLABS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2017"
+  "date": "13-JUN-2017",
+  "animals_total": 513,
+  "species": [
+    {
+      "count": 333,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 180,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

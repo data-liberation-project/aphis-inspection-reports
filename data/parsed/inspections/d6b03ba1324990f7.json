@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JOHN BAILEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2016"
+  "date": "02-JUN-2016",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

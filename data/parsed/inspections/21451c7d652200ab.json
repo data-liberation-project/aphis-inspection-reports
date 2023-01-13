@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Peter Mimikos",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2020"
+  "date": "05-MAR-2020",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Eulemur collaris",
+      "common": "RED-COLLARED BROWN LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

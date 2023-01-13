@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Four Corner Puppies LLC Class B",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-FEB-2021"
+  "date": "02-FEB-2021",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

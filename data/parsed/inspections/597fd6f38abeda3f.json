@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BETTY COATNEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2018"
+  "date": "16-OCT-2018",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

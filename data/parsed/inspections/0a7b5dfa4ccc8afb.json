@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOLLYWILD ANIMAL PARK INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-JUN-2021"
+  "date": "02-JUN-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    }
+  ]
 }

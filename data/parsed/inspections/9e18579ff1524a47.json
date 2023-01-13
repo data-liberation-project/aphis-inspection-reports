@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LONG VALLEY KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2022"
+  "date": "14-JUN-2022",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

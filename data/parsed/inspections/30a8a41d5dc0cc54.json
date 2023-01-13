@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLAIR WHALEY",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "21-SEP-2018"
+  "date": "21-SEP-2018",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

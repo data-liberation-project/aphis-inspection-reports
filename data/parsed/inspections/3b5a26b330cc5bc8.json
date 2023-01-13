@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELISSA A. BACON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2019"
+  "date": "27-JUN-2019",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

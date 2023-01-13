@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Longneck Manor Conservation Foundation",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "17-JUN-2021"
+  "date": "17-JUN-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOANNE SOFFRON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2017"
+  "date": "26-JUN-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

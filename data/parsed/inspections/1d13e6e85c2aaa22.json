@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2018"
+  "date": "05-NOV-2018",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

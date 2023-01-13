@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HALEY, KENNETH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2022"
+  "date": "16-MAY-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

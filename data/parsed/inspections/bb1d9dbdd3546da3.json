@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jeff Bennett & Mary Bennett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2014"
+  "date": "29-MAY-2014",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

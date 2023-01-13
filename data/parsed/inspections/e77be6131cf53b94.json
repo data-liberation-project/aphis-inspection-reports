@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISA BOYD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2019"
+  "date": "03-SEP-2019",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

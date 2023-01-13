@@ -8,5 +8,93 @@
   "site_id": "001",
   "site_name": "SAN FRANCISCO ZOOLOGICAL GARDENS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2015"
+  "date": "25-MAR-2015",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Alouatta caraya",
+      "common": "BLACK HOWLER"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 4,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur coronatus",
+      "common": "CROWNED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur macaco",
+      "common": "BLACK LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur rubriventer",
+      "common": "RED-BELLIED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 5,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus bicolor",
+      "common": "BARE-FACED TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus imperator",
+      "common": "EMPEROR TAMARIN"
+    },
+    {
+      "count": 24,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 7,
+      "scientific": "Trachypithecus francoisi",
+      "common": "FRANCOIS'S LANGUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

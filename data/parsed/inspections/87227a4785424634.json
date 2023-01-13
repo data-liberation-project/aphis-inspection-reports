@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wolf Woods",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JAN-2018"
+  "date": "03-JAN-2018",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans x c. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

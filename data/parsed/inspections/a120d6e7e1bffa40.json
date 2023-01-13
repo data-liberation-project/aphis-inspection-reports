@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN N ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-OCT-2020"
+  "date": "28-OCT-2020",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

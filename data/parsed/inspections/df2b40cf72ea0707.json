@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRANZEN BROTHERS CIRCUS INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "17-MAR-2020"
+  "date": "17-MAR-2020",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

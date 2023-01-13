@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEGACY & LIBERTY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-DEC-2021"
+  "date": "22-DEC-2021",
+  "animals_total": 403,
+  "species": [
+    {
+      "count": 251,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 152,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

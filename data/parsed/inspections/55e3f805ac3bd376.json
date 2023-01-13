@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "J. WALKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2014"
+  "date": "06-OCT-2014",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

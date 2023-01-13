@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Southern Wildlife Rehab Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-NOV-2018"
+  "date": "08-NOV-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiurus cinereus",
+      "common": "HOARY BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    },
+    {
+      "count": 4,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    }
+  ]
 }

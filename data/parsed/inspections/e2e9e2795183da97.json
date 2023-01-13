@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mark Schultz, Dorinda Schultz",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

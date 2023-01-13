@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MC LEAN HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2022"
+  "date": "20-SEP-2022",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 18,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

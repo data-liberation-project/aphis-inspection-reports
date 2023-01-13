@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRYCE MILLIKAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2021"
+  "date": "28-JAN-2021",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

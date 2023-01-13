@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARK RANGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2018"
+  "date": "25-MAY-2018",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

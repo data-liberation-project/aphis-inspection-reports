@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Justine Smith Schumacher",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2022"
+  "date": "25-APR-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

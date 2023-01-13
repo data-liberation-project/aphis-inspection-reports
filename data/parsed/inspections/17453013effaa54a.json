@@ -8,5 +8,18 @@
   "site_id": "008",
   "site_name": "MADISON SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRANDEIS UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2018"
+  "date": "05-JUN-2018",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 169,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

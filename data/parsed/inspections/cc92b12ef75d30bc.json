@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOUGLAS ANDREW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUL-2017"
+  "date": "18-JUL-2017",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

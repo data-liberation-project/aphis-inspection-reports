@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHAWN BIRCHFIELD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-AUG-2014"
+  "date": "20-AUG-2014",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

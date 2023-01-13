@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAREN HUBBARD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-JAN-2016"
+  "date": "28-JAN-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

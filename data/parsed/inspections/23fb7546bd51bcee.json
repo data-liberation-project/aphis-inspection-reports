@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "William (Bill) Fattig, Pamela (Penny) Fattig",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2014"
+  "date": "16-JUL-2014",
+  "animals_total": 189,
+  "species": [
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

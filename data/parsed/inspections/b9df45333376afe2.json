@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Pat Crabtree",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2016"
+  "date": "09-MAR-2016",
+  "animals_total": 289,
+  "species": [
+    {
+      "count": 193,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "DENIS IGNATOV- RADOKHOV & VICTOR RADOKHOV",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2017"
+  "date": "15-JUN-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

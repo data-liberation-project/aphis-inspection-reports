@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WIARDS ORCHARDS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2016"
+  "date": "26-APR-2016",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

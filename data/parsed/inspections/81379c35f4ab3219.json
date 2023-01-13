@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "BIOQUAL INC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "26-SEP-2022"
+  "date": "26-SEP-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 4,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

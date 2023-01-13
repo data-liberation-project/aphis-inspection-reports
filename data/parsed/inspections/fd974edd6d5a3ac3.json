@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILD SIDE ENTERPRISES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2015"
+  "date": "25-FEB-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

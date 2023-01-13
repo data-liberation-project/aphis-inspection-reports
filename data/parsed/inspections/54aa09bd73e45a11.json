@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Terry Floyd",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 13,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 13,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 9,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 28,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 9,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    }
+  ]
 }

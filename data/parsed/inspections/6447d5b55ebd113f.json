@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CENTRAL ANIMAL FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2019"
+  "date": "06-FEB-2019",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 54,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

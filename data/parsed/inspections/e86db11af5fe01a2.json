@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KENNETH MURPHY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2015"
+  "date": "05-AUG-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis salinicola",
+      "common": "CHACOAN CAVY"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

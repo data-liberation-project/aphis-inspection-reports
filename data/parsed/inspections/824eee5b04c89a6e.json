@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Roland Branton",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

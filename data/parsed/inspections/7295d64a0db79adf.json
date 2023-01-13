@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DENISE KROGMEIER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2022"
+  "date": "22-APR-2022",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

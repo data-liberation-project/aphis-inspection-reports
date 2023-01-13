@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOEDI BETH BRITT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2015"
+  "date": "28-JAN-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

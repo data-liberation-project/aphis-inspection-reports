@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADRIAN BURKHOLDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JAN-2017"
+  "date": "23-JAN-2017",
+  "animals_total": 240,
+  "species": [
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 94,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

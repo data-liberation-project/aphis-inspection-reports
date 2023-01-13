@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mark J Ritter",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2017"
+  "date": "30-AUG-2017",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARIO J VELOZ TORRES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2020"
+  "date": "04-MAR-2020",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

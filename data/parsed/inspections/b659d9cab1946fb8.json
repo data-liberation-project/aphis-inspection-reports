@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dale Miller",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2022"
+  "date": "09-AUG-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

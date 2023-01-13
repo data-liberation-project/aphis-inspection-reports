@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Anna Presley, Jimmy Don Presley",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2015"
+  "date": "01-JUN-2015",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

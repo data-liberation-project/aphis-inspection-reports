@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRENCHIE'S CANINE BORDELLO LLC 001",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-APR-2021"
+  "date": "22-APR-2021",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

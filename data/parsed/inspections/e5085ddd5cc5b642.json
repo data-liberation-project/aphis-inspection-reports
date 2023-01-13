@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "SANDYS HAVEN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2019"
+  "date": "05-APR-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

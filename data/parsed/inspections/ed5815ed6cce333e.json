@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Pam Robertson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2017"
+  "date": "12-APR-2017",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 13,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 21,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 10,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon cancrivorus",
+      "common": "CRAB-EATING RACCOON"
+    }
+  ]
 }

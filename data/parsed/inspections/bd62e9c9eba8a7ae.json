@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Southern Grace Kennels LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2022"
+  "date": "16-MAY-2022",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

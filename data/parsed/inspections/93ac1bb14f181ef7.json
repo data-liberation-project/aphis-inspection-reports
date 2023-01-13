@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "YERKES REGIONAL PRIMATE RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2022"
+  "date": "12-SEP-2022",
+  "animals_total": 1000,
+  "species": [
+    {
+      "count": 979,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 12,
+      "scientific": "Cercocebus atys",
+      "common": "SOOTY MANGABEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

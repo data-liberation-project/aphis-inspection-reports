@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MEAD FREEMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2021"
+  "date": "05-AUG-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

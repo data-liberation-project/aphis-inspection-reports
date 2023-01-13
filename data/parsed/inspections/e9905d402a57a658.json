@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAR BUSH NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2017"
+  "date": "07-MAR-2017",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

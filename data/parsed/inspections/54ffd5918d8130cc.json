@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ANDREY MIKIRTICHEV",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2022"
+  "date": "16-AUG-2022",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

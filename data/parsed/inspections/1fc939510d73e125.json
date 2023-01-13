@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "Steve Provost",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2015"
+  "date": "23-JUN-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Galea spixii",
+      "common": "SPIX'S YELLOW-TOOTHED CAVY"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 5,
+      "scientific": "Muntiacus crinifrons",
+      "common": "BLACK MUNTJAC"
+    },
+    {
+      "count": 12,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    }
+  ]
 }

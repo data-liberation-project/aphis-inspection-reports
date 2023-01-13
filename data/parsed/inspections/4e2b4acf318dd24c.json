@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUANITA KIMBROUGH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2022"
+  "date": "13-APR-2022",
+  "animals_total": 121,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

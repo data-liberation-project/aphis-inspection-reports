@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GULFARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2015"
+  "date": "21-APR-2015",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Amblonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

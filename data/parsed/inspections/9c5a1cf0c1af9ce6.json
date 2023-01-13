@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRUBAKER & KUHN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2015"
+  "date": "18-APR-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos grunniens grunniens domestic",
+      "common": "DOMESTIC YAK"
+    },
+    {
+      "count": 2,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    }
+  ]
 }

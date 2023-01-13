@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERNEST YODER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-JUL-2022"
+  "date": "19-JUL-2022",
+  "animals_total": 190,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

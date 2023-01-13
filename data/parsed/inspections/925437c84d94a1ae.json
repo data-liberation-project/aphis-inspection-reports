@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL FEEDS AND NEEDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2019"
+  "date": "29-MAY-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

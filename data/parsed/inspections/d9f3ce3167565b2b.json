@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "Ron Rittenhouse",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2014"
+  "date": "02-APR-2014",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Petrogale lateralis",
+      "common": "BLACK-FOOTED ROCK WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Sylvilagus bachmani",
+      "common": "BRUSH RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tetracerus quadricornis",
+      "common": "FOUR-HORNED ANTELOPE"
+    }
+  ]
 }

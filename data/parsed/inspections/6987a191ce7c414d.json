@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CREIGHTON UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2022"
+  "date": "03-FEB-2022",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    },
+    {
+      "count": 6,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    }
+  ]
 }

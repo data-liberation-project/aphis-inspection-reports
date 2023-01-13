@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERESA L. FOX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2019"
+  "date": "14-MAR-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF KANSAS MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2021"
+  "date": "04-JAN-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

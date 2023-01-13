@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KYLIE D. GOOD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2019"
+  "date": "04-JUN-2019",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIGHAM AND WOMENS HOSPITAL",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "25-JUN-2019"
+  "date": "25-JUN-2019",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 104,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUND TECHNOLOGIES INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2019"
+  "date": "30-MAY-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

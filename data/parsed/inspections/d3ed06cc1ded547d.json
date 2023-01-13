@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MCDONNYS TRAVELING FARM LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-JUL-2021"
+  "date": "02-JUL-2021",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

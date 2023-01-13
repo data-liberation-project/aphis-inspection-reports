@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARCELLA & BILL MEYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2021"
+  "date": "04-NOV-2021",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

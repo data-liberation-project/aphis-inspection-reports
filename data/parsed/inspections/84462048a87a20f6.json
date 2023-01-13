@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Happy Teddy",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "05-OCT-2022"
+  "date": "05-OCT-2022",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 117,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

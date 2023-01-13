@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARK A RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2015"
+  "date": "30-MAR-2015",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE RED APPLE FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2019"
+  "date": "30-SEP-2019",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

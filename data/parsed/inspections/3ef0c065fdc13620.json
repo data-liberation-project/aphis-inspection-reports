@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "002 - Roberta and Anthony Locke",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2022"
+  "date": "20-OCT-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

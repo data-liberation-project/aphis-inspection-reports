@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRENDA ARNETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2015"
+  "date": "06-AUG-2015",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

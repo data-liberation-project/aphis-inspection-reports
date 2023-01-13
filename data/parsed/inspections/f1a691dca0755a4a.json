@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID PETROSKI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2018"
+  "date": "04-JAN-2018",
+  "animals_total": 287,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 275,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

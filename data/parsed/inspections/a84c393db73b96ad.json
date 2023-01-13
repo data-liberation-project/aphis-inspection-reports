@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAMAR E MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-AUG-2019"
+  "date": "28-AUG-2019",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

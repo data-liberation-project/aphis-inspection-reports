@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R H R KENNEL L L C",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "04-JAN-2018"
+  "date": "04-JAN-2018",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Victor Mc Shan",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-JUL-2014"
+  "date": "28-JUL-2014",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

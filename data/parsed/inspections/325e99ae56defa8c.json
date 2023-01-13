@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CHRISTINE SIPE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2017"
+  "date": "19-DEC-2017",
+  "animals_total": 659,
+  "species": [
+    {
+      "count": 290,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 27,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 8,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 312,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

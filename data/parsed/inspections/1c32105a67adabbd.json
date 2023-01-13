@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RONNIE BEAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-FEB-2017"
+  "date": "28-FEB-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Equus quagga",
+      "common": "GRANTS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

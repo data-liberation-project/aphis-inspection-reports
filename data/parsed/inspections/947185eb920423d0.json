@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACQUELINE J. ROESENER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-NOV-2018"
+  "date": "06-NOV-2018",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

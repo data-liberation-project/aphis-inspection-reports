@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "WALLINGFORD SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2014"
+  "date": "28-MAY-2014",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 82,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 14,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BAYS MOUNTAIN PRESERVE PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2022"
+  "date": "28-JUL-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

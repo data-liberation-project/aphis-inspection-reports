@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "YOST L MILLER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-NOV-2015"
+  "date": "23-NOV-2015",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

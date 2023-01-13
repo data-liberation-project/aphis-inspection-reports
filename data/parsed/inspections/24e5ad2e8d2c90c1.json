@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN BEER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-JUN-2014"
+  "date": "11-JUN-2014",
+  "animals_total": 273,
+  "species": [
+    {
+      "count": 163,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

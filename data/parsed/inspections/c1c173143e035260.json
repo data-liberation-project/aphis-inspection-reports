@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Santa's Reindeer Ranch",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2021"
+  "date": "30-NOV-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JO DON FARMS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2017"
+  "date": "06-FEB-2017",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 16,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

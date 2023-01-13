@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WASHINGTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2018"
+  "date": "06-MAR-2018",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 100,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Barbara Hobbs",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2014"
+  "date": "04-NOV-2014",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

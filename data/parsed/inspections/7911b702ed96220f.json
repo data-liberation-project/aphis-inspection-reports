@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANDY NISLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-NOV-2015"
+  "date": "09-NOV-2015",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

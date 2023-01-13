@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDY HARTER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-MAY-2014"
+  "date": "14-MAY-2014",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

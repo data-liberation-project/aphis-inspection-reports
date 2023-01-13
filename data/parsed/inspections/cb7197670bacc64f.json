@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Stillmeadow Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2014"
+  "date": "03-FEB-2014",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

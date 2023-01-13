@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sharon Willis, Gary Willis",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2016"
+  "date": "30-NOV-2016",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

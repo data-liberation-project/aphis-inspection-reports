@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRIFOLS BIOLOGICALS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2021"
+  "date": "07-MAY-2021",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 54,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

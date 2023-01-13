@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEREMY RABER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-MAR-2017"
+  "date": "14-MAR-2017",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 87,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

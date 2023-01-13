@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "I U V O BIOSCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2017"
+  "date": "27-JUL-2017",
+  "animals_total": 423,
+  "species": [
+    {
+      "count": 263,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 160,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SWEET OPAL FARMS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAY-2018"
+  "date": "21-MAY-2018",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

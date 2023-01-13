@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BIORELIANCE INVITROGEN BIOSERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2015"
+  "date": "03-JUN-2015",
+  "animals_total": 492,
+  "species": [
+    {
+      "count": 408,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 75,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

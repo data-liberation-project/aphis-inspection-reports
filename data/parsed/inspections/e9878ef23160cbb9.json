@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOWARD & TERRY BUENING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2021"
+  "date": "05-OCT-2021",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

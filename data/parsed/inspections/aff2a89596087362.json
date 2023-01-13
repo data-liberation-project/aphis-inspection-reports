@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AIMEE COOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JAN-2020"
+  "date": "02-JAN-2020",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

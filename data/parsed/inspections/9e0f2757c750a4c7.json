@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUMMER WIND FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2015"
+  "date": "08-DEC-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

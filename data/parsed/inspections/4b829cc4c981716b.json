@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "THE MARINE MAMMAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2019"
+  "date": "13-MAY-2019",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Arctocephalus townsendi",
+      "common": "GUADALUPE FUR SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Eumetopias jubatus",
+      "common": "STELLER / STELLER\u2019S / NORTHERN SEA LION"
+    },
+    {
+      "count": 78,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 39,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 19,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

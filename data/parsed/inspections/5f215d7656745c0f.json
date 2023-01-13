@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BILLIE LAMBERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2014"
+  "date": "09-OCT-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ABSORPTION SYSTEMS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2014"
+  "date": "15-APR-2014",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

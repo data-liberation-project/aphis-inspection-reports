@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS AND JOHN D GINGERICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2021"
+  "date": "20-APR-2021",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

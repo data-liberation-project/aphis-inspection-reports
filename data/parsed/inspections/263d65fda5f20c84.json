@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELMER E YODER JR",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "14-FEB-2019"
+  "date": "14-FEB-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

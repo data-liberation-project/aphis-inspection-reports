@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PEACEABLE PRIMATE SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2018"
+  "date": "06-SEP-2018",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 16,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio papio",
+      "common": "GUINEA BABOON"
+    }
+  ]
 }

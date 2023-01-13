@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2022"
+  "date": "17-OCT-2022",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 114,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    }
+  ]
 }

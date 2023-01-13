@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY GLOVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2015"
+  "date": "27-OCT-2015",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

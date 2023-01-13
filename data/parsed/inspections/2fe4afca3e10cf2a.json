@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ATTRACTIONS HAWAII, L.P.",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "07-DEC-2021"
+  "date": "07-DEC-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Monachus schauinslandi",
+      "common": "HAWAIIAN MONK SEAL"
+    }
+  ]
 }

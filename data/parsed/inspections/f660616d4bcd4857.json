@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLUMBUS ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-MAR-2019"
+  "date": "05-MAR-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 15,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    }
+  ]
 }

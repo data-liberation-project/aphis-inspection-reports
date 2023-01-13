@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESTER SCHLABACH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-FEB-2014"
+  "date": "28-FEB-2014",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

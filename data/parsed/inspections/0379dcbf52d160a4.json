@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "WILLIAM MORRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2014"
+  "date": "29-JUL-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

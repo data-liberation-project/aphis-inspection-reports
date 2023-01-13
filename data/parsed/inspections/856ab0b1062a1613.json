@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN A TROYER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-JUN-2019"
+  "date": "20-JUN-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

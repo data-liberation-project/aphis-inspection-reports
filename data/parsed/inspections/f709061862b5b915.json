@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OAKLAND CAMPUS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-JUL-2019"
+  "date": "08-JUL-2019",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

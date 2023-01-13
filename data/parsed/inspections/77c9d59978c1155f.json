@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RAZ LIVESTOCK INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2017"
+  "date": "21-AUG-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ammotragus lervia",
+      "common": "BARBARY SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 17,
+      "scientific": "Ovis dalli",
+      "common": "DALL SHEEP WHITE SHEEP"
+    }
+  ]
 }

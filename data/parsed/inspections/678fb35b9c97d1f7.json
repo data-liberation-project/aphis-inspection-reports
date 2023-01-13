@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WISCONSIN-OSHKOSH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2016"
+  "date": "28-MAR-2016",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 12,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 6,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

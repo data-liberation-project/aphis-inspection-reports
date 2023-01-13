@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "PEGGY SHAW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2022"
+  "date": "19-APR-2022",
+  "animals_total": 129,
+  "species": [
+    {
+      "count": 107,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

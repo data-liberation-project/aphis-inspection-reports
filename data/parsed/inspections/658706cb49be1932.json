@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MORGAN CREEK KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2015"
+  "date": "20-AUG-2015",
+  "animals_total": 345,
+  "species": [
+    {
+      "count": 213,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 132,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

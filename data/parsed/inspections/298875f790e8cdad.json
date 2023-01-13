@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "THE OLD RED SCHOOLHOUSE WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JAN-2018"
+  "date": "18-JAN-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

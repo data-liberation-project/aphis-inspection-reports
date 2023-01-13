@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL SHETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2018"
+  "date": "12-JUL-2018",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

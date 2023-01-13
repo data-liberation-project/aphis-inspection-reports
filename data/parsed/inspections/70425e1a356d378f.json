@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS J YODER",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "02-APR-2019"
+  "date": "02-APR-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

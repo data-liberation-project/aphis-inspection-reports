@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KALI KUSTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2022"
+  "date": "12-JUL-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

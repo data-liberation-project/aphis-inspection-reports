@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHNNY & BRITTNEY GOBBLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2017"
+  "date": "12-SEP-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

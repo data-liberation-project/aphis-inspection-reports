@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VMRD, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2017"
+  "date": "18-MAY-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

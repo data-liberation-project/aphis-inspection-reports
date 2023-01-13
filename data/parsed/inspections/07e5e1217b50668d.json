@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Amy DeMelt",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "28-DEC-2020"
+  "date": "28-DEC-2020",
+  "animals_total": 143,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "FOXS HIGH ROCK FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2020"
+  "date": "17-DEC-2020",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
 }

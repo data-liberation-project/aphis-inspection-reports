@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PINE ACRES RABBITRY FARM INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2021"
+  "date": "08-JUN-2021",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EPCOT CETER-THE SEAS WITH NEMO AND FRIENDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2019"
+  "date": "16-MAY-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Trichechus manatus",
+      "common": "CARIBBEAN MANATEE"
+    },
+    {
+      "count": 3,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
 }

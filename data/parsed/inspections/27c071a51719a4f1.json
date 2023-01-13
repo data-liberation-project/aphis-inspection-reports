@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFFREY DOTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2021"
+  "date": "17-NOV-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 1,
+      "scientific": "Mellivora capensis",
+      "common": "RATEL / HONEY BADGER"
+    }
+  ]
 }

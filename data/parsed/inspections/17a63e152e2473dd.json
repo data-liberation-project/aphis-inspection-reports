@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "DULUTH SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2018"
+  "date": "27-FEB-2018",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 24,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

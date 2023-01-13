@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAN HERSCHBERGER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "07-OCT-2020"
+  "date": "07-OCT-2020",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

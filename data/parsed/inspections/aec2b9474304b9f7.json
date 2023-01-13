@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EVERYTHING ANIMALS RESOURCE & ACTIVITY CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2014"
+  "date": "05-NOV-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix frontalis",
+      "common": "SOUTH AFRICAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ARBA AND MIRIAM JETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2015"
+  "date": "11-MAY-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

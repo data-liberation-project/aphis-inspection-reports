@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CHILDRENS HOSPITAL RESEARCH FOUNDATION",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-JAN-2022"
+  "date": "27-JAN-2022",
+  "animals_total": 479,
+  "species": [
+    {
+      "count": 403,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 67,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

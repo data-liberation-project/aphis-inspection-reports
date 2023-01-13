@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES RIENOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2021"
+  "date": "25-OCT-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    }
+  ]
 }

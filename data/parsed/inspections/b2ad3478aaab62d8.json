@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Dustin Bickerstaff",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2022"
+  "date": "07-JUN-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY TASH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2018"
+  "date": "27-FEB-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "CLUBRETURNS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2017"
+  "date": "25-JUL-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tremarctos ornatus",
+      "common": "SPECTACLED BEAR"
+    }
+  ]
 }

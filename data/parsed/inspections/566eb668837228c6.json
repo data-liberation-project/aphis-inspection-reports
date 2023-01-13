@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ACKS EXOTIC PETS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2016"
+  "date": "21-JAN-2016",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 70,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

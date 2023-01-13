@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBRA ROBISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2020"
+  "date": "13-FEB-2020",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

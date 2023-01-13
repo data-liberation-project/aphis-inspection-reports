@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM OWEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2019"
+  "date": "22-MAY-2019",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

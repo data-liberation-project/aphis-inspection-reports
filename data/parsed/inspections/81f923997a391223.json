@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SARAH GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2018"
+  "date": "09-JAN-2018",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

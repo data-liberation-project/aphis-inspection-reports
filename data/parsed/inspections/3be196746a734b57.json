@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI HERSHBERGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-AUG-2019"
+  "date": "05-AUG-2019",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

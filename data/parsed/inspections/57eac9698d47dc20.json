@@ -8,5 +8,18 @@
   "site_id": "SFO",
   "site_name": "KLM ROYAL DUTCH AIRLINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2014"
+  "date": "20-MAR-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Teahan Monkey Farm - 002",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "30-AUG-2021"
+  "date": "30-AUG-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE"
+    }
+  ]
 }

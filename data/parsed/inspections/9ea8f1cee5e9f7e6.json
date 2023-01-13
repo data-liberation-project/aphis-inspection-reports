@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WILD THINGS EXOTIC ANIMALS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2019"
+  "date": "09-MAY-2019",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Erinaceus europaeus",
+      "common": "WESTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 10,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

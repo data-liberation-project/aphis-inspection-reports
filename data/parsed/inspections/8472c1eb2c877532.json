@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARRIE AMMANN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2019"
+  "date": "24-JUN-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

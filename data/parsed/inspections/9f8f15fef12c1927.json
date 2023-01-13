@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "KENDALL WRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2019"
+  "date": "09-APR-2019",
+  "animals_total": 202,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

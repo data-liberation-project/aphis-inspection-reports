@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ACROCATS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2015"
+  "date": "12-NOV-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

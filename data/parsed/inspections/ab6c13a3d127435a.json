@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF TEXAS - MD Anderson Cancer Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2015"
+  "date": "08-APR-2015",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 75,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

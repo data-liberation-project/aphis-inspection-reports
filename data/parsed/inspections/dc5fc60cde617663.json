@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "JSPA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2017"
+  "date": "23-MAY-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

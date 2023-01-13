@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RODEO DOXIES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-JUL-2019"
+  "date": "29-JUL-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

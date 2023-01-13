@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LENNY HOSTETLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-APR-2019"
+  "date": "22-APR-2019",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

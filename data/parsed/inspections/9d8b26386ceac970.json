@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CIRCUS PAGES INTERNATIONAL INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2018"
+  "date": "24-SEP-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

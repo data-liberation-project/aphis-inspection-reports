@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHOW ME SANDHILLS FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2019"
+  "date": "09-SEP-2019",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

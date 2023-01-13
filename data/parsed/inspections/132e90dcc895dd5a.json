@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jeanne Becker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAY-2017"
+  "date": "10-MAY-2017",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JEFF & WILLIAM WILLIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2021"
+  "date": "20-MAY-2021",
+  "animals_total": 186,
+  "species": [
+    {
+      "count": 104,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 71,
+      "scientific": "Atelerix frontalis",
+      "common": "SOUTH AFRICAN HEDGEHOG"
+    }
+  ]
 }

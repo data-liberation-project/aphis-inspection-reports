@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CEDARS-SINAI MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2020"
+  "date": "18-SEP-2020",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

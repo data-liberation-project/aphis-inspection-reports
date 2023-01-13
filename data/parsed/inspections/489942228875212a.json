@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILCOX BAIT & TACKLE INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "02-MAY-2022"
+  "date": "02-MAY-2022",
+  "animals_total": 137,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 36,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 55,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

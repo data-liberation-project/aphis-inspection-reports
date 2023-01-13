@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "KYTY COMPANY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2021"
+  "date": "12-JAN-2021",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 52,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 15,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 4,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 64,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

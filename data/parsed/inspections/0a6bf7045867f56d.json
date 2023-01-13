@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THOMAS J. OR NANCY C. CARLSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 148,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

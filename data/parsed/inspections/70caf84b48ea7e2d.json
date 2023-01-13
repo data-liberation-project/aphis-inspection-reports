@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "VERMONT TECHNICAL COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2017"
+  "date": "20-MAR-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

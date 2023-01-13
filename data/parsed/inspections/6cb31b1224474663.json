@@ -8,5 +8,18 @@
   "site_id": "006",
   "site_name": "ANTON & FERDINAND HANTIG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2019"
+  "date": "04-APR-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    }
+  ]
 }

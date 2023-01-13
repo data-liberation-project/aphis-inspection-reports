@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REUBEN ESCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2022"
+  "date": "11-MAY-2022",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

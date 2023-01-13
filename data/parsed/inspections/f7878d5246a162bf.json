@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF SAN DIEGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2021"
+  "date": "02-JUL-2021",
+  "animals_total": 147,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 8,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 98,
+      "scientific": "Perognathus longimembris",
+      "common": "LITTLE POCKET MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

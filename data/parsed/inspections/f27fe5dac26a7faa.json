@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSEPH A MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-SEP-2017"
+  "date": "13-SEP-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

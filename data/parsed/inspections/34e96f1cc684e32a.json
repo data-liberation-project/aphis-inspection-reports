@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALTA HENSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-DEC-2021"
+  "date": "22-DEC-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

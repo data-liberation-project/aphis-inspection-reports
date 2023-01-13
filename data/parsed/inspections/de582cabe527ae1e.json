@@ -8,5 +8,18 @@
   "site_id": "11",
   "site_name": "PETSWAY 2",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2019"
+  "date": "07-NOV-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

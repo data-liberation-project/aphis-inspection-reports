@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STEPHANIE L HOLLIS",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "25-JAN-2021"
+  "date": "25-JAN-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

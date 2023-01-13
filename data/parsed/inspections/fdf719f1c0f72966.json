@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CEPHAS KROPF",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-FEB-2022"
+  "date": "22-FEB-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STUART ENTERPRISES, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2019"
+  "date": "14-MAR-2019",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

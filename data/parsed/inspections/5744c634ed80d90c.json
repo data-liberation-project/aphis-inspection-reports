@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "AMERICAN OUTDOOR LIFE TAXIDERMY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2016"
+  "date": "15-MAR-2016",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 8,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 12,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 104,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

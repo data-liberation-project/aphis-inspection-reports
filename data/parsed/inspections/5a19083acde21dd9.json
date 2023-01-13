@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GLYN & ANN NOLAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-NOV-2014"
+  "date": "10-NOV-2014",
+  "animals_total": 189,
+  "species": [
+    {
+      "count": 143,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

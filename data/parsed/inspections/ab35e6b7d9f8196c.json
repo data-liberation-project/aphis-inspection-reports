@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Velma Schrock",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2019"
+  "date": "17-SEP-2019",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "SEACREST WOLF PRESERVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2022"
+  "date": "13-JAN-2022",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 3,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    }
+  ]
 }

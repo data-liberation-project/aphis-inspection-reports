@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHI COOPER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2014"
+  "date": "17-DEC-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

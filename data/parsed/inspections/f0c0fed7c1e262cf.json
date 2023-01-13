@@ -8,5 +8,58 @@
   "site_id": "001",
   "site_name": "JOHNNY B CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2017"
+  "date": "08-MAR-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 10,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus polykomos",
+      "common": "WESTERN BLACK-AND-WHITE COLOBUS / KING COLOBUS"
+    },
+    {
+      "count": 6,
+      "scientific": "Dorcopsis luctuosa",
+      "common": "GREY FOREST WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 10,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 31,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 7,
+      "scientific": "Tragelaphus angasii",
+      "common": "NYALA"
+    },
+    {
+      "count": 5,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    },
+    {
+      "count": 8,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARS PETCARE U S",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2020"
+  "date": "12-MAR-2020",
+  "animals_total": 193,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 98,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

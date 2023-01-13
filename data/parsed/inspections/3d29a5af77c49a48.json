@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VICTORIA HAWKINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2015"
+  "date": "03-MAR-2015",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

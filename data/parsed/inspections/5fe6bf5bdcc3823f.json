@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MB RESEARCH LABS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2017"
+  "date": "28-MAR-2017",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

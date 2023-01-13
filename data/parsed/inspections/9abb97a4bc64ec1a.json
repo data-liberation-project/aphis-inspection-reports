@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Bernita Berntsen, Carleen Berntsen",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JAN-2018"
+  "date": "10-JAN-2018",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

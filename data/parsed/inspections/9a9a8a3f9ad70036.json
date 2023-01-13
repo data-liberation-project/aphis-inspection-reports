@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ivan H. Yoder",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

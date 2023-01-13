@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARLA SULLIVAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2015"
+  "date": "08-JUL-2015",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

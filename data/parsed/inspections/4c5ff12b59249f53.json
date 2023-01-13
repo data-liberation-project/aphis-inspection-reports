@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "University of Rhode Island",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2014"
+  "date": "06-MAY-2014",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 111,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
 }

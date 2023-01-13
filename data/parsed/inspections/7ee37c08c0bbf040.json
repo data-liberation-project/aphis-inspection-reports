@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILLCREEK MEADOWS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2019"
+  "date": "21-AUG-2019",
+  "animals_total": 245,
+  "species": [
+    {
+      "count": 136,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

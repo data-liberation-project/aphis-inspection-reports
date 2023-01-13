@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Pet Travel Show Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-NOV-2017"
+  "date": "27-NOV-2017",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEE KAYS SUGGIES N HEDGEHOGS N MORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2015"
+  "date": "15-DEC-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 21,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

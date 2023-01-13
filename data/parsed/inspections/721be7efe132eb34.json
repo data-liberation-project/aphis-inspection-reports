@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HUNTER FAMILY FARM 1 L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-MAR-2017"
+  "date": "30-MAR-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

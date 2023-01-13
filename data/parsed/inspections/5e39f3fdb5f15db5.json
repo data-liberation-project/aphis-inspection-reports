@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "ISLAND ANIMALS LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2016"
+  "date": "07-JUL-2016",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 15,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

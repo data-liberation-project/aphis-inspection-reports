@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNY SCHARMER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-OCT-2014"
+  "date": "01-OCT-2014",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

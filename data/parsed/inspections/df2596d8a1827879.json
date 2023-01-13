@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NORTHERN BIOMEDICAL RESEARCH INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "26-JAN-2022"
+  "date": "26-JAN-2022",
+  "animals_total": 257,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 189,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

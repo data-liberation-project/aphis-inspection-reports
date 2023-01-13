@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUISUN MARSH NATURAL HISTORY ASSOCIATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2015"
+  "date": "11-FEB-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

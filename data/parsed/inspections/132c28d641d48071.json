@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Venette Walker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2015"
+  "date": "24-JUN-2015",
+  "animals_total": 246,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 18,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 20,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 160,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

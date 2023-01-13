@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "T.I.G.E.R.S.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2014"
+  "date": "17-NOV-2014",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo \u00d7 panthera tigris",
+      "common": "LIGER"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 50,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Tapirus bairdii",
+      "common": "BAIRD'S TAPIR"
+    }
+  ]
 }

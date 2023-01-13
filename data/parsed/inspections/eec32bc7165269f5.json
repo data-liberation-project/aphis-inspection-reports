@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DANA RICHARDSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2014"
+  "date": "20-NOV-2014",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 157,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

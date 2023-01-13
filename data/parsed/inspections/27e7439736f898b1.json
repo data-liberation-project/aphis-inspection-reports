@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LOS ANGELES ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "16-DEC-2021"
+  "date": "16-DEC-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Phyllis Goodell",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2019"
+  "date": "09-OCT-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

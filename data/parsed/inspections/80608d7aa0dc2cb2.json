@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RUDY E GINGERICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2022"
+  "date": "11-FEB-2022",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

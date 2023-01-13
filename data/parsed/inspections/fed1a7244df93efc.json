@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MYRON YODER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "24-NOV-2021"
+  "date": "24-NOV-2021",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

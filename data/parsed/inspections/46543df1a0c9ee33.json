@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "COUNTY OF MONROE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "17-DEC-2021"
+  "date": "17-DEC-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    }
+  ]
 }

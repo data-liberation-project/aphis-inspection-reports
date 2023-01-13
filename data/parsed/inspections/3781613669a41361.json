@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Darole Walton , Shirley Walton",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2020"
+  "date": "06-FEB-2020",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

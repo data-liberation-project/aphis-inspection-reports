@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Megan Lambright",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "23-MAY-2022"
+  "date": "23-MAY-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

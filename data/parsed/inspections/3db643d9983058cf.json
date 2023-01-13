@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sherwood Boutique and School for Dogs",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2022"
+  "date": "21-MAR-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

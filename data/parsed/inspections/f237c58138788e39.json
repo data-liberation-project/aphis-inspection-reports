@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAYNE E MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2018"
+  "date": "29-NOV-2018",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

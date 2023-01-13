@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CATHY SPEER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2015"
+  "date": "11-MAR-2015",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

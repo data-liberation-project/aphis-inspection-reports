@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA ROE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2018"
+  "date": "18-OCT-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 20,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NINA JACOBS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2014"
+  "date": "27-MAY-2014",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

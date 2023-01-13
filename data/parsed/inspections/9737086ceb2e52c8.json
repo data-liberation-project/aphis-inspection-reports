@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AQUARIUM OF NIAGRA FALLS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2014"
+  "date": "03-JUN-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "CLIFFORD JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2015"
+  "date": "16-JUL-2015",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 5,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryx gazella",
+      "common": "GEMSBOK"
+    },
+    {
+      "count": 15,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

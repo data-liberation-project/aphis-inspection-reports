@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CLEVELAND CLINIC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2022"
+  "date": "13-JAN-2022",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 34,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

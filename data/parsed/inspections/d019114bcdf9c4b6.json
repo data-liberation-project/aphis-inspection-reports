@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN OTTO",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-DEC-2014"
+  "date": "05-DEC-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

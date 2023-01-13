@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GENEVA LABORATORIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2020"
+  "date": "05-FEB-2020",
+  "animals_total": 253,
+  "species": [
+    {
+      "count": 225,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

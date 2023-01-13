@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SARAH WEBB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUN-2016"
+  "date": "15-JUN-2016",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "020",
   "site_name": "PFIZER WORLDWIDE RESEARCH AND DEVELOPMENT",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-JUN-2019"
+  "date": "03-JUN-2019",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 95,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

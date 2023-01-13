@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "PREDATORS OF THE HEART",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2018"
+  "date": "06-SEP-2018",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Myrmecophaga tridactyla",
+      "common": "GIANT ANTEATER"
+    }
+  ]
 }

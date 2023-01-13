@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT & ESTHER POINTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-DEC-2018"
+  "date": "04-DEC-2018",
+  "animals_total": 378,
+  "species": [
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 236,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

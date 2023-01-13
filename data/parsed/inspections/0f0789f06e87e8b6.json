@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAULINE THOMAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2014"
+  "date": "18-NOV-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

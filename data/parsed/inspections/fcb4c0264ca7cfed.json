@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Pine Cove Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-APR-2015"
+  "date": "07-APR-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

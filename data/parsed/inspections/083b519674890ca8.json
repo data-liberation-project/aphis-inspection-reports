@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VINCENT DEMAGGIO I I I",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2022"
+  "date": "26-OCT-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    }
+  ]
 }

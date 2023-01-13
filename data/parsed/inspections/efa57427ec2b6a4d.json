@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Tupelo-Lee Humane Society",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "03-MAR-2022"
+  "date": "03-MAR-2022",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

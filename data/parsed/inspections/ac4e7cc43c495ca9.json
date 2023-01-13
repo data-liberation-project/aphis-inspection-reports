@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID HORNING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2014"
+  "date": "22-JUL-2014",
+  "animals_total": 252,
+  "species": [
+    {
+      "count": 190,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN OTTO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2022"
+  "date": "16-FEB-2022",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

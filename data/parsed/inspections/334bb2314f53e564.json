@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESLIE BAUMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2015"
+  "date": "14-JUL-2015",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

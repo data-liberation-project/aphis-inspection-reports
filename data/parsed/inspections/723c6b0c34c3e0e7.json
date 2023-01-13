@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF ILLINOIS AT CHICAGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2015"
+  "date": "17-AUG-2015",
+  "animals_total": 460,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 164,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Cryptomys damarensis",
+      "common": "DAMARALAND MOLE-RAT"
+    },
+    {
+      "count": 250,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

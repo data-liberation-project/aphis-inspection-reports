@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA HUBNER & LORIE HUNT HEATON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2014"
+  "date": "05-JUN-2014",
+  "animals_total": 259,
+  "species": [
+    {
+      "count": 193,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

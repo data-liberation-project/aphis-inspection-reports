@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CLARENCE & ERNEST BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2018"
+  "date": "21-AUG-2018",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

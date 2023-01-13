@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "JANSSEN R&D",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUN-2018"
+  "date": "27-JUN-2018",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ARIZONA FISH AND GAME DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Neotoma lepida",
+      "common": "DESERT WOODRAT"
+    }
+  ]
 }

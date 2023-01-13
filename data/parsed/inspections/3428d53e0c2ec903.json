@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUMMER BRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-OCT-2017"
+  "date": "30-OCT-2017",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

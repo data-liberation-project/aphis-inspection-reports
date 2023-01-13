@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY KNOLL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "04-MAY-2017"
+  "date": "04-MAY-2017",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

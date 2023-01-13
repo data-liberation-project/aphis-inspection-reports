@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2014"
+  "date": "15-SEP-2014",
+  "animals_total": 220,
+  "species": [
+    {
+      "count": 160,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

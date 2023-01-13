@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "PALO ALTO COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2019"
+  "date": "17-OCT-2019",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

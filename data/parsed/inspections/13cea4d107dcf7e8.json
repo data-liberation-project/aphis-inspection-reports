@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORTHERN BIOMEDICAL RESEARCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-NOV-2017"
+  "date": "08-NOV-2017",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 91,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

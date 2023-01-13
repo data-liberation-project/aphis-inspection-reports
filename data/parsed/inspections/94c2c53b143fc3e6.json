@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN K SWAREY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2019"
+  "date": "26-SEP-2019",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

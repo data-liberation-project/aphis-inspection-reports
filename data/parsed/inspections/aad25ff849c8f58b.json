@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Diana Pankonin",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "15-OCT-2014"
+  "date": "15-OCT-2014",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

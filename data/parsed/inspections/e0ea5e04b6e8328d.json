@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GRISEL POSSMAN",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "15-AUG-2019"
+  "date": "15-AUG-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

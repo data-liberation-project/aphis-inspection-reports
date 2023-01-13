@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE CHATTANOOGA NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2019"
+  "date": "17-SEP-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

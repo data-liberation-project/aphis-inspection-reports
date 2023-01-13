@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "Parker Exotic Pets LLC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "09-FEB-2022"
+  "date": "09-FEB-2022",
+  "animals_total": 185,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 84,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 18,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

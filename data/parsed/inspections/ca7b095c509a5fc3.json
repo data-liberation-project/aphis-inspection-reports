@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RODNEY FAULK",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "25-MAR-2022"
+  "date": "25-MAR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

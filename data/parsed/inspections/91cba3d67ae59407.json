@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "OREGON HEALTH & SCIENCE UNIV./WEST CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2014"
+  "date": "29-JUL-2014",
+  "animals_total": 4818,
+  "species": [
+    {
+      "count": 136,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 209,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE *MALE"
+    },
+    {
+      "count": 120,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE / SNOW MACAQUE"
+    },
+    {
+      "count": 1738,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2606,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 9,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

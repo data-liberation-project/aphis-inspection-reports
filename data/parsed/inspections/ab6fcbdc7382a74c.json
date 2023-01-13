@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNIE, IRENE & LYDIA WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2019"
+  "date": "07-AUG-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

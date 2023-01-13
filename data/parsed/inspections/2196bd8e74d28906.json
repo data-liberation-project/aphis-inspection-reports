@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STACIE GARRETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2022"
+  "date": "19-OCT-2022",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

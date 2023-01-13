@@ -8,5 +8,18 @@
   "site_id": "006",
   "site_name": "NELSON BIOLOGICAL LABORATORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2021"
+  "date": "17-AUG-2021",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

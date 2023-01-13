@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RAYMOND & MALINDA YUTZY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2015"
+  "date": "10-DEC-2015",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 154,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

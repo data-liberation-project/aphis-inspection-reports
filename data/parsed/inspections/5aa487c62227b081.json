@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SOBRAD L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2021"
+  "date": "29-JUL-2021",
+  "animals_total": 321,
+  "species": [
+    {
+      "count": 256,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 57,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

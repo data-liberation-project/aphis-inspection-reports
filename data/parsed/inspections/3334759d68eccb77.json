@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "G KEITH YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2021"
+  "date": "30-NOV-2021",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

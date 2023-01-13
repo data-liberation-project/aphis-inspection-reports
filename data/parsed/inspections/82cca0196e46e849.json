@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAUMEE BRIDGE PUPPIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2016"
+  "date": "22-MAR-2016",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

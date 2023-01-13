@@ -8,5 +8,28 @@
   "site_id": "020",
   "site_name": "PFIZER WORLDWIDE RESEARCH AND DEVELOPMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2017"
+  "date": "17-MAY-2017",
+  "animals_total": 345,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 290,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

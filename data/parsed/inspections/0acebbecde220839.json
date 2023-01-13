@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMGEN",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-JUL-2022"
+  "date": "27-JUL-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Roberta Sparkman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2017"
+  "date": "02-MAY-2017",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

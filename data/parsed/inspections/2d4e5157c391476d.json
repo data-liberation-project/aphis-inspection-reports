@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DIANE & ROBERT MOYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2015"
+  "date": "12-JAN-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

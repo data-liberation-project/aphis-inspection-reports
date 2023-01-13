@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Robert Threadgill",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "02-APR-2014"
+  "date": "02-APR-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

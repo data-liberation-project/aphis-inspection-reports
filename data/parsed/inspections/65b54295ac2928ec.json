@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TODD AND TONIA FORSBERG",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-AUG-2018"
+  "date": "27-AUG-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

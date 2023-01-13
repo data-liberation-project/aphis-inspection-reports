@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS ALLGYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2021"
+  "date": "29-OCT-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALOMA RAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2019"
+  "date": "31-JAN-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

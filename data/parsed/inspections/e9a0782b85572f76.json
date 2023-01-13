@@ -8,5 +8,28 @@
   "site_id": "005",
   "site_name": "HATFIELD AND MCCOY DINNER FEUD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2019"
+  "date": "02-MAY-2019",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 27,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

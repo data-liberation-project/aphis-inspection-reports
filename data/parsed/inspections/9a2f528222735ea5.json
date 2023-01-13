@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ANIMALS OF A DIFFERENT COLOR, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2021"
+  "date": "09-JUL-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

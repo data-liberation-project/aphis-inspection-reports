@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Shady Lawn Kennel L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2016"
+  "date": "28-NOV-2016",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

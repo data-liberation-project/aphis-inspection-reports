@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHERYL GRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2016"
+  "date": "26-SEP-2016",
+  "animals_total": 200,
+  "species": [
+    {
+      "count": 157,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 43,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, RIVERSIDE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2014"
+  "date": "19-JUN-2014",
+  "animals_total": 451,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 435,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHERYL RICHARDSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2019"
+  "date": "17-OCT-2019",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

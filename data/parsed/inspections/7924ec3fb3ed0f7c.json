@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DIAMOND ANIMAL HEALTH, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2014"
+  "date": "15-APR-2014",
+  "animals_total": 594,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 561,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

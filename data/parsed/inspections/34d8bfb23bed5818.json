@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ARBUCKLE ADVENTURES LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "09-JUN-2022"
+  "date": "09-JUN-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    }
+  ]
 }

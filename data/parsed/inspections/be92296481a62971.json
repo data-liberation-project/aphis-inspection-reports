@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "THE COMEDY BARN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2017"
+  "date": "26-SEP-2017",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

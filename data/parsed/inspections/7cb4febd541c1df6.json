@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "COMMUNITY COLLEGE DISTRICT OF JEFFERSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2014"
+  "date": "09-SEP-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "011",
   "site_name": "Labcorp Early Development Laboratories Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2022"
+  "date": "26-APR-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

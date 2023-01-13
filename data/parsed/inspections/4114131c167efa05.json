@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIS HERSHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2021"
+  "date": "26-JAN-2021",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

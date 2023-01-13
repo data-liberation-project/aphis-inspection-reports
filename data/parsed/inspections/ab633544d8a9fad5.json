@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SEWARD FARMS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "03-OCT-2022"
+  "date": "03-OCT-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIV. OF MEMPHIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2016"
+  "date": "17-MAY-2016",
+  "animals_total": 641,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 257,
+      "scientific": "Cryptomys damarensis",
+      "common": "DAMARALAND MOLE RAT"
+    },
+    {
+      "count": 225,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 108,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

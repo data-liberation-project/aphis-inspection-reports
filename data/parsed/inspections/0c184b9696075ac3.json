@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ARIZONA CENTER FOR NATURE CONSERVATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 30,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "S P C A SERVING ERIE COUNTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2015"
+  "date": "29-MAY-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VIRGINIA COMMONWEALTH UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-JUL-2022"
+  "date": "20-JUL-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
 }

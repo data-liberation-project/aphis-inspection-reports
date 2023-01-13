@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SMOKY MOUNTAIN ZOOLOGICAL PARK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2021"
+  "date": "27-JAN-2021",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 66,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 19,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 33,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EARTHPLACE, THE NATURE DISCOVERY CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2014"
+  "date": "25-FEB-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

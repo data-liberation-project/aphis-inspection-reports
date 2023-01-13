@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JEREMY & MELISSA SWARTZENTRUBER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2019"
+  "date": "28-AUG-2019",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOBRAD L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 322,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 277,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

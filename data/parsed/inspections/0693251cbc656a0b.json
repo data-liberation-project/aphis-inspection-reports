@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLLEGE OF OPTOMETRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2019"
+  "date": "02-DEC-2019",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

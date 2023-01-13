@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "YERKES PRIMATE CENTER/FIELD STATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2015"
+  "date": "22-SEP-2015",
+  "animals_total": 2056,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Lophocebus albigena",
+      "common": "GREY-CHEEKED MANGABEY"
+    },
+    {
+      "count": 1887,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 29,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    }
+  ]
 }

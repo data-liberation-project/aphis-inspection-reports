@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA SCHACHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

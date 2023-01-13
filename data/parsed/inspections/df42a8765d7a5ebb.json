@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NANCY MAGNUSSON & KEN MAGNUSSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2016"
+  "date": "26-JAN-2016",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

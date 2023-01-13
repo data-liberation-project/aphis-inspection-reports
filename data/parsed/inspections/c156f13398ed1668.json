@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MONTANA STATE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2015"
+  "date": "19-MAY-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

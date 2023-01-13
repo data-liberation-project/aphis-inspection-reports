@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GWEN LANDT",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "10-MAR-2016"
+  "date": "10-MAR-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LIBERTY RESEARCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2015"
+  "date": "07-JUL-2015",
+  "animals_total": 3449,
+  "species": [
+    {
+      "count": 465,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 147,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1641,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1196,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

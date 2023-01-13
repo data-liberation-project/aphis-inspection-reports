@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DAN PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2016"
+  "date": "17-OCT-2016",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 19,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

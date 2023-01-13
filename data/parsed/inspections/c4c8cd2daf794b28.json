@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CENTER FOR SCIENCE TEACHING AND LEARNING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2017"
+  "date": "16-NOV-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

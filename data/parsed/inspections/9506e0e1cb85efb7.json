@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-JUN-2014"
+  "date": "10-JUN-2014",
+  "animals_total": 6315,
+  "species": [
+    {
+      "count": 451,
+      "scientific": "C. pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 380,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4944,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 283,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 237,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 20,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

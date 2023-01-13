@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DOGWOOD CANYON FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2019"
+  "date": "09-APR-2019",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 27,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

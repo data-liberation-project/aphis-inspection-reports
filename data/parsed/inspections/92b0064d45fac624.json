@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDRA HUNT",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-MAY-2014"
+  "date": "05-MAY-2014",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DAVID FEIMSTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2015"
+  "date": "29-SEP-2015",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 25,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "site_id": "017",
   "site_name": "Pima Medical Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2014"
+  "date": "20-OCT-2014",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

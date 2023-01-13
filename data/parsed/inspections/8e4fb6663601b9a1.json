@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SARAH STOLL",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "19-JAN-2022"
+  "date": "19-JAN-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

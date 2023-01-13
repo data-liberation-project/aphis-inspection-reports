@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA FORST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2014"
+  "date": "17-NOV-2014",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "MY COUNTRY CRITTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2015"
+  "date": "02-MAR-2015",
+  "animals_total": 567,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 341,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 139,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

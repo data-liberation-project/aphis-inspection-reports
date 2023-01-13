@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA COATS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2021"
+  "date": "27-JAN-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

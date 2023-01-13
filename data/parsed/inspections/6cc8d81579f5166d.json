@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACOB STOLTZFUS AND AMOS STOLTZFUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2022"
+  "date": "14-NOV-2022",
+  "animals_total": 231,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

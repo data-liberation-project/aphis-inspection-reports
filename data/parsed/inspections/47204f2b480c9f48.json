@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MONKEY JUNGLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Ateles fusciceps",
+      "common": "BROWN-HEADED SPIDER MONKEY"
+    },
+    {
+      "count": 125,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

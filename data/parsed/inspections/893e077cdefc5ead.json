@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "LOUISIANA STATE UNIVERSITY SYSTEM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-SEP-2018"
+  "date": "06-SEP-2018",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 71,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DELINDA PETTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2015"
+  "date": "06-JUL-2015",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

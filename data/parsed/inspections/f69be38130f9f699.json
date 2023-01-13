@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COLENE FISHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2020"
+  "date": "25-FEB-2020",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

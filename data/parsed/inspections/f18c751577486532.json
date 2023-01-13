@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM OWEN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "25-OCT-2022"
+  "date": "25-OCT-2022",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

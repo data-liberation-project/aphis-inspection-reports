@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "DAVID GIBSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2021"
+  "date": "27-APR-2021",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 10,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 16,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

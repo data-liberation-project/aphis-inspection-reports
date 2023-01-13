@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLINTON HOLMES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2016"
+  "date": "01-SEP-2016",
+  "animals_total": 2194,
+  "species": [
+    {
+      "count": 875,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 1319,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

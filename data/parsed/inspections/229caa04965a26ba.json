@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CITY GOAT FARM & ZOO INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-JUL-2019"
+  "date": "02-JUL-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 1,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY CLAUSEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2015"
+  "date": "08-APR-2015",
+  "animals_total": 300,
+  "species": [
+    {
+      "count": 230,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

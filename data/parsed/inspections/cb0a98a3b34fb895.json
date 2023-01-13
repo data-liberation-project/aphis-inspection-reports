@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jalisha Mc Intire",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2018"
+  "date": "15-AUG-2018",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

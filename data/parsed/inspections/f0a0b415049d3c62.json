@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS VANDERVEER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "12-JUN-2015"
+  "date": "12-JUN-2015",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

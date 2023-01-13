@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BUCKNELL UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2017"
+  "date": "21-JUN-2017",
+  "animals_total": 464,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca silenus",
+      "common": "LION-TAILED MACAQUE"
+    },
+    {
+      "count": 418,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 17,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 8,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 19,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

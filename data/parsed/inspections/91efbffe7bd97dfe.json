@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NELSON HOCHSTETLER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "31-MAR-2022"
+  "date": "31-MAR-2022",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

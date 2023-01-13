@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Texas A & M University",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2018"
+  "date": "30-JAN-2018",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

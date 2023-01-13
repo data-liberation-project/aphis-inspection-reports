@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELVIN & ESTHER ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2014"
+  "date": "01-MAY-2014",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

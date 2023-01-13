@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHODE ISLAND HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2017"
+  "date": "24-JUL-2017",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ALLERGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2016"
+  "date": "22-SEP-2016",
+  "animals_total": 803,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia magna",
+      "common": "GREATER GUINEA PIG"
+    },
+    {
+      "count": 142,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 608,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

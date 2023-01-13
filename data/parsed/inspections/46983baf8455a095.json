@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON JESS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2018"
+  "date": "05-JUL-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-JUL-2022"
+  "date": "20-JUL-2022",
+  "animals_total": 1789,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 111,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 1393,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 203,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 30,
+      "scientific": "Acomys kempi",
+      "common": "KEMP\u2019S SPINY MOUSE"
+    },
+    {
+      "count": 16,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    }
+  ]
 }

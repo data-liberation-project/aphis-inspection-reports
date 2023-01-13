@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JOHN HURT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2021"
+  "date": "01-DEC-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

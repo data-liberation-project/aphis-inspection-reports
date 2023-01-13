@@ -8,5 +8,63 @@
   "site_id": "003",
   "site_name": "FORT WORTH MUSEUM OF SCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2014"
+  "date": "22-MAY-2014",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Dipodomys deserti",
+      "common": "DESERT KANGAROO RAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Neotoma micropus",
+      "common": "SOUTHERN PLAINS WOODRAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Sigmodon fulviventer",
+      "common": "TAWNY-BELLIED COTTON RAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Spermophilus spilosoma",
+      "common": "SPOTTED GROUND SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus audubonii",
+      "common": "DESERT COTTONTAIL RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEAH PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2014"
+  "date": "25-SEP-2014",
+  "animals_total": 207,
+  "species": [
+    {
+      "count": 129,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

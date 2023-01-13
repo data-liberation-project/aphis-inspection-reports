@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PRIMATE PRODUCTS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAY-2015"
+  "date": "29-MAY-2015",
+  "animals_total": 2347,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 1745,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 554,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

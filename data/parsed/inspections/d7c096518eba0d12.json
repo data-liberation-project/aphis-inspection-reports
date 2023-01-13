@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "OREGON WILDLIFE FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2021"
+  "date": "06-JUL-2021",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Aepyceros melampus",
+      "common": "IMPALA"
+    },
+    {
+      "count": 17,
+      "scientific": "Gazella cuvieri",
+      "common": "EDMI / CUVIER'S GAZELLE"
+    },
+    {
+      "count": 54,
+      "scientific": "Gazella leptoceros",
+      "common": "SAND GAZELLE"
+    },
+    {
+      "count": 13,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Hopefull Kennels",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "15-APR-2021"
+  "date": "15-APR-2021",
+  "animals_total": 170,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

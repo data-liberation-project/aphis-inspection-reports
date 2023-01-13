@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "S & R PRODUCTIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2022"
+  "date": "27-SEP-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE GORILLA FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-DEC-2016"
+  "date": "13-DEC-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    }
+  ]
 }

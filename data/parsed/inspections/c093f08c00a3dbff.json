@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLIFFORD GROEN, VERLA GROEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2015"
+  "date": "08-JUN-2015",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

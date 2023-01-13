@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "S.C. JOHNSON RESEARCH FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2022"
+  "date": "15-MAR-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PIERCE COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2021"
+  "date": "12-NOV-2021",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

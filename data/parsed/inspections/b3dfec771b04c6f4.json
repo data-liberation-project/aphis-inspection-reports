@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LOUISIANA STATE UNIVERSITY SYSTEM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2022"
+  "date": "27-JUL-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 20,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

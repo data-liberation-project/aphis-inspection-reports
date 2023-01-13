@@ -8,5 +8,23 @@
   "site_id": "008",
   "site_name": "BRISTOL MYERS SQUIBB COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2014"
+  "date": "21-JUL-2014",
+  "animals_total": 275,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 184,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

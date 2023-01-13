@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN SCHROCK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-NOV-2017"
+  "date": "15-NOV-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

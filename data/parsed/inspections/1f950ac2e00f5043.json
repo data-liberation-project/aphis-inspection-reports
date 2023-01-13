@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cantril Kennels",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-JAN-2022"
+  "date": "12-JAN-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

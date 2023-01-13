@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL S. BEACHY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2021"
+  "date": "17-FEB-2021",
+  "animals_total": 190,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

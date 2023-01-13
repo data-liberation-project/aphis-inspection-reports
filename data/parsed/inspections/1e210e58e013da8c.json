@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GORDON EVERETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2020"
+  "date": "02-MAR-2020",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

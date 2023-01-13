@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Louis Willems",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-AUG-2016"
+  "date": "24-AUG-2016",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia magna",
+      "common": "GREATER GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 12,
+      "scientific": "Muntiacus crinifrons",
+      "common": "BLACK MUNTJAC"
+    },
+    {
+      "count": 8,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 30,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BISHOPS PUMPKIN FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2020"
+  "date": "01-OCT-2020",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 35,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

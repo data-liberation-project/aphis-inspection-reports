@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "YERKES PRIMATE CENTER/FIELD STATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2021"
+  "date": "20-SEP-2021",
+  "animals_total": 2519,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 152,
+      "scientific": "Cercocebus atys",
+      "common": "SOOTY MANGABEY"
+    },
+    {
+      "count": 2343,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

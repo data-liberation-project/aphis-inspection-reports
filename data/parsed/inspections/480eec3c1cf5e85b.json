@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RACHEL O CONNOR",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-NOV-2014"
+  "date": "06-NOV-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Cercopithecus hamlyni",
+      "common": "OWL-FACED MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT COBLENTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2015"
+  "date": "29-OCT-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

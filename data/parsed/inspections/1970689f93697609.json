@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "California State Polytechnic University Pomona",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2015"
+  "date": "22-JUN-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

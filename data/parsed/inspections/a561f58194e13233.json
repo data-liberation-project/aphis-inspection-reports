@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DEUEL VETERINARY SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2014"
+  "date": "13-FEB-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

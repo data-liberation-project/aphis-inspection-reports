@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Wildthunder Wildlife Animal Rehab Sanctuary",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JAN-2022"
+  "date": "24-JAN-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    }
+  ]
 }

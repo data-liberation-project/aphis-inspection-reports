@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID GUNTER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-MAR-2014"
+  "date": "25-MAR-2014",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

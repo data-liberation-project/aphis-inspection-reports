@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "BIOQUAL INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2021"
+  "date": "06-AUG-2021",
+  "animals_total": 838,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 710,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

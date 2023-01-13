@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SCHREINER FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter bernardus",
+      "common": "BERNARD'S WALLAROO / BLACK WALLAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

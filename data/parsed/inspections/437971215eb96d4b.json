@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "PRO SCI INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2019"
+  "date": "02-APR-2019",
+  "animals_total": 626,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 36,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 584,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

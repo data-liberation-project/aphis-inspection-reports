@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Hijazi Pets Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JAN-2017"
+  "date": "18-JAN-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

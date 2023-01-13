@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CANDICE PHILLIPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2017"
+  "date": "20-APR-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 9,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

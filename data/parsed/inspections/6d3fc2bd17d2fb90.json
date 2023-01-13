@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "B. A . R. K. KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-SEP-2015"
+  "date": "10-SEP-2015",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

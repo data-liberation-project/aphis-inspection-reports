@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA GILBERTSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2015"
+  "date": "16-MAR-2015",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

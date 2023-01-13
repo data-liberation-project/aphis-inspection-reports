@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Cynthia Davenport, William Davenport",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2016"
+  "date": "14-MAR-2016",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

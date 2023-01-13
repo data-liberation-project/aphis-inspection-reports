@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANICE BURNS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "02-AUG-2021"
+  "date": "02-AUG-2021",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "INSTITUTE FOR MARINE MAMMAL STUDIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2019"
+  "date": "27-AUG-2019",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 9,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

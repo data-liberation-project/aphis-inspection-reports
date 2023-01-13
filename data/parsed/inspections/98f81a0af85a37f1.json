@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "JOHNS HOPKINS UNIVERSITY, THE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "26-JAN-2022"
+  "date": "26-JAN-2022",
+  "animals_total": 174,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 150,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

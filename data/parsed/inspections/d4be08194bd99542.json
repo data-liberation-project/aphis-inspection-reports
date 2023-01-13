@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAT BAGWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2020"
+  "date": "11-FEB-2020",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

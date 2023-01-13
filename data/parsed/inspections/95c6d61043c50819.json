@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANDY NISLEY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-APR-2019"
+  "date": "09-APR-2019",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

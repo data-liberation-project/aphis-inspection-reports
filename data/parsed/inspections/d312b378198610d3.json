@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "DOLLY PARTON STAMPEDE L P",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2021"
+  "date": "07-OCT-2021",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

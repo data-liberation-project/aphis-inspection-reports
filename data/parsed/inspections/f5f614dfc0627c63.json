@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADEN YODER JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2019"
+  "date": "03-APR-2019",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

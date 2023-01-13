@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NELSON DIENER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2021"
+  "date": "31-AUG-2021",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON BALDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2017"
+  "date": "15-NOV-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

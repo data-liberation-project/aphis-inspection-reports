@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2020"
+  "date": "02-NOV-2020",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

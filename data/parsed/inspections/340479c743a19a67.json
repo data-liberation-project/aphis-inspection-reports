@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "OLD MC MICKYS FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2015"
+  "date": "30-JUL-2015",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

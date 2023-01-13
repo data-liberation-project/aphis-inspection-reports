@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Virginia Whaley",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "12-JAN-2022"
+  "date": "12-JAN-2022",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

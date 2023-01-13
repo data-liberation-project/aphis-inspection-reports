@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS CLARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2019"
+  "date": "13-FEB-2019",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 12,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

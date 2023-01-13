@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDY & JOHN BLAKE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2017"
+  "date": "08-MAY-2017",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,43 @@
   "site_id": "TRA",
   "site_name": "KIRK ELYA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-MAY-2018"
+  "date": "24-MAY-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Chaetophractus vellerosus",
+      "common": "SCREAMING ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

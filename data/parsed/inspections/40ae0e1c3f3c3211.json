@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARRIN YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2022"
+  "date": "29-JUN-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

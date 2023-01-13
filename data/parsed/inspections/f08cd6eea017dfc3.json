@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DOLPHIN RESEARCH CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2018"
+  "date": "30-AUG-2018",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Stenella attenuata",
+      "common": "SPOTTED DOLPHIN"
+    },
+    {
+      "count": 25,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

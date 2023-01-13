@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA BRIDGES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2021"
+  "date": "19-OCT-2021",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

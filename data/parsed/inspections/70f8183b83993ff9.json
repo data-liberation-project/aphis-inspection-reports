@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AXDAHL FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-OCT-2017"
+  "date": "11-OCT-2017",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

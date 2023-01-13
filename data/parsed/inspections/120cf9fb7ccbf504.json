@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EASTERN HENRICO ANIMAL EDUCATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2014"
+  "date": "04-FEB-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

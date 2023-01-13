@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "SCIENCE ALIVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2017"
+  "date": "11-JAN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

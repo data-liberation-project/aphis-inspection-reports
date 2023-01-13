@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KRUG PARK ANIMAL EXHIBITS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2015"
+  "date": "11-SEP-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

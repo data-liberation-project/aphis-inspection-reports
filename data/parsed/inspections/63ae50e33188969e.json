@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES MILES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-NOV-2015"
+  "date": "02-NOV-2015",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

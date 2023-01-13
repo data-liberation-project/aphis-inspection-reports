@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "T R S LABS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2018"
+  "date": "07-JUN-2018",
+  "animals_total": 476,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 76,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 299,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MYRON HOCHSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2021"
+  "date": "29-MAR-2021",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

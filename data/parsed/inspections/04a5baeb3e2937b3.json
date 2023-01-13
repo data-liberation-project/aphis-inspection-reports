@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDDIE HOUSLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2014"
+  "date": "18-NOV-2014",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

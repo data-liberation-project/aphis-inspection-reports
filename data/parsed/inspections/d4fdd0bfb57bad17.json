@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CONNIE AND HAROLD JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2016"
+  "date": "30-MAR-2016",
+  "animals_total": 154,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

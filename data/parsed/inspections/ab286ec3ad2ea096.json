@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "BRANDON & TINA HOUGH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JAN-2015"
+  "date": "22-JAN-2015",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

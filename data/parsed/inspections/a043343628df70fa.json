@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CYNTHIA PAULA JACK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUL-2018"
+  "date": "23-JUL-2018",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

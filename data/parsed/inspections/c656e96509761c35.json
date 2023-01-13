@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R & R RESEARCH L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2021"
+  "date": "06-MAY-2021",
+  "animals_total": 162,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 156,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PERFORMING ANIMAL WELFARE SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2022"
+  "date": "15-APR-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    }
+  ]
 }

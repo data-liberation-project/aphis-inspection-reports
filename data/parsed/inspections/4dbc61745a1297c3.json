@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marion Nisley",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "06-APR-2022"
+  "date": "06-APR-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "NORTHEAST OHIO MEDICAL UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2014"
+  "date": "20-FEB-2014",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 37,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 41,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saimiri oerstedii",
+      "common": "RED-BACKED SQUIRREL MONKEY"
+    }
+  ]
 }

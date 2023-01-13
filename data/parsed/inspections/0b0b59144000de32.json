@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ORIENT BIORESOURCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2019"
+  "date": "19-NOV-2019",
+  "animals_total": 1573,
+  "species": [
+    {
+      "count": 1399,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 174,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

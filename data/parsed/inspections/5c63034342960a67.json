@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Victor Mc Shan",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2019"
+  "date": "30-JUL-2019",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

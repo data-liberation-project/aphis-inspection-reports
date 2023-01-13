@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ERIC SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2018"
+  "date": "04-SEP-2018",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

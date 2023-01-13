@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VIRGINIA COMMONWEALTH UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2016"
+  "date": "17-AUG-2016",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

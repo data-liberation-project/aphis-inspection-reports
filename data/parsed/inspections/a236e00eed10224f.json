@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SOUTHERN RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2014"
+  "date": "16-APR-2014",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 86,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 45,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

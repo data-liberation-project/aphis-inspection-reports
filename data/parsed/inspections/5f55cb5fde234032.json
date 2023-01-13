@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILSON'S WILD ANIMAL PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2020"
+  "date": "28-JAN-2020",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 16,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

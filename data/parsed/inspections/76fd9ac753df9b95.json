@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE CHATTANOOGA NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2015"
+  "date": "27-AUG-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

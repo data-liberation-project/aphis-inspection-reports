@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ORLANDO SCIENCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2022"
+  "date": "29-JUN-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

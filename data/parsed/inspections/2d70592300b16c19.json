@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GARY FELTS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "09-NOV-2016"
+  "date": "09-NOV-2016",
+  "animals_total": 213,
+  "species": [
+    {
+      "count": 151,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

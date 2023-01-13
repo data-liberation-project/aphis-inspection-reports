@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COHN RESEARCH BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2015"
+  "date": "09-SEP-2015",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

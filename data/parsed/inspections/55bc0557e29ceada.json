@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHALA D CLARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2022"
+  "date": "17-MAR-2022",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

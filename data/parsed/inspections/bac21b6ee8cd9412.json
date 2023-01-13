@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marcus Leck",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2015"
+  "date": "01-OCT-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

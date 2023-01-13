@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "L.V. & JEAN CASE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2015"
+  "date": "21-JAN-2015",
+  "animals_total": 157,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

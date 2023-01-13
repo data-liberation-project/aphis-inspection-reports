@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Childrens Kingdom Ministries",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-AUG-2014"
+  "date": "22-AUG-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Pied Piper Pony Rides Ltd",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-JUN-2022"
+  "date": "14-JUN-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

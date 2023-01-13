@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEE FRIESNER & JEANNIE FRIESNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAY-2015"
+  "date": "06-MAY-2015",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

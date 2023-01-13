@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Albert Lee",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "20-OCT-2021"
+  "date": "20-OCT-2021",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

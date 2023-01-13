@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "JOHNS HOPKINS UNIVERSITY, THE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "16-NOV-2021"
+  "date": "16-NOV-2021",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 22,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

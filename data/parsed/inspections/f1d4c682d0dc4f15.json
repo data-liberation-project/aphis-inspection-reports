@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "002 - Jacob Bontrager",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "25-FEB-2021"
+  "date": "25-FEB-2021",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

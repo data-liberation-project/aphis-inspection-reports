@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Southern Indiana Frenchies, LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "14-DEC-2021"
+  "date": "14-DEC-2021",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

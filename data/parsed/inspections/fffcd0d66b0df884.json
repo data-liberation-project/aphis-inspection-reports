@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PHYLLIS CULLISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2014"
+  "date": "18-FEB-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Catopuma temminckii",
+      "common": "ASIAN GOLDEN CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

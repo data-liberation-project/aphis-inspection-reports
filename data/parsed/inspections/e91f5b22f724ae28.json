@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY HOLLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2018"
+  "date": "15-AUG-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Julio Osorio",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2015"
+  "date": "07-NOV-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

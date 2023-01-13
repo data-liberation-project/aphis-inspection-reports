@@ -6,7 +6,20 @@
   "customer_addr": "9050 W Overland Rd.\nBoise, ID 83709",
   "certificate": "82-R-0012",
   "site_id": "001",
-  "site_name": "BROWN MACKIE COLLEGE - VET TECH PROGRAM(cid:9)",
+  "site_name": "BROWN MACKIE COLLEGE - VET TECH PROGRAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2016"
+  "date": "14-JUL-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

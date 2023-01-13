@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "D & K VANDERVLIET INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2022"
+  "date": "29-MAR-2022",
+  "animals_total": 183,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

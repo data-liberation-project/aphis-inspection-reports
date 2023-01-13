@@ -8,5 +8,18 @@
   "site_id": "SFO",
   "site_name": "KOREAN AIR LINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2017"
+  "date": "28-APR-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

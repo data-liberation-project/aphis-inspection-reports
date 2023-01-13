@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TOX MONITOR LABORATORIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-DEC-2018"
+  "date": "19-DEC-2018",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

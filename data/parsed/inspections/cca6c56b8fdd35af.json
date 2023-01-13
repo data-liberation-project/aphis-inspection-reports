@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AMY GILROY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2015"
+  "date": "07-MAY-2015",
+  "animals_total": 164,
+  "species": [
+    {
+      "count": 153,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 9,
+      "scientific": "Setifer setosus",
+      "common": "GREATER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

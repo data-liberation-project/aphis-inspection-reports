@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Animals for Hollywood",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2021"
+  "date": "04-MAR-2021",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

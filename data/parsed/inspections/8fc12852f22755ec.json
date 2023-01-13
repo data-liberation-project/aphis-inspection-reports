@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY PARK CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-SEP-2015"
+  "date": "23-SEP-2015",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

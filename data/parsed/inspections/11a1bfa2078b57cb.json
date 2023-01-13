@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WILD THINGS EXOTIC ANIMALS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2022"
+  "date": "04-OCT-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 17,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

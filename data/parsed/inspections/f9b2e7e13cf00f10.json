@@ -8,5 +8,23 @@
   "site_id": "005",
   "site_name": "MCDB-GOLD & Wilderness",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2018"
+  "date": "12-JUL-2018",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 220,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 5,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 18,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET VARIETY)"
+    }
+  ]
 }

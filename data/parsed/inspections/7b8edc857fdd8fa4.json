@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "JEFFREY LOWE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2018"
+  "date": "05-JUN-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aotus trivirgatus",
+      "common": "THREE-STRIPED NIGHT MONKEY / OWL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Atherurus africanus",
+      "common": "AFRICAN BRUSH-TAILED PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 12,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

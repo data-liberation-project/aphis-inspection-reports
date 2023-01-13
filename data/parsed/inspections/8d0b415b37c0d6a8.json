@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "South Plains Wildlife Rehab Center Inc.",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "18-JAN-2022"
+  "date": "18-JAN-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Tamiasciurus hudsonicus",
+      "common": "AMERICAN RED SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

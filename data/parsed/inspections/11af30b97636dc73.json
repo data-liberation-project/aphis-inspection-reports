@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "COLORADO SERUM COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2021"
+  "date": "28-APR-2021",
+  "animals_total": 394,
+  "species": [
+    {
+      "count": 176,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 23,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 96,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 88,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

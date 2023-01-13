@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNELWOOD, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2019"
+  "date": "10-DEC-2019",
+  "animals_total": 209,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 99,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

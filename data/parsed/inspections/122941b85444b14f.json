@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF TENNESSEE - MEMPHIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2015"
+  "date": "08-SEP-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Papio papio",
+      "common": "GUINEA BABOON"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

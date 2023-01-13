@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ELIZABETH WATERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2019"
+  "date": "19-JUN-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

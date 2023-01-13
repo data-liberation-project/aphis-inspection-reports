@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GINA AND NOLAN DEN BOER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2022"
+  "date": "02-AUG-2022",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

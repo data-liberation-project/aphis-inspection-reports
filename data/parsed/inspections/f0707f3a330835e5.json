@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARDEE LINCOLN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-NOV-2017"
+  "date": "17-NOV-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

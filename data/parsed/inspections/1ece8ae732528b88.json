@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "University of Texas",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2017"
+  "date": "23-MAY-2017",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 41,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 22,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 94,
+      "scientific": "Zapus hudsonius",
+      "common": "MEADOW JUMPING MOUSE"
+    }
+  ]
 }

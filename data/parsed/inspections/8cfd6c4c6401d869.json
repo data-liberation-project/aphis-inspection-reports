@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOY THOMAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2021"
+  "date": "19-OCT-2021",
+  "animals_total": 208,
+  "species": [
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

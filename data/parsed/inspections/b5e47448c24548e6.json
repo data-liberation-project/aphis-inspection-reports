@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TOM NELSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2022"
+  "date": "20-MAY-2022",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "Gary Reeves, Cole Reeves",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2014"
+  "date": "09-DEC-2014",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia magna",
+      "common": "GREATER GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

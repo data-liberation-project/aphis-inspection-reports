@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "A1 K-9",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-SEP-2021"
+  "date": "22-SEP-2021",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

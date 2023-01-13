@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ST PAUL SITE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-MAR-2022"
+  "date": "24-MAR-2022",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

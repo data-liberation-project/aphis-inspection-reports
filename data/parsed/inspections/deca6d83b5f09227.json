@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "CITY OF HAMPTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2014"
+  "date": "31-JUL-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

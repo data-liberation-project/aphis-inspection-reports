@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AIMEE COOK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-AUG-2017"
+  "date": "31-AUG-2017",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

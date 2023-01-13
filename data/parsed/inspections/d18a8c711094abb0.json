@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN BONTRAGER JR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2020"
+  "date": "29-JUL-2020",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

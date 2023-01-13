@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "MONTGOMERY ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2014"
+  "date": "15-MAY-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 3,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    }
+  ]
 }

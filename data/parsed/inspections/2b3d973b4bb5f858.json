@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OAKHILL AVIAN CENTER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2020"
+  "date": "18-DEC-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

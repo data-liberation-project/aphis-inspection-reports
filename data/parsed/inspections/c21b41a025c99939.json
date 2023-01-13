@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUDITH RHOADS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2021"
+  "date": "31-MAR-2021",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

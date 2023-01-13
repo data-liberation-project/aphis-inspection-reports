@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MECHEL WHITAKER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "13-FEB-2018"
+  "date": "13-FEB-2018",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 18,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Christy Kauble, Reese Kauble",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2016"
+  "date": "01-MAR-2016",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

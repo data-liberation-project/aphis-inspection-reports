@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE ART FARM IN THE CITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-FEB-2016"
+  "date": "03-FEB-2016",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

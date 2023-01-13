@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "LOS ANGELES ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-MAR-2019"
+  "date": "14-MAR-2019",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 5,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 6,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 15,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 7,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    }
+  ]
 }

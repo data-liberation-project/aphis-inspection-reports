@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Shelli Kershner",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-OCT-2019"
+  "date": "03-OCT-2019",
+  "animals_total": 159,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

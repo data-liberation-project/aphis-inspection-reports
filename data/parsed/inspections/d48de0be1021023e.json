@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GERALD YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-NOV-2015"
+  "date": "09-NOV-2015",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DONNIE RICHARDSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2017"
+  "date": "31-JAN-2017",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Hippotragus equinus",
+      "common": "ROAN ANTELOPE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

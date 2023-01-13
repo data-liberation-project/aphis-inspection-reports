@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VALORIE WRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2017"
+  "date": "27-MAR-2017",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

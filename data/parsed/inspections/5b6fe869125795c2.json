@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALVIN BRENNEMAN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 193,
+  "species": [
+    {
+      "count": 122,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

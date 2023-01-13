@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Margies Pets L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2018"
+  "date": "11-JAN-2018",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

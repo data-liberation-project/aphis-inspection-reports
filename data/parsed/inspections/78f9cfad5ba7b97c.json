@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIRIAM & PETER ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2018"
+  "date": "26-FEB-2018",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

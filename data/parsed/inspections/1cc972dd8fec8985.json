@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DONALD PULLEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2015"
+  "date": "02-APR-2015",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MOSTYN ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2015"
+  "date": "03-MAR-2015",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 9,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OZARK MOUNTAIN CORGIS AND SHEPHERDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2021"
+  "date": "29-JUL-2021",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SILVIA KURTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2021"
+  "date": "02-NOV-2021",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

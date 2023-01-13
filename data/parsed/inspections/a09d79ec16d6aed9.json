@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Sycamore Springs Ranch, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2015"
+  "date": "28-MAY-2015",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 7,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

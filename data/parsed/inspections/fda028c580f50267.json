@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIAMI JACOBS CAREER COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2014"
+  "date": "09-JUN-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

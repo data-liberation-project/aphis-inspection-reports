@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cindy Green Gary Green",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2021"
+  "date": "08-OCT-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

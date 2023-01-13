@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA BURNS & CRAIG BURNS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2015"
+  "date": "09-DEC-2015",
+  "animals_total": 218,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

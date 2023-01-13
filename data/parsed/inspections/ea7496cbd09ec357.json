@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIKE & CAROL DYE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2018"
+  "date": "26-APR-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 5,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELMER TROYER, EDNA TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2017"
+  "date": "28-AUG-2017",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

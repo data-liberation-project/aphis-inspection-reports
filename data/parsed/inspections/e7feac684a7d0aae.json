@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KORD MC GUIRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2015"
+  "date": "15-DEC-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

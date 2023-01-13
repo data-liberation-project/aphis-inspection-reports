@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MELISSA KLOCKE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-MAY-2015"
+  "date": "11-MAY-2015",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

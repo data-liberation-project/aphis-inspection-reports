@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "STILLMEADOW, INC.",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-SEP-2021"
+  "date": "02-SEP-2021",
+  "animals_total": 212,
+  "species": [
+    {
+      "count": 0,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 21,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 39,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 152,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

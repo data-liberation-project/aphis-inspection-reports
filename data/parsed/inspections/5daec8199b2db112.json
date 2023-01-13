@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "THE MARINE MAMMAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2020"
+  "date": "29-OCT-2020",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 12,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    }
+  ]
 }

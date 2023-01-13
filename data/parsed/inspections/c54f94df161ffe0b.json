@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERVIN LEE MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-DEC-2017"
+  "date": "13-DEC-2017",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

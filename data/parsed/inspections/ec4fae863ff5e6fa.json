@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMGEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-SEP-2015"
+  "date": "23-SEP-2015",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

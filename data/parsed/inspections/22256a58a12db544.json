@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David D Troyer",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "30-MAR-2022"
+  "date": "30-MAR-2022",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

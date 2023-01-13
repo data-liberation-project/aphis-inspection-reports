@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIANE HUSEMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2018"
+  "date": "10-DEC-2018",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

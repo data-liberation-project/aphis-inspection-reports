@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RALPH MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAY-2017"
+  "date": "24-MAY-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

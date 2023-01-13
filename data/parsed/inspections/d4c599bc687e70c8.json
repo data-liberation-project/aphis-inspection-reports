@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "E Z DUZ IT KENNEL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-OCT-2018"
+  "date": "29-OCT-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

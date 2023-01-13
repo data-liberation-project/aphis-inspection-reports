@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELDON GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2015"
+  "date": "05-FEB-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

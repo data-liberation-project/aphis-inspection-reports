@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CONSUMER PRODUCT TESTING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2014"
+  "date": "15-APR-2014",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 29,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

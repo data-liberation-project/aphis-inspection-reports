@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KLACKLE ORCHARDS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-OCT-2015"
+  "date": "08-OCT-2015",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

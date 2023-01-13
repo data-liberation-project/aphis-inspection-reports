@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sarah Harms",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAY-2015"
+  "date": "22-MAY-2015",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 19,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2021"
+  "date": "19-OCT-2021",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

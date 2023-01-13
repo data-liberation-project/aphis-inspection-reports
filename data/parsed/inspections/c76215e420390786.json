@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ANIMAL AMBASSADORS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-DEC-2014"
+  "date": "17-DEC-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

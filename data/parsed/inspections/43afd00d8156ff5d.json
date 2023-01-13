@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "CLAYTON YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2014"
+  "date": "01-JUL-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

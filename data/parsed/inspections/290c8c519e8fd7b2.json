@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Debbie Morgan",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2015"
+  "date": "04-JUN-2015",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

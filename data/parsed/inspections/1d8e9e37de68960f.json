@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL AND SADIE YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-AUG-2019"
+  "date": "16-AUG-2019",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DORIS PRUETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2014"
+  "date": "25-SEP-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

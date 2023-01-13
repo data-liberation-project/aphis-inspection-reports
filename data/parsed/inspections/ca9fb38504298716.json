@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Merlin Miller",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-JUN-2022"
+  "date": "02-JUN-2022",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

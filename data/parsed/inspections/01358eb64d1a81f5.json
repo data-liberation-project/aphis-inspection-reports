@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ZOOLOGICAL SOCIETY OF SAN DIEGO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2017"
+  "date": "19-MAY-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILDLIFE CONSERVATION SOCIETY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-OCT-2019"
+  "date": "03-OCT-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

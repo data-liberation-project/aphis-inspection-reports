@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AMBER ELK RANCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-SEP-2019"
+  "date": "23-SEP-2019",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 160,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

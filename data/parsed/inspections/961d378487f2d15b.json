@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "ORANGE COUNTY SUPERINTENDENT OF SCHOOLS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2016"
+  "date": "11-MAY-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Abditomys latidens",
+      "common": "LUZON BROAD-TOOTHED RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PLAYBOY ENTERPRISES INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUN-2015"
+  "date": "24-JUN-2015",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 50,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    }
+  ]
 }

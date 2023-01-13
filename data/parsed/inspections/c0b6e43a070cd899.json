@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "James Beechy",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "23-JUL-2021"
+  "date": "23-JUL-2021",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

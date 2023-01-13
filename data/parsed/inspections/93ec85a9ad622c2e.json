@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILTON LEWIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2022"
+  "date": "28-JUN-2022",
+  "animals_total": 324,
+  "species": [
+    {
+      "count": 197,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

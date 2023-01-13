@@ -8,5 +8,18 @@
   "site_id": "007",
   "site_name": "Texas Tech University",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2022"
+  "date": "18-AUG-2022",
+  "animals_total": 584,
+  "species": [
+    {
+      "count": 424,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 160,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HARKNESS S. BLDG & RR & CIC BUILDING",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-JUL-2019"
+  "date": "08-JUL-2019",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

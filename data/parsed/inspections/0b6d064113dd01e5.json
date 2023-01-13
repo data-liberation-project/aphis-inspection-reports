@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DUANE PRETSCH",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "15-JUN-2016"
+  "date": "15-JUN-2016",
+  "animals_total": 226,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 175,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 18,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

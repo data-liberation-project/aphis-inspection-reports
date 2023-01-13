@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Nebraskaland Pets, Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2022"
+  "date": "24-MAR-2022",
+  "animals_total": 315,
+  "species": [
+    {
+      "count": 152,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 163,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

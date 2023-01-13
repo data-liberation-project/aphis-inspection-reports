@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHIRLEY COOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2015"
+  "date": "07-OCT-2015",
+  "animals_total": 168,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

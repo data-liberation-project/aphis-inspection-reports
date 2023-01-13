@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROYAL CANIN U S A INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUL-2021"
+  "date": "01-JUL-2021",
+  "animals_total": 375,
+  "species": [
+    {
+      "count": 177,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 184,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

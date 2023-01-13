@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NORTHERN VIRGINIA COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2022"
+  "date": "25-FEB-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

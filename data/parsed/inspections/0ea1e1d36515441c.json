@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOYCE & LOYD SPEAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2017"
+  "date": "05-OCT-2017",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

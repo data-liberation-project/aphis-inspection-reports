@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARSHALL FARMS GROUP LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2016"
+  "date": "26-JUL-2016",
+  "animals_total": 59758,
+  "species": [
+    {
+      "count": 22058,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34900,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2800,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

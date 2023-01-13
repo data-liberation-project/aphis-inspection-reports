@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Sue Stevens",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2021"
+  "date": "20-OCT-2021",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

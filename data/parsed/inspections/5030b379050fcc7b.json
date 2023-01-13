@@ -8,5 +8,38 @@
   "site_id": "002",
   "site_name": "SEA WORLD OF FLORIDA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "04-APR-2017"
+  "date": "04-APR-2017",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Globicephala macrorhynchus",
+      "common": "SHORTFINNED PILOT WHALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Odobenus rosmarus",
+      "common": "WALRUS"
+    },
+    {
+      "count": 6,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    },
+    {
+      "count": 19,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 29,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 56,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Red Beast Enterprises, Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2018"
+  "date": "14-JUN-2018",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 135,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 63,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MATT ORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2018"
+  "date": "18-DEC-2018",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

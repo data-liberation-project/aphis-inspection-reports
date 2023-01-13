@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "Pella Wildlife Company",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUL-2015"
+  "date": "13-JUL-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOEHRINGER INGELHEIM VETMEDICA INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-SEP-2014"
+  "date": "22-SEP-2014",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 60,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

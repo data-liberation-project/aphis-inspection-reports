@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARTY AND SERENA YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-SEP-2014"
+  "date": "23-SEP-2014",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

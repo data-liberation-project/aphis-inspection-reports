@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Ringtail Ranch Lemur Rescue",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "17-MAY-2022"
+  "date": "17-MAY-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 26,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

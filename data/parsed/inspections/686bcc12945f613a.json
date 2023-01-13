@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANA CLAYTON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-NOV-2015"
+  "date": "13-NOV-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

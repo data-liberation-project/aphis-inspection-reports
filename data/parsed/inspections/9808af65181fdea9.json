@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROGER & DEBRA DETERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2016"
+  "date": "05-APR-2016",
+  "animals_total": 174,
+  "species": [
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

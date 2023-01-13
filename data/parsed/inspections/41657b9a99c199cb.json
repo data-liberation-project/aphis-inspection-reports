@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GLEN SPENCER & MARCIA SPENCER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2017"
+  "date": "25-JAN-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MISSION WOLF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2022"
+  "date": "16-MAY-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
 }

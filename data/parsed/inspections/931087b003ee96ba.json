@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "James Stewart, Kassie Stewart",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2014"
+  "date": "19-FEB-2014",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

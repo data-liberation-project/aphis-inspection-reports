@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GRADUATE SCIENCE RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2018"
+  "date": "10-DEC-2018",
+  "animals_total": 2514,
+  "species": [
+    {
+      "count": 455,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 84,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 282,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1403,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 284,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

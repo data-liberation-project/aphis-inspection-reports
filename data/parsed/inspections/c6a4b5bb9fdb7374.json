@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "EDWARD CANNON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2015"
+  "date": "12-MAR-2015",
+  "animals_total": 542,
+  "species": [
+    {
+      "count": 281,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 82,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

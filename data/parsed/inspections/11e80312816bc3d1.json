@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GLENDA MALLORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2015"
+  "date": "19-NOV-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

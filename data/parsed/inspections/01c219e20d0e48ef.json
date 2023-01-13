@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TEXAS PARKS & WILDLIFE DEPT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2019"
+  "date": "30-JUL-2019",
+  "animals_total": 266,
+  "species": [
+    {
+      "count": 186,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 80,
+      "scientific": "Sus scrofa",
+      "common": "WILD BOAR"
+    }
+  ]
 }

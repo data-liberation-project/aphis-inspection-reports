@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Anna Troyer",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "04-JAN-2022"
+  "date": "04-JAN-2022",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

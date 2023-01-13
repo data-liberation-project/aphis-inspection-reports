@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MEUER FARM L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2014"
+  "date": "25-SEP-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGIE CLEMENTS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-FEB-2015"
+  "date": "17-FEB-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

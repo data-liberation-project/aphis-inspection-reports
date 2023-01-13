@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAVON BONTRAGER",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "28-AUG-2020"
+  "date": "28-AUG-2020",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

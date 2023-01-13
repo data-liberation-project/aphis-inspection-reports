@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETHANY KORVER, LINDA KORVER, STANLEY KORVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2015"
+  "date": "26-JAN-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

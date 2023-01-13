@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RIEHM FARMS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-NOV-2015"
+  "date": "12-NOV-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

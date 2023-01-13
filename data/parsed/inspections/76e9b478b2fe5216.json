@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEVI S WAGLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

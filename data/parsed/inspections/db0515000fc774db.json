@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF PUERTO RICO - MEDICAL SCIENCE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-DEC-2020"
+  "date": "03-DEC-2020",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

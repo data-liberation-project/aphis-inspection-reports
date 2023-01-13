@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "VIOLET VEITSCHEGGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-DEC-2017"
+  "date": "13-DEC-2017",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

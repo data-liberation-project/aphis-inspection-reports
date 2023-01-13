@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Country Meadow Pets LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "17-OCT-2022"
+  "date": "17-OCT-2022",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

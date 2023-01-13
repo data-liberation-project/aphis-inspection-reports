@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHRYN TEAGUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-SEP-2019"
+  "date": "03-SEP-2019",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

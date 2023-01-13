@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HORST SMUCKER RECREATION LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2017"
+  "date": "11-APR-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

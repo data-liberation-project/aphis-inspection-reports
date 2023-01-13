@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BRODY BLDG - E C U",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2015"
+  "date": "17-APR-2015",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

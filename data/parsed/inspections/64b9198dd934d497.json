@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Reid - 31941 East 32",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "10-FEB-2021"
+  "date": "10-FEB-2021",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

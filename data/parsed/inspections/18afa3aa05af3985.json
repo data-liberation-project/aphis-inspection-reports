@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID STOLTZFUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2020"
+  "date": "27-JAN-2020",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

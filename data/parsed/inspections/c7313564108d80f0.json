@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDRA PROVORSE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2021"
+  "date": "25-OCT-2021",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

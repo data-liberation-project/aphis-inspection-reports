@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Robert J. Roberson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-APR-2017"
+  "date": "14-APR-2017",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

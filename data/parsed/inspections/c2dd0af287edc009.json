@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CONNIE WATERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2015"
+  "date": "20-OCT-2015",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 21,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    }
+  ]
 }

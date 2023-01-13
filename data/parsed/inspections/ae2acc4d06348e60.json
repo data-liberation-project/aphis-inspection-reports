@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELROY R BORNTRAGER- 001",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUL-2021"
+  "date": "14-JUL-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

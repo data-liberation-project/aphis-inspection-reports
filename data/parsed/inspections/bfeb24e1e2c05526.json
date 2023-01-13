@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "KEY EQUIPMENT CO. INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "10-MAR-2022"
+  "date": "10-MAR-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

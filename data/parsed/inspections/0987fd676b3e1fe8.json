@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RODNEY L BAUMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2016"
+  "date": "19-JAN-2016",
+  "animals_total": 4482,
+  "species": [
+    {
+      "count": 2320,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 1109,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 756,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 297,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

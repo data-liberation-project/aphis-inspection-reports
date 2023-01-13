@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2016"
+  "date": "07-NOV-2016",
+  "animals_total": 347,
+  "species": [
+    {
+      "count": 219,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 128,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

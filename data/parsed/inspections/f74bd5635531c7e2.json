@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LLOYDA THARP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2022"
+  "date": "03-MAY-2022",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

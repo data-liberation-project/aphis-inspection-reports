@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Chester Williams, Debbie Williams",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2018"
+  "date": "14-FEB-2018",
+  "animals_total": 366,
+  "species": [
+    {
+      "count": 248,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

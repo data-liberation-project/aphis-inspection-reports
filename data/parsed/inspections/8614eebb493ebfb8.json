@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CALUSA NATURE CENTER AND PLANETARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2015"
+  "date": "29-OCT-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

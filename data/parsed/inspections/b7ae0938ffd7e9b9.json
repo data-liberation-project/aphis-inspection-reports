@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Alice Ketchum",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-Sep-2020"
+  "date": "03-Sep-2020",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Dog Adult (Canis lupus familiaris)",
+      "common": "Dog Adult"
+    },
+    {
+      "count": 32,
+      "scientific": "Dog Puppy (Canis lupus familiaris)",
+      "common": "Dog Puppy"
+    }
+  ]
 }

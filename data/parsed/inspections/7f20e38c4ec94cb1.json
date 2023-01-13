@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Debra L. Barnett",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

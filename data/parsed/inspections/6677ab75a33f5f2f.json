@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLIFFORD NOLT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2021"
+  "date": "18-MAY-2021",
+  "animals_total": 183,
+  "species": [
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

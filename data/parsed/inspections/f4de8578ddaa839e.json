@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MONTANA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-AUG-2022"
+  "date": "10-AUG-2022",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Lepus americanus",
+      "common": "SNOWSHOE HARE"
+    },
+    {
+      "count": 16,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 62,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

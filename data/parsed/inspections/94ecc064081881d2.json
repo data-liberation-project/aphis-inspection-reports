@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "TEMPLE UNIVERSITY MEDICAL RESEARCH BUILDING",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-MAR-2019"
+  "date": "19-MAR-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

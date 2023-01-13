@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JODI POKORSKI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2016"
+  "date": "22-FEB-2016",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

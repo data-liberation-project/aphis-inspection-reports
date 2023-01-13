@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DUKE UNIVERSITY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-JUL-2022"
+  "date": "19-JUL-2022",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 21,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
 }

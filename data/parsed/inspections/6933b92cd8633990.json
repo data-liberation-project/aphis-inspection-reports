@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEN & JUNE PAXTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2014"
+  "date": "04-SEP-2014",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

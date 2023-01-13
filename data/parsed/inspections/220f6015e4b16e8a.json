@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES Mc GINNIS & DEBBI Mc GINNIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

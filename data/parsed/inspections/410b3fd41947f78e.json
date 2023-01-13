@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NATHAN S. KLINE INSITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2015"
+  "date": "16-JUN-2015",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 22,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

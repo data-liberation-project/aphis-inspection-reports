@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "Powered Research LLC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "07-JUL-2022"
+  "date": "07-JUL-2022",
+  "animals_total": 347,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 289,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

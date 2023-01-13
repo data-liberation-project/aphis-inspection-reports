@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENT & ELLEN HORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2015"
+  "date": "17-SEP-2015",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

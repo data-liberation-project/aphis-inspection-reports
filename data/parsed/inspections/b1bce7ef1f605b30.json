@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "BEARADISE RANCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2014"
+  "date": "30-JUL-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

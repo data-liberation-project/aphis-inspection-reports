@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAKOTA ZOOLOGICAL SOCIETY, INC.",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-NOV-2021"
+  "date": "02-NOV-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

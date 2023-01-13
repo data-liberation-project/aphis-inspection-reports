@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SEAQUEST HOLDINGS, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2018"
+  "date": "15-MAY-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    }
+  ]
 }

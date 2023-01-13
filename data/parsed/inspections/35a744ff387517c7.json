@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORMAN AND IDA GINGERICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2021"
+  "date": "28-APR-2021",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

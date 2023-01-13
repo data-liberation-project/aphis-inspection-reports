@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "CONRAD FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2014"
+  "date": "17-JUN-2014",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

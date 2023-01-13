@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "WESTERN VETERINARY CONFERENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2021"
+  "date": "02-NOV-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

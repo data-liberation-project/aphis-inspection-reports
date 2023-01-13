@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NIKOLAY KOLOSNITSYN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2018"
+  "date": "15-OCT-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

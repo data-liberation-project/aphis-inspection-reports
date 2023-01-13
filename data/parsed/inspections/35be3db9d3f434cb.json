@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALAN RIGERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2014"
+  "date": "15-SEP-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

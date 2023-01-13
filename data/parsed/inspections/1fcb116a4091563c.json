@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CONCORD BIOSCIENSES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2018"
+  "date": "18-SEP-2018",
+  "animals_total": 259,
+  "species": [
+    {
+      "count": 235,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CITY GOAT FARM & ZOO INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2017"
+  "date": "26-JUN-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

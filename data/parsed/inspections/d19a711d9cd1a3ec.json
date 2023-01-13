@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN NISLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-SEP-2018"
+  "date": "25-SEP-2018",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

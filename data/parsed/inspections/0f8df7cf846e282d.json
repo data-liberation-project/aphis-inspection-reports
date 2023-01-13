@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "HOOSIER CAMEL ENCOUNTER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2017"
+  "date": "20-APR-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

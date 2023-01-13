@@ -8,5 +8,33 @@
   "site_id": "026",
   "site_name": "WIL RESEARCH SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2018"
+  "date": "11-DEC-2018",
+  "animals_total": 1900,
+  "species": [
+    {
+      "count": 720,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 444,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 676,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

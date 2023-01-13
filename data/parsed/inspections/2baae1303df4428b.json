@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEVEN LEHMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2015"
+  "date": "26-AUG-2015",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "COUNTRYSIDE PETS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2019"
+  "date": "06-AUG-2019",
+  "animals_total": 137,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

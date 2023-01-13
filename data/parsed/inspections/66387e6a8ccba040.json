@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NATURAL HISTORY MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2019"
+  "date": "02-JUL-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

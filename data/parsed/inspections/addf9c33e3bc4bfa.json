@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDALL MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2018"
+  "date": "09-JAN-2018",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

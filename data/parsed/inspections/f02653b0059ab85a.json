@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALEX DE JAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2018"
+  "date": "02-MAR-2018",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

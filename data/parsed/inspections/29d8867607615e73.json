@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SOUTHERN RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2017"
+  "date": "23-MAY-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

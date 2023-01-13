@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "STEW LEONARDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2017"
+  "date": "29-JUN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

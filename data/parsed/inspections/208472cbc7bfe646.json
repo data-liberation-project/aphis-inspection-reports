@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-OCT-2021"
+  "date": "19-OCT-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

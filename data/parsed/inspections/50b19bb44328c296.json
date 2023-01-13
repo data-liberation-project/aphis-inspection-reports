@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "PEEK-A-BOO PETTING ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2014"
+  "date": "02-APR-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WILDLIFE CONSERVATION CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2021"
+  "date": "01-FEB-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "COMMON BROWN LEMUR"
+    }
+  ]
 }

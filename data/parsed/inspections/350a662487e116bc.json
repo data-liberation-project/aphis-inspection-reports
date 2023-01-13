@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUNIOR DETWEILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2016"
+  "date": "27-JAN-2016",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

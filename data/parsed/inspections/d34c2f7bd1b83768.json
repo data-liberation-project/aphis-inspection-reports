@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "COLORADO WOLF AND WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2020"
+  "date": "07-OCT-2020",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes velox",
+      "common": "SWIFT FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

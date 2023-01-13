@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LIONSHARE EDUCATION ORGANIZATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2019"
+  "date": "24-SEP-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callicebus moloch",
+      "common": "DUSKY TITI"
+    },
+    {
+      "count": 2,
+      "scientific": "Nycticebus coucang",
+      "common": "SLOW LORIS"
+    },
+    {
+      "count": 4,
+      "scientific": "Vicugna vicugna",
+      "common": "VICUGNA"
+    }
+  ]
 }

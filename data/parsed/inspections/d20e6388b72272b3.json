@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PRINCETON UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-SEP-2014"
+  "date": "02-SEP-2014",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERRY COZART",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2016"
+  "date": "28-MAR-2016",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

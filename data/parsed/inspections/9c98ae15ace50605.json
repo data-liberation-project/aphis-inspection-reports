@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RANDY & CAMILLE DORIAN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-OCT-2022"
+  "date": "13-OCT-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cercopithecus mona",
+      "common": "MONA MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

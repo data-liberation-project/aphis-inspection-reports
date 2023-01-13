@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICTORY PUPS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2021"
+  "date": "04-FEB-2021",
+  "animals_total": 402,
+  "species": [
+    {
+      "count": 241,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 161,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

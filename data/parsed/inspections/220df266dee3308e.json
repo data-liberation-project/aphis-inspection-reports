@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Isabella Fluit, Julie Bakker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2017"
+  "date": "08-FEB-2017",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

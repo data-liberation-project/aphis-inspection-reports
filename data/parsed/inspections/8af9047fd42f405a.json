@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BRANDI BLUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2015"
+  "date": "15-OCT-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

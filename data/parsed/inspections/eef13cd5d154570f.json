@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JEANNETTE RIX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-SEP-2014"
+  "date": "05-SEP-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 11,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
 }

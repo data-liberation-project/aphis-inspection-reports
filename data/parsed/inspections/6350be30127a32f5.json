@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RILEY & PAT HOLESAPPLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2018"
+  "date": "21-AUG-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

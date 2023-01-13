@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOROTHY O' BAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2019"
+  "date": "03-JUN-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

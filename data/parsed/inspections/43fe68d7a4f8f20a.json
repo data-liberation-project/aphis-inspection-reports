@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ripley FFA - Viking Tails N Scales",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2021"
+  "date": "09-SEP-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

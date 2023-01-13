@@ -8,5 +8,48 @@
   "site_id": "003",
   "site_name": "YERKES REGIONAL PRIMATE RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2014"
+  "date": "29-JUL-2014",
+  "animals_total": 1988,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Cercocebus torquatus",
+      "common": "RED-CAPPED MANGABEY"
+    },
+    {
+      "count": 17,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 895,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 968,
+      "scientific": "Microtus agrestis",
+      "common": "EUROPEAN FIELD VOLE"
+    },
+    {
+      "count": 29,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 30,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 17,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
 }

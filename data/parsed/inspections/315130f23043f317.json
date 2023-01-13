@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANDY WEAVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-AUG-2015"
+  "date": "24-AUG-2015",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

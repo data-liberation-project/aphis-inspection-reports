@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "CEE CEE L POLT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2019"
+  "date": "17-DEC-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

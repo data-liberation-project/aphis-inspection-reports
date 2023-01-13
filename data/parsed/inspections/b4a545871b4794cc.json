@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TRACY EVERETT",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "20-JUN-2018"
+  "date": "20-JUN-2018",
+  "animals_total": 302,
+  "species": [
+    {
+      "count": 284,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

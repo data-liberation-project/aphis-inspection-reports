@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HAP ENTERPRISES INC OF BRISTOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-OCT-2015"
+  "date": "22-OCT-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

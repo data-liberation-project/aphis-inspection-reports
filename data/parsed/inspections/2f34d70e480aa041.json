@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIMOTHY LAMBRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2021"
+  "date": "21-JUN-2021",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

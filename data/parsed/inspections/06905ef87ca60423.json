@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIAN STERRENBERG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2021"
+  "date": "04-MAR-2021",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

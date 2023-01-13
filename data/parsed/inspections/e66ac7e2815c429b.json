@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUANE TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-FEB-2015"
+  "date": "25-FEB-2015",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

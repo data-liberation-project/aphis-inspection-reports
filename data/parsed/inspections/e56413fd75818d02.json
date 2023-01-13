@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CHESTATEE WILDLIFE PRESERVE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "20-FEB-2019"
+  "date": "20-FEB-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    }
+  ]
 }

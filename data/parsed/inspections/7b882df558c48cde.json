@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACOB SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2014"
+  "date": "17-SEP-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

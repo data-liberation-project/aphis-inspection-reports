@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALPINE LANE PAWS LTD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2022"
+  "date": "14-MAR-2022",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

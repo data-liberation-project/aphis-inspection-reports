@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROSAIRES RIDING ACADEMY & PONY RIDES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2018"
+  "date": "01-MAY-2018",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

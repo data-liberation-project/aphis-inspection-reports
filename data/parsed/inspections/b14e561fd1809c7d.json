@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BIOLOGICAL SCIENCES ANNEX",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "05-JUN-2019"
+  "date": "05-JUN-2019",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    },
+    {
+      "count": 30,
+      "scientific": "Onychomys leucogaster",
+      "common": "NORTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Tamias cinereicollis",
+      "common": "GRAY-COLLARED CHIPMUNK"
+    }
+  ]
 }

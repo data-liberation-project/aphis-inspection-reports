@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL HALEY",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "08-JUL-2022"
+  "date": "08-JUL-2022",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 107,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "FREDERICK RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-AUG-2015"
+  "date": "12-AUG-2015",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 29,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

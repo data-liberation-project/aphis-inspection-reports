@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA WAGLER, IVAN WAGER, JAMES WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2018"
+  "date": "28-NOV-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

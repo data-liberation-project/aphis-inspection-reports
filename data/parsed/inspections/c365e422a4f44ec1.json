@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "PLEASURE VALLEY LLAMAS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2018"
+  "date": "30-AUG-2018",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

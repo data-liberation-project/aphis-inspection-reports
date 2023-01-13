@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sherri Roy",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2017"
+  "date": "09-MAY-2017",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

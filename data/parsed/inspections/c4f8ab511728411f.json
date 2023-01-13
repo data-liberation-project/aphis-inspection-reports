@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "OUT OF THE BOX ART STUDIO",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "31-JAN-2018"
+  "date": "31-JAN-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

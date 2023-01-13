@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "KRIS CAMERON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2021"
+  "date": "15-APR-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 10,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

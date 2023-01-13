@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ROBERT CARMICHAEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2019"
+  "date": "20-AUG-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chaetophractus vellerosus",
+      "common": "SCREAMING ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

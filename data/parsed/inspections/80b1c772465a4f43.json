@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEROME STOLL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-NOV-2014"
+  "date": "20-NOV-2014",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

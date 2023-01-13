@@ -8,5 +8,43 @@
   "site_id": "BLU",
   "site_name": "BLUE UNIT VARIOUS TRAVELLING LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2014"
+  "date": "18-AUG-2014",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 11,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

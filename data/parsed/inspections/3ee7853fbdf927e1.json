@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEROME STOLL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2019"
+  "date": "06-AUG-2019",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

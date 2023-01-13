@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Boarding House Farm Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2017"
+  "date": "15-AUG-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "BATTELLE BIOMEDICAL RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2017"
+  "date": "06-DEC-2017",
+  "animals_total": 438,
+  "species": [
+    {
+      "count": 249,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 105,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 53,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

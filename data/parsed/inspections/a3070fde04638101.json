@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CALUSA NATURE CENTER AND PLANETARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2018"
+  "date": "04-MAY-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

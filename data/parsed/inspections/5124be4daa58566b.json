@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILDLIFE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAY-2017"
+  "date": "30-MAY-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

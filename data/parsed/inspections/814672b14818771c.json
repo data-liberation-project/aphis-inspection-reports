@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN HURT",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-JUN-2017"
+  "date": "05-JUN-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

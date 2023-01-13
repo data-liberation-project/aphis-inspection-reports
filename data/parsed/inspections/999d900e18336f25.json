@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUMMIT RIDGE FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2022"
+  "date": "07-JUN-2022",
+  "animals_total": 1594,
+  "species": [
+    {
+      "count": 965,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 629,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

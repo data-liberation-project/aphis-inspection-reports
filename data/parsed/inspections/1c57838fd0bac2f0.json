@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CITY & COUNTY OF SAN FRANCISCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-NOV-2022"
+  "date": "08-NOV-2022",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 7,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
 }

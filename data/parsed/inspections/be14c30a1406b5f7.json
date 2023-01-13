@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HERMAN (TONY) SCHINDLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2015"
+  "date": "02-APR-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

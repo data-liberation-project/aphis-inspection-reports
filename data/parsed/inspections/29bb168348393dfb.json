@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID FRANCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2016"
+  "date": "25-APR-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 12,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

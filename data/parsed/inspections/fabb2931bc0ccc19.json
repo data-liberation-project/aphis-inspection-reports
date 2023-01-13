@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VET TECH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-FEB-2017"
+  "date": "14-FEB-2017",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

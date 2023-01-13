@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SANTA CRUZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-AUG-2015"
+  "date": "12-AUG-2015",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Erignathus barbatus",
+      "common": "BEARDED SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Monachus schauinslandi",
+      "common": "HAWAIIAN MONK SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca hispida",
+      "common": "RINGED SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca largha",
+      "common": "LARGHA SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Spermophilus spilosoma",
+      "common": "SPOTTED GROUND SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

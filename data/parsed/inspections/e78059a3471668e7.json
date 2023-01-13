@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TRI VALLEY RESOURCES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2019"
+  "date": "07-AUG-2019",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

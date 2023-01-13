@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIVISION OF LABORATORY ANIMAL SERVICES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-FEB-2022"
+  "date": "16-FEB-2022",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

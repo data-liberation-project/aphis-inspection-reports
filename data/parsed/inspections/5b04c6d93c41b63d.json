@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PRIMERA SCIENCE CENTER LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "15-DEC-2020"
+  "date": "15-DEC-2020",
+  "animals_total": 359,
+  "species": [
+    {
+      "count": 202,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 125,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 20,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 12,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

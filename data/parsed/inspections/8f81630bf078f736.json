@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OAK LEAF KENNEL L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2019"
+  "date": "31-JUL-2019",
+  "animals_total": 238,
+  "species": [
+    {
+      "count": 168,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "LANCE GIFFORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2017"
+  "date": "27-SEP-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

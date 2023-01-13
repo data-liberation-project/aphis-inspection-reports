@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "PEGGY BEAUFORD & RODNEY BEAUFORD & RONALD BEAUFORD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-DEC-2017"
+  "date": "11-DEC-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

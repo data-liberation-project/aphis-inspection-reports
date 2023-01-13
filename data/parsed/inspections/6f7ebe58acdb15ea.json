@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ROB TRISHA AND TEGAN JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-AUG-2021"
+  "date": "12-AUG-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

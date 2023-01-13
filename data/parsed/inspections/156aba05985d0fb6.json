@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOAN DALE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAY-2021"
+  "date": "05-MAY-2021",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

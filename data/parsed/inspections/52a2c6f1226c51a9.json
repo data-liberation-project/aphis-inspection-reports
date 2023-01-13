@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "IN THE COMPANY OF WOLVES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2019"
+  "date": "20-AUG-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 7,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

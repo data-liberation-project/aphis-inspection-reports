@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROL JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-DEC-2018"
+  "date": "06-DEC-2018",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

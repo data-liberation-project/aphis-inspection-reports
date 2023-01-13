@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2018"
+  "date": "13-JUN-2018",
+  "animals_total": 2959,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Clethrionomys/myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 38,
+      "scientific": "Mastomys coucha",
+      "common": "SOUTHERN MULTIMAMMATE MOUSE"
+    },
+    {
+      "count": 277,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 2441,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 122,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

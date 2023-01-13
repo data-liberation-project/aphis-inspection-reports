@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI A MILLER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "04-OCT-2017"
+  "date": "04-OCT-2017",
+  "animals_total": 171,
+  "species": [
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

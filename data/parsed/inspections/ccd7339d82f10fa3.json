@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LA DONNA DAILEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2020"
+  "date": "27-JAN-2020",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

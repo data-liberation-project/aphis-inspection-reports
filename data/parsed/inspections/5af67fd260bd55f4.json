@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CAPRALOGICS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2021"
+  "date": "30-AUG-2021",
+  "animals_total": 794,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 568,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 138,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 57,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SQUALUS INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-NOV-2018"
+  "date": "28-NOV-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Otaria byronia",
+      "common": "SOUTH AMERICAN SEA LION"
+    },
+    {
+      "count": 7,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

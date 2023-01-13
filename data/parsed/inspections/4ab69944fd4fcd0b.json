@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AVAREE CLARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUL-2016"
+  "date": "28-JUL-2016",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

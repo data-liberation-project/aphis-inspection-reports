@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "John Johnson 002",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "27-APR-2021"
+  "date": "27-APR-2021",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    }
+  ]
 }

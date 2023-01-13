@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREAT VALLEY NATURE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2014"
+  "date": "20-FEB-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

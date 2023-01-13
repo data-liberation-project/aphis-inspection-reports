@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MAXINE HALE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2018"
+  "date": "25-JUN-2018",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

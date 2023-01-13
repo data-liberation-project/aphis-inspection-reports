@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GENE ALLEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUN-2019"
+  "date": "18-JUN-2019",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

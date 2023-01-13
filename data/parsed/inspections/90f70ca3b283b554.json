@@ -8,5 +8,18 @@
   "site_id": "IAH",
   "site_name": "GEORGE BUSH INTERCONTINENTAL AIRPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2020"
+  "date": "19-FEB-2020",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

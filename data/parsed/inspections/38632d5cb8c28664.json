@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "CHARLES DEAN COOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2017"
+  "date": "28-APR-2017",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

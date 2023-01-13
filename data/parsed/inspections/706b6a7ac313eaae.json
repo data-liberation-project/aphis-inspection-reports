@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLEARSPRING KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2014"
+  "date": "15-SEP-2014",
+  "animals_total": 196,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

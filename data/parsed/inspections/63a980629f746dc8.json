@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN HARRISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2019"
+  "date": "15-OCT-2019",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

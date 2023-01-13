@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GROWING POINT INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2016"
+  "date": "29-NOV-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

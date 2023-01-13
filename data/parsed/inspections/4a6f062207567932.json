@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAY LAMAR REIFF",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-OCT-2015"
+  "date": "22-OCT-2015",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

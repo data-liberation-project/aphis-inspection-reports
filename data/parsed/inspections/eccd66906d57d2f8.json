@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ED VAN DOORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2018"
+  "date": "05-JUN-2018",
+  "animals_total": 545,
+  "species": [
+    {
+      "count": 326,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 219,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

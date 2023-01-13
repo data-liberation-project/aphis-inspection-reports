@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BIRGIT HUTCHCROST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2018"
+  "date": "29-OCT-2018",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 13,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER RICE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2016"
+  "date": "12-JUL-2016",
+  "animals_total": 167,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

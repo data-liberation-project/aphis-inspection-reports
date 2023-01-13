@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNETH MURPHY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2018"
+  "date": "16-OCT-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

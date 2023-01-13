@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEPHEN PURDY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 11,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

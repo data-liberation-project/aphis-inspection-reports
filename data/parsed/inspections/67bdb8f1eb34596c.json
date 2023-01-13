@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEWELL AND VALINDA ROBERTSON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-OCT-2018"
+  "date": "02-OCT-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

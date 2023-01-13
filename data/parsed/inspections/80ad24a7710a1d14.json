@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MATTHAN SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2018"
+  "date": "27-AUG-2018",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

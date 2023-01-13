@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WENDY HAWLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

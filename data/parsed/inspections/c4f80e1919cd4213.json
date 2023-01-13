@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WAKEFIELD FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2017"
+  "date": "31-MAY-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mark Kauffman",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "21-OCT-2021"
+  "date": "21-OCT-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

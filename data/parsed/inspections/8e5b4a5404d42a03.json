@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JAN-2018"
+  "date": "03-JAN-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1,
+      "scientific": "Pseudomys desertor",
+      "common": "BROWN DESERT MOUSE"
+    }
+  ]
 }

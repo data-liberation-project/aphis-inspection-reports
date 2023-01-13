@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WINN DIXIE KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-DEC-2019"
+  "date": "03-DEC-2019",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

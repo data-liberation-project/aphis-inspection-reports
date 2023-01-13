@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RICHARD CUNNINGHAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 25,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

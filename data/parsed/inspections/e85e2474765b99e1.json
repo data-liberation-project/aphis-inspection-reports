@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TINA OSBORN & MICHAEL OSBORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2015"
+  "date": "21-DEC-2015",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

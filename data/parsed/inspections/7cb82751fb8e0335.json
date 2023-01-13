@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LINDNERS PUMPKIN FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2014"
+  "date": "24-SEP-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

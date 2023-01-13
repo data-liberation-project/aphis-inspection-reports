@@ -8,5 +8,63 @@
   "site_id": "001",
   "site_name": "CRAIG KOKAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2016"
+  "date": "09-MAR-2016",
+  "animals_total": 185,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Callosciurus caniceps",
+      "common": "GREY-BELLIED SQUIRREL"
+    },
+    {
+      "count": 26,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 22,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 26,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 50,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    },
+    {
+      "count": 8,
+      "scientific": "Notamacropus parma",
+      "common": "PARMA WALLABY"
+    },
+    {
+      "count": 11,
+      "scientific": "Spilogale putorius",
+      "common": "SPOTTED SKUNK"
+    },
+    {
+      "count": 24,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

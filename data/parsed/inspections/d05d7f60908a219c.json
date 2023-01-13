@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ronald Parkey",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2016"
+  "date": "13-MAY-2016",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

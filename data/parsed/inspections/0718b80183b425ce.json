@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Chris Simmons",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2019"
+  "date": "20-FEB-2019",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

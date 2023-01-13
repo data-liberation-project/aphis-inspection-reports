@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROY SCHLABACH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2019"
+  "date": "21-MAR-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

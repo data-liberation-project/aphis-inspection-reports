@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RACHEL RIDGLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2017"
+  "date": "18-SEP-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

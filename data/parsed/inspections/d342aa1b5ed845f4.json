@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ross Deters & Tim Deters",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JAN-2015"
+  "date": "14-JAN-2015",
+  "animals_total": 334,
+  "species": [
+    {
+      "count": 231,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HARVARD UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2018"
+  "date": "16-OCT-2018",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    }
+  ]
 }

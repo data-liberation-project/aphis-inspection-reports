@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES ROBISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

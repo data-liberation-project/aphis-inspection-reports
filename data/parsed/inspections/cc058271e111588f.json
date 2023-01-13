@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JOHNSONS FARM AT LOCUST HALL LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUL-2017"
+  "date": "19-JUL-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

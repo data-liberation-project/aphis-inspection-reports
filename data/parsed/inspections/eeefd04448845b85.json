@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLEN MILLER & MARLENE MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAY-2019"
+  "date": "21-MAY-2019",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

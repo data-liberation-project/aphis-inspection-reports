@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DUMOND CONSERVANCY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "24-SEP-2020"
+  "date": "24-SEP-2020",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Aotus azarae",
+      "common": "AZARAS NIGHT MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Aotus vociferans",
+      "common": "SPIXS NIGHT MONKEY"
+    },
+    {
+      "count": 65,
+      "scientific": "Aotus nancymaae",
+      "common": "NANCY MA'S NIGHT MONKEY"
+    }
+  ]
 }

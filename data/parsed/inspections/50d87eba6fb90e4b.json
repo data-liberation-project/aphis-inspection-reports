@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LOUISIANA STATE UNIVERSITY SYSTEM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2016"
+  "date": "21-JUN-2016",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

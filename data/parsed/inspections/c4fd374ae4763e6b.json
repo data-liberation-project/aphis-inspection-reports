@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICHARD D ENGLISH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-AUG-2014"
+  "date": "26-AUG-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mary Moore",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2016"
+  "date": "26-JUL-2016",
+  "animals_total": 206,
+  "species": [
+    {
+      "count": 142,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDDIE BISHOP",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-MAY-2018"
+  "date": "31-MAY-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

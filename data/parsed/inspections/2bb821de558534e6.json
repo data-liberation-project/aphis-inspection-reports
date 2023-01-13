@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Temple of Isis",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2019"
+  "date": "12-MAR-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

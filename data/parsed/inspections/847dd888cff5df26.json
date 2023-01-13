@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HIDDEN NOOK KENNELS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-DEC-2018"
+  "date": "12-DEC-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

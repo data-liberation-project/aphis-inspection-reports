@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LYNN LONG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2014"
+  "date": "30-SEP-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

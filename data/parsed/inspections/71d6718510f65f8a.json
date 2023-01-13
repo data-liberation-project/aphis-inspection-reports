@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "PHOENIX HERPETOLOGICAL SOCIETY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2014"
+  "date": "05-FEB-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 10,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

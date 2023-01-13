@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RAYMOND MULLETT",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-APR-2017"
+  "date": "24-APR-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

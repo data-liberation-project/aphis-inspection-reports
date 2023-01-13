@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILDLIFE REHAB OF GREENVILLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2022"
+  "date": "15-AUG-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
 }

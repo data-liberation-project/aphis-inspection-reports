@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THERESA KONRATH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2019"
+  "date": "26-FEB-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

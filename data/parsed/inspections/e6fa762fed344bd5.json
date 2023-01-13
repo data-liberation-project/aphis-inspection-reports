@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BMASER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2022"
+  "date": "28-JUN-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

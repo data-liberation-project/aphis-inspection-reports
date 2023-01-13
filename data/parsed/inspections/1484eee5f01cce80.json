@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIAM DAVENPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JAN-2016"
+  "date": "21-JAN-2016",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

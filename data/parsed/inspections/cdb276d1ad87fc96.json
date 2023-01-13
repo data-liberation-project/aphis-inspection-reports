@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESTER MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUL-2015"
+  "date": "29-JUL-2015",
+  "animals_total": 163,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

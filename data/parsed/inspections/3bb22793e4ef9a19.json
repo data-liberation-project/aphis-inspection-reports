@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "STONEBOAT FARM CAMELIDS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUL-2018"
+  "date": "11-JUL-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

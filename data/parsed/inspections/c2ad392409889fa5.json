@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY J WHETSTONE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2022"
+  "date": "28-APR-2022",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

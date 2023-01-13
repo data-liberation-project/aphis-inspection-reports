@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZUZANA KUKOL",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-NOV-2021"
+  "date": "04-NOV-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

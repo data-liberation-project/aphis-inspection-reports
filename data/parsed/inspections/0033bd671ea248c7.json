@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ATLANTIS PET CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JAN-2018"
+  "date": "18-JAN-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

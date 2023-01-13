@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HARVARD CENTER FOR COMPARATIVE MEDICINE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "07-SEP-2021"
+  "date": "07-SEP-2021",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

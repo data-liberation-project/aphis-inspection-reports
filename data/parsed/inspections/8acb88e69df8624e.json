@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "DEBRA K HUFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2021"
+  "date": "30-APR-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
 }

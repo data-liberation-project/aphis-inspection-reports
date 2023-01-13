@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TINA MARTIN, TROY MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2019"
+  "date": "11-FEB-2019",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

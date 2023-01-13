@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALLAN MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "27-APR-2016"
+  "date": "27-APR-2016",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

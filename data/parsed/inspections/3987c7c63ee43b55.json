@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "JEFF KOZLOWSKI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-NOV-2019"
+  "date": "25-NOV-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo x  p. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 14,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

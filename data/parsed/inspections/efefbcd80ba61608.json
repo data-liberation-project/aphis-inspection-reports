@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SANTA CRUZ",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "18-JUL-2022"
+  "date": "18-JUL-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Monachus schauinslandi",
+      "common": "HAWAIIAN MONK SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca hispida",
+      "common": "RINGED SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Erignathus barbatus",
+      "common": "BEARDED SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
 }

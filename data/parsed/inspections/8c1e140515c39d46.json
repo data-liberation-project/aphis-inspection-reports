@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Mike Langerot",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2014"
+  "date": "02-JUL-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia magna",
+      "common": "GREATER GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Muntiacus muntjak",
+      "common": "INDIAN MUNTJAC"
+    },
+    {
+      "count": 7,
+      "scientific": "Sciurus spadiceus",
+      "common": "SOUTHERN AMAZON RED SQUIRREL"
+    }
+  ]
 }

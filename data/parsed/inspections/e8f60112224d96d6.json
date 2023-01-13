@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERA MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2021"
+  "date": "03-MAR-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

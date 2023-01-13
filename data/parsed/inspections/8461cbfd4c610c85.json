@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY E JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2019"
+  "date": "27-MAR-2019",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

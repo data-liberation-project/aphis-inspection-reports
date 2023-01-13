@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Amaizeing Farm Events, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JAN-2018"
+  "date": "08-JAN-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

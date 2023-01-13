@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Hallie Ade",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2015"
+  "date": "24-MAR-2015",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

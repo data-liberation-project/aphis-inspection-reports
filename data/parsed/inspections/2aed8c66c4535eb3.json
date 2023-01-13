@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AMAZING ANIMAL AMBASSADORS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

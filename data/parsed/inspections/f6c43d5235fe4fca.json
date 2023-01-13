@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JOLENE OSBORNE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-APR-2018"
+  "date": "19-APR-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 3,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

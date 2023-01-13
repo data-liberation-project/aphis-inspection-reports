@@ -8,5 +8,18 @@
   "site_id": "000",
   "site_name": "RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2015"
+  "date": "19-AUG-2015",
+  "animals_total": 184,
+  "species": [
+    {
+      "count": 130,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 54,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

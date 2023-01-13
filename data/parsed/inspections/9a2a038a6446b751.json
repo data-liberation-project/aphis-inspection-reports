@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THEATER OF THE SEA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2016"
+  "date": "07-JUL-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 8,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

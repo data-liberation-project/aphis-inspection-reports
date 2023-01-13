@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "ANIMAL JUNCTION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2015"
+  "date": "13-APR-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
 }

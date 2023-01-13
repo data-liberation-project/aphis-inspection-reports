@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELMER, JONATHAN & RACHEL WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2020"
+  "date": "18-FEB-2020",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

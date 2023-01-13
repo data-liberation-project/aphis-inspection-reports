@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REBECCA COHEN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-JAN-2015"
+  "date": "21-JAN-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 14,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

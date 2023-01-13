@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARREL WAGLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-APR-2019"
+  "date": "03-APR-2019",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEVI A ERB",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-SEP-2017"
+  "date": "07-SEP-2017",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WOLF HAVEN INTERNATIONAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2016"
+  "date": "08-JUL-2016",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SHELLIE & SHELLY WEAVER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAR-2015"
+  "date": "17-MAR-2015",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 189,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

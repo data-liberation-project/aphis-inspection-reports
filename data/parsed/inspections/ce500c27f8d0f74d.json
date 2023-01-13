@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Linda Jorgenson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2015"
+  "date": "02-MAR-2015",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

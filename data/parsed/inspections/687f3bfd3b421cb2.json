@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ROCKEFELLER UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2017"
+  "date": "31-MAY-2017",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

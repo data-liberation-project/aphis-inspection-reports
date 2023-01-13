@@ -8,5 +8,23 @@
   "site_id": "009",
   "site_name": "Joni Swanson",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "14-OCT-2021"
+  "date": "14-OCT-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    }
+  ]
 }

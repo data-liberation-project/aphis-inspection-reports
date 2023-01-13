@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SKUNK HAVEN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2016"
+  "date": "26-JUL-2016",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Conepatus semistriatus",
+      "common": "STRIPED HOG-NOSED SKUNK"
+    },
+    {
+      "count": 61,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

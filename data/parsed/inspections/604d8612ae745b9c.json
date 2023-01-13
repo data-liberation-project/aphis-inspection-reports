@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "CST INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2019"
+  "date": "04-APR-2019",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

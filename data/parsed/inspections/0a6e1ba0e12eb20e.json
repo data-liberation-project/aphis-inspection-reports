@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DORACE BURTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2020"
+  "date": "24-FEB-2020",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

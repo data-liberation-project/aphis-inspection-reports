@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "KS DEPT. OF WILDLIFE & PARKS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-JUN-2016"
+  "date": "13-JUN-2016",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Lariscus insignis",
+      "common": "THREE-STRIPED GROUND SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vespertilio superans",
+      "common": "ASIAN PARTICOLORED BAT"
+    }
+  ]
 }

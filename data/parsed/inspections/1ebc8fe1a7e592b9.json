@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Sheryl Mc Peters",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-JAN-2016"
+  "date": "25-JAN-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

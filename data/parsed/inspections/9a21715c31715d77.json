@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "ELEPHANT WALK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2017"
+  "date": "18-OCT-2017",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    }
+  ]
 }

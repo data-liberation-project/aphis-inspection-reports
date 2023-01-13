@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEVERLY JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-NOV-2015"
+  "date": "24-NOV-2015",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 40,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

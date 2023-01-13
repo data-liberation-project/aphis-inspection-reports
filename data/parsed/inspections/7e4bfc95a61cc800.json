@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAURA KOCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

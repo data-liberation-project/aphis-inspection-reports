@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GRANDFATHER MOUNTAIN STEWARDSHIP FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2016"
+  "date": "16-MAR-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lontra longicaudis",
+      "common": "NEOTROPICAL OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 7,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

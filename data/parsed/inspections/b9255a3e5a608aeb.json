@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CYNTHIA SAFCIK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAR-2015"
+  "date": "12-MAR-2015",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 194,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 10,
+      "scientific": "Monodelphis adusta",
+      "common": "SEPIA SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 35,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

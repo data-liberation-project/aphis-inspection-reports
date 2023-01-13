@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABCORE L L C",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "20-MAR-2015"
+  "date": "20-MAR-2015",
+  "animals_total": 338,
+  "species": [
+    {
+      "count": 154,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 184,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TRACIE PERRY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-MAY-2018"
+  "date": "21-MAY-2018",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    }
+  ]
 }

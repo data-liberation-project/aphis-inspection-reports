@@ -8,5 +8,68 @@
   "site_id": "001",
   "site_name": "NATURE RESOURCE NETWORK INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-FEB-2017"
+  "date": "23-FEB-2017",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Aepyceros melampus",
+      "common": "IMPALA"
+    },
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Damaliscus pygargus",
+      "common": "BONTEBOK / BLESBOK"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus burchellii boehmi",
+      "common": "GRANT'S ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 4,
+      "scientific": "Kobus ellipsiprymnus",
+      "common": "COMMON WATERBUCK"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 9,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragelaphus strepsiceros",
+      "common": "GREATER KUDU"
+    }
+  ]
 }

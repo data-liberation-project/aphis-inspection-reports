@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNY WAGLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-MAY-2014"
+  "date": "19-MAY-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

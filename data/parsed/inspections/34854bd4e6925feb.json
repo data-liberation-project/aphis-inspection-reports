@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLETUS BONTRAGER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "01-SEP-2021"
+  "date": "01-SEP-2021",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

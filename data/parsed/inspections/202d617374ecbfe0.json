@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "JERRY HOLLY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "21-MAR-2018"
+  "date": "21-MAR-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

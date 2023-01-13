@@ -8,5 +8,18 @@
   "site_id": "01",
   "site_name": "DONNA FRAKES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2022"
+  "date": "27-APR-2022",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 147,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

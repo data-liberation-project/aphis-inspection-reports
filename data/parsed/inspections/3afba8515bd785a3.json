@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERRI NAYLOR",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "07-NOV-2014"
+  "date": "07-NOV-2014",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

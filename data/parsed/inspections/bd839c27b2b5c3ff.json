@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES HORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2014"
+  "date": "19-MAR-2014",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

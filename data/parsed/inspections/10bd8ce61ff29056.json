@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CITY & COUNTY OF SAN FRANCISCO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2015"
+  "date": "13-FEB-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus audubonii",
+      "common": "DESERT COTTONTAIL RABBIT"
+    }
+  ]
 }

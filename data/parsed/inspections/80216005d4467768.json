@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KENNETH MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2019"
+  "date": "11-APR-2019",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

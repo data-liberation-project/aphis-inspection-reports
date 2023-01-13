@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Jacob Butler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2022"
+  "date": "02-AUG-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

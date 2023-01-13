@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISA LANG",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-DEC-2014"
+  "date": "29-DEC-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

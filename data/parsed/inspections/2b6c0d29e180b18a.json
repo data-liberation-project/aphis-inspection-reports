@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HUCKSTAR HEDGEHOGS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2014"
+  "date": "06-FEB-2014",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

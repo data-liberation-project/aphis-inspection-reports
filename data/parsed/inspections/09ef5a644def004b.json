@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HOOSIER CAMEL ENCOUNTER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JAN-2020"
+  "date": "15-JAN-2020",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

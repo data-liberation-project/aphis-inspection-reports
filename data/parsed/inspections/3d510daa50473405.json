@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JASON WALLANDER & LORA WALTERS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-MAR-2015"
+  "date": "24-MAR-2015",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

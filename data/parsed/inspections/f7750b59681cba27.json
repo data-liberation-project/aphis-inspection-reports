@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Tammy Spears",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2020"
+  "date": "18-NOV-2020",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

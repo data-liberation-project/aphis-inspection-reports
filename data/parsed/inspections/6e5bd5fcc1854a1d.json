@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "OKLAHOMA STATE UNIVERSITY-ANIMAL RESOURCES UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2014"
+  "date": "12-NOV-2014",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 23,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 25,
+      "scientific": "Sylvilagus transitionalis",
+      "common": "NEW ENGLAND COTTONTAIL RABBIT"
+    }
+  ]
 }

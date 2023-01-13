@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MATTIE & PERRY J BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2019"
+  "date": "25-MAR-2019",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

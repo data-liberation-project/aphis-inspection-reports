@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WYOMING FISH & GAME",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2019"
+  "date": "25-JUN-2019",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 28,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 30,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
 }

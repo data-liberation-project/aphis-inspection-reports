@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Cindy Jensen, Richard Jensen",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2017"
+  "date": "07-AUG-2017",
+  "animals_total": 374,
+  "species": [
+    {
+      "count": 293,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

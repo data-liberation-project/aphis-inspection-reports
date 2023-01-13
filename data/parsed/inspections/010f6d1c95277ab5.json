@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HERITAGE PUPPIES L.L.C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2017"
+  "date": "28-MAR-2017",
+  "animals_total": 535,
+  "species": [
+    {
+      "count": 423,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

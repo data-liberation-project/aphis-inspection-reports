@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wild West Heritage Foundation, Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-OCT-2017"
+  "date": "12-OCT-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

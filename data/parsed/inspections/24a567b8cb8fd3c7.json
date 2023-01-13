@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREGG & CATHY PITTMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2016"
+  "date": "27-OCT-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 34,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    }
+  ]
 }

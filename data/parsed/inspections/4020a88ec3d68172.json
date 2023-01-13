@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BLUE HILLS TRAILSIDE MUSEUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2019"
+  "date": "15-OCT-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

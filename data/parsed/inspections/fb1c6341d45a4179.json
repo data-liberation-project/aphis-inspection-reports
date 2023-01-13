@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Deb Wellman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-APR-2019"
+  "date": "23-APR-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

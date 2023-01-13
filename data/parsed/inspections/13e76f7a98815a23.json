@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMMY HULVEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2019"
+  "date": "02-JUL-2019",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

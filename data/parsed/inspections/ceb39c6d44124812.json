@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NICKI LAWSON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-FEB-2019"
+  "date": "19-FEB-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

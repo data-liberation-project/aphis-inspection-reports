@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THOMAS F EDMONDS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "28-NOV-2016"
+  "date": "28-NOV-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON BORNTREGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUN-2021"
+  "date": "08-JUN-2021",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

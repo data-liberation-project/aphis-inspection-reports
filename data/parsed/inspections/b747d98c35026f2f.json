@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2016"
+  "date": "26-JAN-2016",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

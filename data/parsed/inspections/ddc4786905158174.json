@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MONTANA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2015"
+  "date": "20-MAY-2015",
+  "animals_total": 197,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    },
+    {
+      "count": 97,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "STEPHEN AND RHODA DETWEILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2021"
+  "date": "22-NOV-2021",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

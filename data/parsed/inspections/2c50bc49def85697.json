@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-MAY-2016"
+  "date": "17-MAY-2016",
+  "animals_total": 244,
+  "species": [
+    {
+      "count": 235,
+      "scientific": "Clethrionomys/myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

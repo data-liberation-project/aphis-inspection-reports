@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LAKOTA WOLF PRESERVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2015"
+  "date": "05-AUG-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

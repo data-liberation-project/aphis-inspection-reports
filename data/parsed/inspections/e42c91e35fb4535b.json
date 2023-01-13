@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dixieland Bullies",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2022"
+  "date": "28-SEP-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

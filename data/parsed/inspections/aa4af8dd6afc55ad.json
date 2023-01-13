@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WIZARD OF PAWS WILDLIFE EDUCATION INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2019"
+  "date": "29-APR-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

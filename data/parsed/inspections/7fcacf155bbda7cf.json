@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Patsy Garmon",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "23-JUN-2016"
+  "date": "23-JUN-2016",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

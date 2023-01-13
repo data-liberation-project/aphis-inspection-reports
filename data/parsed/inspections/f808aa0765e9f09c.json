@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ELIZABETH M COX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2022"
+  "date": "15-APR-2022",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 27,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Kemp Farms L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-FEB-2015"
+  "date": "26-FEB-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus transitionalis",
+      "common": "NEW ENGLAND COTTONTAIL RABBIT"
+    }
+  ]
 }

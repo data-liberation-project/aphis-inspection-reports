@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VIRGINIA COMMONWEALTH UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2015"
+  "date": "27-AUG-2015",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 47,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

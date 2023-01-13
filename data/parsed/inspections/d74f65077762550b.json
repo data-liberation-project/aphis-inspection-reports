@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLES & WILMA WARD",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-APR-2017"
+  "date": "11-APR-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
 }

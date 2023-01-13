@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Marty Murray",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-MAY-2016"
+  "date": "19-MAY-2016",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

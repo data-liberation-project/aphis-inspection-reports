@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WARRICK COUNTY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-JAN-2015"
+  "date": "08-JAN-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

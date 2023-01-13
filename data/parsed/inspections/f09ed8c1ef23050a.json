@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY FORSYTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2019"
+  "date": "26-JUN-2019",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

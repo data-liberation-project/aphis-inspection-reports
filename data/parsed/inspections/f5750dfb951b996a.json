@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GENNY NICHOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2016"
+  "date": "29-MAR-2016",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

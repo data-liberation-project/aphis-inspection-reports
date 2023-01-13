@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HIDDEN CLOVER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2016"
+  "date": "15-APR-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

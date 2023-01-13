@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "City of Clay Center",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "25-AUG-2021"
+  "date": "25-AUG-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

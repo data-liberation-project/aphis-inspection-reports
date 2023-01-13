@@ -8,5 +8,23 @@
   "site_id": "SFO",
   "site_name": "SAN FRANCISCO INTERNATIONAL AIRPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAY-2017"
+  "date": "18-MAY-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

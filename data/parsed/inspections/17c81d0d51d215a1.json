@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DAVID L WHETSTONE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2022"
+  "date": "27-OCT-2022",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

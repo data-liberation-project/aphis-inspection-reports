@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBBIE HOWLETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2017"
+  "date": "15-FEB-2017",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEAN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2019"
+  "date": "25-APR-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

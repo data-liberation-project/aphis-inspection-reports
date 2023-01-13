@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "STEPHEN WILLIAMSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2021"
+  "date": "15-JUL-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 6,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    }
+  ]
 }

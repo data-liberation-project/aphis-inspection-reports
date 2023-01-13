@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "BUSCH GARDENS, TAMPA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-JAN-2020"
+  "date": "14-JAN-2020",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Macropus fuliginosus",
+      "common": "WESTERN GREY KANGAROO"
+    },
+    {
+      "count": 6,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus eugenii",
+      "common": "TAMMAR WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    },
+    {
+      "count": 26,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

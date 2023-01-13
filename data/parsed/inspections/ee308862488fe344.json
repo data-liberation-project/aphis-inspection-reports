@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JANICE HENRY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2017"
+  "date": "15-MAY-2017",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

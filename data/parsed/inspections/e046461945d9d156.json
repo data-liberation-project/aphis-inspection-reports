@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "PROJECT WILDSONG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2019"
+  "date": "26-FEB-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans x c. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

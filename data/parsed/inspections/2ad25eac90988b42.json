@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNY GABEL AND BARB GABEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2022"
+  "date": "13-JAN-2022",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 105,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

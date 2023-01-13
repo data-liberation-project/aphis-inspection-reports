@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "SUSAN RUDOLPH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2014"
+  "date": "04-OCT-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

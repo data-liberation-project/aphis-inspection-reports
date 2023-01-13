@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARLOS BRANNON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-MAR-2018"
+  "date": "01-MAR-2018",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

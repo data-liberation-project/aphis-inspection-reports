@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDALL BONNETTE & SHEREE BONNETTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-FEB-2018"
+  "date": "12-FEB-2018",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

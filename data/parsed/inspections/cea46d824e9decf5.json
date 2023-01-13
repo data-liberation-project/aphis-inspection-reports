@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SHADOW VALLEY LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2022"
+  "date": "20-OCT-2022",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

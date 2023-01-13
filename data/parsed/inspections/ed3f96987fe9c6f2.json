@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "JAMES R CROWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAY-2014"
+  "date": "14-MAY-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca assamensis",
+      "common": "ASSAM MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    }
+  ]
 }

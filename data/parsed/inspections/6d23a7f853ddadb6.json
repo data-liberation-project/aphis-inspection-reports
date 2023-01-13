@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROSES CUDDLY CANINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2021"
+  "date": "12-JAN-2021",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "BECKMAN COULTER, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2014"
+  "date": "18-AUG-2014",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 8,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
 }

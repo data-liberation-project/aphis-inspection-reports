@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JAMES R CROWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2016"
+  "date": "18-APR-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca assamensis",
+      "common": "ASSAM MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    }
+  ]
 }

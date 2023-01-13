@@ -8,5 +8,53 @@
   "site_id": "001",
   "site_name": "MONKEY JUNGLE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2021"
+  "date": "30-JUN-2021",
+  "animals_total": 251,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 84,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Cercopithecus diana",
+      "common": "DIANA MONKEY"
+    },
+    {
+      "count": 125,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Ateles fusciceps",
+      "common": "BROWN-HEADED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    },
+    {
+      "count": 6,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Callicebus cupreus",
+      "common": "COPPERY TITI"
+    }
+  ]
 }

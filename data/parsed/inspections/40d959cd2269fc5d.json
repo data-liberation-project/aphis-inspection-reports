@@ -8,5 +8,33 @@
   "site_id": "005",
   "site_name": "INTERVET INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2015"
+  "date": "23-JUN-2015",
+  "animals_total": 573,
+  "species": [
+    {
+      "count": 245,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 24,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 239,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

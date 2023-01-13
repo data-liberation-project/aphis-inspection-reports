@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "James Smith , Jered Smith, Summer Smith",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "09-APR-2015"
+  "date": "09-APR-2015",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

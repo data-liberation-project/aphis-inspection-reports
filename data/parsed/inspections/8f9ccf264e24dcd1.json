@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Grizzly Discovery Center, Inc",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "16-JUN-2022"
+  "date": "16-JUN-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 25,
+      "scientific": "Spermophilus armatus",
+      "common": "UINTA GROUND SQUIRREL"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 5,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Larry Muchrath",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "08-SEP-2021"
+  "date": "08-SEP-2021",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 28,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

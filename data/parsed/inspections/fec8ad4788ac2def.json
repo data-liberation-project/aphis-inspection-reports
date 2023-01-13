@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Keith Ratzlaff, Lila Ratzlaff",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2016"
+  "date": "11-FEB-2016",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

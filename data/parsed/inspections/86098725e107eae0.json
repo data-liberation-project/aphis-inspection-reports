@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BENJAMIN LAMBRIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2022"
+  "date": "07-MAR-2022",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

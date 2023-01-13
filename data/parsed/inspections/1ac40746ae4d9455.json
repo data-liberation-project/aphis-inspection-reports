@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALISA BREEDLOVE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2014"
+  "date": "05-NOV-2014",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

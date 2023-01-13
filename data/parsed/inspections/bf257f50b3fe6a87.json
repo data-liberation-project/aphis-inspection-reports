@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VIRGINIA TECH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2019"
+  "date": "09-DEC-2019",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 26,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

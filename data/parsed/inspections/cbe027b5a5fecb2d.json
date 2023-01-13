@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAN KEITH AND JEFFREY SHROCK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2021"
+  "date": "04-MAY-2021",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN COBLENTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2021"
+  "date": "30-MAR-2021",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABBIOTEC, L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2018"
+  "date": "01-FEB-2018",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

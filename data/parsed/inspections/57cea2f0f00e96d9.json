@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Pamela Welch",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2014"
+  "date": "08-APR-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

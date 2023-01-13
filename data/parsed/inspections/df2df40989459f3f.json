@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DIANE ZIOL CAULFIELD-DORN & MIKE DORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2016"
+  "date": "31-MAR-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    }
+  ]
 }

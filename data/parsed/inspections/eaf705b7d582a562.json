@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LIBERTY WILDLIFE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-JAN-2018"
+  "date": "24-JAN-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus aberti",
+      "common": "TASSEL-EARED SQUIRREL / ABERT'S SQUIRREL"
+    }
+  ]
 }

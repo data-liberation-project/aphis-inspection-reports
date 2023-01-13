@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Linda Kent",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2019"
+  "date": "09-JUL-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

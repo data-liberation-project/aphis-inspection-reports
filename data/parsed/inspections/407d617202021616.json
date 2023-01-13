@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABNER RENNO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUL-2021"
+  "date": "21-JUL-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

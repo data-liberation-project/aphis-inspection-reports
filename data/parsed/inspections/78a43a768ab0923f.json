@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EDWIN L WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-NOV-2022"
+  "date": "02-NOV-2022",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

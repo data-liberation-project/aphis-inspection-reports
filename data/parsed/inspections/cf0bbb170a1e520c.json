@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "NELSON PEARSON I I I",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2020"
+  "date": "11-FEB-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

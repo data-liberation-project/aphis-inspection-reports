@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MUSKINGUM RIVER ESTATES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "03-MAY-2019"
+  "date": "03-MAY-2019",
+  "animals_total": 245,
+  "species": [
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 99,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

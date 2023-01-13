@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BENITA BOYD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-SEP-2018"
+  "date": "27-SEP-2018",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 82,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

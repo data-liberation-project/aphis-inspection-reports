@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROLINAS MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-MAR-2016"
+  "date": "30-MAR-2016",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Psammomys obesus",
+      "common": "FAT SAND RAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

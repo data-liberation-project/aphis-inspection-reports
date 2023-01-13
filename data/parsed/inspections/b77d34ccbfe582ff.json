@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Rolando Garcia",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "02-FEB-2022"
+  "date": "02-FEB-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Aotus azarae",
+      "common": "AZARAS NIGHT MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GRIFFITH PARK PONY RIDES, INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2021"
+  "date": "04-MAY-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

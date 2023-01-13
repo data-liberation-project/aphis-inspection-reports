@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "COAT OF MANY COLORS KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2022"
+  "date": "21-JUN-2022",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

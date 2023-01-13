@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "The Dallas World Aquarium",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-JUN-2022"
+  "date": "08-JUN-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Trichechus manatus",
+      "common": "CARIBBEAN MANATEE"
+    },
+    {
+      "count": 4,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    }
+  ]
 }

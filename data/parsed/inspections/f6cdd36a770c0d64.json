@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIKHAIL RAYLYANU",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2017"
+  "date": "11-APR-2017",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

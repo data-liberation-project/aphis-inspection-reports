@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRY MC CREARY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "29-NOV-2016"
+  "date": "29-NOV-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Speothos venaticus",
+      "common": "BUSH DOG"
+    }
+  ]
 }

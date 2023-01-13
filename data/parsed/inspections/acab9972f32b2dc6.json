@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY GREFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2015"
+  "date": "29-SEP-2015",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Thylamys pusilla",
+      "common": "SMALL FAT-TAILED OPOSSUM"
+    }
+  ]
 }

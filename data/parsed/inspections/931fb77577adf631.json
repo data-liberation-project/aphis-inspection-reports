@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FREEMAN, SHARON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2016"
+  "date": "29-NOV-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    }
+  ]
 }

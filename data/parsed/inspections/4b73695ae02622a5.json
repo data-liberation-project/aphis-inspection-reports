@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBINSON SERVICES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2019"
+  "date": "24-APR-2019",
+  "animals_total": 16500,
+  "species": [
+    {
+      "count": 8500,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8000,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

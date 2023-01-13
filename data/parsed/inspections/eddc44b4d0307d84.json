@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "West Sound Wildlife Shelter",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-APR-2018"
+  "date": "20-APR-2018",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

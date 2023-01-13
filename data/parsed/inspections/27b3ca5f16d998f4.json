@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "NJMS MEDICAL SCIENCE BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2017"
+  "date": "16-AUG-2017",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 50,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

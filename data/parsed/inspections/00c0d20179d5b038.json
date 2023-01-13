@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "Brian Lentz & Jessica Lentz",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "07-NOV-2022"
+  "date": "07-NOV-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 3,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
 }

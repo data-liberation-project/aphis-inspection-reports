@@ -8,5 +8,18 @@
   "site_id": "01",
   "site_name": "INFINITY GLIDERS WESTMINSTER LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2020"
+  "date": "14-DEC-2020",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

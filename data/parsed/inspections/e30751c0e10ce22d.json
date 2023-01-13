@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALL CAMPUS LOCATIONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2016"
+  "date": "13-JAN-2016",
+  "animals_total": 402,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 252,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 147,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
 }

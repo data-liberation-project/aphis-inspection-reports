@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SCOTT HANDLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-NOV-2017"
+  "date": "16-NOV-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    }
+  ]
 }

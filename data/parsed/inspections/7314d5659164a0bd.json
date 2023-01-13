@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IOWA WESTERN COMMUNITY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2018"
+  "date": "07-NOV-2018",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

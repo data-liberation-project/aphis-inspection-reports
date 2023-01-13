@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lovin' Pups, LLC",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-NOV-2021"
+  "date": "24-NOV-2021",
+  "animals_total": 169,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

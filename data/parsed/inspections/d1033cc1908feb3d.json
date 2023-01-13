@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ABCORE, L.L.C.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2014"
+  "date": "29-OCT-2014",
+  "animals_total": 305,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 150,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 150,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

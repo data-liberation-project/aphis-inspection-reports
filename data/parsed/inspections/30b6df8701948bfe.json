@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ARLINGTON DEPT OF PARKS & RECREATION",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-SEP-2015"
+  "date": "08-SEP-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
 }

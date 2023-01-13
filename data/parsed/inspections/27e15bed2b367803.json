@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "ORANGE COUNTY CONVENTION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2017"
+  "date": "04-FEB-2017",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

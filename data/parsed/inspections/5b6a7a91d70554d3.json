@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FANNIE MARIE GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2021"
+  "date": "22-FEB-2021",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CAILOUS CALLING ANIMAL RESCUE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JAN-2020"
+  "date": "22-JAN-2020",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

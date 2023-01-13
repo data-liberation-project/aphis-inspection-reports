@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "RICHARD TOZER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2020"
+  "date": "27-JAN-2020",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bassariscus astutus",
+      "common": "RINGTAIL"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Otolemur crassicaudatus",
+      "common": "GREATER BUSHBABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

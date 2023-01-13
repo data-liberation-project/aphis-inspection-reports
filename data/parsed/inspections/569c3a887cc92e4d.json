@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "B T S RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2021"
+  "date": "25-MAY-2021",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WORLDWIDE MOVIE ANIMALS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAY-2019"
+  "date": "20-MAY-2019",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

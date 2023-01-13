@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OAK MOUNTAIN STATE PARK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2016"
+  "date": "15-NOV-2016",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

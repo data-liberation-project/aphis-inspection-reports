@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA WINSHIP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2018"
+  "date": "26-FEB-2018",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

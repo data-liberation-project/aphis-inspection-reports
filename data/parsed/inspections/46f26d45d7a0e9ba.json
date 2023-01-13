@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FORAGE ANIMAL PRODUCTION RESEARCH UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-FEB-2017"
+  "date": "22-FEB-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

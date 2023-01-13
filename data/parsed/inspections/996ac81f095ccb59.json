@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LIBERTY RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2014"
+  "date": "11-FEB-2014",
+  "animals_total": 278,
+  "species": [
+    {
+      "count": 247,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

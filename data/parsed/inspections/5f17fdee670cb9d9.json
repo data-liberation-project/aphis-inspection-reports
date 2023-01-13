@@ -8,5 +8,13 @@
   "site_id": "015",
   "site_name": "Pima Medical Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2016"
+  "date": "02-MAR-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KOHLER FARMS INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-JUL-2014"
+  "date": "17-JUL-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

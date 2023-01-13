@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JENNIFER CLARK-001",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2021"
+  "date": "06-JUL-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
 }

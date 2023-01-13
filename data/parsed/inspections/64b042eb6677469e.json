@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WUXI APPTEC INC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-SEP-2021"
+  "date": "28-SEP-2021",
+  "animals_total": 1657,
+  "species": [
+    {
+      "count": 1366,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 291,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

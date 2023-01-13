@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Norma Jean Harders",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-AUG-2014"
+  "date": "07-AUG-2014",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

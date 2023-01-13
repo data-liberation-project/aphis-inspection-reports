@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Puppiys R Us L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2016"
+  "date": "30-NOV-2016",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

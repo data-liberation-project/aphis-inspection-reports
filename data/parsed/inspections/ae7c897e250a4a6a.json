@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JODY VANDE WEERD & TOM VANDE WEERD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2019"
+  "date": "14-NOV-2019",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

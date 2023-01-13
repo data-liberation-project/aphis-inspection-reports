@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Brian Letsinger",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "17-NOV-2021"
+  "date": "17-NOV-2021",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

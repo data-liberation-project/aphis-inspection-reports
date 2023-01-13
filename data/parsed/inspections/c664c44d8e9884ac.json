@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIS L TROYER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "17-MAR-2015"
+  "date": "17-MAR-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Kevin and Rachel Wagler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2022"
+  "date": "02-MAR-2022",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

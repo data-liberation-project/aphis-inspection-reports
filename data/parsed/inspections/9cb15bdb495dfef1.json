@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERI VIERKANT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2015"
+  "date": "14-DEC-2015",
+  "animals_total": 182,
+  "species": [
+    {
+      "count": 143,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

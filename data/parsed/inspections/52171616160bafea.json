@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WILDLIFE AMBASSADORS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-APR-2021"
+  "date": "26-APR-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
 }

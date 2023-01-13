@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PINE CREEK ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-AUG-2020"
+  "date": "12-AUG-2020",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

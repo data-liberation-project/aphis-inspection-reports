@@ -8,5 +8,68 @@
   "site_id": "003",
   "site_name": "UNIVERSITY OF UTAH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-MAY-2018"
+  "date": "23-MAY-2018",
+  "animals_total": 369,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 36,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 39,
+      "scientific": "Microtus californicus",
+      "common": "CALIFORNIA VOLE"
+    },
+    {
+      "count": 13,
+      "scientific": "Neotoma albigula",
+      "common": "WHITE-THROATED WOODRAT"
+    },
+    {
+      "count": 131,
+      "scientific": "Neotoma lepida",
+      "common": "DESERT WOODRAT"
+    },
+    {
+      "count": 64,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 37,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

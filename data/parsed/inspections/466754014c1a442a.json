@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STANLEY GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2022"
+  "date": "02-FEB-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

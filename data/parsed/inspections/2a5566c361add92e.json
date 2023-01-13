@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DUANE MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2018"
+  "date": "06-APR-2018",
+  "animals_total": 162,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

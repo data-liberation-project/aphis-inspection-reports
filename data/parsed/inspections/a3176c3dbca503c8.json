@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN THOMPSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2016"
+  "date": "19-MAY-2016",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

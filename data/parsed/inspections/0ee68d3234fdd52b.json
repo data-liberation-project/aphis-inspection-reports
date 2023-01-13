@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "HARVARD UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2021"
+  "date": "04-MAY-2021",
+  "animals_total": 1739,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 88,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1142,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 347,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    },
+    {
+      "count": 98,
+      "scientific": "Peromyscus gossypinus",
+      "common": "COTTON DEERMOUSE"
+    }
+  ]
 }

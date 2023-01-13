@@ -8,5 +8,43 @@
   "site_id": "TRA",
   "site_name": "CENTRAL FLORIDA ANIMAL RESERVE INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2016"
+  "date": "14-DEC-2016",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Genetta genetta",
+      "common": "SMALL SPOTTED GENET"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 25,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Paradoxurus hermaphroditus",
+      "common": "COMMON PALM CIVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

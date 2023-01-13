@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "LOMA LINDA UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2014"
+  "date": "12-JUN-2014",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca assamensis",
+      "common": "ASSAM MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio papio",
+      "common": "GUINEA BABOON"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

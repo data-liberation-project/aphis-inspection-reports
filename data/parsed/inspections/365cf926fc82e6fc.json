@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Wild Reptiles, L L C",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-FEB-2014"
+  "date": "18-FEB-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

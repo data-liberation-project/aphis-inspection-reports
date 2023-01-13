@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Leon and Esther Troyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2022"
+  "date": "09-MAY-2022",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

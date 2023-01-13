@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "DIANNE ODEGARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lasiurus borealis",
+      "common": "RED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiurus intermedius",
+      "common": "NORTHERN YELLOW BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Myotis myotis",
+      "common": "LARGE MOUSE-EARED BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Nycticeius humeralis",
+      "common": "EVENING BAT"
+    },
+    {
+      "count": 19,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    }
+  ]
 }

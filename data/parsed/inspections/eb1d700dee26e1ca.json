@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2017"
+  "date": "22-JUN-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Rangifer tarandus caribou",
+      "common": "CARIBOU"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LESLIE FRENCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUN-2021"
+  "date": "03-JUN-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

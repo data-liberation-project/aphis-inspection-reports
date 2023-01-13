@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEAN CASE & JIMMY RICHARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2019"
+  "date": "04-FEB-2019",
+  "animals_total": 144,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

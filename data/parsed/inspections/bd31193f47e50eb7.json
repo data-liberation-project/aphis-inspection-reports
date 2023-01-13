@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MONICA SHEELEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2016"
+  "date": "25-MAY-2016",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

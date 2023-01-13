@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LAKE IMMUNOGENICS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2015"
+  "date": "15-JUL-2015",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 42,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

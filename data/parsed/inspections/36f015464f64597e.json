@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GARY OR CAROLYN BROWN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2020"
+  "date": "03-NOV-2020",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

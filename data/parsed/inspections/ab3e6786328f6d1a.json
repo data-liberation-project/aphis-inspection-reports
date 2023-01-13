@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Bartons West End Farms Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-OCT-2022"
+  "date": "18-OCT-2022",
+  "animals_total": 293,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 282,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

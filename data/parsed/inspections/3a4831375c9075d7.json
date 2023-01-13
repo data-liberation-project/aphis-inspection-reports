@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAREN HATHAWAY",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "15-JAN-2015"
+  "date": "15-JAN-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

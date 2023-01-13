@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JEFFREY LOWE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2018"
+  "date": "07-MAR-2018",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo x  p. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "KEVIN & MARLA YEUBANKS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2019"
+  "date": "30-DEC-2019",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

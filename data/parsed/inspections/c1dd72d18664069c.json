@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERCEDES THOMPSON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-AUG-2020"
+  "date": "17-AUG-2020",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

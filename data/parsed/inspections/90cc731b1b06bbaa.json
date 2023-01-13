@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PREMIUM PAWS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-OCT-2018"
+  "date": "15-OCT-2018",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

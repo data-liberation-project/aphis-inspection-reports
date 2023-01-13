@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Paw Print Companions LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2021"
+  "date": "06-JUL-2021",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

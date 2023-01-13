@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CARE RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-JUL-2021"
+  "date": "08-JUL-2021",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

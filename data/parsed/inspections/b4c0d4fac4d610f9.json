@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ST JUDE CHILDRENS RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-AUG-2015"
+  "date": "24-AUG-2015",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 23,
+      "scientific": "Monodelphis sorex",
+      "common": "SHREWISH SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 20,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 13,
+      "scientific": "Sigmodon fulviventer",
+      "common": "TAWNY-BELLIED COTTON RAT"
+    }
+  ]
 }

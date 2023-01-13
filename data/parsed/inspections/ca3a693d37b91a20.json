@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AARON GLICK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2014"
+  "date": "20-MAR-2014",
+  "animals_total": 1356,
+  "species": [
+    {
+      "count": 1248,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 108,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

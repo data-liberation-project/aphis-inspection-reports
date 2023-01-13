@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "UNDERGROUND REPTILES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2018"
+  "date": "03-MAY-2018",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis margarita",
+      "common": "SAND CAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BLACK ROCK RETREAT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2019"
+  "date": "05-FEB-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

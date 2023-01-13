@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CYNTHIA LABBE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAY-2019"
+  "date": "31-MAY-2019",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

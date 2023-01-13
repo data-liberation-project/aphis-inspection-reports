@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRY STRICKLAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JAN-2020"
+  "date": "09-JAN-2020",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

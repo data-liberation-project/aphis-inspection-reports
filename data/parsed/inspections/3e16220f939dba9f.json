@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "LEM MINISH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2016"
+  "date": "15-JUL-2016",
+  "animals_total": 162,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 113,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

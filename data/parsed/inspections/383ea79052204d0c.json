@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TIMBER RIDGE FARMS",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "16-MAY-2017"
+  "date": "16-MAY-2017",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

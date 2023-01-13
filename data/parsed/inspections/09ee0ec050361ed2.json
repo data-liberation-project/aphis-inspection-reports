@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EVA & ISAAC MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2015"
+  "date": "11-MAY-2015",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

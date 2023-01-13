@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF DENNING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2015"
+  "date": "01-OCT-2015",
+  "animals_total": 222,
+  "species": [
+    {
+      "count": 170,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

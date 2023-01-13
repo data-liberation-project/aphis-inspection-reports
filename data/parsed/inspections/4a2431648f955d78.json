@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WORLD BIRD SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JAN-2015"
+  "date": "27-JAN-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

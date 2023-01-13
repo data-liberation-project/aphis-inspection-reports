@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "NELSON PEARSON I I I",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2021"
+  "date": "07-JUL-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

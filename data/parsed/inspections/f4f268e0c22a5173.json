@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANITA GUSTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2022"
+  "date": "08-SEP-2022",
+  "animals_total": 172,
+  "species": [
+    {
+      "count": 117,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

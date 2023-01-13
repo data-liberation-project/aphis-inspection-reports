@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "Happ-Y-Loosa Stables Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JAN-2016"
+  "date": "06-JAN-2016",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

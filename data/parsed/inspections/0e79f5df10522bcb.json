@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MB Kennel",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "22-JUL-2021"
+  "date": "22-JUL-2021",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

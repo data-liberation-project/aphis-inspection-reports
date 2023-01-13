@@ -8,5 +8,18 @@
   "site_id": "007",
   "site_name": "PINE ACRE RABBITRY/FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2015"
+  "date": "28-MAY-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

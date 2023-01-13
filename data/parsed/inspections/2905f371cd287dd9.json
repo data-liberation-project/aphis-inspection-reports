@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAMELA WHITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2017"
+  "date": "18-SEP-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

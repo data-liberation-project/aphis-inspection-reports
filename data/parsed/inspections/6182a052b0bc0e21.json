@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VALENTE RIOS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2018"
+  "date": "19-MAR-2018",
+  "animals_total": 342,
+  "species": [
+    {
+      "count": 233,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

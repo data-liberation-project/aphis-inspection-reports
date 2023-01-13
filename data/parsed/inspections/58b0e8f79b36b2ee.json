@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARINE BIOLOGICAL LABORATORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2019"
+  "date": "13-AUG-2019",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 30,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    }
+  ]
 }

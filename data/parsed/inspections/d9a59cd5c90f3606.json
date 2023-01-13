@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "BMB INTERNET AND EDUCATIONAL EXHIBITIONS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-APR-2021"
+  "date": "15-APR-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Pigs",
+      "common": "PIGS"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

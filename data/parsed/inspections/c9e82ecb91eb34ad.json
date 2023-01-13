@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Wild West Heritage Foundation, Inc",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-JUL-2016"
+  "date": "18-JUL-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "PHX",
   "site_name": "ALASKA AIRLINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAY-2015"
+  "date": "07-MAY-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

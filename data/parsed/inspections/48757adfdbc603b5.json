@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CITY OF LINCOLN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2014"
+  "date": "30-SEP-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
 }

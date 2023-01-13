@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PARTY ANIMALS ATLANTA LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2019"
+  "date": "24-JUL-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

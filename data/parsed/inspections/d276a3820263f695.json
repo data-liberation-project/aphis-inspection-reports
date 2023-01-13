@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OHIO STATE UNIVERSITY CAMPUS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "17-JUN-2019"
+  "date": "17-JUN-2019",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

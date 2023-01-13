@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID COBB & JUDY COBB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-OCT-2015"
+  "date": "15-OCT-2015",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

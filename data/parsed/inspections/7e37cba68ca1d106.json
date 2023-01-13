@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "Mellon Institute",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2022"
+  "date": "02-MAR-2022",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
 }

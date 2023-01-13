@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEO & ALICE KENKEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2015"
+  "date": "27-FEB-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

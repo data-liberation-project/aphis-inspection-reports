@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN LASSERRE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-NOV-2014"
+  "date": "19-NOV-2014",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

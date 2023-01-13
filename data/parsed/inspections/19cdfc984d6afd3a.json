@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUNSET KENNELS LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2022"
+  "date": "02-MAY-2022",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

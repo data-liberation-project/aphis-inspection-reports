@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF SCHULTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2018"
+  "date": "15-MAY-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 4,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    }
+  ]
 }

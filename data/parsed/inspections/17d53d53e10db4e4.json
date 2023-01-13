@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CALKINS NATURE AREA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2018"
+  "date": "14-MAR-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

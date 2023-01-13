@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VALLEY VIEW K 9S LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2021"
+  "date": "07-SEP-2021",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

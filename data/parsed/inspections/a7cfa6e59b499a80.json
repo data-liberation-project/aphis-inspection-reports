@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALAN PACKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2014"
+  "date": "11-JUN-2014",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

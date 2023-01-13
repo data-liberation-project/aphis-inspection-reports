@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAYSTAR PUPPIES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2019"
+  "date": "06-JUN-2019",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

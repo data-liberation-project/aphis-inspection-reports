@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRISTAL MITCHELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2022"
+  "date": "05-JAN-2022",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

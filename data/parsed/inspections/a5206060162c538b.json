@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Dwayne Hurliman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 1180,
+  "species": [
+    {
+      "count": 957,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 223,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

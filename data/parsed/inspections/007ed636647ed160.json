@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Roar Foundation",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "23-SEP-2021"
+  "date": "23-SEP-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 9,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

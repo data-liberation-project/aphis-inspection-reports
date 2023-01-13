@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GENE WHEELER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2015"
+  "date": "19-AUG-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    }
+  ]
 }

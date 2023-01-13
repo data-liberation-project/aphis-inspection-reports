@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEVERLY FOX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JAN-2018"
+  "date": "18-JAN-2018",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 85,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

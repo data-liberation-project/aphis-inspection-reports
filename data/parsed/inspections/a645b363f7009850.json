@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WildCare",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "21-SEP-2022"
+  "date": "21-SEP-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
 }

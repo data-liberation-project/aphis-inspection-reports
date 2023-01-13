@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Carol Fry",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-NOV-2021"
+  "date": "30-NOV-2021",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 64,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "HENRY GROSENBACHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUN-2019"
+  "date": "12-JUN-2019",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

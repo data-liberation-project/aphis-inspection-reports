@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HELENE HAMRICK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2018"
+  "date": "14-NOV-2018",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

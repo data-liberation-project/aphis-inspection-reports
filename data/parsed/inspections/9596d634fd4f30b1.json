@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEITH EVANS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-APR-2018"
+  "date": "25-APR-2018",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 34,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GARY GOOSTREE & RUTH ANN GOOSTREE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2014"
+  "date": "19-MAY-2014",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANTA'S WORKSHOP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2018"
+  "date": "12-APR-2018",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

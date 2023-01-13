@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN PETERSEN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-FEB-2018"
+  "date": "23-FEB-2018",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

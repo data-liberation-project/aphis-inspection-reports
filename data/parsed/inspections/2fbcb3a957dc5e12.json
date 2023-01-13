@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRANDEIS UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2015"
+  "date": "19-MAY-2015",
+  "animals_total": 211,
+  "species": [
+    {
+      "count": 205,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    }
+  ]
 }

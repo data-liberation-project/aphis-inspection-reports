@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUMMERS GOLDENS LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-JUL-2017"
+  "date": "10-JUL-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

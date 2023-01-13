@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Molly Campbell",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2014"
+  "date": "29-SEP-2014",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

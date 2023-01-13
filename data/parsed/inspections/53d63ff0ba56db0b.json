@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROGER & LEAH YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUN-2021"
+  "date": "30-JUN-2021",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

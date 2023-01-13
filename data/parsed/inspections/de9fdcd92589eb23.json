@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "FRANK T & NANCY LEE CHRISTIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2017"
+  "date": "25-MAY-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

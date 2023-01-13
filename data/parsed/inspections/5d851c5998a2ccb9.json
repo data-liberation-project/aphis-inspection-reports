@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROBERT MITCHELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2015"
+  "date": "17-JUN-2015",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Dorcopsis muelleri",
+      "common": "BROWN FOREST WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 7,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

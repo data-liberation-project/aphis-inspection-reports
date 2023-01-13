@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROWEVILLE PUPPIES",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-FEB-2020"
+  "date": "25-FEB-2020",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Terranova Enterprises Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-OCT-2014"
+  "date": "27-OCT-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 9,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

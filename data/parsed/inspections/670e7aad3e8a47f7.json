@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL & PRICILLA SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2015"
+  "date": "27-MAY-2015",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

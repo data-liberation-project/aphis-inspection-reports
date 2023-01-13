@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF NEVADA, LAS VEGAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2015"
+  "date": "09-DEC-2015",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Hemicentetes semispinosus",
+      "common": "STREAKED TENREC"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

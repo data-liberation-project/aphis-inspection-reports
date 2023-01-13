@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "B E GROTEWOLD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2022"
+  "date": "21-APR-2022",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

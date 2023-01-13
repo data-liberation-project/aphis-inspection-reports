@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOY DE ANN MC GAHEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2022"
+  "date": "12-DEC-2022",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

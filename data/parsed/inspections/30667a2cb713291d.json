@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BISHOPS PUMPKIN FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2018"
+  "date": "08-MAY-2018",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 37,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
 }

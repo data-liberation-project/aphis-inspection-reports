@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL SHIRK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "04-NOV-2019"
+  "date": "04-NOV-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

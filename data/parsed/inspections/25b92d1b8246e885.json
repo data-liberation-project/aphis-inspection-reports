@@ -8,5 +8,28 @@
   "site_id": "003",
   "site_name": "DIXIE STAMPEDE L P",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-NOV-2017"
+  "date": "14-NOV-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

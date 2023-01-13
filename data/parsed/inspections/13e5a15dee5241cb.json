@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIRANDA CANTRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2022"
+  "date": "09-JUN-2022",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

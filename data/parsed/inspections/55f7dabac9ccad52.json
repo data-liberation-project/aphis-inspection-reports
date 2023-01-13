@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIVISION OF RESEARCH AND GRADUATE STUDIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2015"
+  "date": "15-JUL-2015",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 195,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

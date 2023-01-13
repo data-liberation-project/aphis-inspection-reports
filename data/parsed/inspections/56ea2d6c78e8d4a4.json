@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FOREIGN ANIMAL RESEARCH UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2022"
+  "date": "20-SEP-2022",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 44,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

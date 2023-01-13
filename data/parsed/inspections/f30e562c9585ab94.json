@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "KAREN GROSSENBACHER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JAN-2015"
+  "date": "07-JAN-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 40,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 60,
+      "scientific": "Gerbillus gerbillus",
+      "common": "EGYPTIAN GERBIL"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "P W E C ENTERPRISES, INC.",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "20-JUL-2022"
+  "date": "20-JUL-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

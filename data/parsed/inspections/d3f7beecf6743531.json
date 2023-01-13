@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JONAS DELAGRANGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2014"
+  "date": "17-NOV-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

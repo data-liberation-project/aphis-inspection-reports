@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MISSOURI RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2018"
+  "date": "05-JUL-2018",
+  "animals_total": 161,
+  "species": [
+    {
+      "count": 127,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

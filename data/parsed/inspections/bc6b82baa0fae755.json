@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOIS BAKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2014"
+  "date": "02-OCT-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

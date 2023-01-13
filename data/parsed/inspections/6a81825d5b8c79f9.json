@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEW YORK STATE PSYCHIATRIC INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2018"
+  "date": "15-MAY-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

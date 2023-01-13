@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "GRADUATE SCIENCE RESEARCH CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2016"
+  "date": "11-APR-2016",
+  "animals_total": 1961,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 276,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 71,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 379,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1023,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 204,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUL-2015"
+  "date": "07-JUL-2015",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

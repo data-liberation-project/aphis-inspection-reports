@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Beechy",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2022"
+  "date": "15-JUL-2022",
+  "animals_total": 116,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

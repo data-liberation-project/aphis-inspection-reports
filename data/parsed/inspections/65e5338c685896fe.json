@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEN TROYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2017"
+  "date": "17-NOV-2017",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

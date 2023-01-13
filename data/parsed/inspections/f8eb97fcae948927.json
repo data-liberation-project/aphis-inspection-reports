@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IZA B. HOLT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2015"
+  "date": "17-JUL-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MONKEY BUSINESS SWFL LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2021"
+  "date": "06-OCT-2021",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 22,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
 }

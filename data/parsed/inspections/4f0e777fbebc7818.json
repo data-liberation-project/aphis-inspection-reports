@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MOSE HERSHBERGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

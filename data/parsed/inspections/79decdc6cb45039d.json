@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CITY OF ST PAUL",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "29-SEP-2022"
+  "date": "29-SEP-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    }
+  ]
 }

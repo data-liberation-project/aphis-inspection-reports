@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TRACIE WELLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-AUG-2018"
+  "date": "07-AUG-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 17,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

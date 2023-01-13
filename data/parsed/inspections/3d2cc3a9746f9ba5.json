@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DERRICK, FREDERICK & KAY ROSS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2017"
+  "date": "01-MAR-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus thibetanus",
+      "common": "ASIATIC BLACK BEAR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA GOODWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2018"
+  "date": "17-APR-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

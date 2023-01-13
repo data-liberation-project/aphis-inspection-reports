@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HARVEY SHROCK",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "17-SEP-2019"
+  "date": "17-SEP-2019",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

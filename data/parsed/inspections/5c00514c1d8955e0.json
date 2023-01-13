@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALLEGHENY-SINGER RESEARCH INSTITUTE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-APR-2022"
+  "date": "28-APR-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

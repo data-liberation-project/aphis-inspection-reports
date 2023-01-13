@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LUCILE ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2014"
+  "date": "30-DEC-2014",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

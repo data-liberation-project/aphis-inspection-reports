@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DALE BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2019"
+  "date": "21-FEB-2019",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

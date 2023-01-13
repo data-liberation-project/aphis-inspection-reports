@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "SEA LION SPLASH LLC",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "25-FEB-2021"
+  "date": "25-FEB-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Otaria byronia",
+      "common": "SOUTH AMERICAN SEA LION"
+    }
+  ]
 }

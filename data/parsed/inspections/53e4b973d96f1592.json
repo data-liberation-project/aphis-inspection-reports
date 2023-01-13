@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RICHARD D ENGLISH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2016"
+  "date": "01-JUN-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

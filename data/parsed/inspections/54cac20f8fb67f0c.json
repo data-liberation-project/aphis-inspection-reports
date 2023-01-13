@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROLYN RABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2018"
+  "date": "01-MAY-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

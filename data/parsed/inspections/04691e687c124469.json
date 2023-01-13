@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CINDY GARNER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2022"
+  "date": "12-SEP-2022",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

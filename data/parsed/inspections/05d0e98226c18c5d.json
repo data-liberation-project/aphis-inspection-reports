@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "MCDB-GOLD & Wilderness",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2022"
+  "date": "07-MAR-2022",
+  "animals_total": 678,
+  "species": [
+    {
+      "count": 466,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 212,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
 }

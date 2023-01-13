@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lewis Bloom",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2015"
+  "date": "09-JUN-2015",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

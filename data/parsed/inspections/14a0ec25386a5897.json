@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RICK AND SARA SANDBULTE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 289,
+  "species": [
+    {
+      "count": 185,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

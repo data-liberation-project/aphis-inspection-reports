@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Texas A&M University",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-SEP-2015"
+  "date": "24-SEP-2015",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

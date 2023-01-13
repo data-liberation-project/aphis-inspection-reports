@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLINVET USA LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2021"
+  "date": "01-SEP-2021",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 132,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

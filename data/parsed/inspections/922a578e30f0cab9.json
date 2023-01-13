@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SCOTT HARPER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2017"
+  "date": "02-OCT-2017",
+  "animals_total": 208,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

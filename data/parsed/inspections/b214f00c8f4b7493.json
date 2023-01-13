@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHIL HOOKER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "19-SEP-2017"
+  "date": "19-SEP-2017",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    }
+  ]
 }

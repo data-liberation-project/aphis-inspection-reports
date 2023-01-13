@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "003 - Three Little Pitties Rescue",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-AUG-2021"
+  "date": "20-AUG-2021",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

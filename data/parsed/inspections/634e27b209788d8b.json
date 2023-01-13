@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "POLK COUNTY CONSERVATION BOARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2018"
+  "date": "20-JUL-2018",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 10,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

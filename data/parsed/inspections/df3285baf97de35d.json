@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Janet Poggi",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "03-FEB-2021"
+  "date": "03-FEB-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
 }

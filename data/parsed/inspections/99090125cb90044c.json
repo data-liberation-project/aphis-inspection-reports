@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DIANNE ODEGARD",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "29-JUL-2021"
+  "date": "29-JUL-2021",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Myotis velifer",
+      "common": "CAVE MYOTIS"
+    },
+    {
+      "count": 52,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lasiurus intermedius",
+      "common": "NORTHERN YELLOW BAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Nycticeius humeralis",
+      "common": "EVENING BAT"
+    }
+  ]
 }

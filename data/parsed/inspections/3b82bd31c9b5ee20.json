@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA MILSOM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2017"
+  "date": "15-FEB-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GEORGIA INSTITUTE OF TECHNOLOGY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2022"
+  "date": "06-JUL-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

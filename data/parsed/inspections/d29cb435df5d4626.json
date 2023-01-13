@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RUTH HERSHBERGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "22-MAY-2019"
+  "date": "22-MAY-2019",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

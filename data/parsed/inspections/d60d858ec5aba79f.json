@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARLIN DIBBET",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2017"
+  "date": "13-JAN-2017",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

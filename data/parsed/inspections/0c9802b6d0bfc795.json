@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DEBRA STRAGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2021"
+  "date": "18-MAR-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    }
+  ]
 }

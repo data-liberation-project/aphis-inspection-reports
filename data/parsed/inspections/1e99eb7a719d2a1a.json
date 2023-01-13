@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROSWELL PARK CANCER INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2018"
+  "date": "26-JUN-2018",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 173,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

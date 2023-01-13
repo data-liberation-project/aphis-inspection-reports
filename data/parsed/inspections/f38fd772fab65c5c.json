@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JORGE I MORALES",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "14-AUG-2020"
+  "date": "14-AUG-2020",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

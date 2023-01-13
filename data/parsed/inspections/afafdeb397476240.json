@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R B ENTERPRISES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-NOV-2016"
+  "date": "01-NOV-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

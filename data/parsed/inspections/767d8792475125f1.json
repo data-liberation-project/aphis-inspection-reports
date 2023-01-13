@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "MONTGOMERY ZOO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2014"
+  "date": "09-JUL-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 6,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 1,
+      "scientific": "Rhinoceros unicornis",
+      "common": "INDIAN RHINOCEROS"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus imperator",
+      "common": "EMPEROR TAMARIN"
+    },
+    {
+      "count": 7,
+      "scientific": "Saimiri ustus",
+      "common": "GOLDEN-BACKED SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    }
+  ]
 }

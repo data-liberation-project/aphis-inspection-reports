@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Joshua Hayward",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "29-SEP-2022"
+  "date": "29-SEP-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    }
+  ]
 }

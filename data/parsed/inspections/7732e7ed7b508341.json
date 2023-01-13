@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RESEARCH BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2018"
+  "date": "08-AUG-2018",
+  "animals_total": 221,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 189,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

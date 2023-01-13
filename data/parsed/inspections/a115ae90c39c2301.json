@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MONTANA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2017"
+  "date": "20-JUN-2017",
+  "animals_total": 372,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 279,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 21,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    },
+    {
+      "count": 17,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

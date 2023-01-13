@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISSA CRAIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-FEB-2017"
+  "date": "13-FEB-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    }
+  ]
 }

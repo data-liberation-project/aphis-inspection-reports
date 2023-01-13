@@ -8,5 +8,113 @@
   "site_id": "001",
   "site_name": "THE WILDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2017"
+  "date": "04-OCT-2017",
+  "animals_total": 550,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 227,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 11,
+      "scientific": "Bos javanicus",
+      "common": "BANTENG"
+    },
+    {
+      "count": 49,
+      "scientific": "Budorcas taxicolor",
+      "common": "TAKIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 53,
+      "scientific": "Cervus elaphus",
+      "common": "RED DEER"
+    },
+    {
+      "count": 10,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Cuon alpinus",
+      "common": "DHOLE"
+    },
+    {
+      "count": 50,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    },
+    {
+      "count": 20,
+      "scientific": "Equus caballus przewalskii",
+      "common": "PRZEWALSKI'S WILD HORSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 23,
+      "scientific": "Equus onager",
+      "common": "ONAGER"
+    },
+    {
+      "count": 7,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 8,
+      "scientific": "Hippotragus niger",
+      "common": "SABLE ANTELOPE"
+    },
+    {
+      "count": 9,
+      "scientific": "Lycaon pictus",
+      "common": "AFRICAN HUNTING DOG / AFRICAN WILD DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Naemorhedus caudatus",
+      "common": "LONG-TAILED GORAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryx beisa",
+      "common": "EAST AFRICAN ORYX (BEISA ORYX)"
+    },
+    {
+      "count": 27,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 5,
+      "scientific": "Rhinoceros unicornis",
+      "common": "INDIAN RHINOCEROS"
+    },
+    {
+      "count": 5,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    }
+  ]
 }

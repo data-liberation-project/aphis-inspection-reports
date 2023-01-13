@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BEE CITY L L C",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "28-JUN-2022"
+  "date": "28-JUN-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Uncia uncia",
+      "common": "SNOW LEOPARD"
+    }
+  ]
 }

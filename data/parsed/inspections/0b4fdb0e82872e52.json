@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "BARN HILL PRESERVE OF DELAWARE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-AUG-2016"
+  "date": "12-AUG-2016",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus dingo",
+      "common": "DINGO"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Galago senegalensis",
+      "common": "NORTHERN LESSER BUSHBABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
 }

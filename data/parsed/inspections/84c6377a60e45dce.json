@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRYE SWENSON",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "08-NOV-2017"
+  "date": "08-NOV-2017",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

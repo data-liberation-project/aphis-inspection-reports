@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BILL & THECKLA TRIPLETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-SEP-2021"
+  "date": "20-SEP-2021",
+  "animals_total": 153,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

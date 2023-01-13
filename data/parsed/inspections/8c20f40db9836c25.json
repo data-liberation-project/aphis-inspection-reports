@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JACKIE & JOE BOWYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-NOV-2014"
+  "date": "03-NOV-2014",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

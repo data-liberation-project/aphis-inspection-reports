@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JEFF YACH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2018"
+  "date": "16-AUG-2018",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "POWERED RESEARCH LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2018"
+  "date": "22-MAR-2018",
+  "animals_total": 233,
+  "species": [
+    {
+      "count": 169,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 64,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

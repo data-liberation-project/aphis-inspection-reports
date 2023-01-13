@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GARY AND DOROTHY SANBORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2015"
+  "date": "01-JUN-2015",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 117,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 99,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "ZOETIS GLOBAL MANUFACTURING AND SUPPLY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2021"
+  "date": "16-JUL-2021",
+  "animals_total": 1999,
+  "species": [
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 295,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1252,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 324,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

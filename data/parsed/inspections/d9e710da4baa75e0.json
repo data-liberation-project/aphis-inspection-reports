@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HENRY FOSTER BIO MEDICAL LABORATORIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2019"
+  "date": "24-JUL-2019",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 119,
+      "scientific": "Cricetulus migratorius",
+      "common": "ARMENIAN HAMSTER / MIGRATORY HAMSTER"
+    }
+  ]
 }

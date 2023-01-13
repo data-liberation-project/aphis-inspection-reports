@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Stuhr Museum of the Prairie Pioneer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2014"
+  "date": "13-MAY-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "TENNESSEE AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-SEP-2022"
+  "date": "07-SEP-2022",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 6,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Eulemur collaris",
+      "common": "RED-COLLARED BROWN LEMUR"
+    }
+  ]
 }

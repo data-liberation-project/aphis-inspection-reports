@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BETTY S FETTERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2019"
+  "date": "21-AUG-2019",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

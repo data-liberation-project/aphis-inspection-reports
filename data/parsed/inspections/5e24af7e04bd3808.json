@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VETERINARY TECHNOLOGY DEPARTMENT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2022"
+  "date": "08-MAR-2022",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "GARY & VICTORIA SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2014"
+  "date": "17-SEP-2014",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

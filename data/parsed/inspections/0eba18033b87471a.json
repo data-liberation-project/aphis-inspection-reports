@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ANN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2014"
+  "date": "20-NOV-2014",
+  "animals_total": 260,
+  "species": [
+    {
+      "count": 166,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

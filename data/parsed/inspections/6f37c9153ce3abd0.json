@@ -8,5 +8,18 @@
   "site_id": "TRA1",
   "site_name": "WHITE UNIT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2015"
+  "date": "16-JUL-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Shondel Puppy Paws",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-FEB-2022"
+  "date": "28-FEB-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

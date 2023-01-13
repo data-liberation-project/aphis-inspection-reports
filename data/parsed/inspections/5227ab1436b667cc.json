@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEROY D YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-SEP-2014"
+  "date": "04-SEP-2014",
+  "animals_total": 303,
+  "species": [
+    {
+      "count": 170,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 133,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

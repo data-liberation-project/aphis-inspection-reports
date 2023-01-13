@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUSTIN SAWYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAY-2016"
+  "date": "16-MAY-2016",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BERTEK, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2019"
+  "date": "17-JUN-2019",
+  "animals_total": 426,
+  "species": [
+    {
+      "count": 364,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

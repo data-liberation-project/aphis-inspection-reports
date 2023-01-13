@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUZANNE HIATT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUL-2015"
+  "date": "06-JUL-2015",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

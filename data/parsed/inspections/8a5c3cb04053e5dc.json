@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BILL ZELENSKI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-AUG-2017"
+  "date": "23-AUG-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

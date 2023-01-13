@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "SARAH MALONE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-MAY-2022"
+  "date": "13-MAY-2022",
+  "animals_total": 3428,
+  "species": [
+    {
+      "count": 1473,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 611,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 611,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 733,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BEVERLY MIRACLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-FEB-2017"
+  "date": "15-FEB-2017",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Sylvilagus bachmani",
+      "common": "BRUSH RABBIT"
+    }
+  ]
 }

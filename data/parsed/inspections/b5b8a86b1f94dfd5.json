@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TERRY GUOAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2020"
+  "date": "04-NOV-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    }
+  ]
 }

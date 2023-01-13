@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBRA RITTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2018"
+  "date": "09-AUG-2018",
+  "animals_total": 320,
+  "species": [
+    {
+      "count": 228,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 92,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

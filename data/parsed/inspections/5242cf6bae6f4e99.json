@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BRIAN AND BECKY HABERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2015"
+  "date": "13-OCT-2015",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 9,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    }
+  ]
 }

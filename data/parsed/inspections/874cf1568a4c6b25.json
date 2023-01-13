@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LIVING WATERS BIBLE CAMP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JAN-2017"
+  "date": "19-JAN-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

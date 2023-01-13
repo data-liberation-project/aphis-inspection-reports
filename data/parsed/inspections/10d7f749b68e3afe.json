@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMARA SEVIGNY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2019"
+  "date": "19-AUG-2019",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 104,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 10,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

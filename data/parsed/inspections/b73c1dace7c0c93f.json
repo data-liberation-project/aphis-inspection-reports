@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "C J'S ANIMAL ADVENTURES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-OCT-2016"
+  "date": "06-OCT-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
 }

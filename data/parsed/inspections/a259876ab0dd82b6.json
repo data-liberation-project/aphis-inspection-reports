@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2014"
+  "date": "17-APR-2014",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

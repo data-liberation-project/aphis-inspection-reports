@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GEORGETOWN UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2021"
+  "date": "14-SEP-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 6,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

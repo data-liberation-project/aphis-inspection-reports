@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "GENEX FARMS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "17-MAY-2017"
+  "date": "17-MAY-2017",
+  "animals_total": 164,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 160,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

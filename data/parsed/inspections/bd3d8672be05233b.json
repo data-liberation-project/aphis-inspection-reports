@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSIE HOSTETLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2020"
+  "date": "27-AUG-2020",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

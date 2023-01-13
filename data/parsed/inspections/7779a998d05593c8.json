@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZOLA PRICE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-SEP-2015"
+  "date": "10-SEP-2015",
+  "animals_total": 287,
+  "species": [
+    {
+      "count": 183,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

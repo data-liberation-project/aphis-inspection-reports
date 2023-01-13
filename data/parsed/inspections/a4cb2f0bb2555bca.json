@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "JODI CARNEVALE",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "26-APR-2022"
+  "date": "26-APR-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Galago senegalensis",
+      "common": "NORTHERN LESSER BUSHBABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

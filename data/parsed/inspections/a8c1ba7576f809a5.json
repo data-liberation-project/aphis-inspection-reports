@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN JONAS & MABEL YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-NOV-2017"
+  "date": "08-NOV-2017",
+  "animals_total": 235,
+  "species": [
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 111,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

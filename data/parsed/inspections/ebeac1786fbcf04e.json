@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMANDA CRESS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2017"
+  "date": "02-MAY-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

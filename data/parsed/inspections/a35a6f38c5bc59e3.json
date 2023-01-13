@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMOS HILTY RUTHANN HILTY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2019"
+  "date": "20-NOV-2019",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

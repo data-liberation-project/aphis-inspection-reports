@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ABBVIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2015"
+  "date": "08-SEP-2015",
+  "animals_total": 559,
+  "species": [
+    {
+      "count": 317,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 216,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

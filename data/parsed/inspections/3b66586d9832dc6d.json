@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISA COPELAND",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUL-2014"
+  "date": "18-JUL-2014",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

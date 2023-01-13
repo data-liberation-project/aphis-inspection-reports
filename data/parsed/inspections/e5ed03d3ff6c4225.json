@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "SECOND CHANCES WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-FEB-2020"
+  "date": "06-FEB-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    }
+  ]
 }

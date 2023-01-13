@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALVIN CANTRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2021"
+  "date": "21-DEC-2021",
+  "animals_total": 149,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

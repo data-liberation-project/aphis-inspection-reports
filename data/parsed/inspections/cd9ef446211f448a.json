@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JIMMY REX LILES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAY-2017"
+  "date": "10-MAY-2017",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Notamacropus agilis",
+      "common": "AGILE WALLABY"
+    },
+    {
+      "count": 9,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

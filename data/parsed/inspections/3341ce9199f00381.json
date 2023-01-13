@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "Bridges For Brain Injury Inc - TRA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2022"
+  "date": "02-APR-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Myocastor coypus",
+      "common": "NUTRIA"
+    }
+  ]
 }

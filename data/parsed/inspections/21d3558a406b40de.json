@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "PACIFIC BIOLABS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2016"
+  "date": "28-JAN-2016",
+  "animals_total": 922,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 683,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 226,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

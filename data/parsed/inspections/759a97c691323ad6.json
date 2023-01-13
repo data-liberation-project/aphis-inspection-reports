@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GERALD KREIDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2021"
+  "date": "22-JUL-2021",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

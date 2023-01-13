@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ECHOES OF NATURE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-APR-2014"
+  "date": "10-APR-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CITY OF ELGIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2021"
+  "date": "17-AUG-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 5,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

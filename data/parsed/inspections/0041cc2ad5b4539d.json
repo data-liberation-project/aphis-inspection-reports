@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHERRY FOMBY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2018"
+  "date": "30-AUG-2018",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

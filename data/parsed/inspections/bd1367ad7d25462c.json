@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "MARGARET & JEFF MCCLANAHAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAR-2014"
+  "date": "04-MAR-2014",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 15,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 10,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    }
+  ]
 }

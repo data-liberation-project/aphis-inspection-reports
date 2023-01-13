@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMMY WALKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2015"
+  "date": "02-APR-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

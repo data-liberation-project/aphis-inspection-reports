@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "DANIEL KAUFFMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2018"
+  "date": "26-JUL-2018",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

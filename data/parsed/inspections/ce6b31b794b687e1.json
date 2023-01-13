@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SIBERIA HUSKY KENNEL",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "13-NOV-2014"
+  "date": "13-NOV-2014",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

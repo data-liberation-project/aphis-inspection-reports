@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL MAST RACHEL ANN MAST",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "23-FEB-2017"
+  "date": "23-FEB-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

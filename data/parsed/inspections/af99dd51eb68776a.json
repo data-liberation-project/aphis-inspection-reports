@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "OZARK VALLEY PUPPIES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2021"
+  "date": "17-NOV-2021",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

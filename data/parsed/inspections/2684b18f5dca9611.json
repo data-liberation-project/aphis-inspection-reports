@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES MILES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2018"
+  "date": "05-JUL-2018",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

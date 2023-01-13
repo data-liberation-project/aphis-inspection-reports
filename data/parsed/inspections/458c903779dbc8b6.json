@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TOMMY BISHOP",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-MAY-2017"
+  "date": "05-MAY-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

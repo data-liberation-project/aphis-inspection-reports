@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA TABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2017"
+  "date": "15-MAR-2017",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

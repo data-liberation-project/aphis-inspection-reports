@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Monica Buerger",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-JUN-2014"
+  "date": "19-JUN-2014",
+  "animals_total": 327,
+  "species": [
+    {
+      "count": 243,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

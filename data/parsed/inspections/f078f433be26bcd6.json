@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MONROE HERSCHBERGER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "23-AUG-2021"
+  "date": "23-AUG-2021",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

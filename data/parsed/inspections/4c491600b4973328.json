@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PRE-CLINICAL RESEARCH SERVICES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2017"
+  "date": "18-APR-2017",
+  "animals_total": 164,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

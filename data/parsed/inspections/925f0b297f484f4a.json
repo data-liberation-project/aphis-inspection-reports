@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRAN STRAIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAR-2015"
+  "date": "26-MAR-2015",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

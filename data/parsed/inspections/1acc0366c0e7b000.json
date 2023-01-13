@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SIGMOVIR BIOSYSTEMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAR-2016"
+  "date": "15-MAR-2016",
+  "animals_total": 3396,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Sigmodon fulviventer",
+      "common": "TAWNY-BELLIED COTTON RAT"
+    },
+    {
+      "count": 3295,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
 }

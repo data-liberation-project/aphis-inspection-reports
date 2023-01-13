@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID YODER JR",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "04-JAN-2017"
+  "date": "04-JAN-2017",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

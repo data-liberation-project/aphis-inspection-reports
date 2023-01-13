@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Brenda Poe",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-SEP-2018"
+  "date": "13-SEP-2018",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

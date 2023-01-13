@@ -8,5 +8,38 @@
   "site_id": "004",
   "site_name": "Saving Wildlife International",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2022"
+  "date": "06-JUN-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Hemicentetes semispinosus",
+      "common": "STREAKED TENREC"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes tricinctus",
+      "common": "BRAZILIAN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

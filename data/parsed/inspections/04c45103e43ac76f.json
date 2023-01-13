@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EASTERN VIRGINIA MEDICAL SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAR-2014"
+  "date": "11-MAR-2014",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 33,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

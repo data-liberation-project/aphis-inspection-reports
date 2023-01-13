@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "LOS ANGELES COUNTY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-FEB-2018"
+  "date": "15-FEB-2018",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    }
+  ]
 }

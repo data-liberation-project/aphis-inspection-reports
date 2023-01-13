@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-MAY-2019"
+  "date": "14-MAY-2019",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

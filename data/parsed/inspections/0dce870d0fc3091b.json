@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "MISSOURI RESEARCH CENTER",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "01-AUG-2022"
+  "date": "01-AUG-2022",
+  "animals_total": 273,
+  "species": [
+    {
+      "count": 208,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

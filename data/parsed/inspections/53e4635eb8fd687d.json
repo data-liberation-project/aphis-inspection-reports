@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "D AND S SALEM KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JAN-2018"
+  "date": "17-JAN-2018",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

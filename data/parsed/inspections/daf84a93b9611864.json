@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN D ERB",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "28-MAR-2014"
+  "date": "28-MAR-2014",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

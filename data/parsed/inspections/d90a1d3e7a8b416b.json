@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jered & Summer Smith",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2018"
+  "date": "31-OCT-2018",
+  "animals_total": 259,
+  "species": [
+    {
+      "count": 135,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 124,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

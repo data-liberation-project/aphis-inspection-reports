@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOB MACKEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2018"
+  "date": "04-OCT-2018",
+  "animals_total": 275,
+  "species": [
+    {
+      "count": 209,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

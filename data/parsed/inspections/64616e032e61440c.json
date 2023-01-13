@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MILWAUKEE CAREER COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2019"
+  "date": "21-MAR-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

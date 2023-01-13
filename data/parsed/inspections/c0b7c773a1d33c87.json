@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "YAKIMA VALLEY COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUN-2022"
+  "date": "02-JUN-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

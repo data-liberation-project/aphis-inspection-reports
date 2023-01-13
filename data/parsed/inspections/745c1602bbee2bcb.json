@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "John Blaes",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2021"
+  "date": "05-JAN-2021",
+  "animals_total": 247,
+  "species": [
+    {
+      "count": 167,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "Zoomagination L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2022"
+  "date": "27-APR-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Rangifer tarandus caribou",
+      "common": "CARIBOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    }
+  ]
 }

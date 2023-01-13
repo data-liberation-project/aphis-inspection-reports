@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEAMANS GREEN APPLEBARN L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-APR-2014"
+  "date": "24-APR-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
 }

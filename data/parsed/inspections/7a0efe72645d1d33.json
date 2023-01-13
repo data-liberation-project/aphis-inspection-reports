@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "CYTOGEN RESEARCH & DEVELOPMENT INC",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "07-OCT-2021"
+  "date": "07-OCT-2021",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 105,
+      "scientific": "Cricetulus migratorius",
+      "common": "ARMENIAN HAMSTER / MIGRATORY HAMSTER"
+    },
+    {
+      "count": 20,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    }
+  ]
 }

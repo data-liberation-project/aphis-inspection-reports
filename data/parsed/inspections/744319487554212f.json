@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "WOLVES WOODS & WILDLIFE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-MAY-2015"
+  "date": "26-MAY-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

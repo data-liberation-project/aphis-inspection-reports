@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SUNSHINE MONKEY SHINES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-FEB-2021"
+  "date": "09-FEB-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus olivaceus",
+      "common": "WEEPER CAPUCHIN"
+    }
+  ]
 }

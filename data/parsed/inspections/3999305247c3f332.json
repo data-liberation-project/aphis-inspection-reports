@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHERI HILL KENNEL AND SUPPLY INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-APR-2021"
+  "date": "27-APR-2021",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sigmodon arizonae",
+      "common": "ARIZONA COTTON RAT"
+    }
+  ]
 }

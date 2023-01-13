@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Animals of a Different Color, LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-SEP-2022"
+  "date": "14-SEP-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

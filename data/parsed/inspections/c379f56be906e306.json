@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMES SWETTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2016"
+  "date": "01-AUG-2016",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

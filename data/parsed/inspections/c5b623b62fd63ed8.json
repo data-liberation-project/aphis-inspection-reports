@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELI AND MARY KING",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "21-JUN-2022"
+  "date": "21-JUN-2022",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

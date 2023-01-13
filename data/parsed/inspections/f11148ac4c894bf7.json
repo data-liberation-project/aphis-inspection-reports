@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WANDA RICHISON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-MAR-2016"
+  "date": "16-MAR-2016",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Lovina Troyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2018"
+  "date": "30-JAN-2018",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

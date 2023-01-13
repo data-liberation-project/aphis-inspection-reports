@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "B T S RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-MAY-2015"
+  "date": "11-MAY-2015",
+  "animals_total": 236,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 142,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

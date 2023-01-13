@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BAXTER HEALTHCARE CORPORATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2014"
+  "date": "27-AUG-2014",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

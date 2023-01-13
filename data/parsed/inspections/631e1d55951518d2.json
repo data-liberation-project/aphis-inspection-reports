@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL KING",
   "insp_type": "PRELICENSE INSPECTION #3",
-  "date": "02-APR-2015"
+  "date": "02-APR-2015",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

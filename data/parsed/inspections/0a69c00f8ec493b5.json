@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "GREEN HILL FARM & ED AREA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2017"
+  "date": "18-APR-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

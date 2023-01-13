@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "4 J CONSERVATION CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2022"
+  "date": "27-MAY-2022",
+  "animals_total": 181,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 106,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 34,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
 }

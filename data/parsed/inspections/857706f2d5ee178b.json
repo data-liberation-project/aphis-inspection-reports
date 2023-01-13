@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "KELLY JONES AND STEVEN JONES",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "14-DEC-2017"
+  "date": "14-DEC-2017",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ALEXANDRA DREIBEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-APR-2018"
+  "date": "02-APR-2018",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Glaucomys sabrinus",
+      "common": "NORTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARIA STILLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-SEP-2014"
+  "date": "08-SEP-2014",
+  "animals_total": 149,
+  "species": [
+    {
+      "count": 96,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

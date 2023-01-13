@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "KEVIN VOGEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-MAR-2014"
+  "date": "07-MAR-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    }
+  ]
 }

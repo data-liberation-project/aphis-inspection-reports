@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WASATCH ROCKY MT. WILDLIFE,INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2022"
+  "date": "24-FEB-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    }
+  ]
 }

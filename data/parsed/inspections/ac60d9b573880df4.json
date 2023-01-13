@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL M GINGERICH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-JUN-2016"
+  "date": "01-JUN-2016",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

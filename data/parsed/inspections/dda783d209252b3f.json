@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADVANCED SCIENCE RESEARCH CENER OF CUNY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUL-2018"
+  "date": "26-JUL-2018",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

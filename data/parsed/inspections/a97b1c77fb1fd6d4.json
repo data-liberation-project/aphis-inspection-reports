@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RHONDA GIBSON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-FEB-2020"
+  "date": "11-FEB-2020",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

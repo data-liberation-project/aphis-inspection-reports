@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "BILLIE LAMBERT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2018"
+  "date": "15-MAY-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis chaus",
+      "common": "JUNGLE CAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

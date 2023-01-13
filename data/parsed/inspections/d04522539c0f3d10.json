@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JURASSIC PETS, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2014"
+  "date": "13-NOV-2014",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

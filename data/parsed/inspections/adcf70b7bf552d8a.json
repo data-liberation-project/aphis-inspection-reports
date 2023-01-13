@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "GILBERTO PEREZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-NOV-2014"
+  "date": "05-NOV-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

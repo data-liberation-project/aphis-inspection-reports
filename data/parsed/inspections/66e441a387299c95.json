@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "COUNTY OF ALLEGHENY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-AUG-2016"
+  "date": "02-AUG-2016",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

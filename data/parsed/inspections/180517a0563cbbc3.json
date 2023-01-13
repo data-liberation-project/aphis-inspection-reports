@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KSM PARTNERSHIP LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2014"
+  "date": "18-FEB-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 16,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

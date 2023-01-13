@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Best Exotics L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2016"
+  "date": "23-JUN-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys gunnisoni",
+      "common": "GUNNISON'S PRAIRIE DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 3,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

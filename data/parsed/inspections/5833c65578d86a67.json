@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRIST LAPP",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2017"
+  "date": "19-APR-2017",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

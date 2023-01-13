@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOCKWOOD FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2021"
+  "date": "23-JUN-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
 }

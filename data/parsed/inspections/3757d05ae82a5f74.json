@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JOSHUA REMENAR LAURA REMENAR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAY-2018"
+  "date": "01-MAY-2018",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    }
+  ]
 }

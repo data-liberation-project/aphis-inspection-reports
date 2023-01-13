@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MANELIUS SCHLABACH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUL-2016"
+  "date": "05-JUL-2016",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

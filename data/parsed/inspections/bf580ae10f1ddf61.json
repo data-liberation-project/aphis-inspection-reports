@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SPRINGCREEK KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2017"
+  "date": "22-NOV-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

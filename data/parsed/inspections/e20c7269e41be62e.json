@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "KEITH A WARREN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2015"
+  "date": "25-AUG-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

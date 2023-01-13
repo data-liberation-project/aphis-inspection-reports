@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORTH POLE ASSOCIATES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-OCT-2014"
+  "date": "02-OCT-2014",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

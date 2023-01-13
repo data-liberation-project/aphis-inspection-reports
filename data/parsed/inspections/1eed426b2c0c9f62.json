@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LISA LANG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2015"
+  "date": "13-MAY-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

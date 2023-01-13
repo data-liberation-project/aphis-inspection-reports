@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FILLUP INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-NOV-2018"
+  "date": "06-NOV-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

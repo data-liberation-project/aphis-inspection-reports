@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "EMERALD COAST WILDLIFE REFUGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-AUG-2014"
+  "date": "12-AUG-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Cercopithecus petaurista",
+      "common": "LESSER SPOT-NOSED GUENON"
+    },
+    {
+      "count": 1,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    }
+  ]
 }

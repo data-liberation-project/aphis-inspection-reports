@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURTIS & MARA ORR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2015"
+  "date": "19-MAR-2015",
+  "animals_total": 235,
+  "species": [
+    {
+      "count": 166,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 69,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

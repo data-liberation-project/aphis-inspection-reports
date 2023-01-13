@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA JO SHIVLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2016"
+  "date": "03-MAR-2016",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 34,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

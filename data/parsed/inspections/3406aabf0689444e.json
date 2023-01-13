@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PET AIR, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-NOV-2019"
+  "date": "12-NOV-2019",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    }
+  ]
 }

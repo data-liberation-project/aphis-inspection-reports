@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "COMPARATIVE BIOSCIENCES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2015"
+  "date": "27-AUG-2015",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 44,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

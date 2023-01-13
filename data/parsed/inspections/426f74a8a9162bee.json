@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BARBARA DUKELOW",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-NOV-2015"
+  "date": "30-NOV-2015",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

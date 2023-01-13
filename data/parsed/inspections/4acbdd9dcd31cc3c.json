@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROLYN LANSDOWN",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "05-JAN-2017"
+  "date": "05-JAN-2017",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

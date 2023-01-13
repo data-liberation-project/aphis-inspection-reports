@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARYL BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2015"
+  "date": "21-SEP-2015",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

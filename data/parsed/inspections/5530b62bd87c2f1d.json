@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Diana Dames",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2017"
+  "date": "25-JAN-2017",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 105,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RACHEL DAVIS & VICKIE DAVIS & VIRGEL DAVIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2022"
+  "date": "08-DEC-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

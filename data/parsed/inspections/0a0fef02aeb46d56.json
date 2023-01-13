@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SAFE HAVEN FARM SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUN-2015"
+  "date": "17-JUN-2015",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
 }

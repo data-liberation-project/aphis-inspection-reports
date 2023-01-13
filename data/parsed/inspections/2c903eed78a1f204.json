@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Richard Francis, Susan Francis",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-AUG-2015"
+  "date": "19-AUG-2015",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

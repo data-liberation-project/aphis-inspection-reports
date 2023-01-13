@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "LA MINI GRANJA INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-OCT-2019"
+  "date": "09-OCT-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RUSSELL BARHAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2015"
+  "date": "16-JUL-2015",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
 }

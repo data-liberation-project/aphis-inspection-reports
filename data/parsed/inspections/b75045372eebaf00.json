@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MONTANA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2018"
+  "date": "28-NOV-2018",
+  "animals_total": 386,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Lepus americanus",
+      "common": "SNOWSHOE HARE"
+    },
+    {
+      "count": 74,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 214,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 40,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    },
+    {
+      "count": 40,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
 }

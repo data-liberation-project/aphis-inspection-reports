@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRISSIE E. YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-OCT-2017"
+  "date": "31-OCT-2017",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

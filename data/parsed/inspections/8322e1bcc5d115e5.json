@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PEGGY VAN HUSS & LEON WALTHALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2017"
+  "date": "25-JAN-2017",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

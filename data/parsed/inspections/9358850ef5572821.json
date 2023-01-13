@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "VIRGINIA AQUARIUM & MARINE SCIENCE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2017"
+  "date": "10-MAR-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix algirus",
+      "common": "ALGERIAN HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
 }

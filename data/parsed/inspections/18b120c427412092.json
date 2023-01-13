@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "DEPARTMENT OF ANIMAL CARE & TECHNOLOGIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JAN-2018"
+  "date": "16-JAN-2018",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 70,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

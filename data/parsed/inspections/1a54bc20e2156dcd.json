@@ -6,7 +6,20 @@
   "customer_addr": "184 Co Rd 2575\nLoudonville, OH 44842",
   "certificate": "31-A-0754",
   "site_id": "001",
-  "site_name": "JOHN E YODER(cid:9)",
+  "site_name": "JOHN E YODER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "17-APR-2019"
+  "date": "17-APR-2019",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

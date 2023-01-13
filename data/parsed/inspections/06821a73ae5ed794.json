@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA BELFIORE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2018"
+  "date": "28-MAR-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

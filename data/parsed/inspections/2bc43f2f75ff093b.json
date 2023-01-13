@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RACINE ZOOLOGICAL PARK",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "14-JUN-2022"
+  "date": "14-JUN-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cryptoprocta ferox",
+      "common": "FOSSA"
+    },
+    {
+      "count": 2,
+      "scientific": "Diceros bicornis",
+      "common": "BLACK RHINOCEROS"
+    }
+  ]
 }

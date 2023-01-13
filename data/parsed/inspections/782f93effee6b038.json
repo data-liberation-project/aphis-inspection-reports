@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE UNIVERSITY OF CALIFORNIA, SANTA CRUZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-MAR-2017"
+  "date": "01-MAR-2017",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Erignathus barbatus",
+      "common": "BEARDED SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Monachus schauinslandi",
+      "common": "HAWAIIAN MONK SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca hispida",
+      "common": "RINGED SEAL"
+    }
+  ]
 }

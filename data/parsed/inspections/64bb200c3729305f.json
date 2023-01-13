@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MASSACHUSETTS EYE & EAR INFIRMARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-NOV-2019"
+  "date": "21-NOV-2019",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 75,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

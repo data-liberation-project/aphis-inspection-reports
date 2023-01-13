@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLUE SKY KENNEL LLC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "14-NOV-2022"
+  "date": "14-NOV-2022",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

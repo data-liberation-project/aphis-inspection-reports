@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "STAPP CIRCLE S RANCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2015"
+  "date": "30-SEP-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

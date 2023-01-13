@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAN Harper",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2016"
+  "date": "21-JUN-2016",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

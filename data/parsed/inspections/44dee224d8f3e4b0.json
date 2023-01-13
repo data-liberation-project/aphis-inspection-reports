@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "MIRANDA SANDERS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "11-JAN-2018"
+  "date": "11-JAN-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aotus nigriceps",
+      "common": "BLACK-HEADED NIGHT MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes pallida",
+      "common": "PALE FOX"
+    }
+  ]
 }

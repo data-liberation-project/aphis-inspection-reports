@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATIONAL AVIARY IN PITTSBURGH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-MAY-2015"
+  "date": "13-MAY-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 8,
+      "scientific": "Pteropus vampyrus",
+      "common": "LARGE FLYING FOX"
+    }
+  ]
 }

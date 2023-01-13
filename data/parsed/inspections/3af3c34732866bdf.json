@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HEATH MEYERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-JUL-2019"
+  "date": "18-JUL-2019",
+  "animals_total": 264,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Exotic Tropical Pet World",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "13-JUL-2016"
+  "date": "13-JUL-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

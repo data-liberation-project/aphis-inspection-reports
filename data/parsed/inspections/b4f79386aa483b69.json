@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAM & SHARON PENDLETON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUN-2015"
+  "date": "25-JUN-2015",
+  "animals_total": 280,
+  "species": [
+    {
+      "count": 176,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 104,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

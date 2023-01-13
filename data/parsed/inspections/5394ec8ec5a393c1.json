@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSIE HOSTETLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "08-FEB-2018"
+  "date": "08-FEB-2018",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

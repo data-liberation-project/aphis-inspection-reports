@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEANNA KURTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2018"
+  "date": "26-JUN-2018",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

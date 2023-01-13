@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RESEARCH FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2022"
+  "date": "13-JUN-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
 }

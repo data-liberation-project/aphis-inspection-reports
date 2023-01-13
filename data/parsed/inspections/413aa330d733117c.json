@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Vivian Sanders",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2017"
+  "date": "07-DEC-2017",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

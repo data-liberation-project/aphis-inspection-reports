@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ADEN RABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-NOV-2018"
+  "date": "06-NOV-2018",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WildCare",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-NOV-2018"
+  "date": "19-NOV-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    }
+  ]
 }

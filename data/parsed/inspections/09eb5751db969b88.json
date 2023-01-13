@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOHN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2015"
+  "date": "30-SEP-2015",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "",
   "site_name": "",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "24-SEP-2021"
+  "date": "24-SEP-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
 }

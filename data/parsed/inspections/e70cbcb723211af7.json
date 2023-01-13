@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRUBAKER & KUHN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-APR-2014"
+  "date": "19-APR-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos grunniens grunniens domestic",
+      "common": "DOMESTIC YAK"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    }
+  ]
 }

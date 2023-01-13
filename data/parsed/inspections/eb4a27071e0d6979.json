@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REDOY KENNEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-NOV-2017"
+  "date": "07-NOV-2017",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

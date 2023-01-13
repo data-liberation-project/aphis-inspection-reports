@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2016"
+  "date": "09-JUN-2016",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

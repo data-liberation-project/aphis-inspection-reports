@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JEFF DENNING",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "04-MAY-2022"
+  "date": "04-MAY-2022",
+  "animals_total": 240,
+  "species": [
+    {
+      "count": 125,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 115,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEW YORK MEDICAL COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2015"
+  "date": "05-JAN-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

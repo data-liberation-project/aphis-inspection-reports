@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEON A YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAY-2021"
+  "date": "03-MAY-2021",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

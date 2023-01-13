@@ -8,5 +8,33 @@
   "site_id": "007",
   "site_name": "MONTGOMERY WARD BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2021"
+  "date": "21-SEP-2021",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

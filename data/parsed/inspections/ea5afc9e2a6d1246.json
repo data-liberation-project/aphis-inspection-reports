@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NEENA FELLOWS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2016"
+  "date": "04-FEB-2016",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

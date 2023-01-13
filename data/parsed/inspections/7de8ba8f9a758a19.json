@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURTIS GOLDEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2021"
+  "date": "06-APR-2021",
+  "animals_total": 183,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 95,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

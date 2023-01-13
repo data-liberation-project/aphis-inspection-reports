@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABE J YODER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "20-MAY-2022"
+  "date": "20-MAY-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

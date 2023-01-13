@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SKUNK HAVEN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2021"
+  "date": "20-JAN-2021",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Conepatus semistriatus",
+      "common": "STRIPED HOG-NOSED SKUNK"
+    },
+    {
+      "count": 61,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Ictonyx striatus",
+      "common": "ZORILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Spilogale gracilis",
+      "common": "WESTERN SPOTTED SKUNK"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "SHARON SANDLOFER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2018"
+  "date": "14-JUN-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

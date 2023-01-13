@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AMBER SMITH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "16-APR-2014"
+  "date": "16-APR-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

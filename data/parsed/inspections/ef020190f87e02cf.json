@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMANTHA VALLE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-JUN-2018"
+  "date": "21-JUN-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

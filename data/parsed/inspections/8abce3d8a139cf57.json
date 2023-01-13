@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERIC SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2022"
+  "date": "29-APR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM HABBINGA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2019"
+  "date": "08-AUG-2019",
+  "animals_total": 208,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

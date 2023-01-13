@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "CINDY D FIGUEROA SANTOS",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-MAY-2018"
+  "date": "01-MAY-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
 }

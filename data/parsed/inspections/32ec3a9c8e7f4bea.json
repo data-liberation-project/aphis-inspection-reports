@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "FILM ANIMALS INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-AUG-2019"
+  "date": "05-AUG-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    }
+  ]
 }

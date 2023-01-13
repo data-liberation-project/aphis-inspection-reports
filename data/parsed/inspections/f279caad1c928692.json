@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BIO SOURCE ONE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2015"
+  "date": "31-MAR-2015",
+  "animals_total": 1075,
+  "species": [
+    {
+      "count": 196,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 879,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JESSICA L & THERESA M MUELLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2022"
+  "date": "21-SEP-2022",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

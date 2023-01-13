@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Johnny Robinson, Paige Robinson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-APR-2018"
+  "date": "12-APR-2018",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

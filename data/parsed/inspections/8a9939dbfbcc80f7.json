@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RON HUGHES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-MAY-2014"
+  "date": "15-MAY-2014",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

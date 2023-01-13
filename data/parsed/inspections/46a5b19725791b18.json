@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "PONY EXPRESS ENTERTAINMENT INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-OCT-2018"
+  "date": "25-OCT-2018",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "IVAN BARKMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2021"
+  "date": "23-JUN-2021",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JARED FELDHAUS, GREG FELDHAUS, JULIE FELDHAUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAR-2014"
+  "date": "10-MAR-2014",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

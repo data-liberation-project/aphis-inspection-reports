@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANIMAL TALES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-OCT-2018"
+  "date": "23-OCT-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

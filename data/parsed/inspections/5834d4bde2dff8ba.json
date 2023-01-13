@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sierra Green",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2022"
+  "date": "12-SEP-2022",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

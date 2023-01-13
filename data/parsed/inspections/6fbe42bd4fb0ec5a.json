@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "AMY DAY & GARY MORRIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-DEC-2020"
+  "date": "02-DEC-2020",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    }
+  ]
 }

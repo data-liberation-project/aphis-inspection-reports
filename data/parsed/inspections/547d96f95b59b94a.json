@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON ABELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-DEC-2019"
+  "date": "12-DEC-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Otolemur garnettii",
+      "common": "SMALL-EARED BUSHBABY / NORTHERN GREATER GALAGO"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
 }

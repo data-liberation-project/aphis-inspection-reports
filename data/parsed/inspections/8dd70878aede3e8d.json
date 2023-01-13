@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "STATE OF KENTUCKY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2021"
+  "date": "22-NOV-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 5,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

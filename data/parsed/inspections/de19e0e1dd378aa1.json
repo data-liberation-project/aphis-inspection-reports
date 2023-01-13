@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VIVIAN WILSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUN-2016"
+  "date": "16-JUN-2016",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

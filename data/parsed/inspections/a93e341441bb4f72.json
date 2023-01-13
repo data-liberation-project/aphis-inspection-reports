@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "REGINA MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2021"
+  "date": "01-FEB-2021",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

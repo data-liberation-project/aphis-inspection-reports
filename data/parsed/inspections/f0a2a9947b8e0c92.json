@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOIS AND KIM HOWARD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2020"
+  "date": "04-AUG-2020",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

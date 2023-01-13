@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "R FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-NOV-2022"
+  "date": "28-NOV-2022",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALOMA RAY",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "11-APR-2016"
+  "date": "11-APR-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

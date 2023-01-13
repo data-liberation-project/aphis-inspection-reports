@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSEPH D ERB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2019"
+  "date": "19-AUG-2019",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDRA TRUAX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-OCT-2014"
+  "date": "29-OCT-2014",
+  "animals_total": 118,
+  "species": [
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

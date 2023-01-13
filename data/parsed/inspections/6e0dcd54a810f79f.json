@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Debra K Huffman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JAN-2018"
+  "date": "30-JAN-2018",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
 }

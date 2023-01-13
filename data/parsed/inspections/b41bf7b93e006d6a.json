@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PHIL & JUDY SCHWALLIER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2015"
+  "date": "29-SEP-2015",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

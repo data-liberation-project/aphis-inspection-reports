@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LARRY FLEMMING",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "30-JAN-2018"
+  "date": "30-JAN-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

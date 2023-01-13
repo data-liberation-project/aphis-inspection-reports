@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "KERRY MCGUIRE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-NOV-2018"
+  "date": "20-NOV-2018",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix aurita",
+      "common": "WHITE-EARED MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    }
+  ]
 }

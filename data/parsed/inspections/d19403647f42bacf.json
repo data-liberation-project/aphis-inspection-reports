@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STANISLAUS WILDLIFE CARE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-AUG-2016"
+  "date": "15-AUG-2016",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

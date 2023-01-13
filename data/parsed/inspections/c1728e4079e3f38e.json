@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Alta Z Martin",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "30-AUG-2022"
+  "date": "30-AUG-2022",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

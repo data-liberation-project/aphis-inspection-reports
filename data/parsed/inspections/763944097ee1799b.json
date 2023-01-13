@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Rachel Lauren Ridgley",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-JUN-2022"
+  "date": "13-JUN-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    }
+  ]
 }

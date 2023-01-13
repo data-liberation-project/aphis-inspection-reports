@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERNEST BONTRAGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "31-DEC-2019"
+  "date": "31-DEC-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

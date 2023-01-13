@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THE DOG LODGE, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2019"
+  "date": "11-JUN-2019",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

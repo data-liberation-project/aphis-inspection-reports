@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUDY WILLIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2017"
+  "date": "13-OCT-2017",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

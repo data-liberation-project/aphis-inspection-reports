@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALVIN SHIRK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUN-2018"
+  "date": "20-JUN-2018",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 99,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

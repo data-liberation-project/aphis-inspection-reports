@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DELORES CARLOS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-APR-2022"
+  "date": "04-APR-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

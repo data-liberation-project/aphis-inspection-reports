@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JIM WEST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-NOV-2019"
+  "date": "21-NOV-2019",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

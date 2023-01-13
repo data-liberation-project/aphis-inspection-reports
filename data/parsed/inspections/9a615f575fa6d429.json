@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY A BONTRAGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2021"
+  "date": "25-MAY-2021",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

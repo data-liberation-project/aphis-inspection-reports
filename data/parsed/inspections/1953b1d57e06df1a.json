@@ -8,5 +8,23 @@
   "site_id": "004",
   "site_name": "SEAQUEST HOLDINGS, LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2019"
+  "date": "28-JUN-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

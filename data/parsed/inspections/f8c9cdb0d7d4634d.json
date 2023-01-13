@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DARRAL AND GLORIA SCHWARTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2022"
+  "date": "23-JUN-2022",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

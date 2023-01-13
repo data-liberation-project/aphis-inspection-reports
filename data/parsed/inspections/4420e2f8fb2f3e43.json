@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jon Fenner",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-AUG-2020"
+  "date": "17-AUG-2020",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 30,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
 }

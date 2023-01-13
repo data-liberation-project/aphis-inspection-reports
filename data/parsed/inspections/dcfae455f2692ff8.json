@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIAM COOK",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-MAR-2014"
+  "date": "24-MAR-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

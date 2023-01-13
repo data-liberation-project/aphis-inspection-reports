@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "BEVERLY HILLS PUPPIES INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2017"
+  "date": "04-MAY-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

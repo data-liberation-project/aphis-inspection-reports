@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA LAWYER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "26-JUN-2014"
+  "date": "26-JUN-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

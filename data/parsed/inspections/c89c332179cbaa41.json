@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Baylor College of Medicine",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "16-SEP-2021"
+  "date": "16-SEP-2021",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 86,
+      "scientific": "Sigmodon arizonae",
+      "common": "ARIZONA COTTON RAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

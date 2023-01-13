@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "W. L. GORE & ASSOCIATES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-OCT-2018"
+  "date": "23-OCT-2018",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 47,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 63,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

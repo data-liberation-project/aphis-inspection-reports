@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BAT WORLD HAMPTON ROADS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2015"
+  "date": "15-SEP-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Artibeus jamaicensis",
+      "common": "JAMAICAN FRUIT BAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Rousettus lanosus",
+      "common": "RUWENZORI LONG-HAIRED FRUIT BAT"
+    }
+  ]
 }

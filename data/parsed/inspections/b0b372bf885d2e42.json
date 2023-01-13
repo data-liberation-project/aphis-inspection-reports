@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KRISSY HAMILTON",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-MAR-2015"
+  "date": "24-MAR-2015",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

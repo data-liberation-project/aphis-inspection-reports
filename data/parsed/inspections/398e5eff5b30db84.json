@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BOB BOWEN & JIMMIE HOLYFIELD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-JUL-2017"
+  "date": "24-JUL-2017",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

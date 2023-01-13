@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF KANSAS MEDICAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-DEC-2015"
+  "date": "21-DEC-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 11,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    }
+  ]
 }

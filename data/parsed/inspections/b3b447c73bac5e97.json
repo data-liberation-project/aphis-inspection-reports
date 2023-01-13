@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "Kamryn Rain Grant",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-NOV-2022"
+  "date": "17-NOV-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

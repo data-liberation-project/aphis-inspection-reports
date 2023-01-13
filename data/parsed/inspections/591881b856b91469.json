@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF NEVADA, RENO",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAR-2015"
+  "date": "25-MAR-2015",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Neotoma fuscipes",
+      "common": "DUSKY-FOOTED WOODRAT"
+    },
+    {
+      "count": 19,
+      "scientific": "Neotoma micropus",
+      "common": "SOUTHERN PLAINS WOODRAT"
+    }
+  ]
 }

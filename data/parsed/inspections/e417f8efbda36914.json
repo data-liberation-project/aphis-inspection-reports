@@ -8,5 +8,28 @@
   "site_id": "TRA",
   "site_name": "CIRCUS PAGES INTERNATIONAL INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JUN-2018"
+  "date": "28-JUN-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
 }

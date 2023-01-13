@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RARE SPECIES COSERVATORY FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2015"
+  "date": "13-JAN-2015",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Leontopithecus chrysomelas",
+      "common": "GOLDEN-HEADED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 27,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    }
+  ]
 }

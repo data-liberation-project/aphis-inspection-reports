@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELVA H. MARTIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-NOV-2015"
+  "date": "18-NOV-2015",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

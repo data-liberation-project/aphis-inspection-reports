@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF LOUISVILLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-SEP-2016"
+  "date": "19-SEP-2016",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 39,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    }
+  ]
 }

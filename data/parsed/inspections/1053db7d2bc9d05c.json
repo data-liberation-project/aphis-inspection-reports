@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GLENDA G. COBB AND LINDA S. JARRELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-APR-2018"
+  "date": "05-APR-2018",
+  "animals_total": 225,
+  "species": [
+    {
+      "count": 146,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

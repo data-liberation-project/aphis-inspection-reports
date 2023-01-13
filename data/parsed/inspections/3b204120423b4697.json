@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CROWWOODS HOMESTEAD LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JUL-2019"
+  "date": "17-JUL-2019",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TERRI NAYLOR",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2020"
+  "date": "30-DEC-2020",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

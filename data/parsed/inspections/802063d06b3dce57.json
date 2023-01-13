@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CLEARWATER MARINE AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-AUG-2018"
+  "date": "01-AUG-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
 }

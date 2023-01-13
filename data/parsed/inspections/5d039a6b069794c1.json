@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBERT MANGAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JUN-2016"
+  "date": "13-JUN-2016",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

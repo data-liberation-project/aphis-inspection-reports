@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "F & F PRODUCTION LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-SEP-2016"
+  "date": "26-SEP-2016",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 29,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

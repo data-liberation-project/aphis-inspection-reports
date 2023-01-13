@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOROTHY M AUDSLEY, LEONARD W AUDSLEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JAN-2020"
+  "date": "16-JAN-2020",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

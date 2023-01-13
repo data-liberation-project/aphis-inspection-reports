@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "SOUTHERN BIOTECHNOLOGY ASSOC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-SEP-2022"
+  "date": "15-SEP-2022",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 112,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 57,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 22,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
 }

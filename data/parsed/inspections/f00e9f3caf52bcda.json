@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HICKORY VALLEY PETS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-FEB-2020"
+  "date": "26-FEB-2020",
+  "animals_total": 205,
+  "species": [
+    {
+      "count": 132,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAMUEL H ZIMMERMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAR-2021"
+  "date": "09-MAR-2021",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

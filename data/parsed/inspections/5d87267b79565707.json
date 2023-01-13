@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DIANNA TATUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2019"
+  "date": "12-SEP-2019",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Tragelaphus angasii",
+      "common": "NYALA"
+    },
+    {
+      "count": 14,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    },
+    {
+      "count": 8,
+      "scientific": "Tragelaphus spekii",
+      "common": "SITATUNGA"
+    }
+  ]
 }

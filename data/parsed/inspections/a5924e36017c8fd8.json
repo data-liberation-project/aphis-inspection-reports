@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Sandhills Puppy Paws",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "07-MAY-2014"
+  "date": "07-MAY-2014",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

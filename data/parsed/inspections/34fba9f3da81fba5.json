@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF MISSOURI- COLUMBIA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "02-AUG-2021"
+  "date": "02-AUG-2021",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 67,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

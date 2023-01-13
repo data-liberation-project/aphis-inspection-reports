@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORMAN MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-AUG-2014"
+  "date": "18-AUG-2014",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

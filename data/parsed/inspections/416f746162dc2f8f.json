@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "SCIENCE NORTH ANIMAL FACILITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2020"
+  "date": "21-FEB-2020",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

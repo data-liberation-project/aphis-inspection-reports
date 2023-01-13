@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TWILA & GREG COLLINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAY-2015"
+  "date": "19-MAY-2015",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

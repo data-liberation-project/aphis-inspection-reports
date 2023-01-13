@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "THE BILTMORE COMPANY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2021"
+  "date": "30-JUL-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

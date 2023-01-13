@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "JAMES BADMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-MAY-2014"
+  "date": "09-MAY-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    }
+  ]
 }

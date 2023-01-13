@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Margaret Smith",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-SEP-2014"
+  "date": "05-SEP-2014",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

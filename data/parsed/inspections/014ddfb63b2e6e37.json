@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Big Star Kennel L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-AUG-2021"
+  "date": "04-AUG-2021",
+  "animals_total": 268,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 131,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

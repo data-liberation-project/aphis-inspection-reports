@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARTIN HAMMEN, BARBARA HAMMEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2015"
+  "date": "28-MAY-2015",
+  "animals_total": 148,
+  "species": [
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

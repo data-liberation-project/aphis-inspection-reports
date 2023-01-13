@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "VET TECH INSTITUTE AT BRADFORD SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-FEB-2014"
+  "date": "04-FEB-2014",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

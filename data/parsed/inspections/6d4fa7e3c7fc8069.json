@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JOHNMAR FARMS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2015"
+  "date": "21-SEP-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SHOW-ME PUPPIES L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-SEP-2019"
+  "date": "12-SEP-2019",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

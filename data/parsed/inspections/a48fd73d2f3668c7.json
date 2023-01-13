@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEPARTMENT OF ANIMAL CARE & TECHNOLOGIES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2021"
+  "date": "05-OCT-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEVIN STREET",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-MAY-2021"
+  "date": "25-MAY-2021",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

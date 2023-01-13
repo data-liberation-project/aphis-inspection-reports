@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BARBARA A PERCIVAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2016"
+  "date": "15-NOV-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "ROBERT CHILDRESS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2016"
+  "date": "21-MAR-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

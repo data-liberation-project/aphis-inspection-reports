@@ -8,5 +8,23 @@
   "site_id": "002",
   "site_name": "SAN DIMAS CANYON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2017"
+  "date": "07-JUN-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SANDRA HUNT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUL-2017"
+  "date": "11-JUL-2017",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

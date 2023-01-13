@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Troyer",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUL-2015"
+  "date": "23-JUL-2015",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

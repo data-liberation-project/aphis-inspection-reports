@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HONEY HILL PET CENTER INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-AUG-2014"
+  "date": "14-AUG-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 16,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

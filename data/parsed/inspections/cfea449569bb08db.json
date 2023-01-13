@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Fur Friends",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "23-MAY-2022"
+  "date": "23-MAY-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "David Harris",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2015"
+  "date": "04-NOV-2015",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

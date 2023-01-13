@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIV.OF NEW MEXICO - MAIN CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2019"
+  "date": "13-AUG-2019",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 38,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
 }

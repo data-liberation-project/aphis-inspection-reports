@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL RENIDE SMITH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-JUL-2019"
+  "date": "02-JUL-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

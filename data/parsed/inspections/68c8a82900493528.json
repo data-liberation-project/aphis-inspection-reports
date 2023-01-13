@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WASHINGTON HOSPITAL CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2019"
+  "date": "09-APR-2019",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

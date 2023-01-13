@@ -8,5 +8,28 @@
   "site_id": "007",
   "site_name": "Project Wildlife and San Diego Humane Society",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "16-FEB-2021"
+  "date": "16-FEB-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 6,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hexaprotodon liberiensis",
+      "common": "PYGMY HIPPOPOTAMUS"
+    }
+  ]
 }

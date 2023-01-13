@@ -8,5 +8,38 @@
   "site_id": "003",
   "site_name": "KANSAS STATE UNIVERSITY VET MED SCIENCE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JUL-2015"
+  "date": "31-JUL-2015",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 66,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

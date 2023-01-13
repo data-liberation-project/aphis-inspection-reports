@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DE ETTA SIMMONS & JERRY SIMMONS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-AUG-2022"
+  "date": "25-AUG-2022",
+  "animals_total": 88,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

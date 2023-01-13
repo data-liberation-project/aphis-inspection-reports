@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "TAILS OF THE WILD INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-AUG-2014"
+  "date": "06-AUG-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca assamensis",
+      "common": "ASSAM MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE *MALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA GOODWIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-OCT-2017"
+  "date": "26-OCT-2017",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cyclopes didactylus",
+      "common": "PYGMY ANTEATER"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CRYSTAL SCHULTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2018"
+  "date": "27-MAR-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

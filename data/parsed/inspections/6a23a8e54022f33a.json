@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WASHINGTON AND LEE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-JAN-2017"
+  "date": "17-JAN-2017",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 13,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
 }

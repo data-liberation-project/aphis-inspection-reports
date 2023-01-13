@@ -8,5 +8,23 @@
   "site_id": "TRA",
   "site_name": "NATURAL HISTORY EDUCATION CO OF MIDSOUTH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAY-2019"
+  "date": "28-MAY-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

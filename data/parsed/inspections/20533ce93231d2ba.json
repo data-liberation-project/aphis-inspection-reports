@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MIAMI UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2015"
+  "date": "12-MAY-2015",
+  "animals_total": 492,
+  "species": [
+    {
+      "count": 489,
+      "scientific": "Microtus agrestis",
+      "common": "EUROPEAN FIELD VOLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

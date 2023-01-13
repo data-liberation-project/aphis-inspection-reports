@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZOO OPOLIS",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "03-MAY-2019"
+  "date": "03-MAY-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Pamela Suzanne Parker",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-JUN-2022"
+  "date": "21-JUN-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

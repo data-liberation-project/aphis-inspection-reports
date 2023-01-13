@@ -8,5 +8,18 @@
   "site_id": "SFO",
   "site_name": "Mercury Air Cargo",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-OCT-2017"
+  "date": "20-OCT-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tara Herman",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-SEP-2022"
+  "date": "01-SEP-2022",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

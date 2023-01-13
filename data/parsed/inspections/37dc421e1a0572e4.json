@@ -8,5 +8,18 @@
   "site_id": "01",
   "site_name": "FRED L BORNTRAGER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "01-AUG-2018"
+  "date": "01-AUG-2018",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

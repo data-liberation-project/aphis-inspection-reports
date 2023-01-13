@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BARBARA A PERCIVAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2014"
+  "date": "03-MAR-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MOSE A MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-SEP-2022"
+  "date": "28-SEP-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

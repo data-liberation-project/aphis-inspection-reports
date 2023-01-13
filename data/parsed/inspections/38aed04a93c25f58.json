@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREGORY T DUKES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-SEP-2014"
+  "date": "10-SEP-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix penicillata",
+      "common": "BLACK-EARED MARMOSET"
+    }
+  ]
 }

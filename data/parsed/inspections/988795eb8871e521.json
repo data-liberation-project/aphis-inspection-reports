@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Doug Baum",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2019"
+  "date": "16-JUL-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

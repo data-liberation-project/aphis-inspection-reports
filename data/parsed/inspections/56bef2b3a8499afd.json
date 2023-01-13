@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TOUCH OF NATURE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-JUN-2021"
+  "date": "23-JUN-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    }
+  ]
 }

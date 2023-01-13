@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Daniel Schaaf, Jaynell Schaaf",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JAN-2015"
+  "date": "20-JAN-2015",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

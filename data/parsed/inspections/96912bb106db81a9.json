@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARY ALEXANDER",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "05-OCT-2022"
+  "date": "05-OCT-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

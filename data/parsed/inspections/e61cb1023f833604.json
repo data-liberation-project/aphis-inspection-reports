@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CHERYL GRAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAR-2022"
+  "date": "02-MAR-2022",
+  "animals_total": 259,
+  "species": [
+    {
+      "count": 110,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 46,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

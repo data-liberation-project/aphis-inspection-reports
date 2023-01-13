@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SDIX LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2014"
+  "date": "16-JUL-2014",
+  "animals_total": 3634,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3577,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

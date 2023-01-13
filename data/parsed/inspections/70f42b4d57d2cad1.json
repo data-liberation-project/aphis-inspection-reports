@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JENNIFER FABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-JUN-2018"
+  "date": "18-JUN-2018",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

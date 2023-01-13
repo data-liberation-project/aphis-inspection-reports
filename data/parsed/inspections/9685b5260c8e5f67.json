@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "WINCHESTER AQUARIUM & PET CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2021"
+  "date": "24-FEB-2021",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 24,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    }
+  ]
 }

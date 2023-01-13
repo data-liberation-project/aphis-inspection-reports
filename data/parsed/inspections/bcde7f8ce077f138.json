@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CALIFORNIA SCIENCE CENTER FOUNDATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-FEB-2021"
+  "date": "10-FEB-2021",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

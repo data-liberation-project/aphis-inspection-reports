@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "RANDY E. STEWART",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JAN-2021"
+  "date": "22-JAN-2021",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ROBIN CRABTREE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-JAN-2022"
+  "date": "31-JAN-2022",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
 }

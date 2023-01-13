@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "SHAWN ZIELKE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-OCT-2016"
+  "date": "05-OCT-2016",
+  "animals_total": 504,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 304,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 137,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

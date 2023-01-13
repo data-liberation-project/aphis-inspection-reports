@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "K & E KENNELS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2017"
+  "date": "14-DEC-2017",
+  "animals_total": 297,
+  "species": [
+    {
+      "count": 195,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 102,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

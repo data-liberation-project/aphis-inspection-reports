@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Timothy and Mary Phillips",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "11-MAR-2022"
+  "date": "11-MAR-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CHERRY CREST FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-JUL-2017"
+  "date": "27-JUL-2017",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BLANK PARK ZOO",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "17-JUL-2017"
+  "date": "17-JUL-2017",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 18,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

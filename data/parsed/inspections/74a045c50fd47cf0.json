@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Diane Workman",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "30-APR-2015"
+  "date": "30-APR-2015",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

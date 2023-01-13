@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABRAHAM BORNTREGER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "30-OCT-2017"
+  "date": "30-OCT-2017",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

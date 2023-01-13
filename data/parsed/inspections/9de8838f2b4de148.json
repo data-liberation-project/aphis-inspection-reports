@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "EARL R. LIGHT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUL-2014"
+  "date": "09-JUL-2014",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

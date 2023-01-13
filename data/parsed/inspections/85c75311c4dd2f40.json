@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHARLENE GREEN",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "20-JUN-2014"
+  "date": "20-JUN-2014",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

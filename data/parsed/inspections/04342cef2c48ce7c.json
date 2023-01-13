@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "RAFAEL ABUHADBA",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "03-DEC-2021"
+  "date": "03-DEC-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

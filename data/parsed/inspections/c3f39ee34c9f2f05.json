@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ANTIBODIES, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2015"
+  "date": "16-APR-2015",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

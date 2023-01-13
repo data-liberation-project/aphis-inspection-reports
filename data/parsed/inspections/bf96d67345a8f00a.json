@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "RESEARCH BUILDING",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-AUG-2017"
+  "date": "08-AUG-2017",
+  "animals_total": 181,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 158,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
 }

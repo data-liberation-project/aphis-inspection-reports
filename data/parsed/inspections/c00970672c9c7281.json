@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Gail Bear",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "10-FEB-2016"
+  "date": "10-FEB-2016",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

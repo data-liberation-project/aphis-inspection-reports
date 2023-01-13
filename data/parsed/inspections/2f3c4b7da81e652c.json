@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MEMORY LANE STABLES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-AUG-2019"
+  "date": "28-AUG-2019",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 25,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

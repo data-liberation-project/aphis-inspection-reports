@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF CALIFORNIA, BERKELEY",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "21-APR-2021"
+  "date": "21-APR-2021",
+  "animals_total": 496,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 282,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 129,
+      "scientific": "Ctenomys sociabilis",
+      "common": "COLONIAL TUCO-TUCO"
+    },
+    {
+      "count": 13,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DIANE M MIELKE SIDNEY N MIELKE",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "11-MAR-2022"
+  "date": "11-MAR-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    }
+  ]
 }

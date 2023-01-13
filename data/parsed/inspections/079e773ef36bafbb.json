@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM Mc LIN",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "13-DEC-2022"
+  "date": "13-DEC-2022",
+  "animals_total": 127,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

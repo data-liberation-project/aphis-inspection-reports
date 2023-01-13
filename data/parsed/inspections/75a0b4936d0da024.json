@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RBHS NEW JERSEY MEDICAL SCHOOL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-APR-2021"
+  "date": "01-APR-2021",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 18,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
 }

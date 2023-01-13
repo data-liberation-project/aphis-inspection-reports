@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOSEPH GARDNER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "13-FEB-2019"
+  "date": "13-FEB-2019",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

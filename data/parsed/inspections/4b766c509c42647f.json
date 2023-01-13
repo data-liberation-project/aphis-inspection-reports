@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CAROLINA TOWN AND AMAZING ANIMALS",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "09-NOV-2022"
+  "date": "09-NOV-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    }
+  ]
 }

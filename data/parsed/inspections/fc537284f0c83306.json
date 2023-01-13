@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VIRGIL & RUTHIE SNODGRASS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-APR-2021"
+  "date": "06-APR-2021",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

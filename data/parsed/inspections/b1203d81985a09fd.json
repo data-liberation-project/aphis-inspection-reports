@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DEBBIE & RON PAYNE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-MAR-2016"
+  "date": "28-MAR-2016",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

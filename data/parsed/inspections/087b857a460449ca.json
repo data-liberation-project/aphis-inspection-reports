@@ -8,5 +8,23 @@
   "site_id": "003",
   "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "18-MAY-2022"
+  "date": "18-MAY-2022",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 56,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 12,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

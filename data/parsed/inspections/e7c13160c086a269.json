@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ANIMAL RESOURCES PROGRAM/DOWNTOWN CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-MAR-2014"
+  "date": "18-MAR-2014",
+  "animals_total": 400,
+  "species": [
+    {
+      "count": 258,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 102,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

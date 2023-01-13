@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "IVAN YUTZY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2020"
+  "date": "03-AUG-2020",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

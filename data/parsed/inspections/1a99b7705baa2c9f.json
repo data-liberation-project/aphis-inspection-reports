@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MERLE COBLENTZ",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-NOV-2016"
+  "date": "02-NOV-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "MIAMI SEAQUARIUM",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "11-JUL-2018"
+  "date": "11-JUL-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lagenorhynchus obliquidens",
+      "common": "PACIFIC WHITE-SIDED DOLPHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    }
+  ]
 }

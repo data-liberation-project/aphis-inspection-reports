@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZACH BOBB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-FEB-2020"
+  "date": "20-FEB-2020",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

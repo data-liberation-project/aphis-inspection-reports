@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "NEW MEXICO WILDLIFE CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-OCT-2019"
+  "date": "24-OCT-2019",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
 }

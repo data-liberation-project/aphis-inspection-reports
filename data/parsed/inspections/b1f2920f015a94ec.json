@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "BRITTANY ANNE LOWE OLIVIERI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-MAR-2015"
+  "date": "05-MAR-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

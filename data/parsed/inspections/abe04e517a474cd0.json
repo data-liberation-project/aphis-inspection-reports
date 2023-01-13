@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "MICHAEL POGGI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-DEC-2014"
+  "date": "30-DEC-2014",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
 }

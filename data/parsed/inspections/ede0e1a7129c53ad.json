@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "EUGENE BURKHOLDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-JUL-2014"
+  "date": "02-JUL-2014",
+  "animals_total": 2064,
+  "species": [
+    {
+      "count": 300,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1700,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Andrea Burgan",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAR-2018"
+  "date": "27-MAR-2018",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

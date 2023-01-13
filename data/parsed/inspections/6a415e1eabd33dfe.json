@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Tanya Strickland",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-DEC-2021"
+  "date": "09-DEC-2021",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

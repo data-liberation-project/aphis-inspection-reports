@@ -8,5 +8,18 @@
   "site_id": "01",
   "site_name": "HOME",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "22-NOV-2022"
+  "date": "22-NOV-2022",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KIMBERLY COLEMAN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2014"
+  "date": "13-NOV-2014",
+  "animals_total": 251,
+  "species": [
+    {
+      "count": 181,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

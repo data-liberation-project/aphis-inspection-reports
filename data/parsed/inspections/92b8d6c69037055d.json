@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "CHUCK & VALERIE BOWYER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-AUG-2018"
+  "date": "16-AUG-2018",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 9,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 13,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

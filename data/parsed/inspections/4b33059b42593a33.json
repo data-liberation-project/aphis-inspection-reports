@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "BAT WORLD HAMPTON ROADS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JUN-2014"
+  "date": "26-JUN-2014",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Eidolon helvum",
+      "common": "STRAW-COLOURED FRUIT BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Rousettus lanosus",
+      "common": "RUWENZORI LONG-HAIRED FRUIT BAT"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "002",
   "site_name": "MARLIETA MONTZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-MAY-2018"
+  "date": "02-MAY-2018",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

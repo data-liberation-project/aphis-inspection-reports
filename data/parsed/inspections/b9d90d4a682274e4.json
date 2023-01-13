@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NATHAN WHETSTONE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "20-MAY-2019"
+  "date": "20-MAY-2019",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

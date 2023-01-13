@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MAUREEN MOELLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-FEB-2016"
+  "date": "08-FEB-2016",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

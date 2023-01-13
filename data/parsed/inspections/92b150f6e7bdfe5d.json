@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KAREN BELISLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-DEC-2020"
+  "date": "17-DEC-2020",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

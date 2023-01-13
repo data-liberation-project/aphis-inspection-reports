@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Ben Wagler Lucy Wagler",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2014"
+  "date": "19-MAR-2014",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

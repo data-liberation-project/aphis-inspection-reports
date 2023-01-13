@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOUIS A GRABER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "23-AUG-2017"
+  "date": "23-AUG-2017",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 63,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,28 @@
   "site_id": "ORD",
   "site_name": "OHARE INTERNATIONAL AIRPORT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-JUN-2016"
+  "date": "29-JUN-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

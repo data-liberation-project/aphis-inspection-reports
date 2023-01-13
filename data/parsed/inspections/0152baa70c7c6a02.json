@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Rebekah Scarola",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-FEB-2014"
+  "date": "05-FEB-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    }
+  ]
 }

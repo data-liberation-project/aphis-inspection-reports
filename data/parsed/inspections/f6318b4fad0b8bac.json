@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JOEL E MILLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2019"
+  "date": "22-NOV-2019",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

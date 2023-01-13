@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "JOHN PEERS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-DEC-2016"
+  "date": "05-DEC-2016",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

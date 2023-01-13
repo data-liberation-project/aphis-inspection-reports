@@ -8,5 +8,18 @@
   "site_id": "014",
   "site_name": "HORSHAM PA SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2015"
+  "date": "13-APR-2015",
+  "animals_total": 480,
+  "species": [
+    {
+      "count": 198,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 282,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

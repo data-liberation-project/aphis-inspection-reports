@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "HILLSIDE KENNELS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-JUL-2019"
+  "date": "16-JUL-2019",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

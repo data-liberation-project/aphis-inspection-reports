@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JAMIE GOINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2016"
+  "date": "08-DEC-2016",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

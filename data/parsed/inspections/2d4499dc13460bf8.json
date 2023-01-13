@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CALIFORNIA STATE UNIVERSITY HUMBOLDT ARCATA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-AUG-2016"
+  "date": "03-AUG-2016",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

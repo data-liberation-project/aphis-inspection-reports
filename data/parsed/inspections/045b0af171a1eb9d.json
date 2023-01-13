@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LINDA S HOPE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAR-2016"
+  "date": "14-MAR-2016",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

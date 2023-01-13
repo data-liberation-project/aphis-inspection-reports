@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VERNON WEAVER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-MAY-2019"
+  "date": "24-MAY-2019",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

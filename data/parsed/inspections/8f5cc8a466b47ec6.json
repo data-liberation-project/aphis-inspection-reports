@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ROBERT MITCHELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2022"
+  "date": "18-APR-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 3,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    }
+  ]
 }

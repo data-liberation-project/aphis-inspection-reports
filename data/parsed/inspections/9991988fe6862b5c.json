@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LOU ANNE DURHAM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JUN-2014"
+  "date": "04-JUN-2014",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

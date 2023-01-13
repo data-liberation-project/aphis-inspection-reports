@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GRABER FAMILY FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-JAN-2018"
+  "date": "26-JAN-2018",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

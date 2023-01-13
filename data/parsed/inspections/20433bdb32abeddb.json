@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Kimberly Murphy",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "15-JUL-2014"
+  "date": "15-JUL-2014",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 12,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    }
+  ]
 }

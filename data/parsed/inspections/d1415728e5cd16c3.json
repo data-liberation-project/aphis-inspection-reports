@@ -8,5 +8,28 @@
   "site_id": "017",
   "site_name": "OHIO SITE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-OCT-2018"
+  "date": "17-OCT-2018",
+  "animals_total": 784,
+  "species": [
+    {
+      "count": 260,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 146,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 52,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 326,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WALKERS TREE FARM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-OCT-2016"
+  "date": "13-OCT-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

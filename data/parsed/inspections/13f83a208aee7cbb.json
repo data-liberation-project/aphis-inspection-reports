@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "RICHARD S SANDLER MD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-OCT-2015"
+  "date": "07-OCT-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

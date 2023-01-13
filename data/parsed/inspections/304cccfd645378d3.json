@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "AMERICAN PRECLINICAL SERVICES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-APR-2018"
+  "date": "18-APR-2018",
+  "animals_total": 982,
+  "species": [
+    {
+      "count": 107,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 354,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 239,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 79,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 203,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

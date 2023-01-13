@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "NOVARTIS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-AUG-2014"
+  "date": "27-AUG-2014",
+  "animals_total": 614,
+  "species": [
+    {
+      "count": 220,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 365,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

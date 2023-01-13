@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GUIDANT CORPORATION",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "04-FEB-2019"
+  "date": "04-FEB-2019",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

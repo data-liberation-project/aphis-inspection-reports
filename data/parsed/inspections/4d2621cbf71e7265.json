@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "UNDERGROUND REPTILES INC",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "19-NOV-2021"
+  "date": "19-NOV-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes rueppellii",
+      "common": "SAND FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Ictonyx libyca",
+      "common": "SAHARAN STRIPED WEASEL"
+    }
+  ]
 }

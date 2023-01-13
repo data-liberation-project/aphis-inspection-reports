@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Nelson Weaver, Lucille Weaver",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-DEC-2016"
+  "date": "15-DEC-2016",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

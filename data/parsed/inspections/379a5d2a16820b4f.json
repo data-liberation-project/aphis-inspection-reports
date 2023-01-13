@@ -8,5 +8,18 @@
   "site_id": "TRA",
   "site_name": "ANIMAL MAGIC INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-APR-2014"
+  "date": "21-APR-2014",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

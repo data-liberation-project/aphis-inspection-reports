@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CAROLYN JUREWICZ",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-MAR-2017"
+  "date": "22-MAR-2017",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

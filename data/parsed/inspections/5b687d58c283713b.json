@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "University of Alaska Fairbanks",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-SEP-2022"
+  "date": "29-SEP-2022",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 43,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 11,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    }
+  ]
 }

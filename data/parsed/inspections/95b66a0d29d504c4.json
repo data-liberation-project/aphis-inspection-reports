@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "ZOETIS VETERINARY MEDICINE AND RESEARCH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-JUL-2014"
+  "date": "30-JUL-2014",
+  "animals_total": 693,
+  "species": [
+    {
+      "count": 315,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 71,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 201,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
 }

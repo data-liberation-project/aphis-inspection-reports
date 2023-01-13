@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Mary Covington",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "02-JUL-2015"
+  "date": "02-JUL-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

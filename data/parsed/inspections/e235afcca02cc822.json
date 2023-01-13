@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "WILLIAM BEAUMONT HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2016"
+  "date": "05-JAN-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

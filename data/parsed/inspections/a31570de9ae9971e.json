@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUZANNE HENNE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-OCT-2015"
+  "date": "19-OCT-2015",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 47,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "WORLDWIDE MOVIE ANIMALS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-MAY-2016"
+  "date": "27-MAY-2016",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

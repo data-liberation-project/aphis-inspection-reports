@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NOVARTIS INSTITUTES FOR BIOMEDICAL RESEARCH INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-APR-2017"
+  "date": "11-APR-2017",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 115,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Stoney Creek Kennel L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2018"
+  "date": "11-SEP-2018",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

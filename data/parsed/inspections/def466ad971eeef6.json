@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "TAMMY ENGLE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-APR-2018"
+  "date": "03-APR-2018",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

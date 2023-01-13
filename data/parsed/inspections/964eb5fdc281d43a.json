@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "AQUATICS & MORE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-FEB-2014"
+  "date": "10-FEB-2014",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 13,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 35,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    }
+  ]
 }

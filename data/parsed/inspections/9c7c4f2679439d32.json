@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GWENDOLYN FULLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-NOV-2018"
+  "date": "13-NOV-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    }
+  ]
 }

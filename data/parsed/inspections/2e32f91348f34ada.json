@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ZAM'S SWAMP TOURS INC.",
   "insp_type": "RE-LICENSE INSPECTION",
-  "date": "07-DEC-2022"
+  "date": "07-DEC-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Myocastor coypus",
+      "common": "NUTRIA"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "S GLENICE VIKEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2015"
+  "date": "09-SEP-2015",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

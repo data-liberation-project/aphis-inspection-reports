@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CHRIS MC GILL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-DEC-2015"
+  "date": "10-DEC-2015",
+  "animals_total": 153,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "SHIRLEY SMITH",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-SEP-2019"
+  "date": "18-SEP-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

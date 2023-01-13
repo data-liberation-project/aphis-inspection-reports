@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "NORTH FORK PUPPIES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-DEC-2021"
+  "date": "08-DEC-2021",
+  "animals_total": 108,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

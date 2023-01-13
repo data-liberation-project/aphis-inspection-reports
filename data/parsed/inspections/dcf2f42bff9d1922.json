@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Betsy Shank",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "11-JAN-2021"
+  "date": "11-JAN-2021",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

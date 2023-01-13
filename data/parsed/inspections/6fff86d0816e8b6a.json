@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY J MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "26-NOV-2019"
+  "date": "26-NOV-2019",
+  "animals_total": 79,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

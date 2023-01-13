@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "SCOTT SWANSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-FEB-2022"
+  "date": "17-FEB-2022",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

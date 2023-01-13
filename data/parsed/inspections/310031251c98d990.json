@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Autumn's House of German Shepherds",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-NOV-2021"
+  "date": "24-NOV-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

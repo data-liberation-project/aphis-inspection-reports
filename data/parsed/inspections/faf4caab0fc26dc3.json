@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JERRY ZEBEL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-AUG-2021"
+  "date": "19-AUG-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

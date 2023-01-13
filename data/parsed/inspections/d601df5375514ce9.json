@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Justin Jackson, La Nae Jackson",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-APR-2016"
+  "date": "13-APR-2016",
+  "animals_total": 551,
+  "species": [
+    {
+      "count": 401,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 150,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

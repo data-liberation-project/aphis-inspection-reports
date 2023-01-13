@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JONATHAN RABER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "21-OCT-2015"
+  "date": "21-OCT-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

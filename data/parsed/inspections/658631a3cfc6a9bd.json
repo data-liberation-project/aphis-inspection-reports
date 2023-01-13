@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JASON WAGLER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-MAY-2015"
+  "date": "12-MAY-2015",
+  "animals_total": 163,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

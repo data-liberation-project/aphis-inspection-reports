@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARVIN MILLER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-FEB-2019"
+  "date": "14-FEB-2019",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

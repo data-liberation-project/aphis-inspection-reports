@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "James Jones",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-FEB-2014"
+  "date": "19-FEB-2014",
+  "animals_total": 150,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

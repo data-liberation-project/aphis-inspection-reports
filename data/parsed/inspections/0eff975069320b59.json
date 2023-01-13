@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "STEVIE HOOVER",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "26-JAN-2018"
+  "date": "26-JAN-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Teresa Seling",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-APR-2015"
+  "date": "09-APR-2015",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

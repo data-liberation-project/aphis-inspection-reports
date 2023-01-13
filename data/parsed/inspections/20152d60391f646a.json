@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DOUBLE R KENNEL",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "28-AUG-2017"
+  "date": "28-AUG-2017",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

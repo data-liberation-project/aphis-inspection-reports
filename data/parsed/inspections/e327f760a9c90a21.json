@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LAMAR AND JOLENE YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "10-MAY-2017"
+  "date": "10-MAY-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

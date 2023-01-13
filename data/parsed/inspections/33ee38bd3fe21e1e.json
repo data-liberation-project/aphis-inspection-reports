@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Delmar Bontrager",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "08-MAR-2021"
+  "date": "08-MAR-2021",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

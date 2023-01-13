@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "JUDY MASKER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-SEP-2015"
+  "date": "30-SEP-2015",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

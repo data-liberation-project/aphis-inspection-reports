@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ETHICON ENDO-SURGERY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-MAY-2015"
+  "date": "14-MAY-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

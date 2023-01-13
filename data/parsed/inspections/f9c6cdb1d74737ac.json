@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "R.D. Brown",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUN-2014"
+  "date": "11-JUN-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

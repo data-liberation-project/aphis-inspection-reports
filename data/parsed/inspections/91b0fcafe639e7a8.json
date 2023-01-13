@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "Muscatine Community College",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-OCT-2018"
+  "date": "01-OCT-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

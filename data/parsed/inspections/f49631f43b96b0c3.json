@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CRAIG KOKAS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JUL-2017"
+  "date": "12-JUL-2017",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 20,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 13,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
 }

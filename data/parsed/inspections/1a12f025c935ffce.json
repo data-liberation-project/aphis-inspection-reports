@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "VIRGINIA COMMONWEALTH UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-APR-2018"
+  "date": "17-APR-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

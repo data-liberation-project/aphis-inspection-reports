@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CORNELL FARMS L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-MAR-2018"
+  "date": "19-MAR-2018",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

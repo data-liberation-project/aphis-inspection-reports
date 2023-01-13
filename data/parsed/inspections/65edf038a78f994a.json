@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARCUS WITTMER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "25-AUG-2020"
+  "date": "25-AUG-2020",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

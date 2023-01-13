@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "POINTER HILL PET PRODUCTS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-SEP-2015"
+  "date": "21-SEP-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

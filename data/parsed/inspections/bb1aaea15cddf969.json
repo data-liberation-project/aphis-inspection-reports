@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BUSHOVER'S BIOLOGICALS, INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-APR-2015"
+  "date": "14-APR-2015",
+  "animals_total": 130,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 60,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "CYNTHIA & ROBERT RAY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-JUL-2018"
+  "date": "03-JUL-2018",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Presbytis comata",
+      "common": "JAVAN SURILI / JAVAN LANGUR / SUNDA LEAF MONKEY"
+    }
+  ]
 }

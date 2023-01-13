@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FRED O YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-FEB-2020"
+  "date": "12-FEB-2020",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Larry & Clarence Otto",
   "insp_type": "PRE-LICENSE INSPECTION",
-  "date": "16-DEC-2021"
+  "date": "16-DEC-2021",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

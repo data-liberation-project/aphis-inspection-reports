@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAKIN DAIRY FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JUL-2017"
+  "date": "11-JUL-2017",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 25,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

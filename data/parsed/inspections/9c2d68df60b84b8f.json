@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "HIGH DESERT HORSES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-OCT-2017"
+  "date": "24-OCT-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

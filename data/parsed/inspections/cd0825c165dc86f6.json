@@ -8,5 +8,48 @@
   "site_id": "001",
   "site_name": "ARIZONA ANIMAL WELFARE LEAGUE & S P C A",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-FEB-2014"
+  "date": "05-FEB-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Abditomys latidens",
+      "common": "LUZON BROAD-TOOTHED RAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

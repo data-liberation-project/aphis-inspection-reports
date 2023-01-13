@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "COLLEEN HARLOW",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-NOV-2019"
+  "date": "22-NOV-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

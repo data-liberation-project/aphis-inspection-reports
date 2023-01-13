@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DONNA AND DONNIE SHORES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-APR-2014"
+  "date": "08-APR-2014",
+  "animals_total": 278,
+  "species": [
+    {
+      "count": 222,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Barbara Simmons",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2018"
+  "date": "09-AUG-2018",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

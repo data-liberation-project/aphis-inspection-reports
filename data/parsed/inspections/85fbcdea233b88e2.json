@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KEN THE BUG GUY L L C",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "19-FEB-2014"
+  "date": "19-FEB-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 11,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

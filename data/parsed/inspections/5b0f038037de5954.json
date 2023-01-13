@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DAVID & LISA BENNETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "27-FEB-2020"
+  "date": "27-FEB-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

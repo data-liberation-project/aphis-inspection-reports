@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "Hamster Hut Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-FEB-2022"
+  "date": "07-FEB-2022",
+  "animals_total": 20000,
+  "species": [
+    {
+      "count": 20000,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
 }

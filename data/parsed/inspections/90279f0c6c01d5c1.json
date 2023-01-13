@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF VIRGINIA",
   "insp_type": "FOCUSED INSPECTION",
-  "date": "09-JAN-2020"
+  "date": "09-JAN-2020",
+  "animals_total": 200,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cricetomys gambianus",
+      "common": "GAMBIAN POUCHED RAT / NORTHERN GIANT POUCHED RAT"
+    },
+    {
+      "count": 36,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 101,
+      "scientific": "Oryzomys palustris",
+      "common": "MARSH RICE RAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 28,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    }
+  ]
 }

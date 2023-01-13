@@ -8,5 +8,18 @@
   "site_id": "005",
   "site_name": "TUSCARAWAS CAMPUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-NOV-2017"
+  "date": "15-NOV-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
 }

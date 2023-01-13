@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SUNSET ACRES PUPPIES",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "13-APR-2017"
+  "date": "13-APR-2017",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF COLORADO-BOULDER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2016"
+  "date": "09-JUN-2016",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 10,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
 }

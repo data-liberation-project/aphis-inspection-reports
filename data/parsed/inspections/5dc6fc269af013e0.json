@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Mc Grath Family Farms",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-MAR-2014"
+  "date": "31-MAR-2014",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

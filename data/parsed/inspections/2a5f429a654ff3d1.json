@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARTY CLINTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2022"
+  "date": "14-DEC-2022",
+  "animals_total": 191,
+  "species": [
+    {
+      "count": 123,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

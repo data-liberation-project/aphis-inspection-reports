@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "THOMAS SEARS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2018"
+  "date": "13-AUG-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
 }

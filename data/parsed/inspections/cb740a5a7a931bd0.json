@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "GRIZZLY FLATS FARM LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "10-MAY-2017"
+  "date": "10-MAY-2017",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 98,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

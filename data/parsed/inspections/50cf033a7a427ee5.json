@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "VETERINARY SCIENCE CENTER/ JOHNSON TECHNICAL INSTI",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-JAN-2015"
+  "date": "28-JAN-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

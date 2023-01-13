@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALTA MADEWELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAR-2018"
+  "date": "21-MAR-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

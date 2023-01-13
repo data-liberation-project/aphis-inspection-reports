@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SAM MAST",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "15-JUL-2019"
+  "date": "15-JUL-2019",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

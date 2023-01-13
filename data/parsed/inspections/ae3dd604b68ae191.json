@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "TUSKEGEE UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-MAR-2015"
+  "date": "06-MAR-2015",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
 }

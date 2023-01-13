@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ANGELA G HAMBY",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "24-JUL-2019"
+  "date": "24-JUL-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

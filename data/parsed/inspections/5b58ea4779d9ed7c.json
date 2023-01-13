@@ -8,5 +8,38 @@
   "site_id": "001",
   "site_name": "JEFF RUEB",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-APR-2019"
+  "date": "16-APR-2019",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
 }

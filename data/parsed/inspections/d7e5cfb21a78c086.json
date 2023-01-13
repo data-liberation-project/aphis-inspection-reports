@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALPHA GENESIS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-SEP-2014"
+  "date": "09-SEP-2014",
+  "animals_total": 330,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 327,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
 }

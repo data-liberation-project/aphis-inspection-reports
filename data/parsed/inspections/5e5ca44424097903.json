@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "002 Ramer - 67203 CR 7",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-NOV-2021"
+  "date": "08-NOV-2021",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

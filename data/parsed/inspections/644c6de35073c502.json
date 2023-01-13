@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "LEAH & FLOY GREEN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2017"
+  "date": "04-OCT-2017",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 112,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

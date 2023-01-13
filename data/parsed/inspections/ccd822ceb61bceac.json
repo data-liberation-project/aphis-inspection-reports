@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "TWIN PINE FARM & EXOTICS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAY-2017"
+  "date": "08-MAY-2017",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 5,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    }
+  ]
 }

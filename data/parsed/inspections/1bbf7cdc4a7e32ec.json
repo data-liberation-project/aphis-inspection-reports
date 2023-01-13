@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ANNISTON MUSEUM OF NATURAL HISTORY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-MAY-2021"
+  "date": "04-MAY-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
 }

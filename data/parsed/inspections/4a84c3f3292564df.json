@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Cathy Morrison",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-JAN-2016"
+  "date": "13-JAN-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

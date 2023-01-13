@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "JENNIFER ROONEY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2021"
+  "date": "14-JUN-2021",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 9,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 3,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
 }

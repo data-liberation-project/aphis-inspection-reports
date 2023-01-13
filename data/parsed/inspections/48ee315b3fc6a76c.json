@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALTASCIENCES PRECLINICAL SEATTLE LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "30-AUG-2022"
+  "date": "30-AUG-2022",
+  "animals_total": 2021,
+  "species": [
+    {
+      "count": 1860,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 161,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

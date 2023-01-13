@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABE YODER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-DEC-2016"
+  "date": "14-DEC-2016",
+  "animals_total": 186,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "LINDA FLOYD",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "17-SEP-2018"
+  "date": "17-SEP-2018",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 20,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 4,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 17,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    }
+  ]
 }

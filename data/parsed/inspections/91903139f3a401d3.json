@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KIM RENDALL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "28-APR-2014"
+  "date": "28-APR-2014",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 37,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

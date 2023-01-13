@@ -8,5 +8,33 @@
   "site_id": "001",
   "site_name": "GARY JOHNSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUN-2022"
+  "date": "22-JUN-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 12,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
 }

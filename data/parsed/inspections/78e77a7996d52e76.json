@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "HILL'S PET NUTRITION CENTER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-JUL-2021"
+  "date": "20-JUL-2021",
+  "animals_total": 858,
+  "species": [
+    {
+      "count": 410,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 420,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

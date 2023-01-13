@@ -8,5 +8,58 @@
   "site_id": "002",
   "site_name": "THE WILD ANIMAL SANCTUARY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2022"
+  "date": "14-JUN-2022",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 16,
+      "scientific": "Ursus arctos horribilis",
+      "common": "GRIZZLY BEAR"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 10,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 9,
+      "scientific": "Panthera leo X  P. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 32,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 34,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 21,
+      "scientific": "Ursus thibetanus",
+      "common": "ASIATIC BLACK BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Tremarctos ornatus",
+      "common": "SPECTACLED BEAR"
+    }
+  ]
 }

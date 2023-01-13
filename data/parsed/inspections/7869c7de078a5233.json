@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "METHODIST RESEARCH INSTITUTE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "24-FEB-2015"
+  "date": "24-FEB-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

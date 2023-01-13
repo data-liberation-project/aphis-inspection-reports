@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BABCOCK RANCH MANAGEMENT LLC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "06-AUG-2015"
+  "date": "06-AUG-2015",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "STATE OF WEST VIRGINIA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-MAR-2016"
+  "date": "29-MAR-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
 }

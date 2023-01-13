@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANDELION ACRES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-DEC-2020"
+  "date": "01-DEC-2020",
+  "animals_total": 134,
+  "species": [
+    {
+      "count": 99,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

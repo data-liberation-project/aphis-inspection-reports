@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "THE CENTER FOR WILDLIFE",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "18-SEP-2015"
+  "date": "18-SEP-2015",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Myotis lucifugus",
+      "common": "LITTLE BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
 }

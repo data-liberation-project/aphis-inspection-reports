@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DANIEL STOLTZFUS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-JUN-2021"
+  "date": "14-JUN-2021",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 103,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

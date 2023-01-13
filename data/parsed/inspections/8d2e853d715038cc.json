@@ -8,5 +8,13 @@
   "site_id": "001",
   "site_name": "UNIVERSITY OF WASHINGTON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JAN-2017"
+  "date": "25-JAN-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
 }

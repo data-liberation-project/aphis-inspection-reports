@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "Rancho Raton Inc.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "25-JUL-2016"
+  "date": "25-JUL-2016",
+  "animals_total": 601,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 60,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 130,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 300,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
 }

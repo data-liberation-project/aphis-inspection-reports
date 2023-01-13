@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Vernon Miller Verda Miller",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "14-SEP-2021"
+  "date": "14-SEP-2021",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

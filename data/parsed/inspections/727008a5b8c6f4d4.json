@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "Rachel Lauren Ridgley",
   "insp_type": "NEW SITE INSPECTION",
-  "date": "26-OCT-2021"
+  "date": "26-OCT-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
 }

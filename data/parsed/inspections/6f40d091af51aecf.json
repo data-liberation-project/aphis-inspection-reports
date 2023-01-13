@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ABIGAIL MELVIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-MAY-2018"
+  "date": "21-MAY-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 37,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

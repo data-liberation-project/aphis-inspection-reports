@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "OKLAHOMA AQUARIUM",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-FEB-2018"
+  "date": "21-FEB-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
 }

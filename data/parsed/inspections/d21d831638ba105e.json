@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CENTER FOR ORGANGUTAN & CHIMPANZEE CONSERVATION",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2015"
+  "date": "29-APR-2015",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 15,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    }
+  ]
 }

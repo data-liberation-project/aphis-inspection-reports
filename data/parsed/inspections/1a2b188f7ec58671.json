@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BRIGHAM AND WOMENS HOSPITAL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-JUN-2017"
+  "date": "07-JUN-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

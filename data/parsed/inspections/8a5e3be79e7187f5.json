@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "DUANE PRETSCH",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "12-JAN-2015"
+  "date": "12-JAN-2015",
+  "animals_total": 167,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 87,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 62,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    }
+  ]
 }

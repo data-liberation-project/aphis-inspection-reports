@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "DORIS PRUETT",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "07-DEC-2022"
+  "date": "07-DEC-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 28,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "FREEMAN DETWEILER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JAN-2022"
+  "date": "05-JAN-2022",
+  "animals_total": 289,
+  "species": [
+    {
+      "count": 151,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
 }

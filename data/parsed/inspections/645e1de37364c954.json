@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "KARIN FIRES",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "05-JUN-2014"
+  "date": "05-JUN-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
 }

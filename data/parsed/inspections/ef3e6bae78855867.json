@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Amy Goedeke",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "14-JUN-2016"
+  "date": "14-JUN-2016",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

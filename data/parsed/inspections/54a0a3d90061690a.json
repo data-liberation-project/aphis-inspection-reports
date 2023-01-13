@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "HEATHER CAMPBELL",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-SEP-2018"
+  "date": "11-SEP-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

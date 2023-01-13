@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "MARGIE SINK",
   "insp_type": "PRELICENSE INSPECTION #2",
-  "date": "22-JUN-2016"
+  "date": "22-JUN-2016",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

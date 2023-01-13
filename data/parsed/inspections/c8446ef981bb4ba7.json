@@ -8,5 +8,43 @@
   "site_id": "001",
   "site_name": "Kameron Bean",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "14-JAN-2016"
+  "date": "14-JAN-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix pumila",
+      "common": "PALAWAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
 }

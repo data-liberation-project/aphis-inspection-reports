@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ERVIN YODER",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "19-OCT-2018"
+  "date": "19-OCT-2018",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

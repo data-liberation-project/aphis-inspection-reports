@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAM Mc LIN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-JUN-2014"
+  "date": "05-JUN-2014",
+  "animals_total": 107,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

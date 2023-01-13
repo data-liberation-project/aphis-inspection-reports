@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "BETTY LAWSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "03-MAR-2016"
+  "date": "03-MAR-2016",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

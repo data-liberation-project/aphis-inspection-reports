@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "Frontier City Amusement Park",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-JUN-2014"
+  "date": "09-JUN-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries vignei",
+      "common": "URIAL SHEEP"
+    }
+  ]
 }

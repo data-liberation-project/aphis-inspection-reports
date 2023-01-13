@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "KATHY SANBORN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-FEB-2020"
+  "date": "18-FEB-2020",
+  "animals_total": 214,
+  "species": [
+    {
+      "count": 139,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

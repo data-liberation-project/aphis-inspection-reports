@@ -8,5 +8,33 @@
   "site_id": "002",
   "site_name": "CHRIS NELSON",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-APR-2018"
+  "date": "29-APR-2018",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ALVIN HERSCHBERGER",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-AUG-2018"
+  "date": "21-AUG-2018",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

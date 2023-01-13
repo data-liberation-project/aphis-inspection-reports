@@ -8,5 +8,18 @@
   "site_id": "003",
   "site_name": "COVANCE RESEARCH PRODUCTS, INC. - VA",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "20-MAR-2014"
+  "date": "20-MAR-2014",
+  "animals_total": 7599,
+  "species": [
+    {
+      "count": 5408,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2191,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Heath Madison & Shonda Madison",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "05-DEC-2017"
+  "date": "05-DEC-2017",
+  "animals_total": 189,
+  "species": [
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 75,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

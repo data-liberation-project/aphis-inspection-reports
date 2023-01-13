@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "BIOLOGICAL SCIENCES ANNEX",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "09-AUG-2017"
+  "date": "09-AUG-2017",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Onychomys arenicola",
+      "common": "CHIHUAHUAN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 35,
+      "scientific": "Onychomys leucogaster",
+      "common": "NORTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 51,
+      "scientific": "Onychomys torridus",
+      "common": "SOUTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Thomomys bottae",
+      "common": "BOTTA'S POCKET GOPHER"
+    }
+  ]
 }

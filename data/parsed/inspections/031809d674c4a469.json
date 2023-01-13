@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "Jabez Blessing, Inc",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "29-NOV-2022"
+  "date": "29-NOV-2022",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

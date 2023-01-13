@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GEORGETOWN UNIVERSITY",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-FEB-2016"
+  "date": "11-FEB-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 40,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
 }

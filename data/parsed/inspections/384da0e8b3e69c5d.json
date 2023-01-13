@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "ABBVIE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "06-JUN-2018"
+  "date": "06-JUN-2018",
+  "animals_total": 519,
+  "species": [
+    {
+      "count": 324,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 183,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
 }

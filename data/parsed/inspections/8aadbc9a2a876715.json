@@ -8,5 +8,43 @@
   "site_id": "002",
   "site_name": "UNIVERSITY OF TEXAS - MD Anderson Cancer Center",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "11-JAN-2016"
+  "date": "11-JAN-2016",
+  "animals_total": 1887,
+  "species": [
+    {
+      "count": 397,
+      "scientific": "Aotus",
+      "common": "NIGHT MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1025,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 31,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 138,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 286,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
 }

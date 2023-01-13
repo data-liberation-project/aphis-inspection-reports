@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "United Pets LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "21-OCT-2021"
+  "date": "21-OCT-2021",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,23 @@
   "site_id": "001",
   "site_name": "ODD BY NATURE INC",
   "insp_type": "PRELICENSE INSPECTION #1",
-  "date": "07-FEB-2014"
+  "date": "07-FEB-2014",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 6,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
 }

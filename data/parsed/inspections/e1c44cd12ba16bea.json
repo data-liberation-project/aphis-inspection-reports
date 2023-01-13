@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "LINDA FEARS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "13-AUG-2018"
+  "date": "13-AUG-2018",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

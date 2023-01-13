@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "SPF NORTH AMERICAN INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "12-JAN-2015"
+  "date": "12-JAN-2015",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 77,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
 }

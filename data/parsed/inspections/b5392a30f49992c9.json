@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "ELMER RICHARDS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "22-JUL-2015"
+  "date": "22-JUL-2015",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "CURT KOKJOHN",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-NOV-2022"
+  "date": "04-NOV-2022",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 74,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

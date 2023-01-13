@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "PAUL AND SHEILA HAAG",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-OCT-2017"
+  "date": "04-OCT-2017",
+  "animals_total": 758,
+  "species": [
+    {
+      "count": 485,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 273,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

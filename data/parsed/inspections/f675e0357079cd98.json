@@ -8,5 +8,18 @@
   "site_id": "004",
   "site_name": "EQUITECH-BIO INC.",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "08-MAR-2018"
+  "date": "08-MAR-2018",
+  "animals_total": 245,
+  "species": [
+    {
+      "count": 180,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 65,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
 }

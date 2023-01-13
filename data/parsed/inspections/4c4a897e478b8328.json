@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GREG JONES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "31-AUG-2021"
+  "date": "31-AUG-2021",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }

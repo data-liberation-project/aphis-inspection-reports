@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "VICTORIA HAWKINS",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "02-FEB-2016"
+  "date": "02-FEB-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
 }

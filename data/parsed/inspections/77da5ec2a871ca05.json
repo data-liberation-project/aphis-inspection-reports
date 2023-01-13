@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "GUSTAVUS ADOLPHUS COLLEGE",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "18-DEC-2015"
+  "date": "18-DEC-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Acomys wilsoni",
+      "common": "WILSON'S SPINY MOUSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    }
+  ]
 }

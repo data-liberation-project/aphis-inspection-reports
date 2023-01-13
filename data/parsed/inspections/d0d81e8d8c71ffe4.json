@@ -8,5 +8,28 @@
   "site_id": "001",
   "site_name": "DILLARD HOUSE STABLES",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "01-FEB-2016"
+  "date": "01-FEB-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
 }

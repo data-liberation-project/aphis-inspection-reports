@@ -8,5 +8,18 @@
   "site_id": "001",
   "site_name": "AXDAHL FARMS INC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "16-OCT-2019"
+  "date": "16-OCT-2019",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
 }

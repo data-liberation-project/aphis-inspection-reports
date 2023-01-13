@@ -8,5 +8,18 @@
   "site_id": "002",
   "site_name": "TRAIL END ACRES LLC",
   "insp_type": "ROUTINE INSPECTION",
-  "date": "04-JAN-2021"
+  "date": "04-JAN-2021",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
 }
