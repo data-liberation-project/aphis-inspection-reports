@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000831946",
+  "layout": "b",
+  "customer_id": "93",
+  "customer_name": "BIOQUAL INC",
+  "customer_addr": "9600 MEDICAL CENTER DRIVE\nSuite 101\nROCKVILLE, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "001",
+  "site_name": "BIOQUAL INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-DEC-2022",
+  "animals_total": 781,
+  "species": [
+    {
+      "count": 307,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 356,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 26,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 92,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
