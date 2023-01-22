@@ -48,6 +48,8 @@ def main() -> None:
             list(convert_fetched(fetched_data[0]).keys())
             + list(convert_parsed(parsed_data[next(iter(parsed_data))]).keys())
             + list(convert_doccloud(doccloud_data[next(iter(doccloud_data))]).keys())
+            # Add derived columns
+            + ["licenseType"]
         )
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

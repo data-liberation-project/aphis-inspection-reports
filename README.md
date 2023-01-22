@@ -76,7 +76,7 @@ The script [`scripts/04-upload-inspection-pdfs.py`](scripts/04-upload-inspection
 
 The script [`scripts/05-combine-inspection-data.py`](scripts/05-combine-inspection-data.py) combines the results of the previous steps into two CSV files:
 
-- [`data/combined/inspections.csv`](data/combined/inspections.csv): The main file, representing each inspection report collected by the code in this repository. In it, fields fetched from the web portal are prefixed with `web_`, those parsed from the PDFs with `pdf_`, and those relevant to DocumentCloud with `doccloud_`.
+- [`data/combined/inspections.csv`](data/combined/inspections.csv): The main file, representing each inspection report collected by the code in this repository. In it, fields fetched from the web portal are prefixed with `web_`, those parsed from the PDFs with `pdf_`, and those relevant to DocumentCloud with `doccloud_`. Columns without any of these prefixes, such as `licenseType`, have been derived from one or more of the prefixed columns.
 
 - [`data/combined/inspections-species.csv`](data/combined/inspections-species.csv): A representation of the "Species Inspected" lists at the end of each report. Linkable back to the main file via `hash_id`.
 
