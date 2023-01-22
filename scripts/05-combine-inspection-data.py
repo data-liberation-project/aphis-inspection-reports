@@ -71,6 +71,13 @@ def main() -> None:
                 **convert_doccloud(doccloud),
             }
 
+            # Parse the license type identifier out of the certification number
+            if c["web_certNumber"]:
+                parts = c["web_certNumber"].split("-")
+                c["licenseType"] = parts[1]
+            else:
+                c["licenseType"] = None
+
             writer.writerow(c)
 
     with open(DATA_DIR / "combined" / "inspections-species.csv", "w") as f:
