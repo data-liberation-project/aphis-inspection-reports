@@ -72,11 +72,11 @@ def main() -> None:
             }
 
             # Parse the license type identifier out of the certification number
-            if c['web_certNumber']:
-                parts = c['web_certNumber']
-                c['licenseType'] = parts[1]
+            if c["web_certNumber"]:
+                parts = c["web_certNumber"]
+                c["licenseType"] = parts[1]
             else:
-                c['licenseType'] = None
+                c["licenseType"] = None
 
             writer.writerow(c)
 
