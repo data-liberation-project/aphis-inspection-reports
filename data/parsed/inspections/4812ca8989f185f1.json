@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000815182",
+  "layout": "b",
+  "customer_id": "6010403",
+  "customer_name": "Mary Ramer",
+  "customer_addr": "2699 Gray Rd\nPenn Yan, NY 14527",
+  "certificate": "21-A-0218",
+  "site_id": "002",
+  "site_name": "Mary Ramer",
+  "insp_type": "NEW SITE INSPECTION",
+  "date": "26-SEP-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

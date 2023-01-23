@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000824264",
+  "layout": "b",
+  "customer_id": "353",
+  "customer_name": "LEHIGH UNIVERSITY",
+  "customer_addr": "Office Of The Vice President & Associate\nProvost for Research & Graduate Studies\nBETHLEHEM, PA 18015",
+  "certificate": "23-R-0064",
+  "site_id": "001",
+  "site_name": "CENTRAL ANIMAL FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-OCT-2022",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 8,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}

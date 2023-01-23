@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820156",
+  "layout": "b",
+  "customer_id": "6433",
+  "customer_name": "Debra Tignor",
+  "customer_addr": "12126 N 1880 Rd\nSAYRE, OK 73662",
+  "certificate": "73-A-1398",
+  "site_id": "001",
+  "site_name": "DEBRA TIGNOR",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-OCT-2022",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

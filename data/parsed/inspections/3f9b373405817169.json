@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820155",
+  "layout": "b",
+  "customer_id": "121",
+  "customer_name": "HOLYOKE COMMUNITY COLLEGE",
+  "customer_addr": "303 Homestead Ave, Marieb Building\nRoom 243\nHOLYOKE, MA 01040",
+  "certificate": "14-R-0025",
+  "site_id": "001",
+  "site_name": "HOLYOKE COMMUNITY COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-OCT-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

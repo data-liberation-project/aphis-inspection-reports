@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000818049",
+  "layout": "b",
+  "customer_id": "3421",
+  "customer_name": "S & R Productions",
+  "customer_addr": "1639 North Valley Drive\nLas Vegas, NV 89108",
+  "certificate": "88-C-0006",
+  "site_id": "002",
+  "site_name": "S & R PRODUCTIONS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
+}

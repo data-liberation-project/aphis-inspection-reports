@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000831898",
+  "layout": "b",
+  "customer_id": "24656",
+  "customer_name": "Susan Fitzgerald",
+  "customer_addr": "5037 SE Hillside Rd\nSharon, KS 67138",
+  "certificate": "48-A-1746",
+  "site_id": "001",
+  "site_name": "Susan Fitzgerald",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-DEC-2022",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

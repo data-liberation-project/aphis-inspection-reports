@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000823185",
+  "layout": "b",
+  "customer_id": "37241",
+  "customer_name": "ATLANTA WILD ANIMAL RESCUE EFFORT",
+  "customer_addr": "4158 Klondike Road\nStonecrest, GA 30038",
+  "certificate": "57-C-0292",
+  "site_id": "001",
+  "site_name": "ATLANTA WILD ANIMAL RESCUE EFFORT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-OCT-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

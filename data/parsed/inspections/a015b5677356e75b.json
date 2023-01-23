@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826601",
+  "layout": "b",
+  "customer_id": "37152",
+  "customer_name": "WildCare",
+  "customer_addr": "76 Albert Park Lane\nSan Rafael, CA 94901",
+  "certificate": "93-C-1034",
+  "site_id": "001",
+  "site_name": "WildCare",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-NOV-2022",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
+}

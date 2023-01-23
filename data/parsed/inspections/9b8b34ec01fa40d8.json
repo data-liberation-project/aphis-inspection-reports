@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826589",
+  "layout": "b",
+  "customer_id": "34811",
+  "customer_name": "Lester S Martin",
+  "customer_addr": "181 MARTIN RD\nNEW HOLLAND, PA 17557",
+  "certificate": "23-A-0572",
+  "site_id": "001",
+  "site_name": "LESTER MARTIN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-NOV-2022",
+  "animals_total": 144,
+  "species": [
+    {
+      "count": 121,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

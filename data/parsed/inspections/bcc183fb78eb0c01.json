@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000821170",
+  "layout": "b",
+  "customer_id": "327444",
+  "customer_name": "Kelly Simonetti",
+  "customer_addr": "52 County Road 661\nNewton, NJ 07860",
+  "certificate": "22-H-0039",
+  "site_id": "001",
+  "site_name": "Antler Ridge Wildlife",
+  "insp_type": "PRE-LICENSE INSPECTION",
+  "date": "12-OCT-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
+}

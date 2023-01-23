@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820195",
+  "layout": "b",
+  "customer_id": "15873",
+  "customer_name": "Jeff Wilson",
+  "customer_addr": "16920 GAZELLE DRIVE\nNEOSHO, MO 64850",
+  "certificate": "43-A-6297",
+  "site_id": "001",
+  "site_name": "JEFF WILSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-OCT-2022",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

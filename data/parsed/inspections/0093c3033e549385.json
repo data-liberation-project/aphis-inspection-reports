@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000824572",
+  "layout": "b",
+  "customer_id": "6011499",
+  "customer_name": "Kim Johnson",
+  "customer_addr": "582 Mowery Cir NW\nCharleston, TN 37310",
+  "certificate": "63-A-0198",
+  "site_id": "001",
+  "site_name": "Kim Johnson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-NOV-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    }
+  ]
+}

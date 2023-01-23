@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820123",
+  "layout": "b",
+  "customer_id": "34286",
+  "customer_name": "Debra McCoy",
+  "customer_addr": "1602 East 562nd Road\nBrighton, MO 65617",
+  "certificate": "43-A-4742",
+  "site_id": "001",
+  "site_name": "DEBRA S MCCOY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000821181",
+  "layout": "b",
+  "customer_id": "6012872",
+  "customer_name": "Sara Detweiler",
+  "customer_addr": "19749 State Highway 190\nJamesport, MO 64648",
+  "certificate": "43-A-6681",
+  "site_id": "001",
+  "site_name": "Sara Detweiler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-OCT-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

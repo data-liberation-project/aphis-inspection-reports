@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000824492",
+  "layout": "b",
+  "customer_id": "331143",
+  "customer_name": "Randy Rees",
+  "customer_addr": "PO Box 798\nCABOOL, MO 65689",
+  "certificate": "43-A-5949",
+  "site_id": "001",
+  "site_name": "RANDY REES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-NOV-2022",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

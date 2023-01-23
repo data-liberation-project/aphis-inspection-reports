@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000821187",
+  "layout": "b",
+  "customer_id": "331702",
+  "customer_name": "THE BRONX EQUESTRIAN CENTER INC",
+  "customer_addr": "9 SHORE RD\nBRONX, NY 10464",
+  "certificate": "21-C-0451",
+  "site_id": "001",
+  "site_name": "BRONX EQUESTRIAN CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-OCT-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    }
+  ]
+}

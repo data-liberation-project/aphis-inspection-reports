@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000831663",
+  "layout": "b",
+  "customer_id": "3473",
+  "customer_name": "Oregon Coast Aquarium",
+  "customer_addr": "2820 SE Ferry Slip Rd.\nNewport, OR 97365",
+  "certificate": "92-C-0057",
+  "site_id": "001",
+  "site_name": "Oregon Coast Aquarium",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-DEC-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000819975",
+  "layout": "b",
+  "customer_id": "15",
+  "customer_name": "University of Alaska Fairbanks",
+  "customer_addr": "PO Box 756980\n1033 Sheenjek Drive\nFairbanks, AK 99775-6980",
+  "certificate": "96-R-0001",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-SEP-2022",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 43,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 54,
+      "scientific": "Urocitellus parryii",
+      "common": "ARCTIC GROUND SQUIRREL / ARCTIC SOUSLIK"
+    }
+  ]
+}

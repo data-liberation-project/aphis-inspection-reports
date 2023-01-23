@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000824555",
+  "layout": "b",
+  "customer_id": "3241",
+  "customer_name": "TWEETSIE RAILROAD INC",
+  "customer_addr": "300 TWEETSIE RAILROAD LANE\nBLOWING ROCK, NC 28605",
+  "certificate": "55-C-0008",
+  "site_id": "001",
+  "site_name": "TWEETSIE RAILROAD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-NOV-2022",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

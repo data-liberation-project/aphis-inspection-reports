@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000829786",
+  "layout": "b",
+  "customer_id": "45412",
+  "customer_name": "R & R RESEARCH L L C",
+  "customer_addr": "20004 Happy Valley Road\nSTANWOOD, WA 98292",
+  "certificate": "91-R-0066",
+  "site_id": "001",
+  "site_name": "R & R RESEARCH L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-NOV-2022",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 99,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

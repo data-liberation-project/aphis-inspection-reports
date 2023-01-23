@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000822164",
+  "layout": "b",
+  "customer_id": "5704",
+  "customer_name": "Betty Fetters",
+  "customer_addr": "16903 State Hwy 6\nNovinger, MO 63559",
+  "certificate": "43-A-6715",
+  "site_id": "001",
+  "site_name": "Betty Fetters",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-OCT-2022",
+  "animals_total": 182,
+  "species": [
+    {
+      "count": 116,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

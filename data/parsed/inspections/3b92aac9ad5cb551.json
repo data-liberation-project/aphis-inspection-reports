@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000820158",
+  "layout": "b",
+  "customer_id": "16234",
+  "customer_name": "JASON GREER",
+  "customer_addr": "88 mcginnis lane\nbrush crrek, TN 38547",
+  "certificate": "63-B-0178",
+  "site_id": "001",
+  "site_name": "JASON GREER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-OCT-2022",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 26,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 14,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
+}

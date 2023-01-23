@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000815049",
+  "layout": "b",
+  "customer_id": "140",
+  "customer_name": "TUFTS MEDICAL CENTER",
+  "customer_addr": "I A C U C/ D L A M\n136 HARRISON AVENUE\nBOSTON, MA 02111",
+  "certificate": "14-R-0082",
+  "site_id": "001",
+  "site_name": "TUFTS MEDICAL CENTER",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "21-SEP-2022",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 23,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
+}

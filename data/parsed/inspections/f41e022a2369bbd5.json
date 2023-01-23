@@ -1,0 +1,55 @@
+{
+  "insp_id": "INS-0000823116",
+  "layout": "b",
+  "customer_id": "501687",
+  "customer_name": "Jeremy Wilson",
+  "customer_addr": "263 Mill Rd\nFairhaven, MA 02719",
+  "certificate": "14-C-0143",
+  "site_id": "002",
+  "site_name": "JEREMY WILSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000824624",
+  "layout": "b",
+  "customer_id": "324863",
+  "customer_name": "Good Dog Animals",
+  "customer_addr": "P.O. Box 801886\nSanta Clarita, CA 91380",
+  "certificate": "",
+  "site_id": "002",
+  "site_name": "GOOD DOG ANIMALS",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "10-NOV-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

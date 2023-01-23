@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000824360",
+  "layout": "b",
+  "customer_id": "31050",
+  "customer_name": "KS Dept. of Wildlife & Parks",
+  "customer_addr": "512 S. E. 25TH AVE\nPRATT, KS 67124",
+  "certificate": "48-C-0174",
+  "site_id": "001",
+  "site_name": "KS DEPT. OF WILDLIFE & PARKS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-OCT-2022",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
+}

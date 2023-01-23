@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000821169",
+  "layout": "b",
+  "customer_id": "335407",
+  "customer_name": "CHANCY ECKERT",
+  "customer_addr": "1707 NORTH ROAD STREET\nELIZABETH CITY, NC 27909",
+  "certificate": "55-A-0175",
+  "site_id": "001",
+  "site_name": "CHANCY ECKERT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-OCT-2022",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 144,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 22,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 8,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    }
+  ]
+}

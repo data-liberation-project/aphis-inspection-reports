@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820134",
+  "layout": "b",
+  "customer_id": "5472",
+  "customer_name": "LARRY ALBRECHT",
+  "customer_addr": "12059 CAMP COMFORT ROAD\nGREENE, IA 50636",
+  "certificate": "42-A-1212",
+  "site_id": "001",
+  "site_name": "LARRY ALBRECHT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-OCT-2022",
+  "animals_total": 199,
+  "species": [
+    {
+      "count": 137,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
