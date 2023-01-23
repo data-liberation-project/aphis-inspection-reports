@@ -1,7 +1,14 @@
 import csv
 from datetime import datetime, timezone
 
-from lib.aphis import add_hash_ids, deduplicate, fetch, get_sort_key, iter_fetch_all, write_results
+from lib.aphis import (
+    add_hash_ids,
+    deduplicate,
+    fetch,
+    get_sort_key,
+    iter_fetch_all,
+    write_results,
+)
 
 
 def main() -> None:
@@ -13,8 +20,8 @@ def main() -> None:
     write_results(latest, "data/fetched/inspections-latest.csv")
 
     # Read in historically-observed inspections
-    with open("data/fetched/inspections.csv", 'r') as fp:
-        lookup = dict((d['hash_id'], d) for d in csv.DictReader(fp))
+    with open("data/fetched/inspections.csv", "r") as fp:
+        lookup = dict((d["hash_id"], d) for d in csv.DictReader(fp))
 
     # Get the current time for datestamping
     now = datetime.now(timezone.utc)
@@ -22,11 +29,11 @@ def main() -> None:
     # Loop through all of the newly scraped data
     for d in latest:
         # Get its key
-        key = d['hash_id']
+        key = d["hash_id"]
         # If the record is new
         if key not in lookup:
             # Mark the time
-            d['discovered'] = now
+            d["discovered"] = now
             # Add it to the lookup
             lookup[key] = d
 
