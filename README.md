@@ -36,6 +36,12 @@ Key|Description|Example
 `nonCritical`|Number of "non-critical" noncompliant items.|0
 `teachableMoments`|Number of "teachable moment" noncompliant items.|0
 
+We add two additional fields when we fetch the web portal data:
+
+- `hash_id`: The first 16 characters of the SHA1 hash hexdigest of the PDF URL's `ids={...}` param.
+
+- `discovered`: A UTC timestamp indicating when *our pipeline* first noticed the report. Due to vagaries in the scraping process, this does not necessarily indicate when *APHIS* published the report. Reports identified before our timestamping feature was added are given a placeholder timestamp of `1970-01-01 00:00:00+00:00`.
+
 ### Fetching the inspection reports
 
 #### Initial fetch
@@ -62,7 +68,7 @@ Alternatively, to fully refetch the data, delete all files in the [`data/fetched
 
 ### Downloading the inspection report PDFs
 
-The script [`scripts/02-download-inspection-pdfs.py`](scripts/02-download-inspection-pdfs.py) downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use the first 16 characters of the PDF URL's SHA1 hash hexdigest.
+The script [`scripts/02-download-inspection-pdfs.py`](scripts/02-download-inspection-pdfs.py) downloads all inspection reports in [`data/fetched/inspections.csv`](data/fetched/inspections.csv) to [`pdfs/inspections/`](pdfs/inspections/). Because the data provided by the inspection search tool does not include the official inspection IDs, the filenames use the `hash_id` value described above.
 
 ### Parsing the inspection report PDFs
 
