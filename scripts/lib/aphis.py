@@ -4,6 +4,8 @@ import json
 import re
 import sys
 import typing
+from datetime import datetime, timezone
+from operator import itemgetter
 from pathlib import Path
 
 import requests
@@ -177,3 +179,33 @@ def add_hash_ids(
         )
         for res in result_list
     ]
+
+
+DEFAULT_CACHE_PATH = Path("data") / "fetched" / "inspections.csv"
+
+
+def update_cache(
+    results_to_add: list[dict[str, typing.Any]],
+    cache_path: Path = DEFAULT_CACHE_PATH,
+) -> None:
+    """
+    Update CSV containing all historically-observed inspections
+    """
+    # Get the current time for datestamping
+    now = datetime.now(timezone.utc).replace(microsecond=0)
+
+    # Load cache
+    with open(cache_path) as f:
+        previous = list(csv.DictReader(f)) if cache_path.exists() else []
+
+    # Build hash_id->discovered dict from cache
+    timestamps = dict(map(itemgetter("hash_id", "discovered"), previous))
+
+    # Loop through all proposed additions
+    for entry in results_to_add:
+        # Use previous value for discovered if exists, else `now`
+        entry["discovered"] = timestamps.get(entry["hash_id"], now)
+
+    # Write back to file
+    combined = deduplicate(results_to_add + previous)
+    write_results(combined, cache_path)

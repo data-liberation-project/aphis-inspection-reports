@@ -10,6 +10,7 @@ from lib.aphis import (
     add_hash_ids,
     deduplicate,
     iter_fetch_all,
+    update_cache,
     write_results,
 )
 
@@ -56,14 +57,7 @@ def main() -> None:
     )
 
     write_results(merged, "data/fetched/inspections-by-letter.csv")
-
-    # Update CSV containing all historically-observed inspections
-    combined_path = Path("data/fetched/inspections.csv")
-    previous = (
-        list(csv.DictReader(open(combined_path))) if combined_path.exists() else []
-    )
-    combined = deduplicate(merged + previous)
-    write_results(combined, combined_path)
+    update_cache(merged)
 
 
 if __name__ == "__main__":
