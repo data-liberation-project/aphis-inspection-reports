@@ -1,0 +1,35 @@
+{
+  "insp_id": "84150807448462",
+  "layout": "a",
+  "customer_id": "31760",
+  "customer_name": "Charles Davidson",
+  "customer_addr": "3902 E Bloomingdale Ave\nValrico, FL 33594",
+  "certificate": "58-C-0893",
+  "site_id": "001",
+  "site_name": "CHARLES DAVIDSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAR-2015",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

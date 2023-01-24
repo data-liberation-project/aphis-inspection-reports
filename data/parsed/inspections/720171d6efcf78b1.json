@@ -1,0 +1,30 @@
+{
+  "insp_id": "170151211570300",
+  "layout": "a",
+  "customer_id": "1396",
+  "customer_name": "Northwestern State University",
+  "customer_addr": "Animal Care & Use Comm\nNatchitoches, LA 71497",
+  "certificate": "72-R-0008",
+  "site_id": "002",
+  "site_name": "NORTHWESTERN STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUN-2015",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

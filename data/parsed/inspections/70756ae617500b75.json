@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812318",
+  "layout": "b",
+  "customer_id": "6013001",
+  "customer_name": "Joyce Fuller",
+  "customer_addr": "17807 US Hwy 136 West\nMemphis, MO 63555",
+  "certificate": "43-A-6677",
+  "site_id": "001",
+  "site_name": "Joyce Fuller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-AUG-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

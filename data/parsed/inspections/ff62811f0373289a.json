@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000610427",
+  "layout": "a",
+  "customer_id": "3954",
+  "customer_name": "CARSON & BARNES CIRCUS",
+  "customer_addr": "P. O. BOX J\nHUGO, OK 74743",
+  "certificate": "73-C-0001",
+  "site_id": "001",
+  "site_name": "CARSON & BARNES CIRCUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAY-2021",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

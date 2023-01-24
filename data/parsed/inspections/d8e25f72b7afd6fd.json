@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000611433",
+  "layout": "a",
+  "customer_id": "168",
+  "customer_name": "BRISTOL MYERS SQUIBB COMPANY",
+  "customer_addr": "P.O. BOX 4000\nMAILSTOP G13-01\nPRINCETON, NJ 08543",
+  "certificate": "22-R-0028",
+  "site_id": "008",
+  "site_name": "BRISTOL MYERS SQUIBB COMPANY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-MAY-2021",
+  "animals_total": 254,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 148,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 25,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    }
+  ]
+}

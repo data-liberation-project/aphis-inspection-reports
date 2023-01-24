@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569573615",
+  "layout": "a",
+  "customer_id": "6414",
+  "customer_name": "Larry Roose",
+  "customer_addr": "6055 State Hwy 34\nBurfordville, MO 63739",
+  "certificate": "43-C-0328",
+  "site_id": "001",
+  "site_name": "LARRY ROOSE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-AUG-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
+}

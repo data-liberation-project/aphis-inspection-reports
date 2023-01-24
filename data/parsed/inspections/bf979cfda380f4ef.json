@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569473631",
+  "layout": "a",
+  "customer_id": "333720",
+  "customer_name": "Animal Encounters Sanctuary Inc",
+  "customer_addr": "39608 Calle Cascada\nGreen Valley, CA 91390",
+  "certificate": "93-C-1118",
+  "site_id": "001",
+  "site_name": "Animal Encounters Sanctuary Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-MAY-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
+}

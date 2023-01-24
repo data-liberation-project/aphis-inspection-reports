@@ -1,0 +1,35 @@
+{
+  "insp_id": "338141009260653",
+  "layout": "a",
+  "customer_id": "12469",
+  "customer_name": "Dallas Independent School District",
+  "customer_addr": "1600 Bowers Rd\nSeagoville, TX 75159",
+  "certificate": "74-C-0727",
+  "site_id": "001",
+  "site_name": "Dallas Independent School District ENVIRONMENTAL L",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-DEC-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

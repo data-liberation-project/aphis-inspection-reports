@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000808580",
+  "layout": "b",
+  "customer_id": "902",
+  "customer_name": "TRI-COUNTY TECHNICAL COLLEGE",
+  "customer_addr": "VETERINARY TECHOLOGY DEPT\n7900 HWY 76, PO BOX 587\nPENDLETON, SC 29670",
+  "certificate": "56-R-0004",
+  "site_id": "001",
+  "site_name": "HALBERT HALL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2022",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}

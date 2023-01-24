@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000815033",
+  "layout": "b",
+  "customer_id": "37651",
+  "customer_name": "SONDRA JENKINS",
+  "customer_addr": "10987 COUNTY RD. 6690\nWEST PLAINS, MO 65775",
+  "certificate": "43-A-5031",
+  "site_id": "001",
+  "site_name": "SONDRA JENKINS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

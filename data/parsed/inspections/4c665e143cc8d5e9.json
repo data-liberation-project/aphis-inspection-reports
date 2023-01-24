@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569316256",
+  "layout": "a",
+  "customer_id": "333588",
+  "customer_name": "Jill Kuzelka",
+  "customer_addr": "71765 581 Avenue\nJansen, NE 68377",
+  "certificate": "47-C-0062",
+  "site_id": "001",
+  "site_name": "Jill Kuzelka",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-NOV-2018",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

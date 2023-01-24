@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814763",
+  "layout": "b",
+  "customer_id": "1458",
+  "customer_name": "University of Houston",
+  "customer_addr": "Health & Biomedical Sciences Bulding 1\n4849 Calhoun Rd\nHOUSTON, TX 77204",
+  "certificate": "74-R-0020",
+  "site_id": "003",
+  "site_name": "University of Houston",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-AUG-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

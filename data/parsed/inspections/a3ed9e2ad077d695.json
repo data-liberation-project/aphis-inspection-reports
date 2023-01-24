@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812249",
+  "layout": "b",
+  "customer_id": "37686",
+  "customer_name": "Sally Culver",
+  "customer_addr": "1252 HWY 38\nHARTVILLE, MO 65667",
+  "certificate": "43-A-6301",
+  "site_id": "001",
+  "site_name": "SALLY L CULVER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2022",
+  "animals_total": 80,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

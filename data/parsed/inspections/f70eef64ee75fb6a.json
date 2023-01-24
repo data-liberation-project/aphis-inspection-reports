@@ -1,0 +1,30 @@
+{
+  "insp_id": "310151203400544",
+  "layout": "a",
+  "customer_id": "29003",
+  "customer_name": "Bay.Org",
+  "customer_addr": "55 Francisco Street Suite 710\nSan Francisco, CA 94133",
+  "certificate": "93-C-0914",
+  "site_id": "001",
+  "site_name": "Bay.org",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-NOV-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 7,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
+}

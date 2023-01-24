@@ -1,0 +1,30 @@
+{
+  "insp_id": "266152250120013",
+  "layout": "a",
+  "customer_id": "332370",
+  "customer_name": "Chaparral Country Corporation",
+  "customer_addr": "3375 Calaveras Rd.\nMilpitas, CA 95035",
+  "certificate": "93-C-1080",
+  "site_id": "001",
+  "site_name": "Chaparral Country Corp",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-SEP-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

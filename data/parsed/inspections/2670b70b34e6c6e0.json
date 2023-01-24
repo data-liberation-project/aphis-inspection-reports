@@ -1,0 +1,30 @@
+{
+  "insp_id": "299151407170011",
+  "layout": "a",
+  "customer_id": "3008",
+  "customer_name": "Susan Rudolph",
+  "customer_addr": "P O Box 160\nBighill, KY 40405",
+  "certificate": "61-C-0114",
+  "site_id": "001",
+  "site_name": "SUSAN RUDOLPH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-OCT-2015",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
+}

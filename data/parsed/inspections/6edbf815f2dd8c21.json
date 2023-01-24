@@ -1,0 +1,30 @@
+{
+  "insp_id": "303141207450690",
+  "layout": "a",
+  "customer_id": "323971",
+  "customer_name": "Robert Peters",
+  "customer_addr": "P O Box 774\nPort Austin, MI 48467",
+  "certificate": "34-C-0323",
+  "site_id": "001",
+  "site_name": "ROBERT PETERS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-OCT-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

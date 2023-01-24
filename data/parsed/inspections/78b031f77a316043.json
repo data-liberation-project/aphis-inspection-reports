@@ -1,0 +1,50 @@
+{
+  "insp_id": "275141104251000",
+  "layout": "a",
+  "customer_id": "327335",
+  "customer_name": "Central Supply",
+  "customer_addr": "P.O. Box 10\nMesquite, NM 88048",
+  "certificate": "85-C-0036",
+  "site_id": "001",
+  "site_name": "Central Supply",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-OCT-2014",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 24,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

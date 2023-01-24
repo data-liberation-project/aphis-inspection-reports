@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814720",
+  "layout": "b",
+  "customer_id": "6010444",
+  "customer_name": "Hoof or Paw",
+  "customer_addr": "253 Stone Loop\nDetroit, AL 35552",
+  "certificate": "64-B-0102",
+  "site_id": "001",
+  "site_name": "Hoof or Paw",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-SEP-2022",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

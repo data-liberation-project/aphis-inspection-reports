@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569239782",
+  "layout": "a",
+  "customer_id": "1476",
+  "customer_name": "University Of Texas - M.D. Anderson Cancer Center",
+  "customer_addr": "1515 Holcombe Blvd Box 63\nHouston, TX 77030",
+  "certificate": "74-R-0065",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF TEXAS - M.D. Anderson Cancer Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 29,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

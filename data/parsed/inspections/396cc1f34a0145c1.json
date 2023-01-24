@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000834975",
+  "layout": "b",
+  "customer_id": "331843",
+  "customer_name": "Barbara Simmons",
+  "customer_addr": "29223 N Ave\nFairfax, MO 64446",
+  "certificate": "43-A-5898",
+  "site_id": "001",
+  "site_name": "Barbara Simmons",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-DEC-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

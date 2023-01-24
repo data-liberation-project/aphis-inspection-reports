@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569135101",
+  "layout": "a",
+  "customer_id": "24532",
+  "customer_name": "Mark Mills",
+  "customer_addr": "2700 C R 415 D\nBrazoria, TX 77422",
+  "certificate": "74-C-0749",
+  "site_id": "003",
+  "site_name": "Mark Mills",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-APR-2018",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Axis axis",
+      "common": "AXIS DEER / SPOTTED DEER / CHITAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

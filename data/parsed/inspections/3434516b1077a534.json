@@ -1,0 +1,35 @@
+{
+  "insp_id": "210161454570992",
+  "layout": "a",
+  "customer_id": "27617",
+  "customer_name": "Jeff Kozlowski",
+  "customer_addr": "Po Box 245\nRock Springs, WI 53961",
+  "certificate": "35-C-0242",
+  "site_id": "001",
+  "site_name": "JEFF KOZLOWSKI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUL-2016",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 17,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
+}

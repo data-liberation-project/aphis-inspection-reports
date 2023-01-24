@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814822",
+  "layout": "b",
+  "customer_id": "6014309",
+  "customer_name": "Michael Satterfield",
+  "customer_addr": "734 B Cripps Rd\nSmithville, TN 37166",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Michael Satterfield",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    }
+  ]
+}

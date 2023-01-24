@@ -1,0 +1,40 @@
+{
+  "insp_id": "148142229520813",
+  "layout": "a",
+  "customer_id": "156",
+  "customer_name": "Harvard University",
+  "customer_addr": "1414 Massachusetts Avenue\nRoom 233\nCambridge, MA 02138",
+  "certificate": "14-R-0128",
+  "site_id": "001",
+  "site_name": "HARVARD UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JUN-2014",
+  "animals_total": 1304,
+  "species": [
+    {
+      "count": 221,
+      "scientific": "Peromyscus gossypinus",
+      "common": "PEROMYSCUS GOSSYPINUS"
+    },
+    {
+      "count": 83,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 325,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 595,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    },
+    {
+      "count": 80,
+      "scientific": "Rhabdomys pumilio",
+      "common": "FOUR-STRIPED GRASS MOUSE"
+    }
+  ]
+}

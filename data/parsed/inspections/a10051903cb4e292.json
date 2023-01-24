@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567979273",
+  "layout": "a",
+  "customer_id": "1044",
+  "customer_name": "The University Of Arizona",
+  "customer_addr": "1501 N. Campbell Ave., Room 1126\nP O Box 245092\nTucson, AZ 85724",
+  "certificate": "86-R-0003",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY ANIMAL CARE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUL-2016",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

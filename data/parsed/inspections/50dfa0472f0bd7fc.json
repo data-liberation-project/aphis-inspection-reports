@@ -1,0 +1,30 @@
+{
+  "insp_id": "126141412230966",
+  "layout": "a",
+  "customer_id": "326835",
+  "customer_name": "Jason Shiring",
+  "customer_addr": "P O Box 13\nSmithmill, PA 16680",
+  "certificate": "23-C-0323",
+  "site_id": "001",
+  "site_name": "JASON SHIRING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-SEP-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
+}

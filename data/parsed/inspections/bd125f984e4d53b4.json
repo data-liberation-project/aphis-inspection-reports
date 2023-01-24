@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082569184270",
+  "layout": "a",
+  "customer_id": "2111",
+  "customer_name": "City Of Kingston",
+  "customer_addr": "Parks & Rec Dept, 467 Broadway\nKingston, NY 12401",
+  "certificate": "21-C-0034",
+  "site_id": "001",
+  "site_name": "FORSYTH PARK ZOO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUN-2018",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

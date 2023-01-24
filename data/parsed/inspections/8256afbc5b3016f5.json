@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000632527",
+  "layout": "a",
+  "customer_id": "334734",
+  "customer_name": "ZOETIS LLC",
+  "customer_addr": "10 Sylvan Way\nPARSIPPANY, NJ 07054",
+  "certificate": "22-R-0155",
+  "site_id": "001",
+  "site_name": "ZOETIS VETERINARY MEDICINE AND RESEARCH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUN-2021",
+  "animals_total": 831,
+  "species": [
+    {
+      "count": 393,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 365,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

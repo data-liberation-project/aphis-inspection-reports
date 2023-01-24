@@ -1,0 +1,35 @@
+{
+  "insp_id": "210151619470727",
+  "layout": "a",
+  "customer_id": "577",
+  "customer_name": "The University Of Chicago",
+  "customer_addr": "5841 S Maryland Ave, Mc1030\nChicago, IL 60637",
+  "certificate": "33-R-0151",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY OF CHICAGO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUL-2015",
+  "animals_total": 360,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 300,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

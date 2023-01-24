@@ -1,0 +1,45 @@
+{
+  "insp_id": "INS-0000821150",
+  "layout": "b",
+  "customer_id": "502185",
+  "customer_name": "Wizard of Paws Wildlife Education Inc",
+  "customer_addr": "403 Fletcher Lane\nBeech Grove, IN 46107",
+  "certificate": "32-C-0276",
+  "site_id": "001",
+  "site_name": "Wizard of Paws Wildlife Education Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-OCT-2022",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 7,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus hallstromi",
+      "common": "NEW GUINEA SINGING DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes pallida",
+      "common": "PALE FOX"
+    }
+  ]
+}

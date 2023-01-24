@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000497822",
+  "layout": "a",
+  "customer_id": "32672",
+  "customer_name": "PRIMATES INCORPORATED",
+  "customer_addr": "PO BOX 7384\nMADISON, WI 53707",
+  "certificate": "35-C-0401",
+  "site_id": "001",
+  "site_name": "PRIMATES INCORPORATED",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-DEC-2020",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

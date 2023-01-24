@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569333776",
+  "layout": "a",
+  "customer_id": "333327",
+  "customer_name": "7 Acre Wood",
+  "customer_addr": "4401 N. Frazier St.\nConroe, TX 77303",
+  "certificate": "74-C-1019",
+  "site_id": "001",
+  "site_name": "7 Acre Wood",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-NOV-2018",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

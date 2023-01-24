@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569050799",
+  "layout": "a",
+  "customer_id": "199",
+  "customer_name": "Hope College",
+  "customer_addr": "35 East 12th Street\nHolland, MI 49423",
+  "certificate": "34-R-0035",
+  "site_id": "001",
+  "site_name": "HOPE COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2018",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
+}

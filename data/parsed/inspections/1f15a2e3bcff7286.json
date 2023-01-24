@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016090000513799",
+  "layout": "a",
+  "customer_id": "1955",
+  "customer_name": "LUTZ CHILDRENS MUSEUM",
+  "customer_addr": "247 S MAIN STREET\nMANCHESTER, CT 06040",
+  "certificate": "16-C-0151",
+  "site_id": "001",
+  "site_name": "LUTZ CHILDRENS MUSEUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JAN-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}

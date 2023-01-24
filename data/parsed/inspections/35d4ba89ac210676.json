@@ -1,0 +1,35 @@
+{
+  "insp_id": "182141336050284",
+  "layout": "a",
+  "customer_id": "12345",
+  "customer_name": "Roper Mountain Science Center",
+  "customer_addr": "402 Roper Mountain Road\nGreenville, SC 29615",
+  "certificate": "56-C-0129",
+  "site_id": "001",
+  "site_name": "ROPER MOUNTAIN SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUL-2014",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

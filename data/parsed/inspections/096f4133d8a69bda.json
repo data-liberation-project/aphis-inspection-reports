@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000807197",
+  "layout": "b",
+  "customer_id": "330146",
+  "customer_name": "SDIX LLC",
+  "customer_addr": "52 Anderson Rd\nWindham, ME 04062",
+  "certificate": "50-B-0017",
+  "site_id": "001",
+  "site_name": "SDIX LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-AUG-2022",
+  "animals_total": 3581,
+  "species": [
+    {
+      "count": 807,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2772,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

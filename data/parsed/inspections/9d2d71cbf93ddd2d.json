@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569071065",
+  "layout": "a",
+  "customer_id": "325322",
+  "customer_name": "Alice Ketchum",
+  "customer_addr": "22455 170th Street\nPurcell, OK 73080",
+  "certificate": "73-A-2631",
+  "site_id": "001",
+  "site_name": "Alice Ketchum",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-MAR-2018",
+  "animals_total": 90,
+  "species": [
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

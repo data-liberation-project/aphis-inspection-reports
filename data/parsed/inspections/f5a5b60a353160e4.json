@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000510751",
+  "layout": "a",
+  "customer_id": "11504",
+  "customer_name": "GREAT LAKES AQUARIUM",
+  "customer_addr": "353 HARBOR DR\nDULUTH, MN 55802",
+  "certificate": "41-C-0239",
+  "site_id": "001",
+  "site_name": "GREAT LAKES AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JAN-2021",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

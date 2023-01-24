@@ -1,0 +1,30 @@
+{
+  "insp_id": "41161301590495",
+  "layout": "a",
+  "customer_id": "19810",
+  "customer_name": "Globe University",
+  "customer_addr": "8089 Globe Drive 3rd Floor\nWoodbury, MN 55125",
+  "certificate": "41-R-0064",
+  "site_id": "010",
+  "site_name": "APPLETON SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-FEB-2016",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

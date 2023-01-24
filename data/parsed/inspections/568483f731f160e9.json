@@ -1,0 +1,45 @@
+{
+  "insp_id": "15140657471274",
+  "layout": "a",
+  "customer_id": "375",
+  "customer_name": "Rockland Inc",
+  "customer_addr": "Rockland Immunochemicals\nPo Box 5199\nRoyersford, PA 19468",
+  "certificate": "23-B-0008",
+  "site_id": "001",
+  "site_name": "ROCKLAND INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-FEB-2014",
+  "animals_total": 310,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 42,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 247,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

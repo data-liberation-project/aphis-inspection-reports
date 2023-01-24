@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826582",
+  "layout": "b",
+  "customer_id": "17176",
+  "customer_name": "JUDY DOROTHY",
+  "customer_addr": "10873 VINE AVENUE\nSTOCKPORT, IA 52651",
+  "certificate": "42-A-0933",
+  "site_id": "001",
+  "site_name": "JUDY DOROTHY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-NOV-2022",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569290562",
+  "layout": "a",
+  "customer_id": "1168",
+  "customer_name": "Allergan",
+  "customer_addr": "P.O. Box 19534\nIrvine, CA 92623",
+  "certificate": "93-R-0067",
+  "site_id": "001",
+  "site_name": "ALLERGAN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2018",
+  "animals_total": 586,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 86,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 444,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "insp_id": "2016090000614447",
+  "layout": "a",
+  "customer_id": "1575",
+  "customer_name": "IOWA STATE UNIVERSITY",
+  "customer_addr": "2420 Lincoln Way Suite 202\nAMES, IA 50014",
+  "certificate": "42-R-0003",
+  "site_id": "001",
+  "site_name": "IOWA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-MAY-2021",
+  "animals_total": 281,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 63,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 6,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 102,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    },
+    {
+      "count": 46,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 36,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

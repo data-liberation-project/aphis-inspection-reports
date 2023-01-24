@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000822203",
+  "layout": "b",
+  "customer_id": "507280",
+  "customer_name": "David Wittmer",
+  "customer_addr": "15015 N 900 E\nOdon, IN 47562",
+  "certificate": "32-B-0265",
+  "site_id": "001",
+  "site_name": "DAVID WITTMER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2022",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

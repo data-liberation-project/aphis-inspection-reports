@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000530676",
+  "layout": "a",
+  "customer_id": "502531",
+  "customer_name": "JOHN MILLER",
+  "customer_addr": "14055 COUNTY ROAD 35\nUTICA, MN 55979",
+  "certificate": "41-A-0496",
+  "site_id": "001",
+  "site_name": "JOHN HENRY MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-FEB-2021",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

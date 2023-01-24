@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000824380",
+  "layout": "b",
+  "customer_id": "334105",
+  "customer_name": "NORTHERN GREAT PLAINS RESEARCH LAB",
+  "customer_addr": "Box 459\nMANDAN, ND 58554",
+  "certificate": "45-G-0001",
+  "site_id": "001",
+  "site_name": "NORTHERN GREAT PLAINS RESEARCH LABORATORY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-NOV-2022",
+  "animals_total": 268,
+  "species": [
+    {
+      "count": 185,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 80,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

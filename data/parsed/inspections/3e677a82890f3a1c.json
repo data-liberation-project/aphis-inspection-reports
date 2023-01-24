@@ -1,0 +1,40 @@
+{
+  "insp_id": "295151016590529",
+  "layout": "a",
+  "customer_id": "542",
+  "customer_name": "Mayo Clinic",
+  "customer_addr": "1997 Guggenheim 200 First St Sw\nRochester, MN 55905",
+  "certificate": "41-R-0006",
+  "site_id": "001",
+  "site_name": "MAYO CLINIC - ROCHESTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-OCT-2015",
+  "animals_total": 330,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 96,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 91,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 82,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

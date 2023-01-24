@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000824533",
+  "layout": "b",
+  "customer_id": "6013581",
+  "customer_name": "Lavish Savannahs",
+  "customer_addr": "600 Cold Springs Rd\nDillsburg, PA 47019",
+  "certificate": "23-A-0772",
+  "site_id": "001",
+  "site_name": "Lavish Savanhahs",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-NOV-2022",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    }
+  ]
+}

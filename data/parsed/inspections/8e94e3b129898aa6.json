@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000812565",
+  "layout": "b",
+  "customer_id": "37618",
+  "customer_name": "Teatown Lake Reservation",
+  "customer_addr": "1600 Spring Valley Rd\nOssining, NY 10562",
+  "certificate": "21-C-0412",
+  "site_id": "001",
+  "site_name": "Teatown Lake Reservation",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-AUG-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000814996",
+  "layout": "b",
+  "customer_id": "930",
+  "customer_name": "UNIVERSITY OF SOUTH FLORIDA",
+  "customer_addr": "12901 BRUCE B DOWNS BLVD MDC 20\nTAMPA, FL 33612",
+  "certificate": "58-R-0015",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF SOUTH FLORIDA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-SEP-2022",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "89160825130848",
+  "layout": "a",
+  "customer_id": "44086",
+  "customer_name": "Serenity Farm Inc",
+  "customer_addr": "Po Box 318\nBenedict, MD 20612",
+  "certificate": "51-C-0091",
+  "site_id": "001",
+  "site_name": "SERENITY FARM INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-APR-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

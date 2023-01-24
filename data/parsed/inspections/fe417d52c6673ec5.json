@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000768077",
+  "layout": "a",
+  "customer_id": "1576",
+  "customer_name": "UNIVERSITY OF IOWA",
+  "customer_addr": "Office of Animal Resources, Office of the IACUC\nL350 P B D B\nIOWA CITY, IA 52242",
+  "certificate": "42-R-0004",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF IOWA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-FEB-2022",
+  "animals_total": 420,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 326,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 52,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

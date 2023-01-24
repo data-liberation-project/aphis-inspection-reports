@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082567993200",
+  "layout": "a",
+  "customer_id": "17938",
+  "customer_name": "Kimberly Frenette",
+  "customer_addr": "8 B Dumont Road\nHudson, NH 03051",
+  "certificate": "12-C-0045",
+  "site_id": "001",
+  "site_name": "KIMBERLY FRENETTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-NOV-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

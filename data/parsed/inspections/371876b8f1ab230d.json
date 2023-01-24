@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569409162",
+  "layout": "a",
+  "customer_id": "331168",
+  "customer_name": "Carol Fry",
+  "customer_addr": "140 Fox Lane\nLockhart, TX 78644",
+  "certificate": "74-C-0987",
+  "site_id": "001",
+  "site_name": "Carol Fry",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAR-2019",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

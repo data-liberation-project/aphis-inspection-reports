@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000812232",
+  "layout": "b",
+  "customer_id": "852",
+  "customer_name": "UNIVERSITY OF MEMPHIS",
+  "customer_addr": "Executive Vice President for Research & Innovation\n365 Innovation Drive\nMEMPHIS, TN 38152",
+  "certificate": "63-R-0006",
+  "site_id": "001",
+  "site_name": "UNIV. OF MEMPHIS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-AUG-2022",
+  "animals_total": 475,
+  "species": [
+    {
+      "count": 263,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND"
+    },
+    {
+      "count": 62,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 119,
+      "scientific": "Microtus arvalis",
+      "common": "EUROPEAN COMMON VOLE"
+    },
+    {
+      "count": 31,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
+}

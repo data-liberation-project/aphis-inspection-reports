@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000834979",
+  "layout": "b",
+  "customer_id": "6012751",
+  "customer_name": "Jason B Hostetler",
+  "customer_addr": "17571 Lawrence 2045\nMiller, MO 65707",
+  "certificate": "43-A-6704",
+  "site_id": "001",
+  "site_name": "Jason Hostetler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-DEC-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

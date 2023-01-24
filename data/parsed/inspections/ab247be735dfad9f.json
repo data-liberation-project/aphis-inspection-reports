@@ -1,0 +1,30 @@
+{
+  "insp_id": "97151025350826",
+  "layout": "a",
+  "customer_id": "31922",
+  "customer_name": "Wild Things Farm L L C",
+  "customer_addr": "700 Beaty Ave\nPocola, OK 74902",
+  "certificate": "73-C-0174",
+  "site_id": "001",
+  "site_name": "WILD THINGS FARM L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-APR-2015",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

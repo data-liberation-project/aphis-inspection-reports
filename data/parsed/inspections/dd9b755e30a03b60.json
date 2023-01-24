@@ -1,0 +1,35 @@
+{
+  "insp_id": "66141021210561",
+  "layout": "a",
+  "customer_id": "325804",
+  "customer_name": "Pingree Farms L L C",
+  "customer_addr": "2325 Kingsbury\nTroy, MI 48098",
+  "certificate": "34-C-0355",
+  "site_id": "001",
+  "site_name": "PINGREE FARMS L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-MAR-2014",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

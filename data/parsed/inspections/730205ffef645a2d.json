@@ -1,0 +1,30 @@
+{
+  "insp_id": "282151819320173",
+  "layout": "a",
+  "customer_id": "41800",
+  "customer_name": "Hawes Farms Inc.",
+  "customer_addr": "21923 Dersch Road\nAnderson, CA 96007",
+  "certificate": "93-C-1060",
+  "site_id": "001",
+  "site_name": "HAWES FARMS, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-OCT-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

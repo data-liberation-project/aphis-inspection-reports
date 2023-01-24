@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568423450",
+  "layout": "a",
+  "customer_id": "926",
+  "customer_name": "Clemson University",
+  "customer_addr": "391 College Ave Suite 406\nClemson, SC 29631",
+  "certificate": "56-R-0002",
+  "site_id": "001",
+  "site_name": "CLEMSON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUN-2017",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

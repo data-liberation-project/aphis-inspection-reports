@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000804885",
+  "layout": "b",
+  "customer_id": "2449",
+  "customer_name": "LAKE TOBIAS WILDLIFE PARK",
+  "customer_addr": "760 TOBIAS ROAD\nHALIFAX, PA 17032",
+  "certificate": "23-C-0098",
+  "site_id": "001",
+  "site_name": "LAKE TOBIAS WILDLIFE PARK",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "21-JUL-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
+}

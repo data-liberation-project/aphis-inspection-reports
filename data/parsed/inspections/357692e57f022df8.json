@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568748789",
+  "layout": "a",
+  "customer_id": "519",
+  "customer_name": "Novartis Pharmaceuticals Corporation",
+  "customer_addr": "Bldg 437/1329 One Health Plaza\nEast Hanover, NJ 07936",
+  "certificate": "22-R-0009",
+  "site_id": "001",
+  "site_name": "NOVARTIS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-AUG-2017",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

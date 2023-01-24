@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569048471",
+  "layout": "a",
+  "customer_id": "1913",
+  "customer_name": "Jeff Baird",
+  "customer_addr": "170 St Rt 141 N\nMorganfield, KY 42437",
+  "certificate": "61-C-0140",
+  "site_id": "002",
+  "site_name": "JEFF BAIRD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-FEB-2018",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries gmelini",
+      "common": "ARMENIAN MOUFLON"
+    }
+  ]
+}

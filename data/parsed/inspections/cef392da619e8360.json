@@ -1,0 +1,30 @@
+{
+  "insp_id": "19161404470438",
+  "layout": "a",
+  "customer_id": "844",
+  "customer_name": "University Of Mississippi Medical Center",
+  "customer_addr": "2500 N. State Street\nJackson, MS 39216",
+  "certificate": "65-R-0102",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JAN-2016",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 85,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

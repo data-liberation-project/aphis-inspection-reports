@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082568437012",
+  "layout": "a",
+  "customer_id": "596",
+  "customer_name": "Midwestern University",
+  "customer_addr": "555 31st Street\nDowners Grove, IL 60515",
+  "certificate": "33-R-0010",
+  "site_id": "002",
+  "site_name": "MIDWESTERN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUN-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

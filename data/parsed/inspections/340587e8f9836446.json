@@ -1,0 +1,35 @@
+{
+  "insp_id": "86142253570131",
+  "layout": "a",
+  "customer_id": "13942",
+  "customer_name": "Pamela Marshall",
+  "customer_addr": "8480 Iradell Rd\nTrumansburg, NY 14886",
+  "certificate": "21-C-0284",
+  "site_id": "001",
+  "site_name": "PAMELA MARSHALL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAR-2014",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

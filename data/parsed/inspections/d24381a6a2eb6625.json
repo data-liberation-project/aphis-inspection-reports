@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568983969",
+  "layout": "a",
+  "customer_id": "333902",
+  "customer_name": "Robert Humbert",
+  "customer_addr": "6570 Mann Rd\nAkron, NY 14001",
+  "certificate": "21-C-0453",
+  "site_id": "001",
+  "site_name": "ROBERT HUMBERT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-NOV-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
+}

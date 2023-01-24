@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000741023",
+  "layout": "a",
+  "customer_id": "2100",
+  "customer_name": "WILDLIFE CONSERVATION SOCIETY",
+  "customer_addr": "2300 SOUTHERN BLVD.\nNEW YORK -BRONX, NY 10460",
+  "certificate": "21-C-0020",
+  "site_id": "002",
+  "site_name": "NEW YORK AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2021",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 7,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
+}

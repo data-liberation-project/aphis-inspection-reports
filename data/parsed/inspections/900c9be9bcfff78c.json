@@ -1,0 +1,40 @@
+{
+  "insp_id": "328150823210722",
+  "layout": "a",
+  "customer_id": "33462",
+  "customer_name": "Flicka Corp.",
+  "customer_addr": "12726 Dovetail Dr\nSan Antonio, TX 78253",
+  "certificate": "74-C-0777",
+  "site_id": "001",
+  "site_name": "FLICKA CORP.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-NOV-2015",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 19,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

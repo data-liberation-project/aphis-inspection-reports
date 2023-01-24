@@ -1,0 +1,30 @@
+{
+  "insp_id": "261151621260058",
+  "layout": "a",
+  "customer_id": "330528",
+  "customer_name": "The Red Apple Farm Llc",
+  "customer_addr": "455 Highland Ave\nPhillipston, MA 01331",
+  "certificate": "14-C-0132",
+  "site_id": "001",
+  "site_name": "THE RED APPLE FARM LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-SEP-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

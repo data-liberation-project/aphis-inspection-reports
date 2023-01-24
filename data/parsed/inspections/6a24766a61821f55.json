@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000814876",
+  "layout": "b",
+  "customer_id": "335557",
+  "customer_name": "Aly's Ponies, LLC",
+  "customer_addr": "342 Pancake Hollow Road\nHighland, NY 12528",
+  "certificate": "21-C-0457",
+  "site_id": "001",
+  "site_name": "ALYS PONIES LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-SEP-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

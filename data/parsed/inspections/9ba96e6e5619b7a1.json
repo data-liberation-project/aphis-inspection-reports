@@ -1,0 +1,40 @@
+{
+  "insp_id": "288151314500304",
+  "layout": "a",
+  "customer_id": "331698",
+  "customer_name": "Fish And More Pet Store",
+  "customer_addr": "310 E Main St\nSuite 8\nSylva, NC 28779",
+  "certificate": "55-B-0215",
+  "site_id": "001",
+  "site_name": "FISH & MORE PET STORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-OCT-2015",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    }
+  ]
+}

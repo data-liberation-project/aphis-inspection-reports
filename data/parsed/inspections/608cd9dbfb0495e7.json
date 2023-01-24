@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000815103",
+  "layout": "b",
+  "customer_id": "914",
+  "customer_name": "ST PETERSBURG COLLEGE",
+  "customer_addr": "12376 ULMERTON ROAD\nLARGO, FL 33774",
+  "certificate": "58-R-0023",
+  "site_id": "001",
+  "site_name": "ST PETERSBURG COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-SEP-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

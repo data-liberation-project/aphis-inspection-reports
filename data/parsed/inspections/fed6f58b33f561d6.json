@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569488660",
+  "layout": "a",
+  "customer_id": "323719",
+  "customer_name": "Rooster Cogburn Ostrich",
+  "customer_addr": "P. O. Box 1100\nRed Rock, AZ 85145",
+  "certificate": "86-C-0101",
+  "site_id": "001",
+  "site_name": "ROOSTER COGBURN OSTRICH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAY-2019",
+  "animals_total": 185,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 36,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 81,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

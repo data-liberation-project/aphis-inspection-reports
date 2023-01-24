@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000804767",
+  "layout": "b",
+  "customer_id": "1185",
+  "customer_name": "University of Southern California",
+  "customer_addr": "3720 SOUTH FLOWER STREET, ROOM 325\nLOS ANGELES, CA 90089",
+  "certificate": "93-R-0020",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "19-JUL-2022",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Dipodomys merriami",
+      "common": "MERRIAM'S KANGAROO RAT"
+    }
+  ]
+}

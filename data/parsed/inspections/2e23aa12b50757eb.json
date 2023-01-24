@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568135183",
+  "layout": "a",
+  "customer_id": "7360",
+  "customer_name": "Yellowstone Bear World Inc.",
+  "customer_addr": "P.O. Box 160\nRexburg, ID 83440",
+  "certificate": "82-C-0042",
+  "site_id": "001",
+  "site_name": "YELLOWSTONE BEAR WORLD INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAR-2017",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oreamnos americanus",
+      "common": "ROCKY MOUNTAIN GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
+}

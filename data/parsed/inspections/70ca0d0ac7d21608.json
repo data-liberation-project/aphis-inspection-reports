@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000639389",
+  "layout": "a",
+  "customer_id": "289",
+  "customer_name": "UNIVERSITY OF PITTSBURGH",
+  "customer_addr": "3500 TERRACE STREET\nS1040 TE STARZL BIOMEDICAL SCIENCE TOWER\nPITTSBURGH, PA 15261",
+  "certificate": "23-R-0016",
+  "site_id": "002",
+  "site_name": "PBRC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUN-2021",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 37,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 43,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 24,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}

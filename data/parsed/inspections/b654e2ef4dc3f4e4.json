@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000824427",
+  "layout": "b",
+  "customer_id": "3541",
+  "customer_name": "Bill Rivers",
+  "customer_addr": "2222 FM 1283\nPIPECREEK, TX 78063",
+  "certificate": "74-C-0830",
+  "site_id": "002",
+  "site_name": "BILL RIVERS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-OCT-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
+}

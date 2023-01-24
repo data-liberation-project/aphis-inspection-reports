@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016090000770974",
+  "layout": "a",
+  "customer_id": "878",
+  "customer_name": "SOUTHERN RESEARCH INSTITUTE",
+  "customer_addr": "2000 NINTH AVENUE SOUTH\nP.O. BOX 55305\nBIRMINGHAM, AL 35255",
+  "certificate": "64-R-0001",
+  "site_id": "001",
+  "site_name": "SOUTHERN RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAR-2022",
+  "animals_total": 163,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 62,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

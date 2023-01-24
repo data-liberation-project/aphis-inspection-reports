@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000754242",
+  "layout": "a",
+  "customer_id": "1414",
+  "customer_name": "Bethyl Laboratories Inc.",
+  "customer_addr": "P. O. BOX 850\nMONTGOMERY, TX 77356",
+  "certificate": "74-R-0044",
+  "site_id": "001",
+  "site_name": "BETHYL LABORATORIES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2021",
+  "animals_total": 1880,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1163,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 687,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

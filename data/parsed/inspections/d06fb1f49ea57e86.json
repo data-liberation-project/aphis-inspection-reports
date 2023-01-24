@@ -1,0 +1,25 @@
+{
+  "insp_id": "308152100530125",
+  "layout": "a",
+  "customer_id": "5865",
+  "customer_name": "Robert Martin",
+  "customer_addr": "2303 Spence Ave\nHollenberg, KS 66946",
+  "certificate": "48-A-1939",
+  "site_id": "001",
+  "site_name": "Robert Martin",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-NOV-2015",
+  "animals_total": 111,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

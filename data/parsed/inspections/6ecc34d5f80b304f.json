@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568570362",
+  "layout": "a",
+  "customer_id": "324080",
+  "customer_name": "Levi Westendorp",
+  "customer_addr": "5875 M-66\nNashville, MI 49073",
+  "certificate": "34-C-0348",
+  "site_id": "001",
+  "site_name": "MOOVILLE CREAMERY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JUL-2017",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

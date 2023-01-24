@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569863539",
+  "layout": "a",
+  "customer_id": "321189",
+  "customer_name": "Intervet Inc",
+  "customer_addr": "2 Giralda Farms\nMadison, NJ 07940",
+  "certificate": "22-R-0144",
+  "site_id": "002",
+  "site_name": "INTERVET INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-AUG-2020",
+  "animals_total": 404,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 204,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 122,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

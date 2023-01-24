@@ -1,0 +1,40 @@
+{
+  "insp_id": "283141535100667",
+  "layout": "a",
+  "customer_id": "38766",
+  "customer_name": "Hunsader Farms Inc",
+  "customer_addr": "5500 C R 675\nBradenton, FL 34211",
+  "certificate": "58-C-1107",
+  "site_id": "001",
+  "site_name": "HUNSADER FARMS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-OCT-2014",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

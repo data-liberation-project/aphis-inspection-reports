@@ -1,0 +1,25 @@
+{
+  "insp_id": "28151213310788",
+  "layout": "a",
+  "customer_id": "5795",
+  "customer_name": "John Thompson",
+  "customer_addr": "1162 North River Road\nSioux Rapids, IA 50585",
+  "certificate": "42-A-1218",
+  "site_id": "001",
+  "site_name": "JOHN THOMPSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JAN-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

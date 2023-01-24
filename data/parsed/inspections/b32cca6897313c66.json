@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568882987",
+  "layout": "a",
+  "customer_id": "14156",
+  "customer_name": "Allen Kraft",
+  "customer_addr": "127141 Lovers Lane\nAthens, WI 54411",
+  "certificate": "35-C-0322",
+  "site_id": "001",
+  "site_name": "ALLEN KRAFT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-OCT-2017",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812541",
+  "layout": "b",
+  "customer_id": "6012336",
+  "customer_name": "Ernest Miller",
+  "customer_addr": "4525 W 100 S\nLagrange, IN 46761",
+  "certificate": "32-A-0960",
+  "site_id": "001",
+  "site_name": "Ernest Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-AUG-2022",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "78142023327042",
+  "layout": "a",
+  "customer_id": "1799",
+  "customer_name": "Charles River Laboratories Inc",
+  "customer_addr": "251 Ballardvale St\nWilmington, MA 01887",
+  "certificate": "14-B-0013",
+  "site_id": "002",
+  "site_name": "KINGSTON SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-APR-2014",
+  "animals_total": 21098,
+  "species": [
+    {
+      "count": 4039,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2175,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 14884,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    }
+  ]
+}

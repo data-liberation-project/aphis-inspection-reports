@@ -1,0 +1,50 @@
+{
+  "insp_id": "2016082569231537",
+  "layout": "a",
+  "customer_id": "89",
+  "customer_name": "University Of Maryland Baltimore",
+  "customer_addr": "10 S. Pine St. Rm G-100, Mstf Bldg.\nBaltimore, MD 21201",
+  "certificate": "51-R-0018",
+  "site_id": "001",
+  "site_name": "VETERINARY RESOURCES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-AUG-2018",
+  "animals_total": 201,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 33,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 13,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 68,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

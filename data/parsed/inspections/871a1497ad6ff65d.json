@@ -1,0 +1,35 @@
+{
+  "insp_id": "108161310100127",
+  "layout": "a",
+  "customer_id": "11120",
+  "customer_name": "Kathy Woodson",
+  "customer_addr": "P O Box 395\nRockvale, TN 37153",
+  "certificate": "63-B-0172",
+  "site_id": "001",
+  "site_name": "KATHY WOODSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-APR-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 9,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 7,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000465238",
+  "layout": "a",
+  "customer_id": "331168",
+  "customer_name": "Carol Fry",
+  "customer_addr": "140 Fox Lane\nLOCKHART, TX 78644",
+  "certificate": "74-C-0987",
+  "site_id": "001",
+  "site_name": "Carol Fry",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-NOV-2020",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

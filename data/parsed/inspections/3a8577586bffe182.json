@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567994070",
+  "layout": "a",
+  "customer_id": "324945",
+  "customer_name": "Fillup Inc",
+  "customer_addr": "1376 Joliet Road\nRomeoville, IL 60446",
+  "certificate": "33-C-0461",
+  "site_id": "001",
+  "site_name": "FILLUP INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-NOV-2016",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

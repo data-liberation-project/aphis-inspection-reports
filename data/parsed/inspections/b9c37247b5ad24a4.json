@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820152",
+  "layout": "b",
+  "customer_id": "334290",
+  "customer_name": "Gail Bear",
+  "customer_addr": "5815 Sulphur Mountain Road\nHARRISON, AR 72601",
+  "certificate": "71-A-1353",
+  "site_id": "002",
+  "site_name": "GAIL BEAR",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-OCT-2022",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

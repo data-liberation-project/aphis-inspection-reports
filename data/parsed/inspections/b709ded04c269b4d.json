@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568420447",
+  "layout": "a",
+  "customer_id": "321877",
+  "customer_name": "Experimur Llc",
+  "customer_addr": "4045 S Morgan Street\nChicago, IL 60609",
+  "certificate": "33-R-0143",
+  "site_id": "001",
+  "site_name": "EXPERIMUR LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JUN-2017",
+  "animals_total": 142,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

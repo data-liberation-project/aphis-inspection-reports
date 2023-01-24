@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812657",
+  "layout": "b",
+  "customer_id": "325208",
+  "customer_name": "MAX PLANCK FLORIDA CORPORATION",
+  "customer_addr": "ONE MAX PLANCK WAY\nJUPITER, FL 33458",
+  "certificate": "58-R-0146",
+  "site_id": "001",
+  "site_name": "MAX PLANCK FLORIDA CORPORATION",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-SEP-2022",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 151,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    },
+    {
+      "count": 14,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

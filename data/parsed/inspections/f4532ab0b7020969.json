@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0000831608",
+  "layout": "b",
+  "customer_id": "334305",
+  "customer_name": "National Animal Disease Center",
+  "customer_addr": "P.O. Box 70\nAMES, IA 50010",
+  "certificate": "42-G-0001",
+  "site_id": "001",
+  "site_name": "NATIONAL ANIMAL DISEASE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-NOV-2022",
+  "animals_total": 3564,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 224,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 65,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 180,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 166,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 17,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 24,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 2857,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH"
+    },
+    {
+      "count": 25,
+      "scientific": "Mustela vison",
+      "common": "AMERICAN MINK"
+    }
+  ]
+}

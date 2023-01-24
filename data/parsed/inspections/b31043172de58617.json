@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000812205",
+  "layout": "b",
+  "customer_id": "2499",
+  "customer_name": "TED KROGH",
+  "customer_addr": "92 YOUNG STREET\nEAST HAMPTON, CT 06424",
+  "certificate": "16-C-0073",
+  "site_id": "001",
+  "site_name": "TED KROGH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2022",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 15,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 9,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    }
+  ]
+}

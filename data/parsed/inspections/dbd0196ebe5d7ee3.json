@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000812388",
+  "layout": "b",
+  "customer_id": "25517",
+  "customer_name": "BERTEK INC.",
+  "customer_addr": "P O BOX 606\nGREENBRIER, AR 72058",
+  "certificate": "71-R-0107",
+  "site_id": "001",
+  "site_name": "BERTEK, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 392,
+  "species": [
+    {
+      "count": 312,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 63,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

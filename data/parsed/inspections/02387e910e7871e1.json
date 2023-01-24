@@ -1,0 +1,35 @@
+{
+  "insp_id": "336141358450519",
+  "layout": "a",
+  "customer_id": "813",
+  "customer_name": "North Carolina A&T State University",
+  "customer_addr": "Lab. Animal Resource Unit\n116 Webb Hall\nGreensboro, NC 27411",
+  "certificate": "55-R-0022",
+  "site_id": "001",
+  "site_name": "NORTH CAROLINA A&T STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-DEC-2014",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 61,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

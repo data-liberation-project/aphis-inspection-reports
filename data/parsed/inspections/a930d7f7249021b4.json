@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569647130",
+  "layout": "a",
+  "customer_id": "505393",
+  "customer_name": "Zoo Chateau",
+  "customer_addr": "22740 Indian Head Road\nGolden, CO 80403",
+  "certificate": "84-C-0167",
+  "site_id": "001",
+  "site_name": "ZOO CHATEAU",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-NOV-2019",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga x e. asinus",
+      "common": "ZEBRA-DONKEY HYBRID / ZEDONK / ZEBRINNY"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000591694",
+  "layout": "a",
+  "customer_id": "504526",
+  "customer_name": "BORIS PETKOV",
+  "customer_addr": "4349 Salamanca Cir\nLAS VEGAS, NV 89121",
+  "certificate": "88-A-0026",
+  "site_id": "001",
+  "site_name": "BORIS PETKOV",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-APR-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000748783",
+  "layout": "a",
+  "customer_id": "81",
+  "customer_name": "THE JOHNS HOPKINS UNIVERSITY",
+  "customer_addr": "265 GARLAND HALL\n3400 N CHARLES STREET\nBALTIMORE, MD 21218",
+  "certificate": "51-R-0006",
+  "site_id": "003",
+  "site_name": "JOHNS HOPKINS UNIVERSITY, THE",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "16-NOV-2021",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 22,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

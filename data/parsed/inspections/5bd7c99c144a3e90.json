@@ -1,0 +1,45 @@
+{
+  "insp_id": "176161136290441",
+  "layout": "a",
+  "customer_id": "38501",
+  "customer_name": "House Of Pets Inc",
+  "customer_addr": "5656 Newburgh Rd\nWestland, MI 48185",
+  "certificate": "34-B-0204",
+  "site_id": "001",
+  "site_name": "HOUSE OF PETS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUN-2016",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 5,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

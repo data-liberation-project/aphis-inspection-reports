@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568271543",
+  "layout": "a",
+  "customer_id": "3541",
+  "customer_name": "Bill Rivers",
+  "customer_addr": "2222 Fm 1283\nPipecreek, TX 78063",
+  "certificate": "74-C-0830",
+  "site_id": "002",
+  "site_name": "BILL RIVERS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-MAY-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 10,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

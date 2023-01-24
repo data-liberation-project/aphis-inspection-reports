@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569317988",
+  "layout": "a",
+  "customer_id": "136",
+  "customer_name": "Smith College",
+  "customer_addr": "Clark Science Center/Smith College\nNorthampton, MA 01063",
+  "certificate": "14-R-0061",
+  "site_id": "001",
+  "site_name": "SMITH COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-NOV-2018",
+  "animals_total": 187,
+  "species": [
+    {
+      "count": 116,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 71,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
+}

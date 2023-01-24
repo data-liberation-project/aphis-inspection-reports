@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000812163",
+  "layout": "b",
+  "customer_id": "15544",
+  "customer_name": "Indian Cliffs Ranch Inc.",
+  "customer_addr": "P. O. BOX 1056\nFABENS, TX 79838",
+  "certificate": "74-C-0550",
+  "site_id": "001",
+  "site_name": "Indian Cliffs Ranch Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-AUG-2022",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 56,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis aries gmelini",
+      "common": "ARMENIAN MOUFLON"
+    }
+  ]
+}

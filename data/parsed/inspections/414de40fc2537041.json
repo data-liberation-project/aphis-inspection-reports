@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568408249",
+  "layout": "a",
+  "customer_id": "897",
+  "customer_name": "University Of Louisville",
+  "customer_addr": "511 S Floyd St Research Resources\nLouisville, KY 40202",
+  "certificate": "61-R-0001",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF LOUISVILLE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JUN-2017",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 59,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

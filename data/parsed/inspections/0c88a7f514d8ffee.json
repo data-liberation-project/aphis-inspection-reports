@@ -1,0 +1,40 @@
+{
+  "insp_id": "301151958350658",
+  "layout": "a",
+  "customer_id": "2667",
+  "customer_name": "Wolf Park",
+  "customer_addr": "4004 E 800 N\nBattle Ground, IN 47920",
+  "certificate": "32-C-0006",
+  "site_id": "001",
+  "site_name": "WOLF PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-OCT-2015",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 5,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
+}

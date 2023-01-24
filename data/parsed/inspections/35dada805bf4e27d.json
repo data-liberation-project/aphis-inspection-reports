@@ -1,0 +1,40 @@
+{
+  "insp_id": "147161018260933",
+  "layout": "a",
+  "customer_id": "45093",
+  "customer_name": "Ray W Allen",
+  "customer_addr": "Po Box 300\nSouth Hero, VT 05486",
+  "certificate": "13-C-0017",
+  "site_id": "001",
+  "site_name": "RAY ALLEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-MAY-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 0,
+      "scientific": "None",
+      "common": "NONE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567933206",
+  "layout": "a",
+  "customer_id": "15",
+  "customer_name": "University Of Alaska Fairbanks",
+  "customer_addr": "1033 Sheenjek Drive\nP O Box 756980\nFairbanks, AK 99775",
+  "certificate": "96-C-0034",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-SEP-2016",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 36,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 16,
+      "scientific": "Tarandus",
+      "common": "CARIBOU"
+    }
+  ]
+}

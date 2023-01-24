@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000805987",
+  "layout": "b",
+  "customer_id": "328603",
+  "customer_name": "Liberty Science Center",
+  "customer_addr": "222 Jersey City Boulevard\nJersey City, NJ 07305",
+  "certificate": "22-C-0130",
+  "site_id": "001",
+  "site_name": "LIBERTY SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUL-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 63,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
+}

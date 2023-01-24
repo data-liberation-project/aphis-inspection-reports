@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000780838",
+  "layout": "a",
+  "customer_id": "500902",
+  "customer_name": "ELENA MIKIRTICHEVA ANDREY MIKIRTICHEV",
+  "customer_addr": "3000 BENSLEY RD\nNORTH CHESTERFIELD, VA 23237",
+  "certificate": "52-B-0175",
+  "site_id": "001",
+  "site_name": "ANDREY MIKIRTICHEV",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-APR-2022",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

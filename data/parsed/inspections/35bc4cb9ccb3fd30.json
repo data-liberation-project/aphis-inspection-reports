@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000528360",
+  "layout": "a",
+  "customer_id": "16331",
+  "customer_name": "GODLEY PARK DISTRICT",
+  "customer_addr": "500 SOUTH KANKAKEE STREET\nGODLEY, IL 60407",
+  "certificate": "33-C-0507",
+  "site_id": "001",
+  "site_name": "GODLEY PARK DISTRICT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-FEB-2021",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

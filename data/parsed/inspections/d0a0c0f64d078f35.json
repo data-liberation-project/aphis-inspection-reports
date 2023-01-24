@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000723962",
+  "layout": "a",
+  "customer_id": "3737",
+  "customer_name": "BATES BROS. NUT FARM INC.",
+  "customer_addr": "15954 WOODS VALLEY ROAD\nVALLEY CENTER, CA 92082",
+  "certificate": "93-C-0484",
+  "site_id": "001",
+  "site_name": "BATES BROS. NUT FARM, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-SEP-2021",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

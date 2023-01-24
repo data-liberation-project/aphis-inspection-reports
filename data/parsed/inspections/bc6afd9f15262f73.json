@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000711131",
+  "layout": "a",
+  "customer_id": "176",
+  "customer_name": "PRINCETON UNIVERSITY",
+  "customer_addr": "P O BOX 36\nPRINCETON, NJ 08544",
+  "certificate": "22-R-0022",
+  "site_id": "001",
+  "site_name": "PRINCETON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2021",
+  "animals_total": 282,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 235,
+      "scientific": "Rhabdomys pumilio",
+      "common": "FOUR-STRIPED GRASS MOUSE"
+    },
+    {
+      "count": 29,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

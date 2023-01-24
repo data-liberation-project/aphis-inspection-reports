@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569512139",
+  "layout": "a",
+  "customer_id": "18698",
+  "customer_name": "John Bryant",
+  "customer_addr": "2123 Kentucky Rd\nSeneca, MO 64865",
+  "certificate": "43-A-3807",
+  "site_id": "001",
+  "site_name": "JOHNNY BRYANT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JUN-2019",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 93,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

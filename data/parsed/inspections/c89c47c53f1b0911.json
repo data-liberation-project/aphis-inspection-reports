@@ -1,0 +1,40 @@
+{
+  "insp_id": "181150827581835",
+  "layout": "a",
+  "customer_id": "91",
+  "customer_name": "University Of Maryland College Park",
+  "customer_addr": "Director Laboratory Animal Care\nCollege Park Campus\nCollege Park, MD 20742",
+  "certificate": "51-R-0095",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUN-2015",
+  "animals_total": 160,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 21,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 115,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
+}

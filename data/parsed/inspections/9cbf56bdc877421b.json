@@ -1,0 +1,35 @@
+{
+  "insp_id": "241141217150187",
+  "layout": "a",
+  "customer_id": "326690",
+  "customer_name": "Carrie Sears",
+  "customer_addr": "23453 N. Mustang Way\nFlorence, AZ 85132",
+  "certificate": "86-C-0115",
+  "site_id": "001",
+  "site_name": "Carrie Sears",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-AUG-2014",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

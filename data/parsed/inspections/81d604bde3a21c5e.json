@@ -1,0 +1,35 @@
+{
+  "insp_id": "52141057395723",
+  "layout": "a",
+  "customer_id": "2942",
+  "customer_name": "Robert L Sawmiller",
+  "customer_addr": "16761 County Road 25a\nWapakoneta, OH 45895",
+  "certificate": "31-C-0221",
+  "site_id": "001",
+  "site_name": "ROBERT L SAWMILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-FEB-2014",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 6,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    }
+  ]
+}

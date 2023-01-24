@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000778797",
+  "layout": "a",
+  "customer_id": "29003",
+  "customer_name": "Bay.org",
+  "customer_addr": "55 Francisco Street Suite 710\nSan Francisco, CA 94133",
+  "certificate": "93-C-0914",
+  "site_id": "001",
+  "site_name": "Bay.org",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-MAR-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    }
+  ]
+}

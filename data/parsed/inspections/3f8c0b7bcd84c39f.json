@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568207756",
+  "layout": "a",
+  "customer_id": "1179",
+  "customer_name": "Cedars-Sinai Medical Center",
+  "customer_addr": "8700 Beverly Blvd., North Tower, Rm. 2015\nLos Angeles, CA 90048",
+  "certificate": "93-R-0032",
+  "site_id": "001",
+  "site_name": "CEDARS-SINAI MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-APR-2017",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

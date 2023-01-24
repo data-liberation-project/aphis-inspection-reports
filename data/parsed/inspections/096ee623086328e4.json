@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000750951",
+  "layout": "a",
+  "customer_id": "329885",
+  "customer_name": "PETSWAY INC.",
+  "customer_addr": "1669 E ST LOUIS STREET\nSPRINGFIELD, MO 65802",
+  "certificate": "43-B-3727",
+  "site_id": "003",
+  "site_name": "PETSWAY INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-NOV-2021",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    }
+  ]
+}

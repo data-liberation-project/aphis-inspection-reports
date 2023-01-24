@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568310405",
+  "layout": "a",
+  "customer_id": "12464",
+  "customer_name": "Kim White",
+  "customer_addr": "7410 Fruitville Rd\nSarasota, FL 34240",
+  "certificate": "58-C-1192",
+  "site_id": "001",
+  "site_name": "KIM WHITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAY-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569607421",
+  "layout": "a",
+  "customer_id": "2499",
+  "customer_name": "Ted Krogh",
+  "customer_addr": "92 Young Street\nEast Hampton, CT 06424",
+  "certificate": "16-C-0073",
+  "site_id": "TRA",
+  "site_name": "TED KROGH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-SEP-2019",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "88161103350566",
+  "layout": "a",
+  "customer_id": "4367",
+  "customer_name": "Lloyda Tharp",
+  "customer_addr": "3838 S 117th Rd\nBolivar, MO 65613",
+  "certificate": "43-A-1142",
+  "site_id": "001",
+  "site_name": "LLOYDA THARP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-MAR-2016",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

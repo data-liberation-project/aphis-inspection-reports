@@ -1,0 +1,35 @@
+{
+  "insp_id": "289151403390863",
+  "layout": "a",
+  "customer_id": "33769",
+  "customer_name": "Minnesota Apple Producers Inc",
+  "customer_addr": "3270 Douglas Ave\nWebster, MN 55088",
+  "certificate": "41-C-0185",
+  "site_id": "001",
+  "site_name": "NELSONS APPLE FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-OCT-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
+}

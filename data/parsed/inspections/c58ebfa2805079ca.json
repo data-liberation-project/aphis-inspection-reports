@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812513",
+  "layout": "b",
+  "customer_id": "583",
+  "customer_name": "LOYOLA UNIVERSITY CHICAGO",
+  "customer_addr": "2160 S. FIRST AVE.\nBUILDING 115 ROOM 432-8\nMAYWOOD, IL 60153",
+  "certificate": "33-R-0024",
+  "site_id": "001",
+  "site_name": "STRITCH SCHOOL OF MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-AUG-2022",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

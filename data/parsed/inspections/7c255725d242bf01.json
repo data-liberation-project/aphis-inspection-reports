@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569711271",
+  "layout": "a",
+  "customer_id": "331860",
+  "customer_name": "Cold Spring Harbor Laboratory",
+  "customer_addr": "1 Bungtown Rd\nHarris Building\nCold Spring Harbor, NY 11724",
+  "certificate": "21-R-0234",
+  "site_id": "001",
+  "site_name": "COLD SPRING HARBOR LABORATORY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JAN-2020",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 20,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    }
+  ]
+}

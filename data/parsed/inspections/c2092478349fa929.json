@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568445244",
+  "layout": "a",
+  "customer_id": "360",
+  "customer_name": "Cocalico Biologicals Inc",
+  "customer_addr": "449 Stevens Road\nStevens, PA 17578",
+  "certificate": "23-B-0028",
+  "site_id": "001",
+  "site_name": "COCALICO BIOLOGICALS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JUL-2017",
+  "animals_total": 217,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 163,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

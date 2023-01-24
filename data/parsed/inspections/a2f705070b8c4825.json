@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814607",
+  "layout": "b",
+  "customer_id": "506806",
+  "customer_name": "ENVOL BIOMEDICAL LLC",
+  "customer_addr": "555 Madison Ave\nNEW YORK, NY 10022",
+  "certificate": "21-R-0250",
+  "site_id": "001",
+  "site_name": "ENVOL BIOMEDICAL LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-SEP-2022",
+  "animals_total": 747,
+  "species": [
+    {
+      "count": 723,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
+}

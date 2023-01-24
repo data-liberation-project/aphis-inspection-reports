@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569250808",
+  "layout": "a",
+  "customer_id": "31705",
+  "customer_name": "Film Animals Inc.",
+  "customer_addr": "1125 Buella Vista Road\nActon, CA 93510",
+  "certificate": "93-C-1143",
+  "site_id": "001",
+  "site_name": "FILM ANIMALS INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-AUG-2018",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Sciurus griseus",
+      "common": "WESTERN GREY SQUIRREL"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812401",
+  "layout": "b",
+  "customer_id": "8302",
+  "customer_name": "Teresa Graham",
+  "customer_addr": "623 Ringneck Road\nGARVIN, OK 74736",
+  "certificate": "73-A-2755",
+  "site_id": "001",
+  "site_name": "GRAHAM'S KENNELS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 51,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

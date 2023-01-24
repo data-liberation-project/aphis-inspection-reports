@@ -1,0 +1,35 @@
+{
+  "insp_id": "24151753260935",
+  "layout": "a",
+  "customer_id": "2752",
+  "customer_name": "Animal Rentals Inc",
+  "customer_addr": "5742 W Grand Ave\nChicago, IL 60639",
+  "certificate": "33-C-0024",
+  "site_id": "TRA",
+  "site_name": "VARIOUS TRAVEL LOCATIONS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JAN-2015",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}

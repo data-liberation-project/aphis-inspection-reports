@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826848",
+  "layout": "b",
+  "customer_id": "6013237",
+  "customer_name": "Gary E Mast",
+  "customer_addr": "205 Dusty Lane\nCampbell Hill, IL 62916",
+  "certificate": "33-A-0618",
+  "site_id": "001",
+  "site_name": "Gary E Mast",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-NOV-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

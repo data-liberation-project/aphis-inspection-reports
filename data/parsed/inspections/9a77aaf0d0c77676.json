@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000831984",
+  "layout": "b",
+  "customer_id": "7724",
+  "customer_name": "JOHNSONS CORNER FARM LLC",
+  "customer_addr": "133 CHURCH STREET\nMEDFORD, NJ 08055",
+  "certificate": "22-C-0143",
+  "site_id": "001",
+  "site_name": "JOHNSONS CORNER FARM L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-DEC-2022",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

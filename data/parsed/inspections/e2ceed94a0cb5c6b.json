@@ -1,0 +1,40 @@
+{
+  "insp_id": "162141723419370",
+  "layout": "a",
+  "customer_id": "130",
+  "customer_name": "University Of Massachusetts Medical School",
+  "customer_addr": "55 Lake Avenue North\nWorcester, MA 01655",
+  "certificate": "14-R-0035",
+  "site_id": "001",
+  "site_name": "UNIV. OF MASS. MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JUN-2014",
+  "animals_total": 366,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 78,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 165,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

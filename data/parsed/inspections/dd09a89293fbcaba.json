@@ -1,0 +1,30 @@
+{
+  "insp_id": "275150845320247",
+  "layout": "a",
+  "customer_id": "121",
+  "customer_name": "Holyoke Community College",
+  "customer_addr": "303 Homestead Ave Vet & Animal Science\nHolyoke, MA 01040",
+  "certificate": "14-R-0025",
+  "site_id": "001",
+  "site_name": "HOLYOKE COMMUNITY COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-OCT-2015",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

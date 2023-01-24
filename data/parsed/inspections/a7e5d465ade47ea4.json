@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000808572",
+  "layout": "b",
+  "customer_id": "35982",
+  "customer_name": "Dorothy O' Bar",
+  "customer_addr": "5122 BARBER ROAD\nBOONEVILLE, AR 72927",
+  "certificate": "71-A-1153",
+  "site_id": "001",
+  "site_name": "DOROTHY O' BAR",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-AUG-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

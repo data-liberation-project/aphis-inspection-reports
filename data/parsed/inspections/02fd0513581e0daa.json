@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000529922",
+  "layout": "a",
+  "customer_id": "2954",
+  "customer_name": "NEIL ESPOSITO",
+  "customer_addr": "226 TOURTELLOT HILL ROAD\nCHEPACHET, RI 02814",
+  "certificate": "15-C-0013",
+  "site_id": "001",
+  "site_name": "CHEPACHET FARMS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-FEB-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "295151755170122",
+  "layout": "a",
+  "customer_id": "325274",
+  "customer_name": "Robert Walden",
+  "customer_addr": "8623 Rocky Fork Rd\nSmyrna, TN 37167",
+  "certificate": "63-C-0238",
+  "site_id": "001",
+  "site_name": "ROBERT WALDEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-OCT-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

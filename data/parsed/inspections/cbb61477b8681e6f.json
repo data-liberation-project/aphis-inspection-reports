@@ -1,0 +1,35 @@
+{
+  "insp_id": "43141548070568",
+  "layout": "a",
+  "customer_id": "329948",
+  "customer_name": "The Animal House Pet Shop",
+  "customer_addr": "12 South 4th, Ste. 1\nKeokuk, IA 52632",
+  "certificate": "42-B-0288",
+  "site_id": "001",
+  "site_name": "The Animal House Pet Shop",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-FEB-2014",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Erinaceus concolor",
+      "common": "EASTERN EUROPEAN HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 16,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELLS DWARF HAMSTER"
+    }
+  ]
+}

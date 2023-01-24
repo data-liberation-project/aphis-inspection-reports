@@ -1,0 +1,35 @@
+{
+  "insp_id": "316141408110496",
+  "layout": "a",
+  "customer_id": "31409",
+  "customer_name": "Noahs Landing",
+  "customer_addr": "1179 Houdyshell Rd\nDaytona Beach, FL 32119",
+  "certificate": "58-C-0827",
+  "site_id": "001",
+  "site_name": "NOAHS LANDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-NOV-2014",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

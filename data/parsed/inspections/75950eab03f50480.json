@@ -1,0 +1,40 @@
+{
+  "insp_id": "224141256310509",
+  "layout": "a",
+  "customer_id": "321502",
+  "customer_name": "Hershberger Farm Ltd",
+  "customer_addr": "5452 State Route 557\nMillersburg, OH 44654",
+  "certificate": "31-C-0198",
+  "site_id": "001",
+  "site_name": "HERSHBERGER FARM LTD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-AUG-2014",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 83,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 28,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

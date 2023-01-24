@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569659298",
+  "layout": "a",
+  "customer_id": "1497",
+  "customer_name": "Texas A & M University-Kingsville",
+  "customer_addr": "M S C 201, 700 University Blvd\nKingsville, TX 78363",
+  "certificate": "74-R-0094",
+  "site_id": "001",
+  "site_name": "Texas A & M University-Kingsville",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-NOV-2019",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
+}

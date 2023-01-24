@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826567",
+  "layout": "b",
+  "customer_id": "6013258",
+  "customer_name": "Michael Fisher",
+  "customer_addr": "236 Shanahan Lane\nLoysville, PA 17047",
+  "certificate": "23-A-0773",
+  "site_id": "001",
+  "site_name": "Michael Fisher",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2022",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

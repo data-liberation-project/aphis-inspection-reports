@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807389",
+  "layout": "b",
+  "customer_id": "5922",
+  "customer_name": "Dave Ruter",
+  "customer_addr": "510 13th Ave SW\nSioux Center, IA 51250",
+  "certificate": "42-A-1253",
+  "site_id": "001",
+  "site_name": "DAVE RUTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2022",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

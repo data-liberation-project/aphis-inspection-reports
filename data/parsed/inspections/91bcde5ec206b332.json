@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569536351",
+  "layout": "a",
+  "customer_id": "61",
+  "customer_name": "The C T Agriculture Experiment Station",
+  "customer_addr": "123 Huntington Street\nBox 1106\nNew Haven, CT 06504",
+  "certificate": "16-R-0039",
+  "site_id": "001",
+  "site_name": "LOCKWOOD FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JUL-2019",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 20,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
+}

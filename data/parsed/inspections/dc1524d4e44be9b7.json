@@ -1,0 +1,35 @@
+{
+  "insp_id": "240151520540787",
+  "layout": "a",
+  "customer_id": "12237",
+  "customer_name": "Marilyn Madsen",
+  "customer_addr": "56 Hilltop Rd\nWashington, NJ 07882",
+  "certificate": "22-C-0067",
+  "site_id": "001",
+  "site_name": "MARILYN MADSEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-AUG-2015",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

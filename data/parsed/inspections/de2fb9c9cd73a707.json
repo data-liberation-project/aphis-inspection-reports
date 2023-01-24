@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569694881",
+  "layout": "a",
+  "customer_id": "107",
+  "customer_name": "Harvard Medical School",
+  "customer_addr": "Harvard Center For Comparative Medicine\n665 Huntington Ave\nBoston, MA 02115",
+  "certificate": "14-R-0019",
+  "site_id": "001",
+  "site_name": "HARVARD CENTER FOR COMPARATIVE MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JAN-2020",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 38,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}

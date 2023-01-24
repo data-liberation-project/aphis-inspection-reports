@@ -1,0 +1,35 @@
+{
+  "insp_id": "289141436310306",
+  "layout": "a",
+  "customer_id": "2002",
+  "customer_name": "Maryland Zoological Society Inc",
+  "customer_addr": "Druid Hill Park\n1876 Mansion House Drive\nBaltimore, MD 21217",
+  "certificate": "51-C-0006",
+  "site_id": "001",
+  "site_name": "MARYLAND ZOOLOGICAL SOCIETY INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-OCT-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca silenus",
+      "common": "LION-TAILED MACAQUE *MALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    }
+  ]
+}

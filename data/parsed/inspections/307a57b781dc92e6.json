@@ -1,0 +1,30 @@
+{
+  "insp_id": "182151905230186",
+  "layout": "a",
+  "customer_id": "1167",
+  "customer_name": "Beckman Coulter Inc.",
+  "customer_addr": "30481 Grand Ave.\nWinchester, CA 92596",
+  "certificate": "93-B-0221",
+  "site_id": "002",
+  "site_name": "BECKMAN COULTER, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUL-2015",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 39,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

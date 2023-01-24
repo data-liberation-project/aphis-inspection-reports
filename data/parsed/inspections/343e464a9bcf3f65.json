@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569379324",
+  "layout": "a",
+  "customer_id": "41213",
+  "customer_name": "Red Creek Wildlife Center Inc",
+  "customer_addr": "300 Moon Hill Dr\nSchuylkill Haven, PA 17972",
+  "certificate": "23-C-0376",
+  "site_id": "001",
+  "site_name": "RED CREEK WILDLIFE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-FEB-2019",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
+}

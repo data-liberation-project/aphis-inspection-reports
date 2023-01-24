@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569239156",
+  "layout": "a",
+  "customer_id": "321189",
+  "customer_name": "Intervet Inc",
+  "customer_addr": "2 Giralda Farms\nMadison, NJ 07940",
+  "certificate": "22-R-0144",
+  "site_id": "005",
+  "site_name": "INTERVET INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2018",
+  "animals_total": 1019,
+  "species": [
+    {
+      "count": 150,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 127,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 674,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 52,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

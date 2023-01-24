@@ -1,0 +1,40 @@
+{
+  "insp_id": "37151458030656",
+  "layout": "a",
+  "customer_id": "323341",
+  "customer_name": "Blue Heron French Cheese Company L L C",
+  "customer_addr": "2001 Blue Heron Dr.\nTillamook, OR 97141",
+  "certificate": "92-C-0156",
+  "site_id": "001",
+  "site_name": "Blue Heron French Cheese Co., L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-FEB-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

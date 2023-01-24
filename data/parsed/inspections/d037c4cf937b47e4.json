@@ -1,0 +1,30 @@
+{
+  "insp_id": "217151329090491",
+  "layout": "a",
+  "customer_id": "96",
+  "customer_name": "Spring Valley Laboratories Inc",
+  "customer_addr": "P.O. Box 242\nWoodbine, MD 21797",
+  "certificate": "51-B-0034",
+  "site_id": "001",
+  "site_name": "SPRING VALLEY LABORATORIES INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUL-2015",
+  "animals_total": 236,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 218,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

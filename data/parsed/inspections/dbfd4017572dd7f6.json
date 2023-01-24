@@ -1,0 +1,40 @@
+{
+  "insp_id": "211152149260600",
+  "layout": "a",
+  "customer_id": "3099",
+  "customer_name": "Zoo Miami",
+  "customer_addr": "12400 Sw 152nd St\nMiami, FL 33177",
+  "certificate": "58-C-0006",
+  "site_id": "001",
+  "site_name": "ZOO MIAMI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hylobates lar",
+      "common": "LAR GIBBON"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 1,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    }
+  ]
+}

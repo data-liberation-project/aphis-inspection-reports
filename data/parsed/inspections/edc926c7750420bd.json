@@ -1,0 +1,40 @@
+{
+  "insp_id": "275151401520951",
+  "layout": "a",
+  "customer_id": "321414",
+  "customer_name": "Rogers Petting Zoo Llc",
+  "customer_addr": "658 Bayou Blue Road\nHouma, LA 70364",
+  "certificate": "72-C-0174",
+  "site_id": "001",
+  "site_name": "Marty Rogers",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-OCT-2015",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

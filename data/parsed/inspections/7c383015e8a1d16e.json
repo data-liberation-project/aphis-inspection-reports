@@ -1,0 +1,30 @@
+{
+  "insp_id": "343151901150651",
+  "layout": "a",
+  "customer_id": "34994",
+  "customer_name": "Pam Coenen-Sieg",
+  "customer_addr": "18892 135 St\nLuana, IA 52156",
+  "certificate": "42-A-1201",
+  "site_id": "001",
+  "site_name": "PAM COENEN-SIEG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2015",
+  "animals_total": 113,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

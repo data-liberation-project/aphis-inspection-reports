@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567916444",
+  "layout": "a",
+  "customer_id": "1719",
+  "customer_name": "Merial Inc",
+  "customer_addr": "3239 Satellite Blvd., Bldg 500\nDuluth, GA 30096",
+  "certificate": "57-R-0116",
+  "site_id": "001",
+  "site_name": "MISSOURI RESEARCH CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-SEP-2016",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 160,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 37,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

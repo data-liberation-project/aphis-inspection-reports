@@ -1,0 +1,45 @@
+{
+  "insp_id": "INS-0000824109",
+  "layout": "b",
+  "customer_id": "2471",
+  "customer_name": "CITY OF HAMPTON",
+  "customer_addr": "PARKS & REC DEPT / CITY HALL\n22 LINCOLN ST\nHAMPTON, VA 23669",
+  "certificate": "52-C-0301",
+  "site_id": "001",
+  "site_name": "CITY OF HAMPTON / BLUEBIRD GAP FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000681919",
+  "layout": "a",
+  "customer_id": "321189",
+  "customer_name": "INTERVET INC",
+  "customer_addr": "2 GIRALDA FARMS\nMADISON, NJ 07940",
+  "certificate": "22-R-0144",
+  "site_id": "005",
+  "site_name": "INTERVET INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-AUG-2021",
+  "animals_total": 600,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 22,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 506,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 45,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

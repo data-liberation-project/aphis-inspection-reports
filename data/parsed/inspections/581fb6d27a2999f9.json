@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568412789",
+  "layout": "a",
+  "customer_id": "331842",
+  "customer_name": "Paul Krupp",
+  "customer_addr": "8025 Krupp Ave\nComstock Park, MI 49321",
+  "certificate": "34-C-0379",
+  "site_id": "001",
+  "site_name": "PAUL KRUPP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JUN-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

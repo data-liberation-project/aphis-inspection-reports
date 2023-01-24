@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568441329",
+  "layout": "a",
+  "customer_id": "329969",
+  "customer_name": "Paul Prince",
+  "customer_addr": "Po Box 22\nRichwood, NJ 08074",
+  "certificate": "--",
+  "site_id": "001",
+  "site_name": "PAUL PRINCE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUN-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

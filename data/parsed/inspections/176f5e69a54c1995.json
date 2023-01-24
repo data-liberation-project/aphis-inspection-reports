@@ -1,0 +1,35 @@
+{
+  "insp_id": "217141114440305",
+  "layout": "a",
+  "customer_id": "181",
+  "customer_name": "Merck Sharp & Dohme Corp",
+  "customer_addr": "126 E Lincoln Ave, Ry 33-508\nRahway, NJ 07065",
+  "certificate": "22-R-0036",
+  "site_id": "000",
+  "site_name": "RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-AUG-2014",
+  "animals_total": 314,
+  "species": [
+    {
+      "count": 109,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 171,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

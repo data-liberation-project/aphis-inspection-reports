@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082567921547",
+  "layout": "a",
+  "customer_id": "30492",
+  "customer_name": "Old Mc Mickys Farm L L C",
+  "customer_addr": "9612 Crescent Drive\nOdessa, FL 33556",
+  "certificate": "58-C-1080",
+  "site_id": "001",
+  "site_name": "OLD MC MICKYS FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-SEP-2016",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

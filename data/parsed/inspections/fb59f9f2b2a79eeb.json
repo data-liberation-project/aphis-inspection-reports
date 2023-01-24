@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000824272",
+  "layout": "b",
+  "customer_id": "6863",
+  "customer_name": "Aquarium of the Pacific",
+  "customer_addr": "100 Aquarium Way\nLong Beach, CA 90802",
+  "certificate": "93-C-0558",
+  "site_id": "001",
+  "site_name": "AQUARIUM OF THE PACIFIC",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "26-OCT-2022",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
+}

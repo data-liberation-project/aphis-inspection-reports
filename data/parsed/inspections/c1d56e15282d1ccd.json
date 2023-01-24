@@ -1,0 +1,25 @@
+{
+  "insp_id": "297130913089116",
+  "layout": "a",
+  "customer_id": "10393",
+  "customer_name": "John Uder",
+  "customer_addr": "20361 Spruce Dr.\nLebanon, MO 65536",
+  "certificate": "43-A-3074",
+  "site_id": "002",
+  "site_name": "JOHN UDER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-FEB-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

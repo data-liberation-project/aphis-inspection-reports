@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568762631",
+  "layout": "a",
+  "customer_id": "500767",
+  "customer_name": "The Zoo Library",
+  "customer_addr": "495 Engle Drive\nTucker, GA 30084",
+  "certificate": "57-C-0356",
+  "site_id": "001",
+  "site_name": "THE ZOO LIBRARY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2017",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

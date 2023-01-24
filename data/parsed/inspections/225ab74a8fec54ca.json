@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000711087",
+  "layout": "a",
+  "customer_id": "2932",
+  "customer_name": "COUNTY OF KEWAUNEE",
+  "customer_addr": "810 LINCOLN ST\nKEWAUNEE, WI 54216",
+  "certificate": "35-C-0120",
+  "site_id": "001",
+  "site_name": "COUNTY OF KEWAUNEE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-SEP-2021",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 7,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

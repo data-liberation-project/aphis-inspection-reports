@@ -1,0 +1,30 @@
+{
+  "insp_id": "180151808450516",
+  "layout": "a",
+  "customer_id": "323116",
+  "customer_name": "Red Beast Enterprises Inc.",
+  "customer_addr": "P. O. Box 270525\nFort Collins, CO 80527",
+  "certificate": "84-R-0080",
+  "site_id": "001",
+  "site_name": "Red Beast Enterprises, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JUN-2015",
+  "animals_total": 207,
+  "species": [
+    {
+      "count": 118,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

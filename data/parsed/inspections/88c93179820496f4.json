@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568755606",
+  "layout": "a",
+  "customer_id": "3506",
+  "customer_name": "City Of Englewood",
+  "customer_addr": "1155 W Oxford Ave\nEnglewood, CO 80110",
+  "certificate": "84-C-0157",
+  "site_id": "001",
+  "site_name": "CITY OF ENGLEWOOD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

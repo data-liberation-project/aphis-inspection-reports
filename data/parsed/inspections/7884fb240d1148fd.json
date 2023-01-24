@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000831701",
+  "layout": "b",
+  "customer_id": "7816",
+  "customer_name": "Lennie Bertrand",
+  "customer_addr": "P O Box 467\nWATSEKA, IL 60970",
+  "certificate": "33-C-0442",
+  "site_id": "001",
+  "site_name": "LENNIE BERTRAND",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-DEC-2022",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}

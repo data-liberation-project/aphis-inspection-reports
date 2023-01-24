@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000814692",
+  "layout": "b",
+  "customer_id": "10174",
+  "customer_name": "Stew Leonards",
+  "customer_addr": "99 Federal Rd\nDanbury, CT 06811",
+  "certificate": "16-C-0085",
+  "site_id": "001",
+  "site_name": "Stew Leonards",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-SEP-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

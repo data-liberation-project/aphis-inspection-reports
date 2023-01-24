@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567972264",
+  "layout": "a",
+  "customer_id": "19810",
+  "customer_name": "Globe University",
+  "customer_addr": "8089 Globe Drive 3rd Floor\nWoodbury, MN 55125",
+  "certificate": "41-R-0064",
+  "site_id": "001",
+  "site_name": "WOODBURY SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-OCT-2016",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

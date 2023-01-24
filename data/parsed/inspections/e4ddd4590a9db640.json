@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000769529",
+  "layout": "a",
+  "customer_id": "1752",
+  "customer_name": "Equitech-Bio Inc.",
+  "customer_addr": "3650 Harris Rd\nHamilton, OH 45013",
+  "certificate": "74-B-0345",
+  "site_id": "003",
+  "site_name": "EQUITECH-BIO INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2022",
+  "animals_total": 828,
+  "species": [
+    {
+      "count": 788,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 38,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

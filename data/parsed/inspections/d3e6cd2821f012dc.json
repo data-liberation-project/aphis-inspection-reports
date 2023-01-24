@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000828759",
+  "layout": "b",
+  "customer_id": "321195",
+  "customer_name": "STEPHEN STOLTZFOOS",
+  "customer_addr": "530 SNAPPER DRIVE\nEPHRATA, PA 17522",
+  "certificate": "23-A-0587",
+  "site_id": "001",
+  "site_name": "STEPHEN STOLTZFOOS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-NOV-2022",
+  "animals_total": 204,
+  "species": [
+    {
+      "count": 138,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

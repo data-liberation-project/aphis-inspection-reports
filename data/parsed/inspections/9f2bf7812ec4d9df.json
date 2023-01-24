@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568683121",
+  "layout": "a",
+  "customer_id": "1468",
+  "customer_name": "University Of Oklahoma",
+  "customer_addr": "P. O. Box 26901\nOklahoma City, OK 73190",
+  "certificate": "73-R-0007",
+  "site_id": "001",
+  "site_name": "RESEARCH BUILDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-AUG-2017",
+  "animals_total": 181,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 158,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}

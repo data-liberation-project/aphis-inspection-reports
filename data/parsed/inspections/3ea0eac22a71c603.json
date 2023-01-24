@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000541053",
+  "layout": "a",
+  "customer_id": "324240",
+  "customer_name": "Wolf Woods",
+  "customer_addr": "P. O. Box 312\nIGNACIO, CO 81137",
+  "certificate": "84-C-0139",
+  "site_id": "001",
+  "site_name": "Wolf Woods",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-FEB-2021",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans x C. lupus familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    }
+  ]
+}

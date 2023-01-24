@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000826568",
+  "layout": "b",
+  "customer_id": "34875",
+  "customer_name": "Wild Side Enterprises LLC",
+  "customer_addr": "1669 Union Ave\nHazlet, NJ 07730",
+  "certificate": "22-C-0145",
+  "site_id": "001",
+  "site_name": "Wild Side Enterprises LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}

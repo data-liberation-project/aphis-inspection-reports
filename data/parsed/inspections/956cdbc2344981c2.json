@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000514582",
+  "layout": "a",
+  "customer_id": "334127",
+  "customer_name": "John Miller",
+  "customer_addr": "6012 HWY Y\nSTURGEON, MO 65284",
+  "certificate": "43-A-6036",
+  "site_id": "001",
+  "site_name": "John Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JAN-2021",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

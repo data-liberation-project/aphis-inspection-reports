@@ -1,0 +1,50 @@
+{
+  "insp_id": "2016090000767908",
+  "layout": "a",
+  "customer_id": "9196",
+  "customer_name": "UNIVERSITY OF CALIFORNIA-SAN DIEGO",
+  "customer_addr": "IACUC OFFICE, MAIL CODE 0071\n9500 GILMAN DRIVE\nLA JOLLA, CA 92093",
+  "certificate": "93-R-0437",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2022",
+  "animals_total": 326,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 99,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 113,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 77,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    }
+  ]
+}

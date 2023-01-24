@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569122536",
+  "layout": "a",
+  "customer_id": "70",
+  "customer_name": "The George Washington University",
+  "customer_addr": "2300 Eye St Nw\nAnml Res Fac.,Ross B-12\nWashington, DC 20037",
+  "certificate": "10-R-0005",
+  "site_id": "001",
+  "site_name": "GEORGE WASHINGTON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-APR-2018",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 41,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

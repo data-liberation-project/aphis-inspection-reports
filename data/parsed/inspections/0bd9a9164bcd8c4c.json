@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820222",
+  "layout": "b",
+  "customer_id": "33432",
+  "customer_name": "Anna Willis",
+  "customer_addr": "42802 Rustic Road\nHumphreys, MO 64646",
+  "certificate": "43-A-5678",
+  "site_id": "001",
+  "site_name": "ANNA WILLIS",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "11-OCT-2022",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

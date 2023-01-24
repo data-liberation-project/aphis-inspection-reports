@@ -1,0 +1,35 @@
+{
+  "insp_id": "169140738200871",
+  "layout": "a",
+  "customer_id": "400",
+  "customer_name": "N Y State Dept Of Health/Health Research",
+  "customer_addr": "Wadsworth Center\nNys Dept Of Health Po Box 22002\nAlbany, NY 12201",
+  "certificate": "21-R-0124",
+  "site_id": "001",
+  "site_name": "NYS DEPARTMENT OF HEALTH - WCL&R",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JUN-2014",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Lasionycteris noctivagans",
+      "common": "SILVER-HAIRED BAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Myotis lucifugus",
+      "common": "LITTLE BROWN BAT"
+    }
+  ]
+}

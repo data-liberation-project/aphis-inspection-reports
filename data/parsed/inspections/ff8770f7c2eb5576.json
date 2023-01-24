@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569828145",
+  "layout": "a",
+  "customer_id": "3706",
+  "customer_name": "Yellowstone Wildlife Sanctuary",
+  "customer_addr": "P. O. Box 675\nRed Lodge, MT 59068",
+  "certificate": "81-C-0059",
+  "site_id": "001",
+  "site_name": "Yellowstone Wildlife Sanctuary",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "26-MAR-2020",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    }
+  ]
+}

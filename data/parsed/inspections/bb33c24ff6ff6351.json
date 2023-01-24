@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000831605",
+  "layout": "b",
+  "customer_id": "501383",
+  "customer_name": "Kerry McGuire",
+  "customer_addr": "601 CR 32240\nSumner, TX 75486",
+  "certificate": "74-A-1543",
+  "site_id": "001",
+  "site_name": "KERRY MCGUIRE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-NOV-2022",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000804430",
+  "layout": "b",
+  "customer_id": "45414",
+  "customer_name": "This is the Place Heritage Park",
+  "customer_addr": "2601 East Sunnyside Ave.\nSalt Lake City, UT 84108",
+  "certificate": "87-C-0062",
+  "site_id": "001",
+  "site_name": "THIS IS THE PLACE HERITAGE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUL-2022",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}

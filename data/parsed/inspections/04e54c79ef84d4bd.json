@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568963900",
+  "layout": "a",
+  "customer_id": "323627",
+  "customer_name": "Jesse Franklin",
+  "customer_addr": "3900 Paul Samuel Rd Nw\nKennesaw, GA 30152",
+  "certificate": "57-C-0330",
+  "site_id": "001",
+  "site_name": "JESSE FRANKLIN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-NOV-2017",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

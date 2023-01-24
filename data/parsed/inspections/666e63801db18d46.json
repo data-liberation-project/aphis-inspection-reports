@@ -1,0 +1,40 @@
+{
+  "insp_id": "318140823417591",
+  "layout": "a",
+  "customer_id": "40175",
+  "customer_name": "R Farm Llc",
+  "customer_addr": "7172 Strode Run Rd\nMaysville, KY 41056",
+  "certificate": "61-C-0144",
+  "site_id": "001",
+  "site_name": "R FARM LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2014",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000824171",
+  "layout": "b",
+  "customer_id": "112",
+  "customer_name": "Boston University",
+  "customer_addr": "85 East Newton St., Room 426\nBoston, MA 02118",
+  "certificate": "14-R-0017",
+  "site_id": "003",
+  "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2022",
+  "animals_total": 446,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 153,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 80,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 39,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 76,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}

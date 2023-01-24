@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568891208",
+  "layout": "a",
+  "customer_id": "328782",
+  "customer_name": "Denver Downs Corn Maze",
+  "customer_addr": "201 Martin Lane\nPendleton, SC 29670",
+  "certificate": "56-C-0241",
+  "site_id": "001",
+  "site_name": "DENVER DOWNS FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2017",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

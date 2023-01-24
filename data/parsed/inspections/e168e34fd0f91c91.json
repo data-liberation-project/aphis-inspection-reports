@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000804452",
+  "layout": "b",
+  "customer_id": "505869",
+  "customer_name": "J and J Lark LLC",
+  "customer_addr": "Box 707\nLEBANON, MO 65536",
+  "certificate": "43-B-3805",
+  "site_id": "001",
+  "site_name": "J AND J LARK LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUL-2022",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

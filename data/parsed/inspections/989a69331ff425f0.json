@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082568005818",
+  "layout": "a",
+  "customer_id": "335127",
+  "customer_name": "Jean Manino",
+  "customer_addr": "20006 Hwy 36\nCovington, LA 70433",
+  "certificate": "72-C-0234",
+  "site_id": "001",
+  "site_name": "Jean Manino",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-NOV-2016",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

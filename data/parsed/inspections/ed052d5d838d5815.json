@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569701234",
+  "layout": "a",
+  "customer_id": "5760",
+  "customer_name": "Eric Hans Crowell",
+  "customer_addr": "100 Keith Drive\nSlidell, LA 70461",
+  "certificate": "72-A-0115",
+  "site_id": "001",
+  "site_name": "ERIC CROWELL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JAN-2020",
+  "animals_total": 2400,
+  "species": [
+    {
+      "count": 500,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 400,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 1300,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 200,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
+}

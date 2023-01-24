@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568687432",
+  "layout": "a",
+  "customer_id": "1045",
+  "customer_name": "Northern Arizona University",
+  "customer_addr": "Box 5640\nFlagstaff, AZ 86011",
+  "certificate": "86-R-0005",
+  "site_id": "001",
+  "site_name": "BIOLOGICAL SCIENCES ANNEX",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2017",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Onychomys arenicola",
+      "common": "CHIHUAHUAN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 35,
+      "scientific": "Onychomys leucogaster",
+      "common": "NORTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 51,
+      "scientific": "Onychomys torridus",
+      "common": "SOUTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Thomomys bottae",
+      "common": "BOTTA'S POCKET GOPHER"
+    }
+  ]
+}

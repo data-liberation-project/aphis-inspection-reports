@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568207060",
+  "layout": "a",
+  "customer_id": "333596",
+  "customer_name": "Susie Williams",
+  "customer_addr": "1480 W. Elm Street\nLebanon, MO 65536",
+  "certificate": "43-C-0385",
+  "site_id": "001",
+  "site_name": "SUSIE WILLIAMS",
+  "insp_type": "PRELICENSE INSPECTION #2",
+  "date": "20-APR-2017",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 5,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}

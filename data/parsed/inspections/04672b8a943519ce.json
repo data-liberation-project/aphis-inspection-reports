@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000831775",
+  "layout": "b",
+  "customer_id": "35723",
+  "customer_name": "Scott Harper",
+  "customer_addr": "PO Box 4\nCaulfield, MO 65626",
+  "certificate": "43-B-3772",
+  "site_id": "001",
+  "site_name": "SCOTT HARPER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2022",
+  "animals_total": 467,
+  "species": [
+    {
+      "count": 291,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 173,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    }
+  ]
+}

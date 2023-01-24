@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569229665",
+  "layout": "a",
+  "customer_id": "93",
+  "customer_name": "Bioqual Inc",
+  "customer_addr": "9600 Medical Center Drive\nSuite 101\nRockville, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "001",
+  "site_name": "BIOQUAL INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-AUG-2018",
+  "animals_total": 621,
+  "species": [
+    {
+      "count": 140,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 481,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

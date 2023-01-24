@@ -1,0 +1,30 @@
+{
+  "insp_id": "100142407442643",
+  "layout": "a",
+  "customer_id": "37482",
+  "customer_name": "Crowder College",
+  "customer_addr": "601 Laclede Avenue\nNeosho, MO 64850",
+  "certificate": "43-R-0118",
+  "site_id": "001",
+  "site_name": "CROWDER COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-APR-2014",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

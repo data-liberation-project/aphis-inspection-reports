@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568201891",
+  "layout": "a",
+  "customer_id": "4845",
+  "customer_name": "Sheryl Mc Peters",
+  "customer_addr": "2060 E. Irving Blvd.\nIrving, TX 75060",
+  "certificate": "74-C-1038",
+  "site_id": "001",
+  "site_name": "Sheryl Mc Peters",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-APR-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

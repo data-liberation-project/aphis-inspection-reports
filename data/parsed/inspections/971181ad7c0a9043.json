@@ -1,0 +1,35 @@
+{
+  "insp_id": "216161127410746",
+  "layout": "a",
+  "customer_id": "307",
+  "customer_name": "Rockefeller University",
+  "customer_addr": "1230 York Avenue\nBox 2\nNew York New York, NY 10065",
+  "certificate": "21-R-0226",
+  "site_id": "001",
+  "site_name": "ROCKEFELLER UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-AUG-2016",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 30,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
+}

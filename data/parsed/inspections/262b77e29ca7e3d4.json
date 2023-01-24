@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000831748",
+  "layout": "b",
+  "customer_id": "600298",
+  "customer_name": "Vernon Detweiler",
+  "customer_addr": "2170 210th St\nSeymour, IA 52590",
+  "certificate": "42-A-1654",
+  "site_id": "001",
+  "site_name": "Vernon Detweiler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2022",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

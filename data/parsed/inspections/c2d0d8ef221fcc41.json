@@ -1,0 +1,25 @@
+{
+  "insp_id": "20162206000074",
+  "layout": "a",
+  "customer_id": "1139",
+  "customer_name": "Biosurg",
+  "customer_addr": "27956 State Hwy 128\nWinters, CA 95694",
+  "certificate": "93-R-0200",
+  "site_id": "001",
+  "site_name": "BIOSURG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JAN-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

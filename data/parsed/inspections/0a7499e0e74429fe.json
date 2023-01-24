@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569523576",
+  "layout": "a",
+  "customer_id": "1043",
+  "customer_name": "Arizona State University",
+  "customer_addr": "P. O. Box 2204\nTempe, AZ 85287",
+  "certificate": "86-R-0002",
+  "site_id": "001",
+  "site_name": "DEPARTMENT OF ANIMAL CARE & TECHNOLOGIES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUN-2019",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 73,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

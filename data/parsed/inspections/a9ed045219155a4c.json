@@ -1,0 +1,40 @@
+{
+  "insp_id": "136141032250465",
+  "layout": "a",
+  "customer_id": "1028",
+  "customer_name": "V M R D Inc.",
+  "customer_addr": "P. O. Box 502\nPullman, WA 99163",
+  "certificate": "91-R-0030",
+  "site_id": "001",
+  "site_name": "VMRD, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAY-2014",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

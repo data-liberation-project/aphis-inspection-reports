@@ -1,0 +1,45 @@
+{
+  "insp_id": "140161644440909",
+  "layout": "a",
+  "customer_id": "1195",
+  "customer_name": "Colorado State University",
+  "customer_addr": "203 Administration 2001 Campus Delivery\nFort Collins, CO 80523",
+  "certificate": "84-R-0003",
+  "site_id": "001",
+  "site_name": "COLORADO STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-FEB-2015",
+  "animals_total": 392,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 320,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 33,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

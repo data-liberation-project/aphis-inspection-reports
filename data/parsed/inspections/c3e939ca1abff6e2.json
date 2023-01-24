@@ -1,0 +1,40 @@
+{
+  "insp_id": "6161255050834",
+  "layout": "a",
+  "customer_id": "18030",
+  "customer_name": "Kowalski Pet Company",
+  "customer_addr": "6701 South Division Ave\nGrand Rapids, MI 49548",
+  "certificate": "34-B-0214",
+  "site_id": "001",
+  "site_name": "V I PETS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JAN-2016",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

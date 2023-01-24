@@ -1,0 +1,35 @@
+{
+  "insp_id": "78160346120294",
+  "layout": "a",
+  "customer_id": "321123",
+  "customer_name": "Dawn Cordeiro",
+  "customer_addr": "1088 Sharps Lot Rd\nSwansea, MA 02777",
+  "certificate": "14-C-0139",
+  "site_id": "001",
+  "site_name": "DAWN CORDEIRO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2016",
+  "animals_total": 97,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 75,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

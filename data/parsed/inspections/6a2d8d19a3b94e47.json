@@ -1,0 +1,35 @@
+{
+  "insp_id": "99161557310359",
+  "layout": "a",
+  "customer_id": "328743",
+  "customer_name": "Wildlife Inc",
+  "customer_addr": "P.O. Box 1449\nAnna Maria, FL 34216",
+  "certificate": "58-C-1095",
+  "site_id": "001",
+  "site_name": "WILDLIFE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-APR-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

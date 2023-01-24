@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569484729",
+  "layout": "a",
+  "customer_id": "328505",
+  "customer_name": "Diane Herrman",
+  "customer_addr": "15001 E C R 230\nMidland, TX 79706",
+  "certificate": "74-C-0957",
+  "site_id": "001",
+  "site_name": "Diane Herman",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAY-2019",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569254411",
+  "layout": "a",
+  "customer_id": "332614",
+  "customer_name": "Nolan Eggert",
+  "customer_addr": "131 Grace Dr\nFairmont, NC 28340",
+  "certificate": "55-C-0300",
+  "site_id": "001",
+  "site_name": "NOLAN EGGERT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-AUG-2018",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 4,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
+}

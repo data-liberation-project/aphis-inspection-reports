@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569401850",
+  "layout": "a",
+  "customer_id": "860",
+  "customer_name": "Murray State University",
+  "customer_addr": "328 Wells Hall\nMurray, KY 42071",
+  "certificate": "61-R-0008",
+  "site_id": "001",
+  "site_name": "VET. TECH SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAR-2019",
+  "animals_total": 218,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 60,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 136,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

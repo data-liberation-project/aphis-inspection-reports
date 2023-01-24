@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568761299",
+  "layout": "a",
+  "customer_id": "333269",
+  "customer_name": "Theresa Sartori",
+  "customer_addr": "3836 Spring Creek Rd\nLeslie, MO 63056",
+  "certificate": "43-A-6149",
+  "site_id": "001",
+  "site_name": "THERESA SARTORI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-AUG-2017",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

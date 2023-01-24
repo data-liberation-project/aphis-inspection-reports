@@ -1,0 +1,40 @@
+{
+  "insp_id": "336141737240301",
+  "layout": "a",
+  "customer_id": "3549",
+  "customer_name": "Sea World L L C",
+  "customer_addr": "500 Sea World Drive\nSan Diego, CA 92109",
+  "certificate": "93-C-0069",
+  "site_id": "001",
+  "site_name": "SEA WORLD, L.L.C.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-NOV-2014",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 3,
+      "scientific": "Globicephala macrorhynchus",
+      "common": "SHORTFINNED PILOT WHALE"
+    },
+    {
+      "count": 2,
+      "scientific": "Odobenus rosmarus",
+      "common": "WALRUS"
+    },
+    {
+      "count": 10,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    },
+    {
+      "count": 34,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
+}

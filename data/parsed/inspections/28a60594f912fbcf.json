@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000778654",
+  "layout": "a",
+  "customer_id": "640",
+  "customer_name": "Labcorp Early Development Laboratories Inc",
+  "customer_addr": "3301 KINSMAN BOULEVARD\nMADISON, WI 53704",
+  "certificate": "35-R-0030",
+  "site_id": "010",
+  "site_name": "Labcorp Early Development Laboratories Inc",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "29-MAR-2022",
+  "animals_total": 623,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 262,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 341,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
+}

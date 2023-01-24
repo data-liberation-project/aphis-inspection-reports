@@ -1,0 +1,30 @@
+{
+  "insp_id": "211152009420705",
+  "layout": "a",
+  "customer_id": "26583",
+  "customer_name": "Oregon Dairy Inc",
+  "customer_addr": "2900 Oregon Pike\nLititz, PA 17543",
+  "certificate": "23-C-0352",
+  "site_id": "001",
+  "site_name": "OREGON DAIRY INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2015",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

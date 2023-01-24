@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000812619",
+  "layout": "b",
+  "customer_id": "7429",
+  "customer_name": "LAKOTA WOLF PRESERVE",
+  "customer_addr": "89 MT PLEASANT ROAD\nCOLUMBIA, NJ 07832",
+  "certificate": "22-C-0054",
+  "site_id": "001",
+  "site_name": "LAKOTA WOLF PRESERVE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-SEP-2022",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "160161522290244",
+  "layout": "a",
+  "customer_id": "581",
+  "customer_name": "Rush University Medical Center",
+  "customer_addr": "1735 W Harrison St Mail Code 148 149\nCohn Research Building Suite 206\nChicago, IL 60612",
+  "certificate": "33-R-0022",
+  "site_id": "001",
+  "site_name": "COHN RESEARCH BUILDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JUN-2016",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 41,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

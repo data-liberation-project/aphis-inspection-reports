@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812241",
+  "layout": "b",
+  "customer_id": "331267",
+  "customer_name": "Global Medical Devices Inc.",
+  "customer_addr": "1215 Cuyamaca Street\nEL CAJON, CA 92020",
+  "certificate": "93-R-0560",
+  "site_id": "001",
+  "site_name": "Global Medical Devices",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-AUG-2022",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

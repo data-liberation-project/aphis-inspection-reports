@@ -1,0 +1,40 @@
+{
+  "insp_id": "159162148110669",
+  "layout": "a",
+  "customer_id": "331082",
+  "customer_name": "Heather Campbell",
+  "customer_addr": "2418 Dakota Ave.\nSouth Sioux City, NE 68776",
+  "certificate": "47-B-0120",
+  "site_id": "001",
+  "site_name": "Heather Campbell",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-JUN-2016",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

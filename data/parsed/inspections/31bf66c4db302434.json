@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000824567",
+  "layout": "b",
+  "customer_id": "335447",
+  "customer_name": "Puppys R Us LLC",
+  "customer_addr": "4324 CR 6300\nWEST PLAINS, MO 65775",
+  "certificate": "43-A-6111",
+  "site_id": "001",
+  "site_name": "Puppys R Us L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-NOV-2022",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 148,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

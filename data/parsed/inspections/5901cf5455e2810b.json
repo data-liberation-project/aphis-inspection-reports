@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000746665",
+  "layout": "a",
+  "customer_id": "15",
+  "customer_name": "UNIVERSITY OF ALASKA FAIRBANKS",
+  "customer_addr": "1033 Sheenjek Drive\nP O Box 756980\nFAIRBANKS, AK 99775",
+  "certificate": "96-C-0034",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF ALASKA FAIRBANKS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-NOV-2021",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 43,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 41,
+      "scientific": "Ovibos moschatus",
+      "common": "MUSKOX"
+    },
+    {
+      "count": 14,
+      "scientific": "Spermophilus parryii",
+      "common": "ARCTIC SOUSLIK"
+    }
+  ]
+}

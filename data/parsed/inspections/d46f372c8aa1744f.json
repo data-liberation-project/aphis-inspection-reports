@@ -1,0 +1,30 @@
+{
+  "insp_id": "80141004428816",
+  "layout": "a",
+  "customer_id": "43052",
+  "customer_name": "Wild Animal Inc.",
+  "customer_addr": "124 Jungle Dr\nStrafford, MO 65757",
+  "certificate": "43-C-0301",
+  "site_id": "001",
+  "site_name": "WILD ANIMAL INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-MAR-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
+}

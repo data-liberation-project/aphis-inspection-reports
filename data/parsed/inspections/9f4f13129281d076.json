@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000755466",
+  "layout": "a",
+  "customer_id": "32992",
+  "customer_name": "Georgia Aquarium Inc",
+  "customer_addr": "225 Baker St NW\nAtlanta, GA 30313",
+  "certificate": "57-R-0131",
+  "site_id": "003",
+  "site_name": "GEORGIA AQUARIUM INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 5,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    }
+  ]
+}

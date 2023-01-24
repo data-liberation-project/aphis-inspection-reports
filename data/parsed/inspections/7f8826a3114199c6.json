@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000807344",
+  "layout": "b",
+  "customer_id": "837",
+  "customer_name": "MISSISSIPPI STATE UNIVERSITY",
+  "customer_addr": "PO BOX 6343\n262 LEE HALL\nMISSISSIPPI STATE, MS 39762",
+  "certificate": "65-R-0002",
+  "site_id": "001",
+  "site_name": "MISSISSIPPI STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2022",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 21,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 14,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

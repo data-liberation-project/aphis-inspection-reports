@@ -1,0 +1,25 @@
+{
+  "insp_id": "246142324460539",
+  "layout": "a",
+  "customer_id": "40485",
+  "customer_name": "Mike Wolfe",
+  "customer_addr": "1814 Rd 23\nLongton, KS 67352",
+  "certificate": "48-A-2005",
+  "site_id": "001",
+  "site_name": "Mike Wolfe",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-SEP-2014",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

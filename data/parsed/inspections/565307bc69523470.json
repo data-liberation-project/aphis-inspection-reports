@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569535564",
+  "layout": "a",
+  "customer_id": "502322",
+  "customer_name": "Allen Wengerd",
+  "customer_addr": "8832 C R 186\nDundee, OH 44624",
+  "certificate": "31-A-0675",
+  "site_id": "001",
+  "site_name": "ALLEN WENGERD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUL-2019",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

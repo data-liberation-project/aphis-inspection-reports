@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000620418",
+  "layout": "a",
+  "customer_id": "394",
+  "customer_name": "ALBERT EINSTEIN COLLEGE OF MEDICINE",
+  "customer_addr": "1300 MORRIS PARK AVE\nSUITE 312\nBRONX, NY 10461",
+  "certificate": "21-R-0132",
+  "site_id": "001",
+  "site_name": "Vanetten BLDG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUN-2021",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

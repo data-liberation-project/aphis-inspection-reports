@@ -1,0 +1,35 @@
+{
+  "insp_id": "48161423320827",
+  "layout": "a",
+  "customer_id": "3532",
+  "customer_name": "Los Angeles Zoo",
+  "customer_addr": "5333 Zoo Drive\nLos Angeles, CA 90027",
+  "certificate": "93-C-0043",
+  "site_id": "001",
+  "site_name": "LOS ANGELES ZOO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-FEB-2016",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 18,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    }
+  ]
+}

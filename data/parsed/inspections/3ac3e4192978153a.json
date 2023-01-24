@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000812437",
+  "layout": "b",
+  "customer_id": "3568",
+  "customer_name": "City & County Of San Francisco",
+  "customer_addr": "199 Museum Way\nSan Francisco, CA 94114",
+  "certificate": "93-C-0745",
+  "site_id": "001",
+  "site_name": "CITY & COUNTY OF SAN FRANCISCO",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "25-AUG-2022",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 7,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
+}

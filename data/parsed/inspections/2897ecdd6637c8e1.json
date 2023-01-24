@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568422749",
+  "layout": "a",
+  "customer_id": "335420",
+  "customer_name": "Tricia Crockford",
+  "customer_addr": "W 4419 Sunset Lane\nMerrill, WI 54452",
+  "certificate": "35-C-0381",
+  "site_id": "001",
+  "site_name": "TRICIA CROCKFORD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JUN-2017",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

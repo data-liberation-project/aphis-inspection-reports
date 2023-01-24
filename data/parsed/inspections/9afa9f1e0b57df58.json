@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569221122",
+  "layout": "a",
+  "customer_id": "634",
+  "customer_name": "Medical College Of Wisconsin",
+  "customer_addr": "8701 Watertown Plank Road\nMilwaukee, WI 53226",
+  "certificate": "35-R-0029",
+  "site_id": "001",
+  "site_name": "MEDICAL COLLEGE OF WI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUL-2018",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 30,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569285507",
+  "layout": "a",
+  "customer_id": "2050",
+  "customer_name": "Animal Actors International Inc",
+  "customer_addr": "4 American Way\nGlen Gardner, NJ 08826",
+  "certificate": "22-C-0003",
+  "site_id": "001",
+  "site_name": "ANIMAL ACTORS INTERNATIONAL INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-SEP-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
+}

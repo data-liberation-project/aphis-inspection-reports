@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000627475",
+  "layout": "a",
+  "customer_id": "329220",
+  "customer_name": "Pima Medical Institute",
+  "customer_addr": "40 N. Swan Road, Suite 100\nTUCSON, AZ 85711",
+  "certificate": "86-R-0042",
+  "site_id": "024",
+  "site_name": "Pima Medical Institute- Tucson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-JUN-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568893315",
+  "layout": "a",
+  "customer_id": "321531",
+  "customer_name": "River Birch Animal Farm",
+  "customer_addr": "P O Box 159\nLocust Hill, VA 23092",
+  "certificate": "52-C-0257",
+  "site_id": "001",
+  "site_name": "RIVER BIRCH ANIMAL FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2017",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

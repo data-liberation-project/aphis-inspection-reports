@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000814911",
+  "layout": "b",
+  "customer_id": "507741",
+  "customer_name": "JOEY BISHOP",
+  "customer_addr": "20275 Drake Dr\nSENECA, MO 64865",
+  "certificate": "43-A-6499",
+  "site_id": "001",
+  "site_name": "JOEY BISHOP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-SEP-2022",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 57,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

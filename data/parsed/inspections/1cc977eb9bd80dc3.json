@@ -1,0 +1,30 @@
+{
+  "insp_id": "70160023540729",
+  "layout": "a",
+  "customer_id": "40697",
+  "customer_name": "Bradford Schools Inc",
+  "customer_addr": "309 E Morehead St\nSuite 220\nCharlotte, NC 28202",
+  "certificate": "55-R-0130",
+  "site_id": "005",
+  "site_name": "VET TECH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAR-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

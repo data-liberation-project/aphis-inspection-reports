@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082567966379",
+  "layout": "a",
+  "customer_id": "3042",
+  "customer_name": "Tennessee Aquarium",
+  "customer_addr": "Po Box 11048\nChattanooga, TN 37401",
+  "certificate": "63-C-0114",
+  "site_id": "001",
+  "site_name": "TENNESSEE AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-OCT-2016",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 6,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    }
+  ]
+}

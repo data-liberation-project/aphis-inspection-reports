@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000758926",
+  "layout": "a",
+  "customer_id": "370",
+  "customer_name": "WILSON COLLEGE",
+  "customer_addr": "VETERINARY MEDICAL TECHNOLOGY\n1015 PHILADELPHIA AVE\nCHAMBERSBURG, PA 17201",
+  "certificate": "23-R-0124",
+  "site_id": "001",
+  "site_name": "MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JAN-2022",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000755613",
+  "layout": "a",
+  "customer_id": "601",
+  "customer_name": "Forest Preserve District of DuPage County",
+  "customer_addr": "525 S PARK BOULEVARD\nGLEN ELLYN, IL 60137",
+  "certificate": "33-C-0415",
+  "site_id": "001",
+  "site_name": "FOREST PRESERVE DISTRICT OF DUPAGE CO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-DEC-2021",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
+}

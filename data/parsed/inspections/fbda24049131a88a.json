@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000800105",
+  "layout": "a",
+  "customer_id": "332494",
+  "customer_name": "COAT OF MANY COLORS KENNEL",
+  "customer_addr": "1215 N 67th Ave W\nNewton, IA 50208",
+  "certificate": "42-A-1522",
+  "site_id": "002",
+  "site_name": "COAT OF MANY COLORS KENNEL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JUN-2022",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

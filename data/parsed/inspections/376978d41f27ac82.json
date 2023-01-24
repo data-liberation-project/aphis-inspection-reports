@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569160877",
+  "layout": "a",
+  "customer_id": "234",
+  "customer_name": "Case Western Reserve University",
+  "customer_addr": "10900 Euclid Ave\nCleveland, OH 44106",
+  "certificate": "31-R-0028",
+  "site_id": "001",
+  "site_name": "CASE WESTERN RESERVE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-MAY-2018",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 26,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

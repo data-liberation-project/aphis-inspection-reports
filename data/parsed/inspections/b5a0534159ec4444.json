@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082569651203",
+  "layout": "a",
+  "customer_id": "335132",
+  "customer_name": "Pets Plus",
+  "customer_addr": "123 Nashua Road #7\nLondonderry, NH 03053",
+  "certificate": "12-B-0005",
+  "site_id": "001",
+  "site_name": "PETS PLUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-NOV-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569194310",
+  "layout": "a",
+  "customer_id": "1575",
+  "customer_name": "Iowa State University",
+  "customer_addr": "2420 Lincoln Way Suite 202\nAmes, IA 50014",
+  "certificate": "42-R-0003",
+  "site_id": "001",
+  "site_name": "IOWA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUN-2018",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 78,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

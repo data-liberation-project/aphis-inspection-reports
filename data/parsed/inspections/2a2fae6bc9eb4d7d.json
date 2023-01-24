@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568580945",
+  "layout": "a",
+  "customer_id": "44018",
+  "customer_name": "Kodiak Ranch L L C",
+  "customer_addr": "14240 Imboden Rd\nHudson, CO 80642",
+  "certificate": "84-C-0163",
+  "site_id": "001",
+  "site_name": "KODIAK RANCH LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-AUG-2017",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "265141247510995",
+  "layout": "a",
+  "customer_id": "328521",
+  "customer_name": "Gull Meadow Farms L L C",
+  "customer_addr": "8544 Gull Road\nRichland, MI 49083",
+  "certificate": "34-C-0351",
+  "site_id": "001",
+  "site_name": "GULL MEADOW FARMS L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-SEP-2014",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

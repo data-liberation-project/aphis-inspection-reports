@@ -1,0 +1,25 @@
+{
+  "insp_id": "82161734510464",
+  "layout": "a",
+  "customer_id": "40729",
+  "customer_name": "United Vaccines Inc",
+  "customer_addr": "1131 Thousand Oaks Trail\nVerona, WI 53593",
+  "certificate": "35-R-0122",
+  "site_id": "002",
+  "site_name": "UNITED VACCINES INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAR-2016",
+  "animals_total": 182,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 180,
+      "scientific": "Mustela lutreola",
+      "common": "EUROPEAN MINK"
+    }
+  ]
+}

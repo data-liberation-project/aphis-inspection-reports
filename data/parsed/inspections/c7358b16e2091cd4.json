@@ -1,0 +1,30 @@
+{
+  "insp_id": "72140852375287",
+  "layout": "a",
+  "customer_id": "41628",
+  "customer_name": "Hillside Orchard Farms Inc",
+  "customer_addr": "105 Mitcham Circle\nTiger, GA 30576",
+  "certificate": "57-C-0310",
+  "site_id": "001",
+  "site_name": "HILLSIDE ORCHARD FARMS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAR-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000765981",
+  "layout": "a",
+  "customer_id": "414",
+  "customer_name": "MEDAILLE COLLEGE",
+  "customer_addr": "18 AGASSIZ CIRCLE\nBUFFALO, NY 14214",
+  "certificate": "21-R-0180",
+  "site_id": "001",
+  "site_name": "VETERINARY TECHNOLOGY DEPARTMENT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2022",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

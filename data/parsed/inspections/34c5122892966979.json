@@ -1,0 +1,30 @@
+{
+  "insp_id": "56161315020451",
+  "layout": "a",
+  "customer_id": "332051",
+  "customer_name": "Barneys Pets Inc.",
+  "customer_addr": "13325 Benson Ave.\nChino, CA 91710",
+  "certificate": "93-B-0244",
+  "site_id": "001",
+  "site_name": "Barney's Pets, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-FEB-2016",
+  "animals_total": 1110,
+  "species": [
+    {
+      "count": 400,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 60,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 650,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    }
+  ]
+}

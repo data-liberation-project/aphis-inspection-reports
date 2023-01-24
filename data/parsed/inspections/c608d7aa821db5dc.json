@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569625335",
+  "layout": "a",
+  "customer_id": "265",
+  "customer_name": "Vermont Technical College",
+  "customer_addr": "124 Admin Drive\nRandolph Center, VT 05061",
+  "certificate": "13-R-0009",
+  "site_id": "002",
+  "site_name": "VERMONT TECHNICAL COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-OCT-2019",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

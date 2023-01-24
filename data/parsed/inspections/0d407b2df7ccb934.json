@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812253",
+  "layout": "b",
+  "customer_id": "44913",
+  "customer_name": "Rick & Shelly Kuhn",
+  "customer_addr": "5510 Highway 5\nHartville, MO 65667",
+  "certificate": "43-A-5457",
+  "site_id": "001",
+  "site_name": "RICK & SHELLY KUHN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2022",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 88,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

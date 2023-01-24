@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000804788",
+  "layout": "b",
+  "customer_id": "602282",
+  "customer_name": "ODC Network",
+  "customer_addr": "4214 56th St.\nHolland, MI 49423",
+  "certificate": "34-C-0438",
+  "site_id": "001",
+  "site_name": "ODC Network",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUL-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

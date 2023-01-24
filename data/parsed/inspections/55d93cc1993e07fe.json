@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568872729",
+  "layout": "a",
+  "customer_id": "41640",
+  "customer_name": "Tom Spieker",
+  "customer_addr": "N1181 Hwy 57\nRandom Lake, WI 53075",
+  "certificate": "35-C-0277",
+  "site_id": "001",
+  "site_name": "TOM SPIEKER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-OCT-2017",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

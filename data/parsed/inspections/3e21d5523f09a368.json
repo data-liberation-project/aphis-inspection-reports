@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568064619",
+  "layout": "a",
+  "customer_id": "29771",
+  "customer_name": "R&D Systems Inc",
+  "customer_addr": "614 Mc Kinley Place Ne\nMinneapolis, MN 55413",
+  "certificate": "41-R-0071",
+  "site_id": "001",
+  "site_name": "R&D SYSTEMS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2017",
+  "animals_total": 230,
+  "species": [
+    {
+      "count": 203,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 26,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

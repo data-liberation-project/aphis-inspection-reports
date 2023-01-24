@@ -1,0 +1,40 @@
+{
+  "insp_id": "279152045550044",
+  "layout": "a",
+  "customer_id": "41367",
+  "customer_name": "Lookout Farm Llc",
+  "customer_addr": "89 Pleasant St South\nNatick, MA 01760",
+  "certificate": "14-C-0113",
+  "site_id": "001",
+  "site_name": "LOOKOUT FARM LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-OCT-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

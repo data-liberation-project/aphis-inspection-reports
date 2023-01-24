@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000525233",
+  "layout": "a",
+  "customer_id": "2132",
+  "customer_name": "NIAGARA AQUARIUM FOUNDATION",
+  "customer_addr": "701 WHIRLPOOL STREET\nNIAGARA FALLS, NY 14301",
+  "certificate": "21-C-0048",
+  "site_id": "001",
+  "site_name": "AQUARIUM OF NIAGRA FALLS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2021",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
+}

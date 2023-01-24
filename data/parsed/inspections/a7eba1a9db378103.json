@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000770879",
+  "layout": "a",
+  "customer_id": "266",
+  "customer_name": "RHODE ISLAND HOSPITAL",
+  "customer_addr": "MIDDLE HOUSE 4TH AND 5TH\nPROVIDENCE, RI 02903",
+  "certificate": "15-R-0002",
+  "site_id": "001",
+  "site_name": "RHODE ISLAND HOSPITAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2022",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 75,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

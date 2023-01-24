@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807218",
+  "layout": "b",
+  "customer_id": "6011410",
+  "customer_name": "Margie French",
+  "customer_addr": "1831 CR 3900\nCoffeyville, KS 67337",
+  "certificate": "48-A-2249",
+  "site_id": "001",
+  "site_name": "Margie French",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-AUG-2022",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

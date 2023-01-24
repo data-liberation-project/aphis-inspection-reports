@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569555334",
+  "layout": "a",
+  "customer_id": "32737",
+  "customer_name": "City Of Everett",
+  "customer_addr": "Parks & Recreation Dept.\n802 E. Mukilteo Blvd.\nEverett, WA 98203",
+  "certificate": "91-C-0104",
+  "site_id": "001",
+  "site_name": "CITY OF EVERETT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JUL-2019",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

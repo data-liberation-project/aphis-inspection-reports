@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812282",
+  "layout": "b",
+  "customer_id": "502339",
+  "customer_name": "Joe Borntrager",
+  "customer_addr": "3495 S Hwy E\nNORWOOD, MO 65717",
+  "certificate": "43-A-6262",
+  "site_id": "001",
+  "site_name": "JOE BORNTRAGER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-AUG-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

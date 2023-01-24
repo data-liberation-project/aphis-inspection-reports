@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569339255",
+  "layout": "a",
+  "customer_id": "233",
+  "customer_name": "University Of Cincinnati",
+  "customer_addr": "51 Goodman Drive\nPo Box 210572\nCincinnati, OH 45221",
+  "certificate": "31-R-0027",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF CINCINNATI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-DEC-2018",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 49,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000820130",
+  "layout": "b",
+  "customer_id": "41343",
+  "customer_name": "ESLE YODER",
+  "customer_addr": "370 INDIAN TRAIL ROAD\nFORT PLAIN, NY 13339",
+  "certificate": "21-A-0213",
+  "site_id": "001",
+  "site_name": "ELSE YODER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-OCT-2022",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

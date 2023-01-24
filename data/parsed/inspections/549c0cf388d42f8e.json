@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000711098",
+  "layout": "a",
+  "customer_id": "2752",
+  "customer_name": "ANIMAL RENTALS INC",
+  "customer_addr": "2189 N. Illinois Rte 83, Ste 125\nRound Lake Beach, IL 60073",
+  "certificate": "33-C-0524",
+  "site_id": "002",
+  "site_name": "Animal Rentals Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-SEP-2021",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
+}

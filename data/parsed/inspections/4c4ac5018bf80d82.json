@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569447645",
+  "layout": "a",
+  "customer_id": "147",
+  "customer_name": "Toxikon Corporation",
+  "customer_addr": "15 Wiggins Ave\nBedford, MA 01730",
+  "certificate": "14-R-0101",
+  "site_id": "001",
+  "site_name": "TOXIKON CORPORATION",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-APR-2019",
+  "animals_total": 2044,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1427,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 525,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "254141635320350",
+  "layout": "a",
+  "customer_id": "43052",
+  "customer_name": "Wild Animal Inc.",
+  "customer_addr": "124 Jungle Dr\nStrafford, MO 65757",
+  "certificate": "43-C-0301",
+  "site_id": "001",
+  "site_name": "WILD ANIMAL INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-SEP-2014",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

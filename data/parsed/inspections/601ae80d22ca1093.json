@@ -1,0 +1,25 @@
+{
+  "insp_id": "146160958300471",
+  "layout": "a",
+  "customer_id": "37447",
+  "customer_name": "John Bravo",
+  "customer_addr": "229 Willow Ave\nOlyphant, PA 18447",
+  "certificate": "23-C-0280",
+  "site_id": "001",
+  "site_name": "JOHN BRAVO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAY-2016",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814823",
+  "layout": "b",
+  "customer_id": "329975",
+  "customer_name": "Laura Schisler Richie Schisler",
+  "customer_addr": "874 PLUNHERT RD\nLITTLESTOWN, PA 17340",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "LAURA SCHISLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-SEP-2022",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

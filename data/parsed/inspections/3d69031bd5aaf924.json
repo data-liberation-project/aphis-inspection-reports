@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000800130",
+  "layout": "b",
+  "customer_id": "501225",
+  "customer_name": "Levi J Miller",
+  "customer_addr": "5345 AUDRAIN RD 225\nCENTRALIA, MO 65240",
+  "certificate": "43-A-6238",
+  "site_id": "001",
+  "site_name": "LEVI MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUN-2022",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

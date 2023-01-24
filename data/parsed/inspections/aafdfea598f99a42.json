@@ -1,0 +1,30 @@
+{
+  "insp_id": "160161531120913",
+  "layout": "a",
+  "customer_id": "583",
+  "customer_name": "Loyola University Chicago",
+  "customer_addr": "2160 S. First Ave.\nBuilding 115 Room 432-8\nMaywood, IL 60153",
+  "certificate": "33-R-0024",
+  "site_id": "001",
+  "site_name": "STRITCH SCHOOL OF MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUN-2016",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 55,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

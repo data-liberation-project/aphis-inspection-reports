@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082567923597",
+  "layout": "a",
+  "customer_id": "328",
+  "customer_name": "Temple University",
+  "customer_addr": "Medical Education & Research Building Rm 537\n3500 N Broad Street\nPhiladelphia, PA 19140",
+  "certificate": "23-R-0027",
+  "site_id": "001",
+  "site_name": "TEMPLE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-SEP-2016",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 24,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

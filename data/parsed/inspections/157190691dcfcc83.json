@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082568205553",
+  "layout": "a",
+  "customer_id": "36358",
+  "customer_name": "Jane Griffin",
+  "customer_addr": "456700 E. 1080 Road\nSallisaw, OK 74955",
+  "certificate": "73-A-2445",
+  "site_id": "001",
+  "site_name": "JANE GRIFFIN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-APR-2017",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

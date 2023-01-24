@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000794510",
+  "layout": "a",
+  "customer_id": "1799",
+  "customer_name": "Charles River Laboratories Inc",
+  "customer_addr": "251 Ballardvale Street\nWilmington, MA 01887",
+  "certificate": "14-R-0144",
+  "site_id": "001",
+  "site_name": "CHARLES RIVER LABORATORIES",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "01-JUN-2022",
+  "animals_total": 484,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 384,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 30,
+      "scientific": "Rhabdomys pumilio",
+      "common": "FOUR-STRIPED GRASS MOUSE"
+    }
+  ]
+}

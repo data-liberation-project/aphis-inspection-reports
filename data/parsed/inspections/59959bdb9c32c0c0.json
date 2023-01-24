@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000724992",
+  "layout": "a",
+  "customer_id": "872",
+  "customer_name": "UNIVERSITY OF MIAMI",
+  "customer_addr": "U OF MIAMI SCHOOL OF MED (R64)\nP.O. BOX 016960\nMIAMI, FL 33101",
+  "certificate": "58-R-0007",
+  "site_id": "001",
+  "site_name": "BATCHELOR CHILDRENS RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-SEP-2021",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
+}

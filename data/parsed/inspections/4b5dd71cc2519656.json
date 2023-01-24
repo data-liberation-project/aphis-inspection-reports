@@ -1,0 +1,35 @@
+{
+  "insp_id": "95161055230508",
+  "layout": "a",
+  "customer_id": "12509",
+  "customer_name": "Dara Schlegel",
+  "customer_addr": "2701 Route 412\nCoopersburg, PA 18036",
+  "certificate": "23-C-0191",
+  "site_id": "002",
+  "site_name": "SLEEPY HOLLOW HORSE FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-APR-2016",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

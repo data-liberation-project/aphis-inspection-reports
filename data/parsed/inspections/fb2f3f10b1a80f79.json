@@ -1,0 +1,50 @@
+{
+  "insp_id": "2016082567963636",
+  "layout": "a",
+  "customer_id": "326112",
+  "customer_name": "Jerry Corley",
+  "customer_addr": "147 Birdhouse Road\nTrout, LA 71371",
+  "certificate": "72-C-0194",
+  "site_id": "001",
+  "site_name": "Jerry Corley",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-OCT-2016",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

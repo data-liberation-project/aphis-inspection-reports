@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082568067820",
+  "layout": "a",
+  "customer_id": "2588",
+  "customer_name": "Pets Please Inc",
+  "customer_addr": "36954 Sugar Ridge Road\nNorth Ridgeville, OH 44039",
+  "certificate": "31-B-0064",
+  "site_id": "001",
+  "site_name": "PETS PLEASE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JAN-2017",
+  "animals_total": 392,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 114,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 204,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 57,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

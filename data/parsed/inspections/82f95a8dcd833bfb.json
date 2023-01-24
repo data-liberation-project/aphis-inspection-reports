@@ -1,0 +1,35 @@
+{
+  "insp_id": "117161617340733",
+  "layout": "a",
+  "customer_id": "2241",
+  "customer_name": "Zoological Society Of Pittsburgh",
+  "customer_addr": "One Wild Place\nPittsburgh, PA 15206",
+  "certificate": "23-C-0009",
+  "site_id": "001",
+  "site_name": "ZOOLOGICAL SOCIETY OF PITTSBURGH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-APR-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000768076",
+  "layout": "a",
+  "customer_id": "33327",
+  "customer_name": "LINDA KAURANEN",
+  "customer_addr": "86 TAUNTON ST\nLAKEVILLE, MA 02347",
+  "certificate": "14-C-0097",
+  "site_id": "002",
+  "site_name": "LINDA KAURANEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-FEB-2022",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000804501",
+  "layout": "b",
+  "customer_id": "249",
+  "customer_name": "NAMSA, LLC",
+  "customer_addr": "6750 WALES RD\nNORTHWOOD, OH 43619",
+  "certificate": "31-R-0068",
+  "site_id": "001",
+  "site_name": "NAMSA INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUL-2022",
+  "animals_total": 6757,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5516,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 30,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 1205,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

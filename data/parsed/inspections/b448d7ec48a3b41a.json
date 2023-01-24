@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569535693",
+  "layout": "a",
+  "customer_id": "5901",
+  "customer_name": "Larry Engel",
+  "customer_addr": "56457 280th Ave\nPalmer, IA 50571",
+  "certificate": "42-A-1385",
+  "site_id": "001",
+  "site_name": "LARRY ENGEL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-JUL-2019",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

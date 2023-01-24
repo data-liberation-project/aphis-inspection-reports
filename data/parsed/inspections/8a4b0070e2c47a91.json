@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000814728",
+  "layout": "b",
+  "customer_id": "6013221",
+  "customer_name": "Sierra Green",
+  "customer_addr": "65152 Windsong Rd\nGreen Castle, MO 63544",
+  "certificate": "43-A-6700",
+  "site_id": "001",
+  "site_name": "Sierra Green",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-SEP-2022",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000710095",
+  "layout": "a",
+  "customer_id": "3191",
+  "customer_name": "JUNGLE QUEENS INC",
+  "customer_addr": "2470 S W 21ST STREET\nFORT LAUDERDALE, FL 33312",
+  "certificate": "58-C-1234",
+  "site_id": "001",
+  "site_name": "JUNGLE QUEENS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
+}

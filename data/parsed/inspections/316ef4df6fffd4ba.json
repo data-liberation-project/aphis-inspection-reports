@@ -1,0 +1,45 @@
+{
+  "insp_id": "104151327340423",
+  "layout": "a",
+  "customer_id": "2796",
+  "customer_name": "Walton & Sons Inc",
+  "customer_addr": "8140 20th Ave\nLino Lakes, MN 55038",
+  "certificate": "41-C-0015",
+  "site_id": "001",
+  "site_name": "WALTON & SONS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-APR-2015",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 32,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

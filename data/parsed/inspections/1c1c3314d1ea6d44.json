@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567926123",
+  "layout": "a",
+  "customer_id": "2194",
+  "customer_name": "White Mills Pet Shop Inc",
+  "customer_addr": "529 Texas Palmyra Hwy\nHawley, PA 18428",
+  "certificate": "23-B-0022",
+  "site_id": "001",
+  "site_name": "WHITE MILLS PET SHOP & WAREHOUSE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-SEP-2016",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 29,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 11,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 7,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELLS DWARF HAMSTER"
+    }
+  ]
+}

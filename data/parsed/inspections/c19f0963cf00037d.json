@@ -1,0 +1,30 @@
+{
+  "insp_id": "294151202090689",
+  "layout": "a",
+  "customer_id": "34262",
+  "customer_name": "Josh Guthrie",
+  "customer_addr": "P O Box 146\nAthens, TN 37371",
+  "certificate": "63-C-0226",
+  "site_id": "001",
+  "site_name": "JOSH GUTHRIE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-OCT-2015",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

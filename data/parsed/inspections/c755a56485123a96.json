@@ -1,0 +1,35 @@
+{
+  "insp_id": "69151546020855",
+  "layout": "a",
+  "customer_id": "902",
+  "customer_name": "Tri-County Technical College",
+  "customer_addr": "Veterinary Techology Dept\n7900 Hwy 76, Po Box 587\nPendleton, SC 29670",
+  "certificate": "56-R-0004",
+  "site_id": "001",
+  "site_name": "HALBERT HALL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-MAR-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    }
+  ]
+}

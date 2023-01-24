@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000726019",
+  "layout": "a",
+  "customer_id": "3953",
+  "customer_name": "OKLAHOMA CITY ZOO",
+  "customer_addr": "2101 N E 50th\nOKLAHOMA CITY, OK 73111",
+  "certificate": "73-C-0002",
+  "site_id": "001",
+  "site_name": "OKLAHOMA CITY ZOO",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "30-SEP-2021",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 2,
+      "scientific": "Pongo abelii",
+      "common": "SUMATRAN ORANGUTAN"
+    },
+    {
+      "count": 10,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    }
+  ]
+}

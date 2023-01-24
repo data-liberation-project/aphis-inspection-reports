@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569170812",
+  "layout": "a",
+  "customer_id": "503",
+  "customer_name": "Lake Immunogenics Inc",
+  "customer_addr": "348 Berg Road\nOntario, NY 14519",
+  "certificate": "21-R-0095",
+  "site_id": "001",
+  "site_name": "LAKE IMMUNOGENICS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JUN-2018",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 47,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "76161452510488",
+  "layout": "a",
+  "customer_id": "111",
+  "customer_name": "Henry Ford Hospital",
+  "customer_addr": "2799 W Grand Blvd\nDetroit, MI 48202",
+  "certificate": "34-R-0151",
+  "site_id": "006",
+  "site_name": "HENRY FORD HOSPITAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAR-2016",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

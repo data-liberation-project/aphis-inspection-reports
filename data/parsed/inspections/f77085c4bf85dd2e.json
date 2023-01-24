@@ -1,0 +1,40 @@
+{
+  "insp_id": "213161258430825",
+  "layout": "a",
+  "customer_id": "2758",
+  "customer_name": "Wildlife Science Center",
+  "customer_addr": "22830 Sunrise Rd Ne\nStacy, MN 55079",
+  "certificate": "41-C-0277",
+  "site_id": "001",
+  "site_name": "WILDLIFE SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUL-2016",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 10,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
+}

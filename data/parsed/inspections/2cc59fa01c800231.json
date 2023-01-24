@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000746709",
+  "layout": "a",
+  "customer_id": "503465",
+  "customer_name": "Sue Stevens",
+  "customer_addr": "4330 Hodgenville Road\nGREENSBURG, KY 42743",
+  "certificate": "61-B-0144",
+  "site_id": "001",
+  "site_name": "Sue Stevens",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-NOV-2021",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 17,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
+}

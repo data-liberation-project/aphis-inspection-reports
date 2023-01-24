@@ -1,0 +1,35 @@
+{
+  "insp_id": "28151505050377",
+  "layout": "a",
+  "customer_id": "1072",
+  "customer_name": "Lovelace Biomedical Research Institute",
+  "customer_addr": "2425 Ridgecrest S E\nAlbuquerque, NM 87108",
+  "certificate": "85-R-0003",
+  "site_id": "001",
+  "site_name": "LOVELACE BIOMEDICAL RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-OCT-2014",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 40,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

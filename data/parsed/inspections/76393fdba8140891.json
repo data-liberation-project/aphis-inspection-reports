@@ -1,0 +1,55 @@
+{
+  "insp_id": "INS-0000808574",
+  "layout": "b",
+  "customer_id": "859",
+  "customer_name": "UNIVERSITY OF FLORIDA",
+  "customer_addr": "P.O. BOX 115500\nGAINESVILLE, FL 32611",
+  "certificate": "58-R-0003",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF FLORIDA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-AUG-2022",
+  "animals_total": 156,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 37,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 32,
+      "scientific": "Oryzomys palustris",
+      "common": "MARSH RICE RAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

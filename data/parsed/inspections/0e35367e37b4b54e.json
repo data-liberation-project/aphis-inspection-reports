@@ -1,0 +1,40 @@
+{
+  "insp_id": "302151027140792",
+  "layout": "a",
+  "customer_id": "2223",
+  "customer_name": "S O S Rodent Express",
+  "customer_addr": "54 Club Rd\nOley, PA 19547",
+  "certificate": "23-B-0057",
+  "site_id": "001",
+  "site_name": "S O S RODENT EXPRESS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-OCT-2015",
+  "animals_total": 559,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 266,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 182,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 87,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 19,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

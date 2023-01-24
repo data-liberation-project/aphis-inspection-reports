@@ -1,0 +1,35 @@
+{
+  "insp_id": "111141516260355",
+  "layout": "a",
+  "customer_id": "321562",
+  "customer_name": "Natalie Redding",
+  "customer_addr": "34355 De Portola\nTemecula, CA 92592",
+  "certificate": "93-C-0892",
+  "site_id": "001",
+  "site_name": "NATALIE REDDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-APR-2014",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

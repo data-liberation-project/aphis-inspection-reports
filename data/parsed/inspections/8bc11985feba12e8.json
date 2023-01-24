@@ -1,0 +1,30 @@
+{
+  "insp_id": "217141451360559",
+  "layout": "a",
+  "customer_id": "146",
+  "customer_name": "Mclean Hospital Corporation",
+  "customer_addr": "115 Mill Street\nBelmont, MA 02478",
+  "certificate": "14-R-0096",
+  "site_id": "001",
+  "site_name": "MC LEAN HOSPITAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-AUG-2014",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 36,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 75,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "107151830410303",
+  "layout": "a",
+  "customer_id": "7854",
+  "customer_name": "Antibodies Inc.",
+  "customer_addr": "P. O. Box 1560\nDavis, CA 95617",
+  "certificate": "93-R-0158",
+  "site_id": "001",
+  "site_name": "ANTIBODIES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-APR-2015",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

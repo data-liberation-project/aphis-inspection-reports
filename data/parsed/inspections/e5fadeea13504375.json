@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569499635",
+  "layout": "a",
+  "customer_id": "32207",
+  "customer_name": "Sandy Wild",
+  "customer_addr": "11843 Route 72 West\nForreston, IL 61030",
+  "certificate": "33-B-0385",
+  "site_id": "001",
+  "site_name": "SANDY WILD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-MAY-2019",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}

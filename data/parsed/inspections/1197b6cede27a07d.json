@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000750952",
+  "layout": "a",
+  "customer_id": "329885",
+  "customer_name": "PETSWAY INC.",
+  "customer_addr": "1669 E ST LOUIS STREET\nSPRINGFIELD, MO 65802",
+  "certificate": "43-B-3727",
+  "site_id": "004",
+  "site_name": "PET WAREHOUSE, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-NOV-2021",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 10,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2371609560410148",
+  "layout": "a",
+  "customer_id": "8038",
+  "customer_name": "Leonard Stover",
+  "customer_addr": "P O Box 53\nSheldon, IA 51201",
+  "certificate": "42-B-0186",
+  "site_id": "001",
+  "site_name": "LEONARD STOVER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-AUG-2016",
+  "animals_total": 183,
+  "species": [
+    {
+      "count": 166,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569549179",
+  "layout": "a",
+  "customer_id": "1153",
+  "customer_name": "San Diego Mesa College",
+  "customer_addr": "7250 Mesa College Drive, P-300\nSan Diego, CA 92111",
+  "certificate": "93-R-0124",
+  "site_id": "001",
+  "site_name": "SAN DIEGO MESA COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2019",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

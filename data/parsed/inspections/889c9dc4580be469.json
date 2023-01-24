@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000755412",
+  "layout": "a",
+  "customer_id": "167",
+  "customer_name": "UNIVERSITY OF NEW HAMPSHIRE",
+  "customer_addr": "107 SERVICE BUILDING, 51 COLLEGE ROAD\nDURHAM, NH 03824",
+  "certificate": "12-R-0003",
+  "site_id": "001",
+  "site_name": "ANIMAL RESOURCES OFFICE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-DEC-2021",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 113,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

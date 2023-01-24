@@ -1,0 +1,40 @@
+{
+  "insp_id": "299150949020993",
+  "layout": "a",
+  "customer_id": "44274",
+  "customer_name": "Texas Oil Ranch Corp.",
+  "customer_addr": "P.O. Box 670\nHockley, TX 77447",
+  "certificate": "74-C-0963",
+  "site_id": "001",
+  "site_name": "Texas Oil Ranch, Corp.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-OCT-2015",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 24,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

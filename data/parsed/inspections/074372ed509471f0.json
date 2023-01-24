@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569077238",
+  "layout": "a",
+  "customer_id": "36947",
+  "customer_name": "Bob Mehmert",
+  "customer_addr": "2563 155th St.\nWest Point, IA 52656",
+  "certificate": "42-A-1354",
+  "site_id": "001",
+  "site_name": "BOB MEHMERT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2018",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

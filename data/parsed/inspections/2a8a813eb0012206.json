@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807454",
+  "layout": "b",
+  "customer_id": "6002771",
+  "customer_name": "Dale Miller",
+  "customer_addr": "5727 W 550\nChouteau, OK 74337",
+  "certificate": "73-A-2825",
+  "site_id": "001",
+  "site_name": "Dale Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

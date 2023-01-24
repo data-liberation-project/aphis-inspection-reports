@@ -1,0 +1,40 @@
+{
+  "insp_id": "36151811460231",
+  "layout": "a",
+  "customer_id": "329215",
+  "customer_name": "Cindy King",
+  "customer_addr": "231 Thompson Hill Rd\nPortland, CT 06480",
+  "certificate": "16-C-0141",
+  "site_id": "001",
+  "site_name": "CINDY KING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-FEB-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

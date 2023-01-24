@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567913864",
+  "layout": "a",
+  "customer_id": "6937",
+  "customer_name": "Jspa Inc",
+  "customer_addr": "4990 Manor House Lane\nSaint Cloud, FL 34772",
+  "certificate": "58-C-0612",
+  "site_id": "007",
+  "site_name": "JSPA INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-SEP-2016",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

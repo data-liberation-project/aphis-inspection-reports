@@ -1,0 +1,35 @@
+{
+  "insp_id": "103162321370502",
+  "layout": "a",
+  "customer_id": "330533",
+  "customer_name": "Fog Willow Farms Llc",
+  "customer_addr": "P.O. 630\nWilton, CA 95693",
+  "certificate": "93-C-1097",
+  "site_id": "001",
+  "site_name": "Fog Willow Farms LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-APR-2016",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

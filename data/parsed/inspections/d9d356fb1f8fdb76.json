@@ -1,0 +1,35 @@
+{
+  "insp_id": "300141909160749",
+  "layout": "a",
+  "customer_id": "1155",
+  "customer_name": "Edwards Lifesciences L L C",
+  "customer_addr": "One Edwards Way, Mailstop 44\nIrvine, CA 92614",
+  "certificate": "93-R-0121",
+  "site_id": "001",
+  "site_name": "EDWARDS LIFESCIENCES LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-OCT-2014",
+  "animals_total": 215,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 127,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 27,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

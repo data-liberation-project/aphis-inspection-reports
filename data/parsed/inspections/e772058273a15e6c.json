@@ -1,0 +1,40 @@
+{
+  "insp_id": "301151446400752",
+  "layout": "a",
+  "customer_id": "6937",
+  "customer_name": "Jspa Inc",
+  "customer_addr": "4990 Manor House Lane\nSaint Cloud, FL 34772",
+  "certificate": "58-C-0612",
+  "site_id": "002",
+  "site_name": "JSPA INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-OCT-2015",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

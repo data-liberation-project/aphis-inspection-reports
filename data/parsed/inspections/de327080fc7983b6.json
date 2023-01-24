@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569556167",
+  "layout": "a",
+  "customer_id": "3492",
+  "customer_name": "Wolf Haven International",
+  "customer_addr": "3111 Offut Lake Road\nTenino, WA 98589",
+  "certificate": "91-C-0023",
+  "site_id": "001",
+  "site_name": "WOLF HAVEN INTERNATIONAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2019",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 26,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus x c. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    }
+  ]
+}

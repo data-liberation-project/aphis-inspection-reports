@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000670848",
+  "layout": "a",
+  "customer_id": "112",
+  "customer_name": "BOSTON UNIVERSITY",
+  "customer_addr": "Research Compliance 85 East Newton St\n8th Floor Suite 810\nBOSTON, MA 02118",
+  "certificate": "14-R-0017",
+  "site_id": "003",
+  "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUL-2021",
+  "animals_total": 197,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 141,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 41,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

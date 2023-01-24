@@ -1,0 +1,35 @@
+{
+  "insp_id": "33161112480584",
+  "layout": "a",
+  "customer_id": "745",
+  "customer_name": "Thomas D Morris Inc",
+  "customer_addr": "4001 Millender Mill Road\nReisterstown, MD 21136",
+  "certificate": "51-B-0009",
+  "site_id": "001",
+  "site_name": "THOMAS D. MORRIS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2016",
+  "animals_total": 115,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 77,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 32,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000804889",
+  "layout": "b",
+  "customer_id": "18920",
+  "customer_name": "RESEARCH INSTITUTE AT NATIONWIDE CHILDRENS HO",
+  "customer_addr": "700 CHILDRENS DRIVE\nCOLUMBUS, OH 43205",
+  "certificate": "31-R-0116",
+  "site_id": "001",
+  "site_name": "COLUMBUS CHILDREN'S RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JUL-2022",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 23,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000364732",
+  "layout": "a",
+  "customer_id": "9423",
+  "customer_name": "Q TEST LTD",
+  "customer_addr": "P.O. BOX 12381\nCOLUMBUS, OH 43212",
+  "certificate": "31-R-0114",
+  "site_id": "001",
+  "site_name": "Q TEST, LTD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2019",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

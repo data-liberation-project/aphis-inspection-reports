@@ -1,0 +1,45 @@
+{
+  "insp_id": "51151636120486",
+  "layout": "a",
+  "customer_id": "1937",
+  "customer_name": "Fish Mart Inc",
+  "customer_addr": "28 Richard Street\nWest Haven, CT 06516",
+  "certificate": "16-B-0002",
+  "site_id": "001",
+  "site_name": "FISH MART INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-FEB-2015",
+  "animals_total": 218,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Gerbillus acticola",
+      "common": "BERBERA GERBIL"
+    },
+    {
+      "count": 50,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 52,
+      "scientific": "Phodopus cricetidae",
+      "common": "DWARF HAMSTER"
+    },
+    {
+      "count": 35,
+      "scientific": "Phodopus roborovskis",
+      "common": "ROBOROVSKIS DWARF HAMSTER"
+    },
+    {
+      "count": 36,
+      "scientific": "Phodopus sungorus",
+      "common": "WINTER WHITE RUSSIAN DWARF HAMSTER"
+    }
+  ]
+}

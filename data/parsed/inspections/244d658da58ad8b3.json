@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568032557",
+  "layout": "a",
+  "customer_id": "15456",
+  "customer_name": "Karl Brantley",
+  "customer_addr": "26214 Pollard Rd\nDaphne, AL 36526",
+  "certificate": "64-C-0156",
+  "site_id": "001",
+  "site_name": "BRANTLEY FARMS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082568075397",
+  "layout": "a",
+  "customer_id": "223",
+  "customer_name": "Cleveland Clinic Foundation",
+  "customer_addr": "Bio Resrc Unit/Nc50, 9500 Euclid Ave\nCleveland, OH 44195",
+  "certificate": "31-R-0017",
+  "site_id": "001",
+  "site_name": "CLEVELAND CLINIC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2017",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 29,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

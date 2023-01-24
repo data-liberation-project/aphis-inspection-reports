@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567965218",
+  "layout": "a",
+  "customer_id": "361",
+  "customer_name": "Magee Womens Research Institute",
+  "customer_addr": "204 Craft Avenue\nPittsburgh, PA 15213",
+  "certificate": "23-R-0090",
+  "site_id": "001",
+  "site_name": "MCGEE WOMENS RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2016",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "69151425250280",
+  "layout": "a",
+  "customer_id": "107",
+  "customer_name": "Harvard Medical School",
+  "customer_addr": "Harvard Center For Comparative Medicine\n665 Huntington Ave\nBoston, MA 02115",
+  "certificate": "14-R-0019",
+  "site_id": "002",
+  "site_name": "NEW ENGLAND REGIONAL PRIMATE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-MAR-2015",
+  "animals_total": 262,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 15,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 200,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 33,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 12,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

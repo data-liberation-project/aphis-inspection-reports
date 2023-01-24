@@ -1,0 +1,35 @@
+{
+  "insp_id": "57140910045835",
+  "layout": "a",
+  "customer_id": "37011",
+  "customer_name": "Surpass Inc",
+  "customer_addr": "803 Prospect Avenue\nOsceola, WI 54020",
+  "certificate": "35-R-0119",
+  "site_id": "001",
+  "site_name": "SURPASS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-FEB-2014",
+  "animals_total": 177,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 96,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 73,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

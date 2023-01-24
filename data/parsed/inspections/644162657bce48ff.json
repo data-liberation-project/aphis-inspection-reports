@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569613071",
+  "layout": "a",
+  "customer_id": "503605",
+  "customer_name": "Oregon State University",
+  "customer_addr": "Research Office\nA312 Kerr Administration Bldg.\nCorvallis, OR 97331",
+  "certificate": "92-R-0041",
+  "site_id": "001",
+  "site_name": "OREGON STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-SEP-2019",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 19,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

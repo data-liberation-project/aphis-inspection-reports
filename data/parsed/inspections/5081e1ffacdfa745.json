@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567973830",
+  "layout": "a",
+  "customer_id": "31520",
+  "customer_name": "Wildcare Inc",
+  "customer_addr": "198 N Hartstrait Road\nBloomington, IN 47404",
+  "certificate": "32-C-0239",
+  "site_id": "001",
+  "site_name": "WILDCARE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-OCT-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    }
+  ]
+}

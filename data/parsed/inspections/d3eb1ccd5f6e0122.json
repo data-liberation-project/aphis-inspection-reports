@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000831862",
+  "layout": "b",
+  "customer_id": "779",
+  "customer_name": "PURDUE UNIVERSITY",
+  "customer_addr": "410 SOUTH UNIVERSITY ST\nWEST LAFAYETTE, IN 47907",
+  "certificate": "32-R-0007",
+  "site_id": "001",
+  "site_name": "ALL CAMPUS SITES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-DEC-2022",
+  "animals_total": 128,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 35,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

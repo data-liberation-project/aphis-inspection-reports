@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000770944",
+  "layout": "a",
+  "customer_id": "19624",
+  "customer_name": "Sara Hulshof",
+  "customer_addr": "4832 DOGWOOD AVE\nIRETON, IA 51027",
+  "certificate": "42-A-1036",
+  "site_id": "001",
+  "site_name": "SARA HULSHOF",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "09-MAR-2022",
+  "animals_total": 154,
+  "species": [
+    {
+      "count": 101,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082569492679",
+  "layout": "a",
+  "customer_id": "321687",
+  "customer_name": "John Miller",
+  "customer_addr": "1517 County Road 600\nBaltic, OH 43804",
+  "certificate": "31-A-0612",
+  "site_id": "001",
+  "site_name": "JOHN MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAY-2019",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 90,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 27,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

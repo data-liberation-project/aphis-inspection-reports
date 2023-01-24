@@ -1,0 +1,30 @@
+{
+  "insp_id": "11161208250149",
+  "layout": "a",
+  "customer_id": "32632",
+  "customer_name": "Gail Harris",
+  "customer_addr": "170 N Jungle Road\nGeneva, FL 32732",
+  "certificate": "58-A-0301",
+  "site_id": "001",
+  "site_name": "GAIL HARRIS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JAN-2016",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Macropus fuliginosus",
+      "common": "WESTERN GREY KANGAROO"
+    },
+    {
+      "count": 5,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    },
+    {
+      "count": 2,
+      "scientific": "Wallabia bicolor",
+      "common": "SWAMP WALLABY"
+    }
+  ]
+}

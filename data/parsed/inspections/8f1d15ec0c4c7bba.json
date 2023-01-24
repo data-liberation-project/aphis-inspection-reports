@@ -1,0 +1,45 @@
+{
+  "insp_id": "283141119010672",
+  "layout": "a",
+  "customer_id": "3435",
+  "customer_name": "Cat Tales Inc.",
+  "customer_addr": "N 17020 Newport Highway\nMead, WA 99021",
+  "certificate": "91-C-0039",
+  "site_id": "001",
+  "site_name": "CAT TALES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-OCT-2014",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 18,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
+}

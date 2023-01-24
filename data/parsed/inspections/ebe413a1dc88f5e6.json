@@ -1,0 +1,40 @@
+{
+  "insp_id": "363151705280130",
+  "layout": "a",
+  "customer_id": "13979",
+  "customer_name": "Judy Rowles",
+  "customer_addr": "Po Box 265\nWatertown, TN 37184",
+  "certificate": "63-C-0161",
+  "site_id": "001",
+  "site_name": "JUDY ROWLES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-DEC-2015",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

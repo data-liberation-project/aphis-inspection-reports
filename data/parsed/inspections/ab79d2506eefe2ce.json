@@ -1,0 +1,25 @@
+{
+  "insp_id": "321141836300849",
+  "layout": "a",
+  "customer_id": "3450",
+  "customer_name": "Keith Evans",
+  "customer_addr": "12175 Bermuda Road\nHenderson, NV 89044",
+  "certificate": "88-C-0064",
+  "site_id": "001",
+  "site_name": "KEITH EVANS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-NOV-2014",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 45,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    }
+  ]
+}

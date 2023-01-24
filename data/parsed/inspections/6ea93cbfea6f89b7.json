@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568758421",
+  "layout": "a",
+  "customer_id": "19588",
+  "customer_name": "Wellwood Orchards Inc",
+  "customer_addr": "529 Wellwood Orchard Road\nSpringfield, VT 05156",
+  "certificate": "13-C-0013",
+  "site_id": "001",
+  "site_name": "WELLWOOD ORCHARDS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-AUG-2017",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

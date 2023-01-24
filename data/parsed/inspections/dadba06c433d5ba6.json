@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000832115",
+  "layout": "b",
+  "customer_id": "26261",
+  "customer_name": "Lufthansa Cargo AG",
+  "customer_addr": "1400 RXR Plaza\nWest Tower\nUniondale, NY 11556",
+  "certificate": "21-T-0070",
+  "site_id": "ATL",
+  "site_name": "Lufthansa Cargo AG - ATL - Hartsfield-Jackson International Airport",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2022",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

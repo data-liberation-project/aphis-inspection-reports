@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000789729",
+  "layout": "a",
+  "customer_id": "1497",
+  "customer_name": "Texas A & M University-Kingsville",
+  "customer_addr": "M S C 201, 700 University Blvd\nKINGSVILLE, TX 78363",
+  "certificate": "74-R-0094",
+  "site_id": "001",
+  "site_name": "Texas A & M University-Kingsville",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-MAY-2022",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 52,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

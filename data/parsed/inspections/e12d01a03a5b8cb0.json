@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000812358",
+  "layout": "b",
+  "customer_id": "323964",
+  "customer_name": "SPF NORTH AMERICA INC",
+  "customer_addr": "428 S WASHINGTON STREET\nMONDOVI, WI 54755",
+  "certificate": "35-R-0127",
+  "site_id": "001",
+  "site_name": "SPF NORTH AMERICAN INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 220,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 160,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

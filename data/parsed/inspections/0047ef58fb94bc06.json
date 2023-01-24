@@ -1,0 +1,40 @@
+{
+  "insp_id": "222152105270399",
+  "layout": "a",
+  "customer_id": "7726",
+  "customer_name": "Edward Laquidara",
+  "customer_addr": "336 Sugar Rd\nBolton, MA 01740",
+  "certificate": "14-C-0063",
+  "site_id": "001",
+  "site_name": "EDWARD LAQUIDARA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-AUG-2015",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082569149000",
+  "layout": "a",
+  "customer_id": "267",
+  "customer_name": "Brown University",
+  "customer_addr": "Box G-B 222\nProvidence, RI 02912",
+  "certificate": "15-R-0003",
+  "site_id": "001",
+  "site_name": "BROWN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-SEP-2016",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Artibeus jamaicensis",
+      "common": "JAMAICAN FRUIT-EATING BAT / JAMAICAN FRUIT BAT"
+    },
+    {
+      "count": 46,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 31,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 30,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 15,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 26,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

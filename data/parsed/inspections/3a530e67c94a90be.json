@@ -1,0 +1,30 @@
+{
+  "insp_id": "184141616470200",
+  "layout": "a",
+  "customer_id": "12464",
+  "customer_name": "Kim White",
+  "customer_addr": "7410 Fruitville Rd\nSarasota, FL 34240",
+  "certificate": "58-C-1113",
+  "site_id": "001",
+  "site_name": "KIM WHITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-JUL-2014",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
+}

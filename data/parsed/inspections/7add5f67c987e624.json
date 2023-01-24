@@ -1,0 +1,30 @@
+{
+  "insp_id": "192141030242635",
+  "layout": "a",
+  "customer_id": "6192",
+  "customer_name": "Bar Sgr Llc",
+  "customer_addr": "32193 Winery Way\nLewes, DE 19958",
+  "certificate": "50-C-0013",
+  "site_id": "001",
+  "site_name": "BAR SGR LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2014",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000753209",
+  "layout": "a",
+  "customer_id": "542",
+  "customer_name": "MAYO CLINIC",
+  "customer_addr": "1997 GUGGENHEIM 200 FIRST ST SW\nROCHESTER, MN 55905",
+  "certificate": "41-R-0006",
+  "site_id": "003",
+  "site_name": "S.C. JOHNSON RESEARCH FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-DEC-2021",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000634407",
+  "layout": "a",
+  "customer_id": "505908",
+  "customer_name": "CONNIE BOGER",
+  "customer_addr": "13231 HICKORY CREEK RD\nLOWELL, AR 72745",
+  "certificate": "71-C-0190",
+  "site_id": "001",
+  "site_name": "CONNIE BOGER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JUN-2021",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 23,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 34,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

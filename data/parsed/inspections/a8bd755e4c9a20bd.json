@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569730643",
+  "layout": "a",
+  "customer_id": "330198",
+  "customer_name": "Maxine Hale",
+  "customer_addr": "2331 Co Rd 618\nCape Girardeau, MO 63701",
+  "certificate": "43-C-0383",
+  "site_id": "001",
+  "site_name": "MAXINE HALE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-FEB-2020",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 28,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 35,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568904436",
+  "layout": "a",
+  "customer_id": "333708",
+  "customer_name": "Mary Ellen Crum",
+  "customer_addr": "9101 Liberty Road\nFrederick, MD 21701",
+  "certificate": "51-C-0121",
+  "site_id": "001",
+  "site_name": "Mary Crum",
+  "insp_type": "PRELICENSE INSPECTION #1",
+  "date": "26-OCT-2017",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 13,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568976892",
+  "layout": "a",
+  "customer_id": "501457",
+  "customer_name": "Freeman Farms Llc",
+  "customer_addr": "Po Box 334\nBenton, KY 42025",
+  "certificate": "61-C-0180",
+  "site_id": "001",
+  "site_name": "KARAS KRITTERS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-NOV-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

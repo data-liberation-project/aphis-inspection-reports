@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000638387",
+  "layout": "a",
+  "customer_id": "15600",
+  "customer_name": "CITY OF GAYLORD",
+  "customer_addr": "305 EAST MAIN STREET\nGAYLORD, MI 49735",
+  "certificate": "34-C-0347",
+  "site_id": "001",
+  "site_name": "CITY OF GAYLORD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JUN-2021",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 8,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 37,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    }
+  ]
+}

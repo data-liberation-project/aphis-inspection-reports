@@ -1,0 +1,30 @@
+{
+  "insp_id": "182140830290783",
+  "layout": "a",
+  "customer_id": "327449",
+  "customer_name": "Thomas Williams",
+  "customer_addr": "5561 S. Bodenburg Loop Rd.\nPalmer, AK 99645",
+  "certificate": "96-C-0036",
+  "site_id": "001",
+  "site_name": "Thomas Williams",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUN-2014",
+  "animals_total": 196,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 43,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 152,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    }
+  ]
+}

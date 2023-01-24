@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569260258",
+  "layout": "a",
+  "customer_id": "45331",
+  "customer_name": "Sinclair Research Center L L C",
+  "customer_addr": "562 State Road Dd\nAuxvasse, MO 65231",
+  "certificate": "43-R-0122",
+  "site_id": "001",
+  "site_name": "SINCLAIR RESEARCH CENTER, L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-SEP-2018",
+  "animals_total": 823,
+  "species": [
+    {
+      "count": 228,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 21,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 444,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

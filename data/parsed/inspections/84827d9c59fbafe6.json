@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569555694",
+  "layout": "a",
+  "customer_id": "2201",
+  "customer_name": "Lake Metroparks",
+  "customer_addr": "8668 Kirtland-Chardon Road\nKirtland, OH 44094",
+  "certificate": "31-C-0040",
+  "site_id": "001",
+  "site_name": "LAKE METROPARKS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2019",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sylvilagus floridanus",
+      "common": "EASTERN COTTONTAIL RABBIT"
+    }
+  ]
+}

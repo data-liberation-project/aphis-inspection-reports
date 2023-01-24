@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569171428",
+  "layout": "a",
+  "customer_id": "366",
+  "customer_name": "Calvert Laboratories Inc",
+  "customer_addr": "Scott Technology Park\n130 Discovery Drive\nScott Township, PA 18447",
+  "certificate": "23-R-0107",
+  "site_id": "001",
+  "site_name": "CALVERT LABORATORIES INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JUN-2018",
+  "animals_total": 244,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 118,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

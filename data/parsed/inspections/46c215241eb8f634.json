@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569629876",
+  "layout": "a",
+  "customer_id": "3465",
+  "customer_name": "Karen Luna",
+  "customer_addr": "7827 E. Thunderbird Rd.\nScottsdale, AZ 85260",
+  "certificate": "86-C-0085",
+  "site_id": "001",
+  "site_name": "KAREN LUNA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-OCT-2019",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

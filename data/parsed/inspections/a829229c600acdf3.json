@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000804703",
+  "layout": "b",
+  "customer_id": "1573",
+  "customer_name": "DIAMOND ANIMAL HEALTH INC.",
+  "customer_addr": "2538 S E 43RD STREET\nDES MOINES, IA 50327",
+  "certificate": "42-R-0001",
+  "site_id": "001",
+  "site_name": "DIAMOND ANIMAL HEALTH, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JUL-2022",
+  "animals_total": 157,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 146,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    }
+  ]
+}

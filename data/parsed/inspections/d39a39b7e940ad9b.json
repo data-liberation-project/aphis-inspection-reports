@@ -1,0 +1,35 @@
+{
+  "insp_id": "121141937290233",
+  "layout": "a",
+  "customer_id": "7458",
+  "customer_name": "Robert Otto",
+  "customer_addr": "P O Box 485\nMagnolia, MS 39652",
+  "certificate": "65-C-0516",
+  "site_id": "TRA",
+  "site_name": "ROBERT OTTO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAR-2014",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 33,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

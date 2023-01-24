@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569203780",
+  "layout": "a",
+  "customer_id": "333181",
+  "customer_name": "Robert J. Roberson",
+  "customer_addr": "31706 East Pink Hill Rd.\nGrain Valley, MO 64029",
+  "certificate": "43-A-6112",
+  "site_id": "001",
+  "site_name": "Robert J. Roberson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JUL-2018",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 31,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

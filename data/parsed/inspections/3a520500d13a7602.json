@@ -1,0 +1,35 @@
+{
+  "insp_id": "154151100460705",
+  "layout": "a",
+  "customer_id": "2615",
+  "customer_name": "Nelis Inc",
+  "customer_addr": "12350 James Street\nHolland, MI 49424",
+  "certificate": "34-C-0001",
+  "site_id": "001",
+  "site_name": "DUTCH VILLAGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-JUN-2015",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082567934063",
+  "layout": "a",
+  "customer_id": "329543",
+  "customer_name": "Jason Whitmore",
+  "customer_addr": "35 Daniel Shays Hwy\nOrange, MA 01364",
+  "certificate": "14-C-0128",
+  "site_id": "001",
+  "site_name": "JASON WHITMORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2016",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "120151224260200",
+  "layout": "a",
+  "customer_id": "34309",
+  "customer_name": "Randy Nelson Farms Inc",
+  "customer_addr": "469 W 112 St\nGrant, MI 49327",
+  "certificate": "34-C-0284",
+  "site_id": "001",
+  "site_name": "NELSONS FARM MARKET",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-APR-2015",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

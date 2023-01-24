@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568579678",
+  "layout": "a",
+  "customer_id": "335071",
+  "customer_name": "Abcore Inc.",
+  "customer_addr": "405 Maple St. A-106\nRamona, CA 92065",
+  "certificate": "93-R-0574",
+  "site_id": "001",
+  "site_name": "ABCORE INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-AUG-2017",
+  "animals_total": 826,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 323,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 33,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 459,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

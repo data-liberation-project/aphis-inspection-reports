@@ -1,6 +1,7 @@
 import csv
 import hashlib
 import json
+import re
 import sys
 import typing
 from pathlib import Path
@@ -99,31 +100,55 @@ def iter_fetch_all(
             return
 
 
+url_id_pat = re.compile(r"&ids=([^&]+)")
+
+
+def extract_id_from_url(url: str) -> str:
+    match = re.search(url_id_pat, url)
+    if match is None:
+        raise ValueError(
+            f"URL does not contain expected `&ids=` pattern; APHIS URL scheme may have changed: {url}"  # noqa: E501
+        )
+    else:
+        return match.group(1)
+
+
+def get_unique_key(r: dict[str, typing.Any]) -> tuple[str, str, str]:
+    url = r.get("reportLink", "")
+    url_id = extract_id_from_url(url) if url else ""
+
+    return (
+        url_id,
+        r["customerNumber"],
+        r["inspectionDate"],
+    )
+
+
 def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str]:
     return (
         int(r["customerNumber"]),  # Shouldn't ever be missing
-        r.get("certNumber", ""),  # Sometimes missing
+        # Note: ? below is a hack to give empty certNumbers lower
+        # sort order than existing ones, since APHIS seems to backfill
+        # the certNumber once licensed.
+        (r.get("certNumber") or "?"),  # Sometimes missing
         r["inspectionDate"],  # Shouldn't ever be missing
-        r.get("reportLink", ""),  # Sometimes missing, else unique
+        r.get("reportLink", ""),  # Sometimes missing
     )
 
 
 def deduplicate(
-    result_list: list[dict[str, typing.Any]], sort: bool = True
+    result_list: list[dict[str, typing.Any]]
 ) -> list[dict[str, typing.Any]]:
     seen_keys = set()
     unique = []
-    for item in result_list:
-        key = get_sort_key(item)
-        if key in seen_keys:
+    for item in sorted(result_list, key=get_sort_key):
+        unique_key = get_unique_key(item)
+        if unique_key in seen_keys:
             continue
         else:
-            seen_keys.add(key)
+            seen_keys.add(unique_key)
             unique.append(item)
-    if sort:
-        return sorted(unique, key=get_sort_key)
-    else:
-        return unique
+    return unique
 
 
 def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
@@ -137,7 +162,7 @@ def hash_id_from_url(url: typing.Optional[str]) -> str:
     if url is None or not url.strip():
         return ""
     else:
-        b = url.strip().encode("utf-8")
+        b = extract_id_from_url(url).encode("utf-8")
         return hashlib.sha1(b).hexdigest()[:16]
 
 

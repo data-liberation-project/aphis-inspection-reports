@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000812339",
+  "layout": "b",
+  "customer_id": "1192",
+  "customer_name": "Scripps Research Institute",
+  "customer_addr": "10550 N. Torrey Pines Road, TPC-30\nLa Jolla, CA 92037",
+  "certificate": "93-R-0015",
+  "site_id": "001",
+  "site_name": "SCRIPPS RESEARCH INSTITUTE - CA",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 35,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 45,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

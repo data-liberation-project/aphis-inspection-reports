@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567981191",
+  "layout": "a",
+  "customer_id": "376",
+  "customer_name": "Delaware Valley University",
+  "customer_addr": "700 E. Butler Ave.\nDoylestown, PA 18901",
+  "certificate": "23-R-0135",
+  "site_id": "001",
+  "site_name": "DELAWARE VALLEY COLLEGE OF SCI & AGRI.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-NOV-2016",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 44,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN HAMSTER (GOLDEN HAMSTER)"
+    },
+    {
+      "count": 3,
+      "scientific": "Neotoma magister",
+      "common": "ALLEGHENY WOODRAT"
+    },
+    {
+      "count": 29,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

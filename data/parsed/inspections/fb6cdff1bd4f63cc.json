@@ -1,0 +1,30 @@
+{
+  "insp_id": "130161142260553",
+  "layout": "a",
+  "customer_id": "30183",
+  "customer_name": "Jason Mayfield",
+  "customer_addr": "16775 Old Danville Road\nWillis, TX 77318",
+  "certificate": "74-C-0862",
+  "site_id": "001",
+  "site_name": "Jason Mayfield",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-MAY-2016",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
+}

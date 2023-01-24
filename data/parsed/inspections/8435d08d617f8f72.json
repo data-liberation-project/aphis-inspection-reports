@@ -1,0 +1,30 @@
+{
+  "insp_id": "56160551414808",
+  "layout": "a",
+  "customer_id": "3321",
+  "customer_name": "The Florida Aquarium",
+  "customer_addr": "701 Channelside Dr.\nTampa, FL 33602",
+  "certificate": "58-C-0977",
+  "site_id": "001",
+  "site_name": "THE FLORIDA AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-FEB-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra longicaudis",
+      "common": "NEOTROPICAL OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    }
+  ]
+}

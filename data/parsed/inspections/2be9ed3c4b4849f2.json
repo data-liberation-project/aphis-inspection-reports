@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000662680",
+  "layout": "a",
+  "customer_id": "346",
+  "customer_name": "NEW YORK UNIVERSITY-WASHINGTON SQUARE",
+  "customer_addr": "OFFICE OF VETERINARY RESOURCES\n665 BROADWAY, SUITE 804\nNEW YORK NEW YORK, NY 10012",
+  "certificate": "21-R-0118",
+  "site_id": "001",
+  "site_name": "NEW YORK UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JUL-2021",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 30,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 46,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}

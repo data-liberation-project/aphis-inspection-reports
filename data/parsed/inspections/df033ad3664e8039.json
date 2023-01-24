@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812337",
+  "layout": "b",
+  "customer_id": "24950",
+  "customer_name": "Teresa Fox",
+  "customer_addr": "1990 Clouse Road\nMacomb, MO 65702",
+  "certificate": "43-A-5882",
+  "site_id": "001",
+  "site_name": "TERESA L. FOX",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

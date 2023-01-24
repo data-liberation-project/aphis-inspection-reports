@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000651528",
+  "layout": "a",
+  "customer_id": "328",
+  "customer_name": "TEMPLE UNIVERSITY",
+  "customer_addr": "MEDICAL EDUCATION & RESEARCH BUILDING RM 537\n3500 N BROAD STREET\nPHILADELPHIA, PA 19140",
+  "certificate": "23-R-0027",
+  "site_id": "002",
+  "site_name": "TEMPLE UNIVERSITY MEDICAL RESEARCH BUILDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JUL-2021",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

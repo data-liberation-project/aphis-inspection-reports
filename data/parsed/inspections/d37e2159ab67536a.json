@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826573",
+  "layout": "b",
+  "customer_id": "6012861",
+  "customer_name": "Luis Gonzalez",
+  "customer_addr": "22111 Dawn Drive\nMilan, MO 63556",
+  "certificate": "43-A-6705",
+  "site_id": "001",
+  "site_name": "Luiz Gonzalez",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2022",
+  "animals_total": 376,
+  "species": [
+    {
+      "count": 289,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 87,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

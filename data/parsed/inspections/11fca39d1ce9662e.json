@@ -1,0 +1,25 @@
+{
+  "insp_id": "300151515560004",
+  "layout": "a",
+  "customer_id": "154",
+  "customer_name": "Genzyme Corporation",
+  "customer_addr": "49 New York Avenue\nFramingham, MA 01701",
+  "certificate": "14-R-0123",
+  "site_id": "001",
+  "site_name": "GENZYME CORPORATION",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-OCT-2015",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 49,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

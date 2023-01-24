@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569171767",
+  "layout": "a",
+  "customer_id": "336",
+  "customer_name": "Weill Cornell Medicine",
+  "customer_addr": "1300 York Avenue - Box 40\nNew York, NY 10065",
+  "certificate": "21-R-0114",
+  "site_id": "001",
+  "site_name": "HARKNESS S. BLDG & RR & CIC BUILDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUN-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

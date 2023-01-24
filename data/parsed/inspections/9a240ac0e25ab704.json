@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000740031",
+  "layout": "a",
+  "customer_id": "896",
+  "customer_name": "EMORY UNIVERSITY",
+  "customer_addr": "954 Gatewood Road\nAtlanta, GA 30329",
+  "certificate": "57-B-0157",
+  "site_id": "001",
+  "site_name": "YERKES NATIONAL PRIMATE RESEARCH CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-SEP-2021",
+  "animals_total": 931,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cercocebus atys",
+      "common": "SOOTY MANGABEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 916,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 2,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

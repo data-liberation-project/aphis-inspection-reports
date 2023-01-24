@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569116876",
+  "layout": "a",
+  "customer_id": "223",
+  "customer_name": "Cleveland Clinic Foundation",
+  "customer_addr": "Bio Resrc Unit/Nc50, 9500 Euclid Ave\nCleveland, OH 44195",
+  "certificate": "31-R-0017",
+  "site_id": "001",
+  "site_name": "CLEVELAND CLINIC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2018",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000807039",
+  "layout": "b",
+  "customer_id": "1664",
+  "customer_name": "Beth Israel Deaconess Medical Center",
+  "customer_addr": "330 Brookline Avenue\nSlosberg-Landay Animal Facility\nBoston, MA 02215",
+  "certificate": "14-R-0138",
+  "site_id": "001",
+  "site_name": "Beth Israel Deaconess Medical Center",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "27-JUL-2022",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

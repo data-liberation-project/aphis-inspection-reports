@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016082567930744",
+  "layout": "a",
+  "customer_id": "330803",
+  "customer_name": "Eric Scott",
+  "customer_addr": "375 Roark Ave\nBranson, MO 65616",
+  "certificate": "43-B-3740",
+  "site_id": "001",
+  "site_name": "ERIC SCOTT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-SEP-2016",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOMESTIC DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "DOMESTIC CAT"
+    }
+  ]
+}

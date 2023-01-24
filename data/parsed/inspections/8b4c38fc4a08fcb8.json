@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807108",
+  "layout": "b",
+  "customer_id": "507500",
+  "customer_name": "NATHAN STEURY",
+  "customer_addr": "5640 W Burt Road\nCAMDEN, MI 49232",
+  "certificate": "34-A-0231",
+  "site_id": "001",
+  "site_name": "NATHAN STEURY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUL-2022",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

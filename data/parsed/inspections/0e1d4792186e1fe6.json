@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569536606",
+  "layout": "a",
+  "customer_id": "1565",
+  "customer_name": "North Dakota State University",
+  "customer_addr": "1735 Research Park Drive\nResearch 1, Department 4000\nPo Box 6050\nFargo, ND 58102",
+  "certificate": "45-R-0002",
+  "site_id": "001",
+  "site_name": "NORTH DAKOTA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUL-2019",
+  "animals_total": 830,
+  "species": [
+    {
+      "count": 217,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 612,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

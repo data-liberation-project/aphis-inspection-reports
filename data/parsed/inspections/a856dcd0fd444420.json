@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569542722",
+  "layout": "a",
+  "customer_id": "173",
+  "customer_name": "Becton Dickinson And Co",
+  "customer_addr": "One Becton Drive\nFranklin Lakes, NJ 07417",
+  "certificate": "22-R-0041",
+  "site_id": "001",
+  "site_name": "BECTON DICKINSON TECHNOLOGIES",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "16-JUL-2019",
+  "animals_total": 313,
+  "species": [
+    {
+      "count": 270,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 34,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

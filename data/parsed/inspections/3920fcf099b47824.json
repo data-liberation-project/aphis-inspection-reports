@@ -1,0 +1,30 @@
+{
+  "insp_id": "60152206490629",
+  "layout": "a",
+  "customer_id": "1458",
+  "customer_name": "University Of Houston",
+  "customer_addr": "4302 University Drive\nEzeikel W Cullen Room 316\nHouston, TX 77204",
+  "certificate": "74-R-0020",
+  "site_id": "001",
+  "site_name": "University of Houston",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-FEB-2015",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 80,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

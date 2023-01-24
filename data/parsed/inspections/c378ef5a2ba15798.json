@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807430",
+  "layout": "b",
+  "customer_id": "503727",
+  "customer_name": "Amy Tilley",
+  "customer_addr": "14670 S Beaver Road\nKENEFIC, OK 74748",
+  "certificate": "73-A-2782",
+  "site_id": "001",
+  "site_name": "AMY TILLEY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-AUG-2022",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 54,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

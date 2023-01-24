@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082567935656",
+  "layout": "a",
+  "customer_id": "1666",
+  "customer_name": "Wyoming Game & Fish Department",
+  "customer_addr": "2362 Highway 34\nWheatland, WY 82201",
+  "certificate": "83-R-0005",
+  "site_id": "001",
+  "site_name": "WYOMING FISH & GAME",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2016",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 28,
+      "scientific": "Cervus c. canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
+}

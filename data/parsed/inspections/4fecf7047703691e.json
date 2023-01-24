@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569628009",
+  "layout": "a",
+  "customer_id": "5711",
+  "customer_name": "Les Kimes",
+  "customer_addr": "47025 State Road 64 E\nMyakka City, FL 34251",
+  "certificate": "58-C-1220",
+  "site_id": "TRA",
+  "site_name": "LES KIMES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-OCT-2019",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

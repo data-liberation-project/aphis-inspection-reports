@@ -1,0 +1,35 @@
+{
+  "insp_id": "206141329200930",
+  "layout": "a",
+  "customer_id": "327267",
+  "customer_name": "Randy Wick",
+  "customer_addr": "1307 A. Summit St.\nSchulenburg, TX 78956",
+  "certificate": "74-C-0926",
+  "site_id": "001",
+  "site_name": "Randy Wick",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-JUL-2014",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    }
+  ]
+}

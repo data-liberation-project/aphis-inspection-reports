@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569289041",
+  "layout": "a",
+  "customer_id": "326879",
+  "customer_name": "Tropaquatics Inc.",
+  "customer_addr": "4990 Paris Street\nDenver, CO 80239",
+  "certificate": "84-B-0118",
+  "site_id": "001",
+  "site_name": "Tropaquatics, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2018",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 19,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 47,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 15,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082569211465",
+  "layout": "a",
+  "customer_id": "1464",
+  "customer_name": "University Of Texas",
+  "customer_addr": "5323 Harry Hines Blvd\nDallas, TX 75390",
+  "certificate": "74-R-0072",
+  "site_id": "001",
+  "site_name": "University of Texas",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUL-2018",
+  "animals_total": 202,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 34,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 38,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 66,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 40,
+      "scientific": "Zapus hudsonius",
+      "common": "MEADOW JUMPING MOUSE"
+    }
+  ]
+}

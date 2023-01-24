@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569616040",
+  "layout": "a",
+  "customer_id": "2403",
+  "customer_name": "Apple Charlies Llc",
+  "customer_addr": "38035 South Huron Road\nNew Boston, MI 48164",
+  "certificate": "34-C-0411",
+  "site_id": "001",
+  "site_name": "APPLE CHARLIES LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-SEP-2019",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567963455",
+  "layout": "a",
+  "customer_id": "324576",
+  "customer_name": "Pa Pa Simpson'S Farm L L C",
+  "customer_addr": "596 Nicholson Road\nArcadia, LA 71001",
+  "certificate": "72-C-0211",
+  "site_id": "001",
+  "site_name": "Pa Pa Simpson's Farm, LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-OCT-2016",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 16,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "insp_id": "7161554030072",
+  "layout": "a",
+  "customer_id": "18030",
+  "customer_name": "Kowalski Pet Company",
+  "customer_addr": "6701 South Division Ave\nGrand Rapids, MI 49548",
+  "certificate": "34-B-0214",
+  "site_id": "001",
+  "site_name": "V I PETS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JAN-2016",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 5,
+      "scientific": "Gerbillus gerbillus",
+      "common": "EGYPTIAN GERBIL"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus brandti",
+      "common": "GOLDEN HAMSTER"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
+}

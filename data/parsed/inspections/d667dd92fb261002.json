@@ -1,0 +1,40 @@
+{
+  "insp_id": "241140849360406",
+  "layout": "a",
+  "customer_id": "321531",
+  "customer_name": "River Birch Animal Farm",
+  "customer_addr": "P O Box 159\nLocust Hill, VA 23092",
+  "certificate": "52-C-0257",
+  "site_id": "001",
+  "site_name": "RIVER BIRCH ANIMAL FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-AUG-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

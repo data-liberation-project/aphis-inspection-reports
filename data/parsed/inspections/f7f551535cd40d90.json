@@ -1,0 +1,40 @@
+{
+  "insp_id": "77150410390189",
+  "layout": "a",
+  "customer_id": "1576",
+  "customer_name": "University Of Iowa",
+  "customer_addr": "Office Of Animal Resources, Office Of The Iacuc\nL350 P B D B\n169 Newton Road\nIowa City, IA 52242",
+  "certificate": "42-R-0004",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF IOWA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2015",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 92,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 21,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

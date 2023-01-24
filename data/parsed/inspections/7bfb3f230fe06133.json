@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568062865",
+  "layout": "a",
+  "customer_id": "325978",
+  "customer_name": "Scipio Petting Zoo",
+  "customer_addr": "P.O Box 560137\nScipio, UT 84656",
+  "certificate": "87-C-0065",
+  "site_id": "001",
+  "site_name": "SCIPIO PETTING ZOO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-JAN-2017",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "197160703210447",
+  "layout": "a",
+  "customer_id": "27392",
+  "customer_name": "The Pony Ride Express",
+  "customer_addr": "33800 Eddy Rd\nWilloughby Hills, OH 44094",
+  "certificate": "31-C-0203",
+  "site_id": "TRA",
+  "site_name": "THE PONY RIDE EXPRESS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUL-2016",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

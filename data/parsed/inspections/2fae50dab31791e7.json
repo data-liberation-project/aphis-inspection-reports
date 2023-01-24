@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826579",
+  "layout": "b",
+  "customer_id": "39191",
+  "customer_name": "JULIA JOHNSON",
+  "customer_addr": "1153 125 AVE\nMURRAY, IA 50174",
+  "certificate": "42-A-1271",
+  "site_id": "001",
+  "site_name": "JULIA JOHNSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-NOV-2022",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

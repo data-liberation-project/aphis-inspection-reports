@@ -1,0 +1,30 @@
+{
+  "insp_id": "203141329420456",
+  "layout": "a",
+  "customer_id": "328247",
+  "customer_name": "Mc Grath Family Farms",
+  "customer_addr": "1012 W Ventura Blvd.\nCamarillo, CA 91360",
+  "certificate": "93-C-1015",
+  "site_id": "001",
+  "site_name": "Mc Grath Family Farms",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2014",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

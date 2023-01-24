@@ -1,0 +1,40 @@
+{
+  "insp_id": "189161941140196",
+  "layout": "a",
+  "customer_id": "2499",
+  "customer_name": "Ted Krogh",
+  "customer_addr": "92 Young Street\nEast Hampton, CT 06424",
+  "certificate": "16-C-0073",
+  "site_id": "001",
+  "site_name": "TED KROGH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JUL-2016",
+  "animals_total": 93,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 67,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 10,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 11,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

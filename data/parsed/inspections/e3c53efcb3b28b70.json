@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000814961",
+  "layout": "b",
+  "customer_id": "13639",
+  "customer_name": "Pam Reynolds",
+  "customer_addr": "706 Linden St\nCUBA, KS 66940",
+  "certificate": "48-B-0270",
+  "site_id": "001",
+  "site_name": "Pam Reynolds",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-SEP-2022",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000786599",
+  "layout": "a",
+  "customer_id": "9245",
+  "customer_name": "STEVE KRUSE",
+  "customer_addr": "2345 HWY 16\nWEST POINT, IA 52656",
+  "certificate": "42-B-0182",
+  "site_id": "001",
+  "site_name": "STEVE KRUSE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-MAR-2022",
+  "animals_total": 666,
+  "species": [
+    {
+      "count": 648,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

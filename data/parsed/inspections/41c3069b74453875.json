@@ -1,0 +1,30 @@
+{
+  "insp_id": "223151420150321",
+  "layout": "a",
+  "customer_id": "1913",
+  "customer_name": "Jeff Baird",
+  "customer_addr": "170 St Rt 141 N\nMorganfield, KY 42437",
+  "certificate": "61-C-0140",
+  "site_id": "TRA",
+  "site_name": "VARIOUS TRAVEL LOCATIONS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-AUG-2015",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 34,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    }
+  ]
+}

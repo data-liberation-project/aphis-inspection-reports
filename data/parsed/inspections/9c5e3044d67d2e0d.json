@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000831679",
+  "layout": "b",
+  "customer_id": "335029",
+  "customer_name": "Wild West Wildlife Rehab Center",
+  "customer_addr": "2901 N Soncy Rd\nAmarillo, TX 79124",
+  "certificate": "74-C-1098",
+  "site_id": "003",
+  "site_name": "Wild West Wildlife Rehab Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-DEC-2022",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Taxidea taxus",
+      "common": "AMERICAN BADGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

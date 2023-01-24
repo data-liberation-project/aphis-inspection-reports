@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000509959",
+  "layout": "a",
+  "customer_id": "35205",
+  "customer_name": "OKLAHOMA AQUARIUM",
+  "customer_addr": "P.O. BOX 910\nJENKS, OK 74037",
+  "certificate": "73-C-0164",
+  "site_id": "001",
+  "site_name": "OKLAHOMA AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JAN-2021",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
+}

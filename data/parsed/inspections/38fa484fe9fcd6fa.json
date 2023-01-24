@@ -1,0 +1,30 @@
+{
+  "insp_id": "106140912400181",
+  "layout": "a",
+  "customer_id": "7902",
+  "customer_name": "Doug Baum",
+  "customer_addr": "123 C R 3360\nValley Mills, TX 76689",
+  "certificate": "74-C-0636",
+  "site_id": "001",
+  "site_name": "Doug Baum",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-APR-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 6,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
+}

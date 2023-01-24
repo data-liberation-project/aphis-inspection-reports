@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812357",
+  "layout": "b",
+  "customer_id": "5306",
+  "customer_name": "ALLEN KOEDAM WANDA KOEDAM",
+  "customer_addr": "2469 180TH STREET\nROCK RAPIDS, IA 51246",
+  "certificate": "42-A-0016",
+  "site_id": "001",
+  "site_name": "ALLEN & WANDA KOEDAM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-AUG-2022",
+  "animals_total": 215,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

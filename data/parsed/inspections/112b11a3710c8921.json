@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568010777",
+  "layout": "a",
+  "customer_id": "322228",
+  "customer_name": "Jessica Linson",
+  "customer_addr": "P.O. Box 146\nWheelock, TX 77882",
+  "certificate": "74-C-0858",
+  "site_id": "001",
+  "site_name": "Jessica Linson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-NOV-2016",
+  "animals_total": 32,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

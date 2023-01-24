@@ -1,0 +1,30 @@
+{
+  "insp_id": "128151243140349",
+  "layout": "a",
+  "customer_id": "860",
+  "customer_name": "Murray State University",
+  "customer_addr": "328 Wells Hall\nMurray, KY 42071",
+  "certificate": "61-R-0008",
+  "site_id": "001",
+  "site_name": "VET. TECH SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2015",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

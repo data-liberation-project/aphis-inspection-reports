@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000743192",
+  "layout": "a",
+  "customer_id": "330694",
+  "customer_name": "JOHANSEN FARMS I N C",
+  "customer_addr": "680 N BOLINGBROOK DR\nBOLINGBROOK, IL 60440",
+  "certificate": "33-C-0476",
+  "site_id": "001",
+  "site_name": "JOHANSEN FARMS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-OCT-2021",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

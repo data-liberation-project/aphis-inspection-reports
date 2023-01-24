@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000804923",
+  "layout": "b",
+  "customer_id": "503583",
+  "customer_name": "Cindy Mickey",
+  "customer_addr": "13277 W Farm Rd 140\nBois D'Arc, MO 65612",
+  "certificate": "43-A-6407",
+  "site_id": "001",
+  "site_name": "CINDY MICKEY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JUL-2022",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

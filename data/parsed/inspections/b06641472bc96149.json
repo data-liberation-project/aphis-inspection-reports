@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568896350",
+  "layout": "a",
+  "customer_id": "38631",
+  "customer_name": "Michael Halvorson",
+  "customer_addr": "14447 Hwy 10\nGlyndon, MN 56547",
+  "certificate": "41-C-0282",
+  "site_id": "001",
+  "site_name": "MICHAEL HALVORSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-OCT-2017",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

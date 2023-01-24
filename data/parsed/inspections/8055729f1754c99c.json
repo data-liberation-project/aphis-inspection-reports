@@ -1,0 +1,25 @@
+{
+  "insp_id": "77161314330323",
+  "layout": "a",
+  "customer_id": "330109",
+  "customer_name": "John Nisley",
+  "customer_addr": "33899 Hilton Rd.\nEdgewood, IA 52042",
+  "certificate": "42-A-1491",
+  "site_id": "001",
+  "site_name": "John Nisley",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2016",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

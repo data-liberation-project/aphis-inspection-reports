@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082567934120",
+  "layout": "a",
+  "customer_id": "321265",
+  "customer_name": "Animal Craze",
+  "customer_addr": "100 Christmas Tree Lane\nWinchendon, MA 01475",
+  "certificate": "14-C-0137",
+  "site_id": "001",
+  "site_name": "ANIMAL CRAZE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2016",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 17,
+      "scientific": "Sus bucculentus",
+      "common": "VIETNAMESE WARTY PIG"
+    }
+  ]
+}

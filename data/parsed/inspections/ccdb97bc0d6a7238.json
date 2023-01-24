@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000755270",
+  "layout": "a",
+  "customer_id": "37334",
+  "customer_name": "E C I INC",
+  "customer_addr": "12946 47TH STREET\nCLEAR LAKE, MN 55319",
+  "certificate": "41-C-0260",
+  "site_id": "001",
+  "site_name": "E C I INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2021",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
+}

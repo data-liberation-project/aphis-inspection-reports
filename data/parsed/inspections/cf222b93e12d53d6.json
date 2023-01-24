@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000825586",
+  "layout": "b",
+  "customer_id": "25120",
+  "customer_name": "CATAWBA SCIENCE CENTER",
+  "customer_addr": "P O BOX 2431\nHICKORY, NC 28603",
+  "certificate": "55-C-0298",
+  "site_id": "001",
+  "site_name": "CATAWBA SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-NOV-2022",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

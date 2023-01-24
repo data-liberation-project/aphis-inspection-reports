@@ -1,0 +1,25 @@
+{
+  "insp_id": "133161821030080",
+  "layout": "a",
+  "customer_id": "25886",
+  "customer_name": "Mars Petcare U S",
+  "customer_addr": "2013 Ovation Pkwy\nFranklin, TN 37067",
+  "certificate": "63-R-0127",
+  "site_id": "001",
+  "site_name": "MARS PETCARE U S",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-MAY-2016",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 143,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 107,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

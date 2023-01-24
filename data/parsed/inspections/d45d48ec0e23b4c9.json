@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568198493",
+  "layout": "a",
+  "customer_id": "134",
+  "customer_name": "Mount Ida College",
+  "customer_addr": "777 Dedham Street\nNewton, MA 02459",
+  "certificate": "14-R-0090",
+  "site_id": "001",
+  "site_name": "MOUNT IDA COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-APR-2017",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

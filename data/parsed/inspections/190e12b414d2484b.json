@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568416874",
+  "layout": "a",
+  "customer_id": "34579",
+  "customer_name": "American Preclinical Services Llc",
+  "customer_addr": "8945 Evergreen Blvd\nMinneapolis, MN 55433",
+  "certificate": "41-R-0074",
+  "site_id": "001",
+  "site_name": "AMERICAN PRECLINICAL SERVICES LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUN-2017",
+  "animals_total": 925,
+  "species": [
+    {
+      "count": 79,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 223,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 330,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 104,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 189,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

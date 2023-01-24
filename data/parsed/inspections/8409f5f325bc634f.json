@@ -1,0 +1,35 @@
+{
+  "insp_id": "65141534400180",
+  "layout": "a",
+  "customer_id": "6937",
+  "customer_name": "Jspa Inc",
+  "customer_addr": "4990 Manor House Lane\nSaint Cloud, FL 34772",
+  "certificate": "58-C-0612",
+  "site_id": "005",
+  "site_name": "JSPA INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-MAR-2014",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 47,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

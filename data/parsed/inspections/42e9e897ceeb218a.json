@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568128011",
+  "layout": "a",
+  "customer_id": "1799",
+  "customer_name": "Charles River Laboratories Inc",
+  "customer_addr": "251 Ballardvale St\nWilmington, MA 01887",
+  "certificate": "14-R-0144",
+  "site_id": "014",
+  "site_name": "HORSHAM PA SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2017",
+  "animals_total": 352,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 80,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 177,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

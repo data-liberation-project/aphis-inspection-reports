@@ -1,0 +1,30 @@
+{
+  "insp_id": "28151211320439",
+  "layout": "a",
+  "customer_id": "15049",
+  "customer_name": "Steve Root",
+  "customer_addr": "1576 Bryant Rd\nRanger, GA 30734",
+  "certificate": "57-C-0321",
+  "site_id": "001",
+  "site_name": "STEVE ROOT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JAN-2015",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
+}

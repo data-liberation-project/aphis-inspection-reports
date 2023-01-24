@@ -1,0 +1,35 @@
+{
+  "insp_id": "114140004060740",
+  "layout": "a",
+  "customer_id": "43692",
+  "customer_name": "Melissa Tamberg",
+  "customer_addr": "29950 Robbie Lane\nVista, CA 92084",
+  "certificate": "93-C-0848",
+  "site_id": "001",
+  "site_name": "MELISSA B TAMBERG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-FEB-2014",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

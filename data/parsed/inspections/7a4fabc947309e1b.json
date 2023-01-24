@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000804494",
+  "layout": "b",
+  "customer_id": "327788",
+  "customer_name": "Powered Research LLC",
+  "customer_addr": "PO BOX 14650\nDURHAM, NC 27709",
+  "certificate": "55-R-0142",
+  "site_id": "002",
+  "site_name": "Powered Research LLC",
+  "insp_type": "NEW SITE INSPECTION",
+  "date": "07-JUL-2022",
+  "animals_total": 347,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 45,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 289,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

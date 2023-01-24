@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000814865",
+  "layout": "b",
+  "customer_id": "327534",
+  "customer_name": "Sarah Hand",
+  "customer_addr": "4202 N. Somers Ave\nFREMONT, NE 68025",
+  "certificate": "47-A-0598",
+  "site_id": "002",
+  "site_name": "Sarah Hand",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2022",
+  "animals_total": 289,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    },
+    {
+      "count": 218,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 65,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    }
+  ]
+}

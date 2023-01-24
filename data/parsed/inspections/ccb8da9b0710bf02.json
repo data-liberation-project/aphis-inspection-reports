@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568971359",
+  "layout": "a",
+  "customer_id": "42137",
+  "customer_name": "John Vincent",
+  "customer_addr": "11400 E. Folsom Point\nFranktown, CO 80116",
+  "certificate": "84-C-0106",
+  "site_id": "001",
+  "site_name": "JOHN VINCENT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-NOV-2017",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa",
+      "common": "WILD BOAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

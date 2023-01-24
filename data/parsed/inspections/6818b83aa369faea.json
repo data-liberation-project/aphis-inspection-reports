@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000826656",
+  "layout": "b",
+  "customer_id": "357",
+  "customer_name": "HARCUM COLLEGE",
+  "customer_addr": "VET SERVICES BLDG\n750 MONTGOMERY AVE\nBRYN MAWR, PA 19010",
+  "certificate": "23-R-0078",
+  "site_id": "001",
+  "site_name": "HARCUM COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2022",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569668424",
+  "layout": "a",
+  "customer_id": "30536",
+  "customer_name": "Peter Kunkle",
+  "customer_addr": "1409 Oak Ridge Rd\nKernersville, NC 27284",
+  "certificate": "55-C-0207",
+  "site_id": "001",
+  "site_name": "PETER KUNKLE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-DEC-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

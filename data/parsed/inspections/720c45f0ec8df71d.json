@@ -1,0 +1,30 @@
+{
+  "insp_id": "238151751380043",
+  "layout": "a",
+  "customer_id": "4858",
+  "customer_name": "Sea World Of Texas",
+  "customer_addr": "10500 Sea World Dr\nSan Antonio, TX 78251",
+  "certificate": "74-C-0180",
+  "site_id": "001",
+  "site_name": "Sea World of Texas",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-AUG-2015",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    },
+    {
+      "count": 25,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
+}

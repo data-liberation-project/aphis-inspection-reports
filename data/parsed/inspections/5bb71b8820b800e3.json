@@ -1,0 +1,40 @@
+{
+  "insp_id": "94141624544468",
+  "layout": "a",
+  "customer_id": "12935",
+  "customer_name": "Patch 22 Ltd",
+  "customer_addr": "15900 Kelly Road\nWadsworth, IL 60083",
+  "certificate": "33-C-0421",
+  "site_id": "001",
+  "site_name": "PATCH 22 LTD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-APR-2014",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 17,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus domestica",
+      "common": "DOMESTIC PIG"
+    }
+  ]
+}

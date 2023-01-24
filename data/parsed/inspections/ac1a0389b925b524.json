@@ -1,0 +1,50 @@
+{
+  "insp_id": "2016090000747737",
+  "layout": "a",
+  "customer_id": "130",
+  "customer_name": "UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL",
+  "customer_addr": "55 LAKE AVENUE NORTH\nWORCESTER, MA 01655",
+  "certificate": "14-R-0035",
+  "site_id": "001",
+  "site_name": "UNIV. OF MASS. MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-NOV-2021",
+  "animals_total": 378,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 242,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 84,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000827794",
+  "layout": "b",
+  "customer_id": "4166",
+  "customer_name": "Marcia Smith",
+  "customer_addr": "605 N Prairie St\nSaint John, KS 67576",
+  "certificate": "48-A-0854",
+  "site_id": "001",
+  "site_name": "Marcia Smith",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "29-NOV-2022",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

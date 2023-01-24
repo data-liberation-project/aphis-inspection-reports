@@ -1,0 +1,30 @@
+{
+  "insp_id": "14161602310753",
+  "layout": "a",
+  "customer_id": "1561",
+  "customer_name": "South Dakota State University",
+  "customer_addr": "Morrill Hall 200f\nBox 2201\nBrookings, SD 57007",
+  "certificate": "46-R-0002",
+  "site_id": "001",
+  "site_name": "SOUTH DAKOTA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JAN-2016",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 51,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 26,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567971173",
+  "layout": "a",
+  "customer_id": "16024",
+  "customer_name": "Connecticut Audubon Society",
+  "customer_addr": "2325 Burr Street\nFairfield, CT 06824",
+  "certificate": "16-C-0146",
+  "site_id": "001",
+  "site_name": "CONNECTICUT AUDUBON CENTER AT FAIRFIELD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2016",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

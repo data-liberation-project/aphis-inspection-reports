@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569407201",
+  "layout": "a",
+  "customer_id": "43198",
+  "customer_name": "Hadley Enterprises Llc",
+  "customer_addr": "965 Crescent Lane\nGrosse Pointe Woods, MI 48236",
+  "certificate": "34-B-0228",
+  "site_id": "001",
+  "site_name": "HADLEY ENTERPRISES LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAR-2019",
+  "animals_total": 1240,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Cricetulus griseus",
+      "common": "CHINESE HAMSTER"
+    },
+    {
+      "count": 900,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 100,
+      "scientific": "Phodopus campbelli",
+      "common": "CAMPBELL'S DESERT HAMSTER / RUSSIAN HAMSTER"
+    },
+    {
+      "count": 80,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 60,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    }
+  ]
+}

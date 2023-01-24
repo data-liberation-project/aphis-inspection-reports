@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568057673",
+  "layout": "a",
+  "customer_id": "333154",
+  "customer_name": "Sandra Gierisch",
+  "customer_addr": "161 Ben Denton Hollow\nKerrville, TX 78028",
+  "certificate": "74-B-0761",
+  "site_id": "001",
+  "site_name": "SANDRA TAYLOR",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JAN-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RINGTAIL LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    }
+  ]
+}

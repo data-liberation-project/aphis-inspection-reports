@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569452673",
+  "layout": "a",
+  "customer_id": "156",
+  "customer_name": "Harvard University",
+  "customer_addr": "1414 Massachusetts Avenue\nRoom 233\nCambridge, MA 02138",
+  "certificate": "14-R-0128",
+  "site_id": "001",
+  "site_name": "HARVARD UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "11-APR-2019",
+  "animals_total": 1959,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 70,
+      "scientific": "Peromyscus gossypinus",
+      "common": "COTTON DEERMOUSE"
+    },
+    {
+      "count": 76,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 1150,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    },
+    {
+      "count": 608,
+      "scientific": "Peromyscus polionotus",
+      "common": "OLDFIELD MOUSE"
+    }
+  ]
+}

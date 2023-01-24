@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000807331",
+  "layout": "b",
+  "customer_id": "1445",
+  "customer_name": "NESTLE PURINA GLOBAL RESOURCES INC.",
+  "customer_addr": "1 CHECKER BOARD SQUARE\nSAINT LOUIS, MO 63164",
+  "certificate": "43-R-0054",
+  "site_id": "001",
+  "site_name": "NESTLE PURINA GLOBAL RESOURCES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-AUG-2022",
+  "animals_total": 1072,
+  "species": [
+    {
+      "count": 441,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 592,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

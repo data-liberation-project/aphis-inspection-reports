@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569635041",
+  "layout": "a",
+  "customer_id": "8294",
+  "customer_name": "Los Angeles County",
+  "customer_addr": "1750 North Altadena Drive\nPasadena, CA 91107",
+  "certificate": "93-C-1148",
+  "site_id": "001",
+  "site_name": "LOS ANGELES COUNTY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2019",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus hemionus",
+      "common": "MULE DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "273141033520570",
+  "layout": "a",
+  "customer_id": "322509",
+  "customer_name": "Jerry Zebel",
+  "customer_addr": "23874 Nature Drive\nLebanon, MO 65536",
+  "certificate": "43-A-5643",
+  "site_id": "001",
+  "site_name": "Jerry Zebel",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-SEP-2014",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "insp_id": "43151613430919",
+  "layout": "a",
+  "customer_id": "1086",
+  "customer_name": "Colorado Serum Company",
+  "customer_addr": "P. O. Box 16428\nDenver, CO 80216",
+  "certificate": "84-B-0072",
+  "site_id": "001",
+  "site_name": "COLORADO SERUM COMPANY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-FEB-2015",
+  "animals_total": 571,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 279,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 77,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 185,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569028414",
+  "layout": "a",
+  "customer_id": "333596",
+  "customer_name": "Susie Williams",
+  "customer_addr": "1480 W. Elm Street\nLebanon, MO 65536",
+  "certificate": "43-C-0385",
+  "site_id": "001",
+  "site_name": "SUSIE WILLIAMS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2018",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000812354",
+  "layout": "b",
+  "customer_id": "3886",
+  "customer_name": "Austin Nature & Science Center",
+  "customer_addr": "301 NATURE CENTER DRIVE\nAUSTIN, TX 78746",
+  "certificate": "74-C-0230",
+  "site_id": "001",
+  "site_name": "Austin Nature & Science Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2022",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Hipposideros pomona",
+      "common": "LEAF-NOSED BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    }
+  ]
+}

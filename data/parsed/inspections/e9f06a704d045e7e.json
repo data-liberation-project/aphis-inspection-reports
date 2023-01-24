@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569021028",
+  "layout": "a",
+  "customer_id": "120",
+  "customer_name": "Wayne State University",
+  "customer_addr": "Director/Attending Veterinarian\nDivision Of Laboratory Animal Resources\n259 Mack Ave Room 5613\nDetroit, MI 48201",
+  "certificate": "34-R-0014",
+  "site_id": "002",
+  "site_name": "CS MOTT CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JAN-2018",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

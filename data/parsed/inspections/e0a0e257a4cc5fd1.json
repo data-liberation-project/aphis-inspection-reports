@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569262712",
+  "layout": "a",
+  "customer_id": "332834",
+  "customer_name": "Elanco Animal Health",
+  "customer_addr": "2500 Innovation Way\nGreenfield, IN 46140",
+  "certificate": "32-R-0053",
+  "site_id": "001",
+  "site_name": "ELANCO ANIMAL HEALTH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-SEP-2018",
+  "animals_total": 1820,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1485,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 219,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

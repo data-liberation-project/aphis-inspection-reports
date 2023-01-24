@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568750352",
+  "layout": "a",
+  "customer_id": "1399",
+  "customer_name": "M R I Global",
+  "customer_addr": "425 Volker Blvd\nKansas City, MO 64110",
+  "certificate": "43-R-0009",
+  "site_id": "001",
+  "site_name": "MRI Global",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-AUG-2017",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 62,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

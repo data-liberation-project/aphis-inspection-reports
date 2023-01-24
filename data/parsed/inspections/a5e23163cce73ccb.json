@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000786135",
+  "layout": "a",
+  "customer_id": "5177",
+  "customer_name": "Ruby Fur Farm Inc",
+  "customer_addr": "2564 200TH STREET\nNEW SHARON, IA 50207",
+  "certificate": "42-B-0052",
+  "site_id": "001",
+  "site_name": "RUBY FUR FARM, I N C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-APR-2022",
+  "animals_total": 1630,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 591,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 770,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 216,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

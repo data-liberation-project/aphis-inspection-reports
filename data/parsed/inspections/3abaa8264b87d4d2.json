@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082568536621",
+  "layout": "a",
+  "customer_id": "10174",
+  "customer_name": "Stew Leonards",
+  "customer_addr": "99 Federal Rd\nDanbury, CT 06811",
+  "certificate": "16-C-0085",
+  "site_id": "002",
+  "site_name": "STEW LEONARDS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUL-2017",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

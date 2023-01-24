@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000812583",
+  "layout": "b",
+  "customer_id": "5",
+  "customer_name": "WEBER STATE UNIVERSITY",
+  "customer_addr": "3850 Dixon Parkway Department 1027\nOGDEN, UT 84408",
+  "certificate": "87-R-0008",
+  "site_id": "001",
+  "site_name": "WEBER STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-AUG-2022",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Neotoma bryanti",
+      "common": "BRYANT'S WOODRAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Neotoma lepida",
+      "common": "DESERT WOODRAT"
+    }
+  ]
+}

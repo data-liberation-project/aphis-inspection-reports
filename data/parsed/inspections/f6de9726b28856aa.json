@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000819934",
+  "layout": "b",
+  "customer_id": "35148",
+  "customer_name": "The Wolf Conservation Center Inc",
+  "customer_addr": "PO Box 421\nSouth Salem, NY 10590",
+  "certificate": "21-C-0308",
+  "site_id": "001",
+  "site_name": "The Wolf Conservation Center Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-SEP-2022",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    }
+  ]
+}

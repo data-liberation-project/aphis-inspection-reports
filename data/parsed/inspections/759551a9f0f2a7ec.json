@@ -1,0 +1,45 @@
+{
+  "insp_id": "92151503130368",
+  "layout": "a",
+  "customer_id": "7727",
+  "customer_name": "Critter Barn",
+  "customer_addr": "9275 Adams Street\nZeeland, MI 49464",
+  "certificate": "34-C-0146",
+  "site_id": "001",
+  "site_name": "CRITTER BARN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-APR-2015",
+  "animals_total": 189,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 55,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 55,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 41,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

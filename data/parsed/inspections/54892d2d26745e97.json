@@ -1,0 +1,40 @@
+{
+  "insp_id": "265151549220931",
+  "layout": "a",
+  "customer_id": "640",
+  "customer_name": "Covance Laboratories Inc",
+  "customer_addr": "3301 Kinsman Boulevard\nMadison, WI 53704",
+  "certificate": "35-R-0030",
+  "site_id": "001",
+  "site_name": "COVANCE LABORATORIES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2015",
+  "animals_total": 3558,
+  "species": [
+    {
+      "count": 1059,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2240,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 19,
+      "scientific": "Muscardinus avellanarius",
+      "common": "HAZEL DORMOUSE"
+    },
+    {
+      "count": 185,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 55,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000755302",
+  "layout": "a",
+  "customer_id": "40697",
+  "customer_name": "BRADFORD SCHOOLS INC",
+  "customer_addr": "309 E MOREHEAD ST\nSUITE 220\nCHARLOTTE, NC 28202",
+  "certificate": "55-R-0130",
+  "site_id": "001",
+  "site_name": "VET TECH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-DEC-2021",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

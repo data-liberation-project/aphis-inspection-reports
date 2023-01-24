@@ -1,0 +1,45 @@
+{
+  "insp_id": "2016082569394418",
+  "layout": "a",
+  "customer_id": "1044",
+  "customer_name": "The University Of Arizona",
+  "customer_addr": "1501 N. Campbell Ave., Room 1126\nP O Box 245092\nTucson, AZ 85724",
+  "certificate": "86-R-0003",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY ANIMAL CARE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2019",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca radiata",
+      "common": "BONNET MACAQUE"
+    },
+    {
+      "count": 11,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 18,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

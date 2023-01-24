@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082568089877",
+  "layout": "a",
+  "customer_id": "10085",
+  "customer_name": "Michael Poggi",
+  "customer_addr": "11365 Earnest Blvd\nDavie, FL 33325",
+  "certificate": "58-B-0595",
+  "site_id": "001",
+  "site_name": "MICHAEL POGGI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2017",
+  "animals_total": 71,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 9,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    }
+  ]
+}

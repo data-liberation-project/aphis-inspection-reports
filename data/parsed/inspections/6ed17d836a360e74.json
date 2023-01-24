@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082567926006",
+  "layout": "a",
+  "customer_id": "895",
+  "customer_name": "Augusta University",
+  "customer_addr": "1120 15th St, Cj-1036\nAugusta, GA 30912",
+  "certificate": "57-R-0002",
+  "site_id": "002",
+  "site_name": "ANIMAL CARE FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-SEP-2016",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}

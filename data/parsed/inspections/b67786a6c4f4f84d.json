@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000807374",
+  "layout": "b",
+  "customer_id": "6003250",
+  "customer_name": "Raymond Miller",
+  "customer_addr": "4169 Audrain Rd 165\nClark, MO 65243",
+  "certificate": "43-A-6650",
+  "site_id": "001",
+  "site_name": "Raymond A Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-AUG-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

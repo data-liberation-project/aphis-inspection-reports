@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568945356",
+  "layout": "a",
+  "customer_id": "335310",
+  "customer_name": "Lori Watkins",
+  "customer_addr": "1111 Highway 355\nWaldo, AR 71770",
+  "certificate": "71-C-0181",
+  "site_id": "001",
+  "site_name": "Lori Watkins",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-NOV-2017",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

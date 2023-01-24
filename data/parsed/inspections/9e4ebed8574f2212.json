@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568271476",
+  "layout": "a",
+  "customer_id": "146",
+  "customer_name": "Mclean Hospital Corporation",
+  "customer_addr": "115 Mill Street\nBelmont, MA 02478",
+  "certificate": "14-R-0096",
+  "site_id": "001",
+  "site_name": "MC LEAN HOSPITAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-MAY-2017",
+  "animals_total": 126,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 40,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 68,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "12161425260742",
+  "layout": "a",
+  "customer_id": "19810",
+  "customer_name": "Globe University",
+  "customer_addr": "8089 Globe Drive 3rd Floor\nWoodbury, MN 55125",
+  "certificate": "41-R-0064",
+  "site_id": "005",
+  "site_name": "SIOUX FALLS SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2016",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

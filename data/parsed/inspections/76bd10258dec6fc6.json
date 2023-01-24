@@ -1,0 +1,35 @@
+{
+  "insp_id": "134141512563552",
+  "layout": "a",
+  "customer_id": "101",
+  "customer_name": "Pine Acres Rabbitry/Farm",
+  "customer_addr": "299 E. Main Street\nNorton, MA 02766",
+  "certificate": "14-R-0004",
+  "site_id": "001",
+  "site_name": "PINE ACRES RABBITRY/FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAY-2014",
+  "animals_total": 250,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 166,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 40,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

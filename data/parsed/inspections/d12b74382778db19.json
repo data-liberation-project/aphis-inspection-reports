@@ -1,0 +1,30 @@
+{
+  "insp_id": "163140848250989",
+  "layout": "a",
+  "customer_id": "18778",
+  "customer_name": "Larry Peters",
+  "customer_addr": "Pat Peters\n44372 West End Loop\nTaylor, NE 68879",
+  "certificate": "47-A-0444",
+  "site_id": "001",
+  "site_name": "LARRY & PAT PETERS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUN-2014",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

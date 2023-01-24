@@ -1,0 +1,30 @@
+{
+  "insp_id": "34160828250288",
+  "layout": "a",
+  "customer_id": "4864",
+  "customer_name": "Terranova Enterprises Inc.",
+  "customer_addr": "6962 S F M 148\nKaufman, TX 75142",
+  "certificate": "74-C-0199",
+  "site_id": "001",
+  "site_name": "Terranova Enterprises Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2016",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 15,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    }
+  ]
+}

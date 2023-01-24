@@ -1,0 +1,30 @@
+{
+  "insp_id": "77161218580889",
+  "layout": "a",
+  "customer_id": "9345",
+  "customer_name": "Steven Fox",
+  "customer_addr": "1892 S Chana Rd\nChana, IL 61015",
+  "certificate": "33-B-0328",
+  "site_id": "001",
+  "site_name": "STEVEN FOX",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2016",
+  "animals_total": 339,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 311,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Tamias sibiricus",
+      "common": "SIBERIAN CHIPMUNK"
+    }
+  ]
+}

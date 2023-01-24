@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000815068",
+  "layout": "b",
+  "customer_id": "503902",
+  "customer_name": "Daniel Gurley LLC",
+  "customer_addr": "2780 NW Hwy A\nLOWRY CITY, MO 64763",
+  "certificate": "43-A-6399",
+  "site_id": "001",
+  "site_name": "DANIEL GURLEY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2022",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

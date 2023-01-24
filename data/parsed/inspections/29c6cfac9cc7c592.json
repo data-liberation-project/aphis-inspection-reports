@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000799924",
+  "layout": "a",
+  "customer_id": "329767",
+  "customer_name": "Kimberly DeFisher",
+  "customer_addr": "5465 Pease Road\nWilliamson, NY 14589",
+  "certificate": "21-C-0461",
+  "site_id": "001",
+  "site_name": "Kimberly DeFisher",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JUN-2022",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 19,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
+}

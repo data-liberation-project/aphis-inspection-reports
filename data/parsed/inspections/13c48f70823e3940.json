@@ -1,0 +1,45 @@
+{
+  "insp_id": "209151449000808",
+  "layout": "a",
+  "customer_id": "16004",
+  "customer_name": "P N T Inc",
+  "customer_addr": "541 E Michigan Ave\nSaline, MI 48176",
+  "certificate": "34-B-0206",
+  "site_id": "001",
+  "site_name": "P N T INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JUL-2015",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 22,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

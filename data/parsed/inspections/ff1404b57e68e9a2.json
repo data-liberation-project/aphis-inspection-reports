@@ -1,0 +1,35 @@
+{
+  "insp_id": "68150929269781",
+  "layout": "a",
+  "customer_id": "11124",
+  "customer_name": "Snbl Usa Ltd",
+  "customer_addr": "6605 Merrill Creek Parkway\nEverett, WA 98203",
+  "certificate": "91-B-0078",
+  "site_id": "001",
+  "site_name": "SNBL USA LTD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-MAR-2015",
+  "animals_total": 2021,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1822,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 147,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

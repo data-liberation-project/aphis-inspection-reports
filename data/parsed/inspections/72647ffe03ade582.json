@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000800001",
+  "layout": "a",
+  "customer_id": "34444",
+  "customer_name": "LAVERN NOLT",
+  "customer_addr": "1276 140 ST\nCHARLES CITY, IA 50616",
+  "certificate": "42-A-1185",
+  "site_id": "001",
+  "site_name": "LAVERN NOLT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JUN-2022",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

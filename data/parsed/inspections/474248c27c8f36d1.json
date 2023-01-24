@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016090000790162",
+  "layout": "a",
+  "customer_id": "1415",
+  "customer_name": "BOEHRINGER INGELHEIM ANIMAL HEALTH USA INC",
+  "customer_addr": "6498 Jade Rd\nFulton, MO 65251",
+  "certificate": "43-R-0014",
+  "site_id": "001",
+  "site_name": "BOEHRINGER INGELHEIM VETMEDICA INC.",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "16-MAY-2022",
+  "animals_total": 777,
+  "species": [
+    {
+      "count": 232,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 439,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 106,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

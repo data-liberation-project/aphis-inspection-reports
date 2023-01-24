@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000769522",
+  "layout": "a",
+  "customer_id": "483",
+  "customer_name": "NORTHERN VIRGINIA COMMUNITY COLLEGE",
+  "customer_addr": "21200 Campus Drive, LA Building\nSTERLING, VA 20164",
+  "certificate": "21-R-0255",
+  "site_id": "001",
+  "site_name": "NORTHERN VIRGINIA COMMUNITY COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-FEB-2022",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

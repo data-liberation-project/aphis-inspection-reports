@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569117004",
+  "layout": "a",
+  "customer_id": "2553",
+  "customer_name": "City Of Elgin",
+  "customer_addr": "150 Dexter Court\nElgin, IL 60120",
+  "certificate": "33-C-0033",
+  "site_id": "001",
+  "site_name": "CITY OF ELGIN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-APR-2018",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 6,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 3,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
+}

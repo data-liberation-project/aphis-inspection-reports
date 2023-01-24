@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569554021",
+  "layout": "a",
+  "customer_id": "17654",
+  "customer_name": "Steve Boger",
+  "customer_addr": "P.O. Box 370\nKansas, OK 74347",
+  "certificate": "73-C-0213",
+  "site_id": "001",
+  "site_name": "STEVE BOGER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUL-2019",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 60,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

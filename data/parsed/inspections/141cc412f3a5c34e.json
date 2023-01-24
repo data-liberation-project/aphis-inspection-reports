@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000812655",
+  "layout": "b",
+  "customer_id": "505238",
+  "customer_name": "Acadiana Animal Aid",
+  "customer_addr": "142 Le Medicin Road\nCarencro, LA 70520",
+  "certificate": "",
+  "site_id": "002",
+  "site_name": "Acadiana Animal Aid",
+  "insp_type": "PRE-LICENSE INSPECTION",
+  "date": "02-SEP-2022",
+  "animals_total": 75,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 48,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

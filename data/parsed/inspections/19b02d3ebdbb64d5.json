@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569654791",
+  "layout": "a",
+  "customer_id": "504291",
+  "customer_name": "Felines Inc",
+  "customer_addr": "6379 N Paulina St\nChicago, IL 60660",
+  "certificate": "33-B-0440",
+  "site_id": "002",
+  "site_name": "FELINES AND CANINES RESCUE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-NOV-2019",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

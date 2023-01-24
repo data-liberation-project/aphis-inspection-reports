@@ -1,0 +1,25 @@
+{
+  "insp_id": "2016090000582982",
+  "layout": "a",
+  "customer_id": "324116",
+  "customer_name": "ANIMAL BLOOD BANK INC.",
+  "customer_addr": "P.O. Box 1118\nDIXON, CA 95620",
+  "certificate": "93-B-0232",
+  "site_id": "003",
+  "site_name": "ANIMAL BLOOD BANK, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-APR-2021",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 83,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

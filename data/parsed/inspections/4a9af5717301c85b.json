@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568091719",
+  "layout": "a",
+  "customer_id": "335373",
+  "customer_name": "W R W Inc",
+  "customer_addr": "5606 E. Conant St\nLong Beach, CA 90808",
+  "certificate": "93-C-1120",
+  "site_id": "001",
+  "site_name": "W R W INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-FEB-2017",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

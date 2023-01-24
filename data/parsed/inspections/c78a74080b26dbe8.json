@@ -1,0 +1,40 @@
+{
+  "insp_id": "322150945500587",
+  "layout": "a",
+  "customer_id": "119",
+  "customer_name": "Massachusetts Eye And Ear Infirmary",
+  "customer_addr": "243 Charles Street\nBoston, MA 02114",
+  "certificate": "14-R-0022",
+  "site_id": "001",
+  "site_name": "MASSACHUSETTS EYE & EAR INFIRMARY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-NOV-2015",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 16,
+      "scientific": "Chinchilla brevicaudata",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

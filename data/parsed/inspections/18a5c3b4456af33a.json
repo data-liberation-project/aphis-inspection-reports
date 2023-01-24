@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000826541",
+  "layout": "b",
+  "customer_id": "44845",
+  "customer_name": "Carol Stoner",
+  "customer_addr": "17496 County Road 180\nWHEATLAND, MO 65779",
+  "certificate": "43-A-5477",
+  "site_id": "001",
+  "site_name": "CAROL STONER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-NOV-2022",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

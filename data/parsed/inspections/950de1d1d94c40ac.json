@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016090000633550",
+  "layout": "a",
+  "customer_id": "1045",
+  "customer_name": "NORTHERN ARIZONA UNIVERSITY",
+  "customer_addr": "Box 5640\nFLAGSTAFF, AZ 86011",
+  "certificate": "86-R-0005",
+  "site_id": "001",
+  "site_name": "BIOLOGICAL SCIENCES ANNEX",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUN-2021",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    },
+    {
+      "count": 30,
+      "scientific": "Reithrodontomys megalotis",
+      "common": "WESTERN HARVEST MOUSE"
+    },
+    {
+      "count": 22,
+      "scientific": "Zapus hudsonius",
+      "common": "MEADOW JUMPING MOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Peromyscus truei",
+      "common": "PINYON MOUSE"
+    }
+  ]
+}

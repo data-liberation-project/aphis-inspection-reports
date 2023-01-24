@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016090000526056",
+  "layout": "a",
+  "customer_id": "27022",
+  "customer_name": "TEE BAR CORP",
+  "customer_addr": "600 RTE 44-55\nHIGHLAND, NY 12528",
+  "certificate": "21-C-0326",
+  "site_id": "001",
+  "site_name": "TEE BAR CORP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-FEB-2021",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
+}

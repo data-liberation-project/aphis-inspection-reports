@@ -1,0 +1,35 @@
+{
+  "insp_id": "316151114090140",
+  "layout": "a",
+  "customer_id": "325521",
+  "customer_name": "Barnyard Discoveries",
+  "customer_addr": "9932 West Grange Hall Road\nPrinceville, IL 61559",
+  "certificate": "33-C-0409",
+  "site_id": "001",
+  "site_name": "BARNYARD DISCOVERIES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-NOV-2015",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

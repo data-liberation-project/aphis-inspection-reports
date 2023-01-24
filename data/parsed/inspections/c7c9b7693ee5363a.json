@@ -1,0 +1,40 @@
+{
+  "insp_id": "154140627543308",
+  "layout": "a",
+  "customer_id": "286",
+  "customer_name": "Glaxo Smith Kline",
+  "customer_addr": "1250 South Collegeville Rd. Up3400\nCollegeville, PA 19426",
+  "certificate": "23-R-0012",
+  "site_id": "001",
+  "site_name": "GLAXO SMITH KLINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-JUN-2014",
+  "animals_total": 318,
+  "species": [
+    {
+      "count": 86,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 178,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    }
+  ]
+}

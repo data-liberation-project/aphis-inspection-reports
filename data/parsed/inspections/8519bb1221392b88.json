@@ -1,0 +1,30 @@
+{
+  "insp_id": "2016082569610752",
+  "layout": "a",
+  "customer_id": "5103",
+  "customer_name": "City Of Lincoln",
+  "customer_addr": "3201 S Coddington\nLincoln, NE 68522",
+  "certificate": "47-C-0002",
+  "site_id": "001",
+  "site_name": "CITY OF LINCOLN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-SEP-2019",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Cervus elaphus canadensis",
+      "common": "ELK"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
+}

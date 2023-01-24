@@ -1,0 +1,30 @@
+{
+  "insp_id": "117151346090339",
+  "layout": "a",
+  "customer_id": "3951",
+  "customer_name": "City Of Ada Zoo",
+  "customer_addr": "231 S Townsend\nAda, OK 74820",
+  "certificate": "73-C-0014",
+  "site_id": "001",
+  "site_name": "CITY OF ADA ZOO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-APR-2015",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Dama mesopotamica",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

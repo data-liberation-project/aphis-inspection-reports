@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000831719",
+  "layout": "b",
+  "customer_id": "5026",
+  "customer_name": "Carla Pederson",
+  "customer_addr": "28820 443rd Avenue\nFreeman, SD 57029",
+  "certificate": "46-A-0037",
+  "site_id": "001",
+  "site_name": "Carla Pederson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-DEC-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

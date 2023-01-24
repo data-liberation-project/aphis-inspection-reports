@@ -1,0 +1,25 @@
+{
+  "insp_id": "197152316540441",
+  "layout": "a",
+  "customer_id": "2453",
+  "customer_name": "David Feimster",
+  "customer_addr": "10 Gaskin Lane\nJackson, NJ 08527",
+  "certificate": "22-C-0031",
+  "site_id": "TRA1",
+  "site_name": "WHITE UNIT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2015",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

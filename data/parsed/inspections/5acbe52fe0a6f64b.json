@@ -1,0 +1,35 @@
+{
+  "insp_id": "220141223240657",
+  "layout": "a",
+  "customer_id": "13155",
+  "customer_name": "Frerichs Dairy Inc.",
+  "customer_addr": "3117 Hwy 159\nLa Grange, TX 78945",
+  "certificate": "74-C-0969",
+  "site_id": "001",
+  "site_name": "Frerichs Dairy, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-AUG-2014",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

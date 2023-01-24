@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082569861527",
+  "layout": "a",
+  "customer_id": "4578",
+  "customer_name": "Nina Jacobs",
+  "customer_addr": "16421 Decal Pl\nNew Cambria, MO 63558",
+  "certificate": "43-B-0409",
+  "site_id": "001",
+  "site_name": "NINA JACOBS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JUL-2020",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 15,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000804629",
+  "layout": "b",
+  "customer_id": "3715",
+  "customer_name": "Grizzly and Wolf Discovery Center Inc.",
+  "customer_addr": "PO Box 996\nWest Yellowstone, MT 59758",
+  "certificate": "81-C-0026",
+  "site_id": "001",
+  "site_name": "Grizzly Discovery Center, Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JUL-2022",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 25,
+      "scientific": "Spermophilus armatus",
+      "common": "UINTA GROUND SQUIRREL"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 5,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    }
+  ]
+}

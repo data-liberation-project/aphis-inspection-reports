@@ -1,0 +1,40 @@
+{
+  "insp_id": "165161921199636",
+  "layout": "a",
+  "customer_id": "1551",
+  "customer_name": "University Of Nebraska Medical Center",
+  "customer_addr": "985810 Nebraska Medical Center\nOmaha, NE 68198",
+  "certificate": "47-R-0018",
+  "site_id": "001",
+  "site_name": "NEBRASKA MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUN-2016",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Cricetus cricetus",
+      "common": "EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 20,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

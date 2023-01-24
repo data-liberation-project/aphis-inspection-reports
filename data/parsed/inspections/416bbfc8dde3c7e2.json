@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569126171",
+  "layout": "a",
+  "customer_id": "6283",
+  "customer_name": "Richard Muench",
+  "customer_addr": "1119 Periwinkle Way\nSanibel, FL 33957",
+  "certificate": "58-B-0645",
+  "site_id": "001",
+  "site_name": "RICHARD MUENCH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-APR-2018",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 10,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 8,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

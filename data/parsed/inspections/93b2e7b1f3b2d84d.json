@@ -1,0 +1,35 @@
+{
+  "insp_id": "2016082568901047",
+  "layout": "a",
+  "customer_id": "10776",
+  "customer_name": "Science Museum Of Long Island",
+  "customer_addr": "1526 N Plandome Rd\nPlandome, NY 11030",
+  "certificate": "21-C-0222",
+  "site_id": "001",
+  "site_name": "SCIENCE MUSEUM OF LONG ISLAND",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-OCT-2017",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

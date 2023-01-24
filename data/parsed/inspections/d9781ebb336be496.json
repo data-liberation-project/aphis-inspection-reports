@@ -1,0 +1,40 @@
+{
+  "insp_id": "273152039570678",
+  "layout": "a",
+  "customer_id": "26563",
+  "customer_name": "Michael E Fox",
+  "customer_addr": "133 Virgina Pine Lane\nLexington, SC 29073",
+  "certificate": "56-C-0161",
+  "site_id": "001",
+  "site_name": "FOX TREE FARM INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-SEP-2015",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

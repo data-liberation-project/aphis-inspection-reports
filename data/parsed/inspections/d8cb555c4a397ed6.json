@@ -1,0 +1,40 @@
+{
+  "insp_id": "222150836060940",
+  "layout": "a",
+  "customer_id": "44028",
+  "customer_name": "Ed Robinson",
+  "customer_addr": "Jennifer Robinson\n27340 Highway 6\nHempstead, TX 77445",
+  "certificate": "74-C-0828",
+  "site_id": "002",
+  "site_name": "Ed Robinson, Jennifer Robinson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-AUG-2015",
+  "animals_total": 94,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 40,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Ovis dalli",
+      "common": "WHITE SHEEP"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

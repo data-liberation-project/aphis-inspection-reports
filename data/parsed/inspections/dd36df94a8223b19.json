@@ -1,0 +1,35 @@
+{
+  "insp_id": "218161024280758",
+  "layout": "a",
+  "customer_id": "176",
+  "customer_name": "Princeton University",
+  "customer_addr": "P O Box 36\nPrinceton, NJ 08544",
+  "certificate": "22-R-0022",
+  "site_id": "001",
+  "site_name": "PRINCETON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-AUG-2016",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE *MALE"
+    }
+  ]
+}

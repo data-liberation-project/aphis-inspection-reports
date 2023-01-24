@@ -1,0 +1,40 @@
+{
+  "insp_id": "2016082569017144",
+  "layout": "a",
+  "customer_id": "18030",
+  "customer_name": "Kowalski Pet Company",
+  "customer_addr": "6701 South Division Ave\nGrand Rapids, MI 49548",
+  "certificate": "34-B-0222",
+  "site_id": "001",
+  "site_name": "KOWALSKI PET COMPANY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JAN-2018",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH TYPE)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}
