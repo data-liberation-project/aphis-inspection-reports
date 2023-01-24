@@ -39,7 +39,7 @@ lint:
 	flake8 scripts tests
 
 mypy:
-	mypy scripts tests --ignore-missing-imports
+	mypy scripts tests --ignore-missing-imports --strict
 
 tests:
 	pytest tests -sv --cov
