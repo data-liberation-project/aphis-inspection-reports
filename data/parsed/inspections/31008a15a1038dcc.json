@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000834962",
+  "layout": "b",
+  "customer_id": "1072",
+  "customer_name": "LOVELACE BIOMEDICAL RESEARCH INSTITUTE",
+  "customer_addr": "2425 RIDGECREST S E\nALBUQUERQUE, NM 87108",
+  "certificate": "85-R-0003",
+  "site_id": "001",
+  "site_name": "LOVELACE BIOMEDICAL RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-DEC-2022",
+  "animals_total": 934,
+  "species": [
+    {
+      "count": 333,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 423,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 61,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 111,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
