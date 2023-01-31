@@ -15,6 +15,7 @@ This repository aims to collect all of the following from the US Department of A
 
 - [All fetched reports, searchable via DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
 - [All data fetched from web and parsed from PDFs](data/combined/)
+- [An RSS feed of the latest inspections this pipeline has discovered](data/combined/latest-inspections.rss)
 - [Just the metadata fetched from APHIS portal](data/fetched/inspections.csv)
 - [Just the data parsed from the PDFs](data/parsed/inspections.json)
 
