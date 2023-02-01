@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000835062",
+  "layout": "b",
+  "customer_id": "6014081",
+  "customer_name": "Martha Troyer",
+  "customer_addr": "63635 Waking Acres Rd\nCalifornia, MO 65018",
+  "certificate": "43-A-6721",
+  "site_id": "001",
+  "site_name": "Martha Troyer",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JAN-2023",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

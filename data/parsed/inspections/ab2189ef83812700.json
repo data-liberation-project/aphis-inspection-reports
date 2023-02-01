@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000835048",
+  "layout": "b",
+  "customer_id": "600263",
+  "customer_name": "David N Stoll",
+  "customer_addr": "7100 E 800 N\nODON, IN 47562",
+  "certificate": "32-A-0881",
+  "site_id": "001",
+  "site_name": "David N Stoll",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-JAN-2023",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

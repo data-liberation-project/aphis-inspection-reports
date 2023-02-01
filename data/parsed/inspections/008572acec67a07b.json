@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000835054",
+  "layout": "b",
+  "customer_id": "329867",
+  "customer_name": "RINER & ASSOCIATES INC.",
+  "customer_addr": "Route 1 Box 435\nNOWATA, OK 74048",
+  "certificate": "73-R-0118",
+  "site_id": "001",
+  "site_name": "JOHN L. RINER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JAN-2023",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 141,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

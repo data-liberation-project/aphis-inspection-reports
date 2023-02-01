@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000835051",
+  "layout": "b",
+  "customer_id": "6003694",
+  "customer_name": "Joe R. Adair Outdoor Education Center",
+  "customer_addr": "110 Scout Creek Ct\nLaurens, SC 29360",
+  "certificate": "56-C-0276",
+  "site_id": "001",
+  "site_name": "Joe R. Adair Outdoor Education Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JAN-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}
