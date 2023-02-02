@@ -67,11 +67,6 @@ jobs:
         run: git push
         shell: bash
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: data/combined
-
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
