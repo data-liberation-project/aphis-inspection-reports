@@ -67,21 +67,6 @@ jobs:
         run: git push
         shell: bash
 
-  deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
-    needs: scrape
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        name: Deploy data to GitHub Pages
-        uses: actions/deploy-pages@v1.2.3
-
   mirror:
     name: Mirror
     runs-on: ubuntu-latest
