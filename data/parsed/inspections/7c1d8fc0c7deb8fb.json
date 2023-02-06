@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000836068",
+  "layout": "b",
+  "customer_id": "6013454",
+  "customer_name": "Pet Barn",
+  "customer_addr": "803 W Salisbury St\nAsheboro, NC 27203",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Pet barn",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JAN-2023",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
+}
