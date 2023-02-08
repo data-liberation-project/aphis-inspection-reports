@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000838997",
+  "layout": "b",
+  "customer_id": "41095",
+  "customer_name": "Kathy Russell",
+  "customer_addr": "16592 W 227th Ave\nEagleville, MO 64442",
+  "certificate": "43-B-3624",
+  "site_id": "001",
+  "site_name": "KATHY RUSSELL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JAN-2023",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 28,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

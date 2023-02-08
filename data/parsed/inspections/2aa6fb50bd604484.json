@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000838013",
+  "layout": "b",
+  "customer_id": "324743",
+  "customer_name": "Jack Sexton",
+  "customer_addr": "2779 Benton Ave.\nMT PLEASANT, IA 52641",
+  "certificate": "42-A-1436",
+  "site_id": "001",
+  "site_name": "Jack Sexton",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JAN-2023",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
