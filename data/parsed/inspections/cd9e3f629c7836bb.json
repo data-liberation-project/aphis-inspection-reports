@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000839941",
+  "layout": "b",
+  "customer_id": "166",
+  "customer_name": "Trustees Of Dartmouth College",
+  "customer_addr": "6004 PARKHURST HALL\nHANOVER, NH 03755",
+  "certificate": "12-R-0001",
+  "site_id": "001",
+  "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2023",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 129,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
