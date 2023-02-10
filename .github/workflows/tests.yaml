@@ -23,12 +23,10 @@ jobs:
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pip install -r requirements.txt
-        shell: bash
 
       - id: lint
         name: Lint Python code
         run: make lint
-        shell: bash
 
   mypy-python:
     name: Static-types check
@@ -47,12 +45,10 @@ jobs:
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pip install -r requirements.txt
-        shell: bash
 
       - id: mypy
         name: Run mypy
         run: make mypy
-        shell: bash
 
   test-python:
     name: Test Python code
@@ -72,9 +68,7 @@ jobs:
       - id: install-python-dependencies
         name: Install Python dependencies
         run: pip install -r requirements.txt
-        shell: bash
 
       - id: test
         name: Run tests
         run: make tests
-        shell: bash
