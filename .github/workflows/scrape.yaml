@@ -23,10 +23,6 @@ jobs:
         run: pip install -r requirements.txt
         shell: bash
 
-      - name: Fetch inspection list
-        run: python scripts/00-fetch-inspection-list.py
-        shell: bash
-
       - name: Refresh inspection list
         run: python scripts/01-refresh-inspection-list.py
         shell: bash

@@ -1,0 +1,40 @@
+name: "Fully refetch inspections list"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * 7"
+
+jobs:
+  scrape:
+    name: Clear
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+        shell: bash
+
+      - name: Clear data/fetched/inspections-by-letter/
+        run: rm data/fetched/inspections-by-letter/*.csv
+        shell: bash
+
+      - name: Fetch inspection list
+        run: python scripts/00-fetch-inspection-list.py
+        shell: bash
+
+      - name: Config git
+        run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
+        shell: bash
+
+      - name: Commit changes
+        run: git add data && (git diff --cached --quiet || git commit -m "Fully refetch inspections list")
+        shell: bash
