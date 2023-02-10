@@ -16,10 +16,10 @@ def main() -> None:
 
     # Parse dates
     for r in fetched_data:
-        r["web_discovered"] = datetime.fromisoformat(r["web_discovered"])
+        r["discovered"] = datetime.fromisoformat(r["discovered"])
 
     # Sort reverse chron
-    sorted_data = sorted(fetched_data, key=lambda x: x["web_discovered"], reverse=True)
+    sorted_data = sorted(fetched_data, key=lambda x: x["discovered"], reverse=True)
 
     # Slice the most recent 50 for inclusion in our feed
     feed_data = sorted_data[:50]
@@ -35,7 +35,7 @@ def main() -> None:
     # Add our feed entries
     for row in reversed(feed_data):
         fe = fg.add_entry()
-        fe.id(row["web_hash_id"])
+        fe.id(row["hash_id"])
         fe.title(f"{row['web_legalName']} ({row['web_inspectionDate']})")
         fe.link(href=row["doccloud_url"])
         fe.description(
@@ -43,7 +43,7 @@ def main() -> None:
 Not critical: {row['web_nonCritical']}
 Teachable moments: {row['web_teachableMoments']}
 
-Discovered on {row['web_discovered']}
+Discovered on {row['discovered']}
 """
         )
 

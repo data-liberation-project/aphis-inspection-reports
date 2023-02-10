@@ -10,22 +10,26 @@ DATA_DIR = THIS_DIR.parent / "data"
 
 
 def make_converter(
-    prefix: str, to_skip: list[str]
+    prefix: str, to_skip: list[str], prefix_exceptions: list[str]
 ) -> typing.Callable[[dict[str, typing.Any]], dict[str, typing.Any]]:
     def converter(orig: dict[str, typing.Any]) -> dict[str, typing.Any]:
         return {
-            f"{prefix}_{key}": val for key, val in orig.items() if key not in to_skip
+            (key if key in prefix_exceptions else f"{prefix}_{key}"): val
+            for key, val in orig.items()
+            if key not in to_skip
         }
 
     return converter
 
 
 convert_fetched = make_converter(
-    "web", ["inspectionDateString"]  # Duplicative of `inspectionDate`
+    "web",
+    ["inspectionDateString"],  # Duplicative of `inspectionDate`
+    ["hash_id", "discovered"],  # Derived columns
 )
 
-convert_parsed = make_converter("pdf", ["species"])
-convert_doccloud = make_converter("doccloud", [])
+convert_parsed = make_converter("pdf", ["species"], [])
+convert_doccloud = make_converter("doccloud", [], [])
 
 
 def main() -> None:
