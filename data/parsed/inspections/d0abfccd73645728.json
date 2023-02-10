@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000840017",
+  "layout": "b",
+  "customer_id": "3597",
+  "customer_name": "Wonders Of Wildlife Inc.",
+  "customer_addr": "P.O. Box 5463\nFullerton, CA 92838",
+  "certificate": "93-C-0227",
+  "site_id": "001",
+  "site_name": "WONDERS OF WILDLIFE, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JAN-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
