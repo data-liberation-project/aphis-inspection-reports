@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000836033",
+  "layout": "b",
+  "customer_id": "6013814",
+  "customer_name": "Kevin Taylor",
+  "customer_addr": "7918 Morningsun Dr\nMountain Grove, MO 65711",
+  "certificate": "43-A-6746",
+  "site_id": "001",
+  "site_name": "Kevin Taylor",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JAN-2023",
+  "animals_total": 152,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 84,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

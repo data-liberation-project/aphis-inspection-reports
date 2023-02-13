@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000837017",
+  "layout": "b",
+  "customer_id": "4577",
+  "customer_name": "Brenda Johnson",
+  "customer_addr": "18325 State Hwy H\nGlenwood, MO 63541",
+  "certificate": "43-A-0042",
+  "site_id": "001",
+  "site_name": "BRENDA L. JOHNSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JAN-2023",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 64,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
