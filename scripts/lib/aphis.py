@@ -30,7 +30,7 @@ HEADERS = {
 
 AURA_CONTEXT = {
     "mode": "PROD",
-    "fwuid": "Vo_clYDmAijdWOzW3-3Mow",
+    "fwuid": "Yf79GSf0tCGqGtchnyT8-Q",
     "app": "siteforce:communityApp",
     "loaded": {
         ("APPLICATION@markup://" "siteforce:communityApp"): "11hSeJMz5y2BtbPLHOZFww",
