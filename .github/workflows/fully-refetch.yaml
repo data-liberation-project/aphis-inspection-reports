@@ -7,7 +7,7 @@ on:
 
 jobs:
   scrape:
-    name: Clear and refetch four oldest by-letter files
+    name: Clear and refetch some by-letter files
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -22,8 +22,24 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Delete oldest files from inspections-by-letter
-        run: 'git ls-tree -r --name-only HEAD data/fetched/inspections-by-letter | while read filename; do echo "$(git log -1 --format="%ad" --date=iso -- "$filename") $filename"; done | sort | grep -o "data/.*" | head -n 4 | xargs rm'
+      - name: Delete files from inspections-by-letter based on day of week
+        run: >
+          cd data/fetched/inspections-by-letter/;
+          if [ $(date +%u) -eq 1 ];
+            then rm a.csv b.csv c.csv;
+          elif [ $(date +%u) -eq 2 ];
+            then rm d.csv e.csv f.csv;
+          elif [ $(date +%u) -eq 3 ];
+            then rm g.csv h.csv i.csv j.csv;
+          elif [ $(date +%u) -eq 4 ];
+            then rm k.csv l.csv m.csv;
+          elif [ $(date +%u) -eq 5 ];
+            then rm n.csv o.csv p.csv;
+          elif [ $(date +%u) -eq 6 ];
+            then rm q.csv r.csv s.csv;
+          elif [ $(date +%u) -eq 7 ];
+            then rm t.csv u.csv v.csv w.csv x.csv y.csv z.csv;
+          fi;
 
       - name: Fetch inspection list
         run: python scripts/00-fetch-inspection-list.py
