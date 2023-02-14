@@ -1,4 +1,4 @@
-name: "Fully refetch inspections list"
+name: "Refetch inspections list by letter"
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   scrape:
-    name: Clear and refetch
+    name: Clear and refetch four oldest by-letter files
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
