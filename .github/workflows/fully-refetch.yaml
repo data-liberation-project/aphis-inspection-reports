@@ -3,11 +3,11 @@ name: "Fully refetch inspections list"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * 0"
+    - cron: "0 12 * * *"
 
 jobs:
   scrape:
-    name: Clear
+    name: Clear and refetch
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -22,8 +22,8 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Clear data/fetched/inspections-by-letter/
-        run: rm data/fetched/inspections-by-letter/*.csv
+      - name: Delete oldest files from inspections-by-letter
+        run: 'git ls-tree -r --name-only HEAD data/fetched/inspections-by-letter | while read filename; do echo "$(git log -1 --format="%ad" --date=iso -- "$filename") $filename"; done | sort | grep -o "data/.*" | head -n 4 | xargs rm'
 
       - name: Fetch inspection list
         run: python scripts/00-fetch-inspection-list.py
@@ -33,3 +33,6 @@ jobs:
 
       - name: Commit changes
         run: git add data && (git diff --cached --quiet || git commit -m "Fully refetch inspections list")
+
+      - name: Push changes
+        run: git push
