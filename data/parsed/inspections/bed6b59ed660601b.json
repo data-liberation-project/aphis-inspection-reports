@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000840063",
+  "layout": "b",
+  "customer_id": "7854",
+  "customer_name": "Antibodies Inc.",
+  "customer_addr": "P. O. Box 1560\nDavis, CA 95617",
+  "certificate": "93-R-0158",
+  "site_id": "001",
+  "site_name": "ANTIBODIES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JAN-2023",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
