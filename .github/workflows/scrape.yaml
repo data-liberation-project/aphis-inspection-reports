@@ -69,4 +69,4 @@ jobs:
         with:
           api-key: ${{ secrets.BLN_API_KEY }}
           project-id: ${{ secrets.BLN_PROJECT_ID }}
-          path: ./data/fetched/inspections.csv
+          path: ./data/combined/
