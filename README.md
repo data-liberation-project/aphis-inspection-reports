@@ -103,6 +103,10 @@ Column|Description|Example
 - Run `pip install -r requirements.txt` to install the necessary Python libraries
 - Consult the [`Makefile`](Makefile) to understand the available `make` commands
 
+## Licensing
+
+This repository's code is available under the [MIT License terms](https://opensource.org/license/mit/). The raw data files (in `data/fetched`) and PDFs are public domain. All other data files are available under Creative Commons' [CC BY-SA 4.0 license terms](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Questions?
 
 File an issue in this repository or email Jeremy Singer-Vine at `jsvine@gmail.com`.
