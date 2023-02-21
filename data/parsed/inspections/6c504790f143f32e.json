@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000842572",
+  "layout": "b",
+  "customer_id": "6012585",
+  "customer_name": "Dustin Bickerstaff Joshua Taylor",
+  "customer_addr": "972 S Highland Ave\nJackson, TN 38301",
+  "certificate": "63-B-0200",
+  "site_id": "001",
+  "site_name": "Dustin Bickerstaff Joshua Taylor",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Graphiurus murinus",
+      "common": "WOODLAND DORMOUSE"
+    }
+  ]
+}

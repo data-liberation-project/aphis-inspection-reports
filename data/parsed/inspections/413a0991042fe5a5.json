@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000842563",
+  "layout": "b",
+  "customer_id": "321862",
+  "customer_name": "The Bear Store",
+  "customer_addr": "6787 M-65\nHale, MI 48739",
+  "certificate": "34-C-0305",
+  "site_id": "001",
+  "site_name": "The Bear Store",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    }
+  ]
+}
