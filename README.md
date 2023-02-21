@@ -29,7 +29,7 @@ All of the data collected and processed are available in this repository, some m
 
 - The data from all inspections, available as [one core CSV spreadsheet](data/combined/inspections.csv) plus [another sheet listing species-level counts of animals inspected, per inspection](data/combined/inspections-species.csv). See "Data Dictionary" below for details.
 - All inspection report PDFs, available [directly](pdfs/inspections/) and as [a searchable project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
-- An [RSS feed](data/combined/latest-inspections.rss) listing the inspections we've most recently *discovered*, and [another](data/combined/latest-critical-inspections.rss) limited to inspections with critical citations
+- An [RSS feed](https://data-liberation-project.github.io/aphis-inspection-reports/latest-inspections.rss) listing the inspections we've most recently *discovered*, and [another](https://data-liberation-project.github.io/aphis-inspection-reports/latest-critical-inspections.rss) limited to inspections with critical citations
 
 
 ## Data Dictionary
