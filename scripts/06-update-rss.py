@@ -1,7 +1,7 @@
 import csv
+import typing
 from datetime import datetime
 from pathlib import Path
-import typing
 
 from feedgen.entry import FeedEntry
 from feedgen.feed import FeedGenerator
