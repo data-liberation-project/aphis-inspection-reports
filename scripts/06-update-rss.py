@@ -23,7 +23,9 @@ def main() -> None:
     # Create our full feed
     full_feed = FeedGenerator()
     full_feed.title("Lastest APHIS inpections")
-    full_feed.link(href="https://github.com/data-liberation-project/aphis-inspection-reports")
+    full_feed.link(
+        href="https://github.com/data-liberation-project/aphis-inspection-reports"
+    )
     full_feed.description(
         "The latest inspections posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service"  # noqa: E501
     )
@@ -36,19 +38,23 @@ def main() -> None:
     # Create our critical feed
     critical_feed = FeedGenerator()
     critical_feed.title("Lastest critical APHIS inpections")
-    critical_feed.link(href="https://github.com/data-liberation-project/aphis-inspection-reports")
+    critical_feed.link(
+        href="https://github.com/data-liberation-project/aphis-inspection-reports"
+    )
     critical_feed.description(
         "The latest inspections with critical violations posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service"  # noqa: E501
     )
     # Only add critical inspections to the critical feed
-    critical_data = [d for d in sorted_data if int(d['web_critical']) > 0]
+    critical_data = [d for d in sorted_data if int(d["web_critical"]) > 0]
     for row in reversed(critical_data[:50]):
         critical_entry = critical_feed.add_entry()
         _create_entry(critical_entry, row)
 
     # Write it out
     full_feed.rss_file(DATA_DIR / "combined" / "latest-inspections.rss", pretty=True)
-    critical_feed.rss_file(DATA_DIR / "combined" / "latest-critical-inspections.rss", pretty=True)
+    critical_feed.rss_file(
+        DATA_DIR / "combined" / "latest-critical-inspections.rss", pretty=True
+    )
 
 
 def _create_entry(entry, data):
