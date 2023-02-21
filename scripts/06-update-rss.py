@@ -1,6 +1,7 @@
 import csv
 from datetime import datetime
 from pathlib import Path
+import typing
 
 from feedgen.entry import FeedEntry
 from feedgen.feed import FeedGenerator
@@ -58,7 +59,7 @@ def main() -> None:
     )
 
 
-def _create_entry(entry: FeedEntry, data: dict):
+def _create_entry(entry: FeedEntry, data: typing.Dict[typing.Any, typing.Any]) -> None:
     entry.id(data["hash_id"])
     entry.title(f"{data['web_legalName']} ({data['web_inspectionDate']})")
     entry.link(href=data["doccloud_url"])
