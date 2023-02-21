@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 
 from feedgen.feed import FeedGenerator
+from feedgen.entry import FeedEntry
 
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
@@ -57,7 +58,7 @@ def main() -> None:
     )
 
 
-def _create_entry(entry, data):
+def _create_entry(entry: FeedEntry, data: dict):
     entry.id(data["hash_id"])
     entry.title(f"{data['web_legalName']} ({data['web_inspectionDate']})")
     entry.link(href=data["doccloud_url"])
