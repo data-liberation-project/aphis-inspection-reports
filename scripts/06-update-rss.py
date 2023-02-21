@@ -2,8 +2,8 @@ import csv
 from datetime import datetime
 from pathlib import Path
 
-from feedgen.feed import FeedGenerator
 from feedgen.entry import FeedEntry
+from feedgen.feed import FeedGenerator
 
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
