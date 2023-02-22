@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000842646",
+  "layout": "b",
+  "customer_id": "2066",
+  "customer_name": "Storybook Land Inc",
+  "customer_addr": "6415 Black Horse Pike\nEgg Harbor Township, NJ 08234",
+  "certificate": "22-C-0024",
+  "site_id": "001",
+  "site_name": "Storybook Land Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2023",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

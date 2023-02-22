@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000842647",
+  "layout": "b",
+  "customer_id": "331456",
+  "customer_name": "Aqua Quest LLC",
+  "customer_addr": "45 Victoria Lane\nOcean View, NJ 08230",
+  "certificate": "22-C-0160",
+  "site_id": "001",
+  "site_name": "Seaport Aquarium",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2023",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua narica",
+      "common": "WHITE-NOSED COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}
