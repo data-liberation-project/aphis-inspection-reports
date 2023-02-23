@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842660",
+  "layout": "b",
+  "customer_id": "501508",
+  "customer_name": "ROBERT IS HERE INC",
+  "customer_addr": "19200 SW 344TH ST\nHOMESTEAD, FL 33034",
+  "certificate": "58-C-1202",
+  "site_id": "001",
+  "site_name": "ROBERT IS HERE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2023",
+  "animals_total": 19,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

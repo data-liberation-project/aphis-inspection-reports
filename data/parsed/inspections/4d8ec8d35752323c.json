@@ -1,0 +1,45 @@
+{
+  "insp_id": "INS-0000842595",
+  "layout": "b",
+  "customer_id": "6009870",
+  "customer_name": "Rolando Garcia",
+  "customer_addr": "525 County Road 375\nSan Antonio, TX 78253",
+  "certificate": "74-C-1131",
+  "site_id": "001",
+  "site_name": "Rolando Garcia",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Aotus azarae",
+      "common": "AZARAS NIGHT MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    }
+  ]
+}
