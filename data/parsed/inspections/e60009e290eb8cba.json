@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842705",
+  "layout": "b",
+  "customer_id": "14434",
+  "customer_name": "Donna Taber",
+  "customer_addr": "375 C R 851\nWASOLA, MO 65773",
+  "certificate": "43-A-5497",
+  "site_id": "001",
+  "site_name": "DONNA TABER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JAN-2023",
+  "animals_total": 122,
+  "species": [
+    {
+      "count": 89,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

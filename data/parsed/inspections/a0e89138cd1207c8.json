@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000842693",
+  "layout": "b",
+  "customer_id": "601115",
+  "customer_name": "Tropic Cove LLC",
+  "customer_addr": "1213 Rice Street\nPetoskey, MI 49770",
+  "certificate": "34-B-0240",
+  "site_id": "001",
+  "site_name": "Tropic Cove LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JAN-2023",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

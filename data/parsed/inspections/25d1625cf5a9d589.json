@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842709",
+  "layout": "b",
+  "customer_id": "42240",
+  "customer_name": "Ellen Roberts",
+  "customer_addr": "1261 STATE ROUTE 14\nWEST PLAINS, MO 65775",
+  "certificate": "43-A-5445",
+  "site_id": "001",
+  "site_name": "ELLEN ROBERTS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JAN-2023",
+  "animals_total": 193,
+  "species": [
+    {
+      "count": 128,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 65,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
