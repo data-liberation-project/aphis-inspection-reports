@@ -16,6 +16,8 @@ urllib3.disable_warnings()
 
 AURA_URL = "https://efile.aphis.usda.gov/PublicSearchTool/s/sfsites/aura"
 
+FWUID = "D7zdsGvlxZfFP0e3F1H_2A"
+
 HEADERS = {
     "User-Agent": "The Data Liberation Project (data-liberation-project.org)",
     "Accept": "*/*",
@@ -30,7 +32,7 @@ HEADERS = {
 
 AURA_CONTEXT = {
     "mode": "PROD",
-    "fwuid": "GVQSDds1N8x8l9AfZLjrQg",
+    "fwuid": FWUID,
     "app": "siteforce:communityApp",
     "loaded": {
         ("APPLICATION@markup://" "siteforce:communityApp"): "11hSeJMz5y2BtbPLHOZFww",
