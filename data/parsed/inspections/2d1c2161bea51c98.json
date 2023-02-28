@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000844178",
+  "layout": "b",
+  "customer_id": "7313",
+  "customer_name": "OREGON PRIMATE RESCUE",
+  "customer_addr": "717 HARMONY DR.\nLONGVIEW, WA 98632",
+  "certificate": "91-C-0114",
+  "site_id": "001",
+  "site_name": "OREGON PRIMATE RESCUE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JAN-2023",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    }
+  ]
+}

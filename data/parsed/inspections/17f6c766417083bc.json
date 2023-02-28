@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000844651",
+  "layout": "b",
+  "customer_id": "6010398",
+  "customer_name": "John Leon Graber",
+  "customer_addr": "10554 N 775 E\nOdon, IN 47562",
+  "certificate": "32-A-0936",
+  "site_id": "001",
+  "site_name": "John Leon Graber",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2023",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 31,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
