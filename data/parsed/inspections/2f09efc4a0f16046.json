@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000845599",
+  "layout": "b",
+  "customer_id": "332308",
+  "customer_name": "IVAN BARKMAN",
+  "customer_addr": "2055 TOWNSHIP ROAD 151\nBALTIC, OH 43804",
+  "certificate": "31-A-0519",
+  "site_id": "001",
+  "site_name": "IVAN BARKMAN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2023",
+  "animals_total": 125,
+  "species": [
+    {
+      "count": 72,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

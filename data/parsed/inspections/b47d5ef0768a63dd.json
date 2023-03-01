@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000845595",
+  "layout": "b",
+  "customer_id": "330101",
+  "customer_name": "DAVID YODER",
+  "customer_addr": "32563 COUNTY ROAD 10\nFRESNO, OH 43824",
+  "certificate": "31-A-0475",
+  "site_id": "001",
+  "site_name": "DAVID YODER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2023",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

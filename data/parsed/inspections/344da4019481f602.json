@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000845600",
+  "layout": "b",
+  "customer_id": "12910",
+  "customer_name": "Debby Loy",
+  "customer_addr": "2268 East Union Drive\nBarnard, KS 67418",
+  "certificate": "48-A-2252",
+  "site_id": "001",
+  "site_name": "DEBBY LOY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2023",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
