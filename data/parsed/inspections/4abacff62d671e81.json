@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840042",
+  "layout": "b",
+  "customer_id": "5578",
+  "customer_name": "Chris McGill",
+  "customer_addr": "615 E KREBS AVE\nMCALESTER, OK 74501",
+  "certificate": "73-A-1257",
+  "site_id": "002",
+  "site_name": "Horseshoe Ln",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2023",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 70,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

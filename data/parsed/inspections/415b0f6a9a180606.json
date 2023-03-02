@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840081",
+  "layout": "b",
+  "customer_id": "6003203",
+  "customer_name": "Elizabeth H Nisley",
+  "customer_addr": "2157 210th Street\nSeymour, IA 52590",
+  "certificate": "42-B-0320",
+  "site_id": "001",
+  "site_name": "Elizabeth H Nisley",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-JAN-2023",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "insp_id": "INS-0000840156",
+  "layout": "b",
+  "customer_id": "508067",
+  "customer_name": "Zoomars LLC",
+  "customer_addr": "31791 Los Rios Street\nSan Juan Capistrano, CA 92675",
+  "certificate": "93-C-1172",
+  "site_id": "001",
+  "site_name": "ZOOMARS LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JAN-2023",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 14,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 41,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 13,
+      "scientific": "Rabbits",
+      "common": "RABBITS"
+    },
+    {
+      "count": 1,
+      "scientific": "Sheep",
+      "common": "SHEEP"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

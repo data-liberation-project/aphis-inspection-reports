@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000840152",
+  "layout": "b",
+  "customer_id": "316",
+  "customer_name": "CARNEGIE MELLON UNIVERSITY",
+  "customer_addr": "5000 FORBES AVE\nWARNER HALL\nPITTSBURGH, PA 15213",
+  "certificate": "23-R-0024",
+  "site_id": "001",
+  "site_name": "Oakland Campus",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JAN-2023",
+  "animals_total": 35,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842616",
+  "layout": "b",
+  "customer_id": "4485",
+  "customer_name": "Betty Lawson",
+  "customer_addr": "7930 Hwy 95\nMountain Grove, MO 65711",
+  "certificate": "43-A-0516",
+  "site_id": "001",
+  "site_name": "BETTY LAWSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

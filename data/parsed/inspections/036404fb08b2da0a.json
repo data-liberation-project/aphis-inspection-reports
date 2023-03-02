@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842662",
+  "layout": "b",
+  "customer_id": "8337",
+  "customer_name": "Mary Winkler",
+  "customer_addr": "1416 U. S. Hwy 36\nSENECA, KS 66538",
+  "certificate": "48-A-2131",
+  "site_id": "001",
+  "site_name": "Mary Winkler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2023",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 80,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

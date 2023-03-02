@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000846570",
+  "layout": "b",
+  "customer_id": "7110",
+  "customer_name": "Heritage Christian Services, Inc.",
+  "customer_addr": "275 Kenneth Dr, Ste 100\nRochester, NY 14623",
+  "certificate": "21-C-0504",
+  "site_id": "001",
+  "site_name": "Heritage Christian Services, Inc.",
+  "insp_type": "PRE-LICENSE INSPECTION",
+  "date": "02-FEB-2023",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

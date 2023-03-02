@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000842525",
+  "layout": "b",
+  "customer_id": "21372",
+  "customer_name": "Star Eco Station",
+  "customer_addr": "10101 Jefferson Blvd.\nCulver City, CA 90232",
+  "certificate": "93-C-0702",
+  "site_id": "001",
+  "site_name": "STAR ECO STATION",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JAN-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 3,
+      "scientific": "Atelerix albiventris",
+      "common": "HEDGEHOG"
+    }
+  ]
+}

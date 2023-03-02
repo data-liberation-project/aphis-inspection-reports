@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840153",
+  "layout": "b",
+  "customer_id": "5482",
+  "customer_name": "Jim and Pam Stewart",
+  "customer_addr": "29500 HWY 32\nLEBANON, MO 65536",
+  "certificate": "43-A-2215",
+  "site_id": "001",
+  "site_name": "Jim and Pam Stewart",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "13-JAN-2023",
+  "animals_total": 119,
+  "species": [
+    {
+      "count": 81,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

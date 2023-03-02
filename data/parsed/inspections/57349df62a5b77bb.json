@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000840086",
+  "layout": "b",
+  "customer_id": "9056",
+  "customer_name": "Candis Veilleux",
+  "customer_addr": "1391 Albion Rd\nWinslow, ME 04901",
+  "certificate": "11-C-0014",
+  "site_id": "001",
+  "site_name": "Candis Veilleux",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-JAN-2023",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius domestic",
+      "common": "DOMESTIC DROMEDARY CAMEL"
+    },
+    {
+      "count": 19,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 7,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000835004",
+  "layout": "b",
+  "customer_id": "321131",
+  "customer_name": "Cheri Cason",
+  "customer_addr": "11783 Grove Drive\nGreen City, MO 63545",
+  "certificate": "43-A-5729",
+  "site_id": "001",
+  "site_name": "CHERI CASON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-DEC-2022",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

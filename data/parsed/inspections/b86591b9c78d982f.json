@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840121",
+  "layout": "b",
+  "customer_id": "17403",
+  "customer_name": "Sherri Taylor",
+  "customer_addr": "P O BOX 248\nLONE GROVE, OK 73443",
+  "certificate": "73-B-1867",
+  "site_id": "001",
+  "site_name": "SHERRI TAYLOR",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2023",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

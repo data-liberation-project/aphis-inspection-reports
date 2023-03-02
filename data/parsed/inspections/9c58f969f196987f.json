@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000842608",
+  "layout": "b",
+  "customer_id": "45096",
+  "customer_name": "Natalie Connally",
+  "customer_addr": "339 Hwy T14\nPELLA, IA 50219",
+  "certificate": "42-A-1566",
+  "site_id": "001",
+  "site_name": "NATALIE CONNALLY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 37,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 37,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

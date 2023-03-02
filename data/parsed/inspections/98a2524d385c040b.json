@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846575",
+  "layout": "b",
+  "customer_id": "335355",
+  "customer_name": "Kamber Beller",
+  "customer_addr": "PO Box 705\nCABOOL, MO 65689",
+  "certificate": "43-A-6100",
+  "site_id": "001",
+  "site_name": "Kamber Beller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-FEB-2023",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 56,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
