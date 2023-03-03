@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846603",
+  "layout": "b",
+  "customer_id": "506807",
+  "customer_name": "DAVID AND EMILY MILLER",
+  "customer_addr": "5515 CR 407\nMILLERSBURG, OH 44654",
+  "certificate": "31-A-0792",
+  "site_id": "001",
+  "site_name": "DAVID A MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2023",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

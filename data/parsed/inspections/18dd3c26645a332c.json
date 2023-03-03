@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000846607",
+  "layout": "b",
+  "customer_id": "896",
+  "customer_name": "Emory University",
+  "customer_addr": "IACUC Administration 1599 Clifton Road NE - 4th Floor. Mails\n1BE\nAtlanta, GA 30332",
+  "certificate": "57-R-0003",
+  "site_id": "001",
+  "site_name": "WHITEHEAD BIOMEDICAL RESEARCH BUILDING",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2023",
+  "animals_total": 325,
+  "species": [
+    {
+      "count": 160,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 121,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 23,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
