@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846628",
+  "layout": "b",
+  "customer_id": "502067",
+  "customer_name": "Leslie Albert",
+  "customer_addr": "1105 South 4210 Rd\nCHELSEA, OK 74016",
+  "certificate": "73-A-2837",
+  "site_id": "003",
+  "site_name": "Leslie Albert",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-FEB-2023",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
