@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846661",
+  "layout": "b",
+  "customer_id": "329258",
+  "customer_name": "PUPPY BLVD",
+  "customer_addr": "2575 Township Road 606\nDUNDEE, OH 44624",
+  "certificate": "31-B-0207",
+  "site_id": "001",
+  "site_name": "Puppies BLVD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-FEB-2023",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

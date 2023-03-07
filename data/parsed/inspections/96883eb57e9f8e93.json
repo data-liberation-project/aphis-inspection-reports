@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846659",
+  "layout": "b",
+  "customer_id": "331987",
+  "customer_name": "ALLEN YODER",
+  "customer_addr": "2075 TOWNSHIP ROAD 110\nMILLERSBURG, OH 44654",
+  "certificate": "31-A-0512",
+  "site_id": "002",
+  "site_name": "ALLEN YODER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-FEB-2023",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
