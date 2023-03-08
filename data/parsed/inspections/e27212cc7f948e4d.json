@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846732",
+  "layout": "b",
+  "customer_id": "323325",
+  "customer_name": "Animal Magic Inc.",
+  "customer_addr": "46110 JUDD ROAD\nBELLEVILLE, MI 48111",
+  "certificate": "34-C-0318",
+  "site_id": "TRA",
+  "site_name": "ANIMAL MAGIC INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2023",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}

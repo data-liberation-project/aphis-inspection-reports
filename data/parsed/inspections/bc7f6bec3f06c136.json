@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000846752",
+  "layout": "b",
+  "customer_id": "2065",
+  "customer_name": "JENKINSONS PAVILION INC",
+  "customer_addr": "300 OCEAN AVENUE\nPOINT PLEASANT BEACH, NJ 08742",
+  "certificate": "22-C-0023",
+  "site_id": "001",
+  "site_name": "JENKINSONS PAVILION INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Saguinus fuscicollis",
+      "common": "SADDLE-BACK TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
+}
