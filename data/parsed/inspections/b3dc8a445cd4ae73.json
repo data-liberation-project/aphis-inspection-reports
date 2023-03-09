@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842656",
+  "layout": "b",
+  "customer_id": "6010207",
+  "customer_name": "Robert D Burton",
+  "customer_addr": "7935 Perkins Road\nMountain Grove, MO 65711",
+  "certificate": "43-A-6606",
+  "site_id": "001",
+  "site_name": "Robert D Burton",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

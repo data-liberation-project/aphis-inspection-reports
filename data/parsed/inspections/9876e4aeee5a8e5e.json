@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842661",
+  "layout": "b",
+  "customer_id": "1645",
+  "customer_name": "PALO ALTO COLLEGE",
+  "customer_addr": "1400 WEST VILLARET\nSAN ANTONIO, TX 78224",
+  "certificate": "74-R-0157",
+  "site_id": "003",
+  "site_name": "PALO ALTO COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

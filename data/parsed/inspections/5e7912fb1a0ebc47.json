@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840148",
+  "layout": "b",
+  "customer_id": "10020",
+  "customer_name": "Cynthia Stump",
+  "customer_addr": "23859 US 136\nLancaster, MO 63548",
+  "certificate": "43-A-6252",
+  "site_id": "001",
+  "site_name": "CYNTHIA STUMP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JAN-2023",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000840128",
+  "layout": "b",
+  "customer_id": "508047",
+  "customer_name": "Lovable Puppies",
+  "customer_addr": "8460 W CAMDEN RD\nCAMDEN, MI 49232",
+  "certificate": "34-A-0243",
+  "site_id": "001",
+  "site_name": "ELMER STEURY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-JAN-2023",
+  "animals_total": 86,
+  "species": [
+    {
+      "count": 40,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "insp_id": "INS-0000842571",
+  "layout": "b",
+  "customer_id": "600351",
+  "customer_name": "Black Creek Wildlife Center",
+  "customer_addr": "4067 Camden Hwy\nBishopville, SC 29010",
+  "certificate": "56-C-0278",
+  "site_id": "002",
+  "site_name": "Black Creek Wildlife Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 0,
+      "scientific": "Canis lupus X C. l. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    }
+  ]
+}

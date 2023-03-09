@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000839979",
+  "layout": "b",
+  "customer_id": "18716",
+  "customer_name": "Jan Harper",
+  "customer_addr": "432438 E 80 Rd\nWELCH, OK 74369",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "JAN Harper",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JAN-2023",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

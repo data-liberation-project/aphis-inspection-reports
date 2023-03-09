@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000846763",
+  "layout": "b",
+  "customer_id": "506337",
+  "customer_name": "Gary Johnson",
+  "customer_addr": "650 Double Horn Rd\nFredericksburg, TX 78624",
+  "certificate": "74-C-1095",
+  "site_id": "001",
+  "site_name": "GARY JOHNSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-FEB-2023",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Elephas maximus",
+      "common": "ASIAN ELEPHANT"
+    },
+    {
+      "count": 4,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 11,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
+}

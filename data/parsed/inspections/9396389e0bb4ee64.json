@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846755",
+  "layout": "b",
+  "customer_id": "4481",
+  "customer_name": "David Miller",
+  "customer_addr": "10569 County Road 230\nOrongo, MO 64855",
+  "certificate": "43-A-5221",
+  "site_id": "001",
+  "site_name": "DAVID MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2023",
+  "animals_total": 237,
+  "species": [
+    {
+      "count": 179,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 58,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

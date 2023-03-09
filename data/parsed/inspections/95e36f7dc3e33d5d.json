@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846766",
+  "layout": "b",
+  "customer_id": "503500",
+  "customer_name": "AMY KRAMER",
+  "customer_addr": "302 MILL STREET NW\nSUGARCREEK, OH 44681",
+  "certificate": "31-A-0707",
+  "site_id": "001",
+  "site_name": "AMY KRAMER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2023",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

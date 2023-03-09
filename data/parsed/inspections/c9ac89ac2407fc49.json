@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842587",
+  "layout": "b",
+  "customer_id": "322093",
+  "customer_name": "Matthew Schwartz",
+  "customer_addr": "9801 Fall Creek Road, #332\nIndianapolis, IN 46256",
+  "certificate": "32-A-0706",
+  "site_id": "001",
+  "site_name": "Matthew Schwartz",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000846808",
+  "layout": "b",
+  "customer_id": "3930",
+  "customer_name": "Texas Biomedical Research Institute",
+  "customer_addr": "PO Box 760549\nSAN ANTONIO, TX 78245",
+  "certificate": "74-A-0061",
+  "site_id": "001",
+  "site_name": "Texas Biomedical Research Institute",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "07-FEB-2023",
+  "animals_total": 1599,
+  "species": [
+    {
+      "count": 274,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 807,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 518,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}

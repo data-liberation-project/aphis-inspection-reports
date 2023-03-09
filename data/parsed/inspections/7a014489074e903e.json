@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000839954",
+  "layout": "b",
+  "customer_id": "600416",
+  "customer_name": "Wild Wild Westies",
+  "customer_addr": "PO Box 72\nAbbeville, SC 29620",
+  "certificate": "56-A-0144",
+  "site_id": "001",
+  "site_name": "Wild Wild Westies",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2023",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

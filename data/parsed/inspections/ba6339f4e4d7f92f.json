@@ -1,0 +1,35 @@
+{
+  "insp_id": "INS-0000842632",
+  "layout": "b",
+  "customer_id": "177",
+  "customer_name": "Rutgers State University of NJ",
+  "customer_addr": "675 Hoes Lane West, Rm 115\nPiscataway, NJ 08854",
+  "certificate": "22-R-0025",
+  "site_id": "010",
+  "site_name": "Rutgers State University of NJ - Aidekman Hall/MSB/RBL/PHRI",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "23-JAN-2023",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 50,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

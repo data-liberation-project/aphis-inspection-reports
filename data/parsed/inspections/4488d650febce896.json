@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000846722",
+  "layout": "b",
+  "customer_id": "640",
+  "customer_name": "Labcorp Early Development Laboratories Inc",
+  "customer_addr": "3301 KINSMAN BOULEVARD\nMADISON, WI 53704",
+  "certificate": "35-R-0030",
+  "site_id": "001",
+  "site_name": "Labcorp Early Development Laboratories Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-FEB-2023",
+  "animals_total": 3362,
+  "species": [
+    {
+      "count": 612,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2576,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 24,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 144,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
