@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846888",
+  "layout": "b",
+  "customer_id": "7446",
+  "customer_name": "Corrados Cats Inc",
+  "customer_addr": "61 Bunn Road\nHamburg, NJ 07419",
+  "certificate": "22-C-0055",
+  "site_id": "001",
+  "site_name": "Corrados Cats Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2023",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    }
+  ]
+}
