@@ -31,6 +31,13 @@ All of the data collected and processed are available in this repository, some m
 - All inspection report PDFs, available [directly](pdfs/inspections/) and as [a searchable project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
 - An [RSS feed](https://data-liberation-project.github.io/aphis-inspection-reports/latest-inspections.rss) listing the inspections we've most recently *discovered*, and [another](https://data-liberation-project.github.io/aphis-inspection-reports/latest-critical-inspections.rss) limited to inspections with critical citations
 
+### What have people done with it?
+
+Some examples that have used the data in this repository:
+
+- [Gustav Cappaert](https://gcappaert.github.io/) has [built](https://github.com/gcappaert/Animal-Welfare-Inspections) a [map of all reports citing 2+ critical issues or 8+ non-critical ones](https://gcappaert.github.io/inspections.html).
+
+*Disclaimer: The list above is for illustrative purposes; Data Liberation Project and Big Local News neither explicitly endorse (nor explicltly renounce) these projects' methodologies or findings.*
 
 ## Data Dictionary
 
