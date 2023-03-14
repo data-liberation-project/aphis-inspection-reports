@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846669",
+  "layout": "b",
+  "customer_id": "505377",
+  "customer_name": "Marion Keim",
+  "customer_addr": "7639 Township Road 652\nMillerburg, OH 44654",
+  "certificate": "31-A-0756",
+  "site_id": "001",
+  "site_name": "MARION KEIM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-FEB-2023",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

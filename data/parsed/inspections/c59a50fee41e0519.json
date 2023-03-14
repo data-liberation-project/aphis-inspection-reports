@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000846561",
+  "layout": "b",
+  "customer_id": "25357",
+  "customer_name": "Patricia Bingham",
+  "customer_addr": "P. O. Box 1611\nALVIN, TX 77512",
+  "certificate": "74-A-1531",
+  "site_id": "001",
+  "site_name": "Patricia Bingham.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JAN-2023",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Prionailurus bengalensis",
+      "common": "LEOPARD CAT"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 10,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

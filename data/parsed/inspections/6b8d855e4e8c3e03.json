@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000842590",
+  "layout": "b",
+  "customer_id": "9613",
+  "customer_name": "Frank Foster",
+  "customer_addr": "521 Madison 7610\nHINDSVILLE, AR 72738",
+  "certificate": "71-A-1408",
+  "site_id": "001",
+  "site_name": "FRANK FOSTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2023",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 59,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

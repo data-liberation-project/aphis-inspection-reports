@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000846672",
+  "layout": "b",
+  "customer_id": "323385",
+  "customer_name": "CALVIN KROGER",
+  "customer_addr": "48232 292ND STREET\nHUDSON, SD 57034",
+  "certificate": "46-A-0420",
+  "site_id": "001",
+  "site_name": "CALVIN KROGER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-FEB-2023",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

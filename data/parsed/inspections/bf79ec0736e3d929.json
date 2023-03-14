@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000846898",
+  "layout": "b",
+  "customer_id": "326432",
+  "customer_name": "James & Linda Enscoe",
+  "customer_addr": "519 S. 8th Street Apt #A\nLas Vegas, NV 89101",
+  "certificate": "88-A-0025",
+  "site_id": "001",
+  "site_name": "James Enscoe, Linda Enscoe",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2023",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 148,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
