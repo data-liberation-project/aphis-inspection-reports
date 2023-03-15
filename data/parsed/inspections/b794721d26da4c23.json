@@ -1,0 +1,40 @@
+{
+  "insp_id": "INS-0000840080",
+  "layout": "b",
+  "customer_id": "497",
+  "customer_name": "Eastern Virginia Medical School",
+  "customer_addr": "358 Mowbray Arch, PO Box 1980\nNorfolk, VA 23501",
+  "certificate": "52-R-0003",
+  "site_id": "001",
+  "site_name": "EASTERN VIRGINIA MEDICAL SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2023",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 0,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}

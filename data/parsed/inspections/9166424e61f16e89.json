@@ -1,0 +1,45 @@
+{
+  "insp_id": "INS-0000846952",
+  "layout": "b",
+  "customer_id": "43006",
+  "customer_name": "TinaMar Inc",
+  "customer_addr": "431 East 91st Street, Second Floor\nNew York, NY 10128",
+  "certificate": "21-C-0355",
+  "site_id": "001",
+  "site_name": "THE ART FARM NYC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-FEB-2023",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Mus musculus",
+      "common": "HOUSE MOUSE / LAB MOUSE (COMMON RESEARCH"
+    }
+  ]
+}

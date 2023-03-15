@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000846712",
+  "layout": "b",
+  "customer_id": "181",
+  "customer_name": "Merck Sharp and Dohme LLC",
+  "customer_addr": "126 E Lincoln Ave\nPO Box 2000\nRahway, NJ 07065",
+  "certificate": "22-R-0036",
+  "site_id": "001",
+  "site_name": "MERCK SHARP & DOHME CORP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-FEB-2023",
+  "animals_total": 1267,
+  "species": [
+    {
+      "count": 260,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 292,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 36,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 557,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 82,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 32,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

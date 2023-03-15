@@ -1,0 +1,75 @@
+{
+  "insp_id": "INS-0000846994",
+  "layout": "b",
+  "customer_id": "4858",
+  "customer_name": "SEA WORLD OF TEXAS",
+  "customer_addr": "10500 SEA WORLD DR\nSAN ANTONIO, TX 78251",
+  "certificate": "74-C-0180",
+  "site_id": "001",
+  "site_name": "Sea World of Texas",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-FEB-2023",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Orcinus orca",
+      "common": "KILLER WHALE"
+    },
+    {
+      "count": 15,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 11,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Lagenorhynchus obliquidens",
+      "common": "PACIFIC WHITE-SIDED DOLPHIN"
+    },
+    {
+      "count": 42,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 9,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Lutra maculicollis",
+      "common": "SPOTTED-NECKED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 11,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
