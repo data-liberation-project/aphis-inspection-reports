@@ -1,6 +1,8 @@
 import csv
 import typing
-from datetime import datetime
+from datetime import datetime, timezone
+from itertools import groupby
+from operator import itemgetter
 from pathlib import Path
 
 from feedgen.entry import FeedEntry
@@ -20,37 +22,25 @@ def main() -> None:
     for r in fetched_data:
         r["discovered"] = datetime.fromisoformat(r["discovered"])
 
-    # Sort reverse chron
-    sorted_data = sorted(fetched_data, key=lambda x: x["discovered"], reverse=True)
+    sorted_data = sorted(
+        fetched_data,
+        key=itemgetter("discovered", "web_inspectionDate", "hash_id"),
+        reverse=True,
+    )
+
     # Create our full feed
-    full_feed = FeedGenerator()
-    full_feed.title("Lastest APHIS inpections")
-    full_feed.link(
-        href="https://github.com/data-liberation-project/aphis-inspection-reports"
+    full_feed = generate_feed(
+        sorted_data,
+        title="Lastest APHIS inpections",
+        desc="The latest inspections posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
     )
-    full_feed.description(
-        "The latest inspections posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service"  # noqa: E501
-    )
-    # Add our feed entries
-    for row in reversed(sorted_data[:50]):
-        # Add it to the full feed
-        full_entry = full_feed.add_entry()
-        _create_entry(full_entry, row)
 
     # Create our critical feed
-    critical_feed = FeedGenerator()
-    critical_feed.title("Lastest critical APHIS inpections")
-    critical_feed.link(
-        href="https://github.com/data-liberation-project/aphis-inspection-reports"
+    critical_feed = generate_feed(
+        [d for d in sorted_data if int(d["web_critical"]) > 0],
+        title="Lastest critical APHIS inpections",
+        desc="The latest inspections with critical violations posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
     )
-    critical_feed.description(
-        "The latest inspections with critical violations posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service"  # noqa: E501
-    )
-    # Only add critical inspections to the critical feed
-    critical_data = [d for d in sorted_data if int(d["web_critical"]) > 0]
-    for row in reversed(critical_data[:50]):
-        critical_entry = critical_feed.add_entry()
-        _create_entry(critical_entry, row)
 
     # Write it out
     full_feed.rss_file(DATA_DIR / "combined" / "latest-inspections.rss", pretty=True)
@@ -71,6 +61,40 @@ Teachable moments: {data['web_teachableMoments']}
 Discovered on {data['discovered']}
 """
     )
+
+
+def generate_feed(
+    items: list[dict[str, typing.Any]],
+    title: str,
+    desc: str,
+    # Feed should have all items since X days ago
+    min_age_days: int = 3,
+    # Feed shouldn't have items older than X days
+    max_age_days: int = 30,
+    # Feed shouldn't add another chunk beyond min_age_days,
+    # if it would mean exceeding X entries
+    max_entries: int = 50,
+) -> FeedGenerator:
+    feed = FeedGenerator()
+    feed.title(title)
+    feed.link(
+        href="https://github.com/data-liberation-project/aphis-inspection-reports"
+    )
+    feed.description(desc)
+
+    now = datetime.now(timezone.utc)
+
+    for discovered, _group in groupby(items, itemgetter("discovered")):
+        group = list(_group)
+        age_days = (now - discovered).days
+        if age_days <= min_age_days or (
+            age_days <= max_age_days and len(group + feed.entry()) <= max_entries
+        ):
+            for item in group:
+                entry = feed.add_entry(order="append")
+                _create_entry(entry, item)
+
+    return feed
 
 
 if __name__ == "__main__":
