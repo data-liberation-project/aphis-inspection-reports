@@ -91,6 +91,7 @@ Column|Description|Example
 `pdf_animals_total`|The "Total" value printed at the end of the report's "Species Inspected" section.| 697 
 `doccloud_url`|The DocumentCloud URL to which this repository has uploaded the PDF. | [https://www.documentcloud.org/[...]](https://www.documentcloud.org/documents/23582024-aphis-inspection-ins-0000826614)
 `licenseType`|The type of license, extracted from `web_certNumber`. | R 
+`customer_state`|The state (or DC, or territory) abbreviation, as extracted from `pdf_customer_addr`. This corresponds to the customer's address, which may be different than the site's address (which is not listed in inspection reports).| CA 
 
 ### Inspected species data
 
