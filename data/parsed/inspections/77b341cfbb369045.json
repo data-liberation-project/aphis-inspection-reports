@@ -1,0 +1,25 @@
+{
+  "insp_id": "INS-0000847070",
+  "layout": "b",
+  "customer_id": "335337",
+  "customer_name": "ELMER RABER",
+  "customer_addr": "3383 NORTH 1000 EAST\nLOOGOOTEE, IN 47553",
+  "certificate": "32-A-0571",
+  "site_id": "001",
+  "site_name": "CAROLYN RABER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-FEB-2023",
+  "animals_total": 47,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
