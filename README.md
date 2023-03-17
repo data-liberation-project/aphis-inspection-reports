@@ -33,7 +33,7 @@ All of the data collected and processed are available in this repository, some m
     - [Each inspection's citations](data/combined/inspections-citations.csv), with the code cited, severity level, repeat status, description, and narrative
     - [The full narrative text of each report](data/combined/inspections-narratives.csv), with the code cited, severity level, repeat status, description, and narrative
 - All inspection report PDFs, available [directly](pdfs/inspections/) and as [a searchable project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
-- An [RSS feed](https://data-liberation-project.github.io/aphis-inspection-reports/latest-inspections.rss) listing the inspections we've most recently *discovered*, and [another](https://data-liberation-project.github.io/aphis-inspection-reports/latest-critical-inspections.rss) limited to inspections with critical citations
+- RSS feeds listing the [inspections we've most recently *discovered*](https://data-liberation-project.github.io/aphis-inspection-reports/latest-inspections.rss), and [those with critical citations](https://data-liberation-project.github.io/aphis-inspection-reports/latest-critical-inspections.rss) — nationally and [by state](data/combined/state-feeds/).
 
 ### What have people done with it?
 
