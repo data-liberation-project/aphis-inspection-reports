@@ -16,7 +16,7 @@ urllib3.disable_warnings()
 
 AURA_URL = "https://efile.aphis.usda.gov/PublicSearchTool/s/sfsites/aura"
 
-FWUID = "z4LqYTyTnZhjB9bF-v-J2w"
+FWUID = "f-ORwbkOzgxJoD8-NarJXg"
 
 HEADERS = {
     "User-Agent": "The Data Liberation Project (data-liberation-project.org)",
