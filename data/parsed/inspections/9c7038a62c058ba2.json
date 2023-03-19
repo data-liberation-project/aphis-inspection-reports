@@ -1,0 +1,30 @@
+{
+  "insp_id": "INS-0000847100",
+  "layout": "b",
+  "customer_id": "329744",
+  "customer_name": "Adirondack Wildlife Refuge LLC",
+  "customer_addr": "PO Box 360\n977 Springfield Rd\nWilmington, NY 12997",
+  "certificate": "21-C-0418",
+  "site_id": "001",
+  "site_name": "Adirondack Wildlife Refuge",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-FEB-2023",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
