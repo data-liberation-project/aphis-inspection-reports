@@ -6,6 +6,7 @@
     <description>The latest inspections posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 27 Mar 2023 18:16:25 +0000</lastBuildDate>
     <item>
       <title>WAYNE MANLY (2023-02-23)</title>
@@ -381,6 +382,9 @@ Discovered on 2023-03-17 13:57:48+00:00
 </description>
       <guid isPermaLink="false">ccef002f39bf1877</guid>
     </item>
+=======
+    <lastBuildDate>Fri, 17 Mar 2023 02:21:00 +0000</lastBuildDate>
+>>>>>>> aa3ebd76fe (Handle duplicate entries, using first-discovered)
     <item>
       <title>GARY  BONTRAGER (2023-02-16)</title>
       <link>https://www.documentcloud.org/documents/23710975-aphis-inspection-ins-0000847028</link>
