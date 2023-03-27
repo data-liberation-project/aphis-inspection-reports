@@ -22,7 +22,6 @@ def get_bottom_section(page: pdfplumber.page.Page, layout:str) -> dict[str, typi
 
     # Extract the section containing the report date
     right = bottom.crop((bottom.bbox[0]+bottom.width*0.75,bottom.bbox[1],bottom.bbox[2],bottom.bbox[3]))
-
     right_text = norm_ws(right.extract_text(layout=True))
 
     def extract_right(pat:str) -> str:
@@ -32,7 +31,7 @@ def get_bottom_section(page: pdfplumber.page.Page, layout:str) -> dict[str, typi
         return norm_ws(m.group(1) or "")
     
     return {
-        'report_date': right_text.split()[1]
+        'report_date': extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})")
     }
 
 
