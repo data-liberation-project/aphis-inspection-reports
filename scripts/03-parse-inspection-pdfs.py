@@ -97,6 +97,35 @@ def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing
         "date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})"),
     }
 
+def get_bottom_section(page: pdfplumber.page.Page, layout:str) -> dict[str, typing.Any]:
+    if len(page.lines)>1:
+        bottom_line = page.lines[1]
+    else:
+        bottom_line = page.edges[-1]
+
+    # Extract the bottom
+    bottom = page.crop((0, bottom_line['bottom'], page.width,page.height))
+
+
+    # Extract the section containing the report date
+    right = bottom.crop((bottom.bbox[0]+bottom.width*0.75,bottom.bbox[1],bottom.bbox[2],bottom.bbox[3]))
+
+    right_text = norm_ws(right.extract_text(layout=True))
+
+    def extract_right(pat:str) -> str:
+        m = re.search(pat, right_text)
+        if m is None:
+            raise Exception(f"No match for {pat}")
+        return norm_ws(m.group(1) or "")
+    
+    return {
+        'report_date': right_text.split()[1]
+    }
+
+
+
+        
+
 
 def get_species(
     pages: list[pdfplumber.page.Page], layout: str
