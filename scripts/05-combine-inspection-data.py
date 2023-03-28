@@ -58,10 +58,32 @@ def main() -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
-        for fetched in fetched_data:
+        seen = set()
+
+        def sorter(x: dict[str, str]) -> tuple[int, str, str, str]:
+            return (
+                int(x["customerNumber"]),
+                # Next line quirk is to mimic behavior in lib/aphis.py
+                x["certNumber"] or "?",
+                x["inspectionDate"],
+                x["discovered"],
+            )
+
+        for fetched in sorted(fetched_data, key=sorter):
             hash_id = fetched["hash_id"]
 
             parsed = parsed_data.get(hash_id, {})
+
+            dupe_key = (
+                fetched["customerNumber"],
+                fetched["inspectionDate"],
+                parsed.get("insp_id"),
+            )
+
+            if dupe_key in seen:
+                continue
+            else:
+                seen.add(dupe_key)
 
             if hash_id:
                 for s in parsed["species"]:
