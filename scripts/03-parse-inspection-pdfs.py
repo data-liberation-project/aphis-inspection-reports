@@ -98,6 +98,38 @@ def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing
     }
 
 
+def get_bottom_section(
+    page: pdfplumber.page.Page, layout: str
+) -> dict[str, typing.Any]:
+    bottom_line = page.lines[1] if len(page.lines) > 1 else page.edges[-1]
+
+    # Extract the bottom
+    bottom = page.crop((0, bottom_line["bottom"], page.width, page.height))
+
+    # Extract the section containing the report date and date received
+    right = bottom.crop(
+        (
+            bottom.bbox[0] + bottom.width * 0.75,
+            bottom.bbox[1],
+            bottom.bbox[2],
+            bottom.bbox[3],
+        )
+    )
+    right_text = norm_ws(right.extract_text(layout=True))
+
+    def extract_right(pat: str) -> str:
+        m = re.search(pat, right_text)
+        if m is None:
+            raise Exception(f"No match for {pat}")
+        return norm_ws(m.group(1) or "")
+
+    # At present this only extracts the date of the report.  The names and
+    # titles of the inspector are in the left-hand section. These could be
+    # extracted in the future.
+
+    return {"report_date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})?$")}
+
+
 def get_species(
     pages: list[pdfplumber.page.Page], layout: str
 ) -> tuple[typing.Optional[int], list[dict[str, typing.Any]]]:
@@ -206,11 +238,13 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
     pages = list(map(prep_page, pdf.pages))
     insp_id, layout = get_inspection_id_and_layout(pages[0])
     top_section = get_top_section(pages[0], layout)
+    bottom_section = get_bottom_section(pages[0], layout)
     animals_total, species = get_species(pages, layout)
     return {
         "insp_id": insp_id,
         "layout": layout,
         **top_section,
+        **bottom_section,
         **dict(animals_total=animals_total, species=species),
     }
 
