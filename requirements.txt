@@ -4,6 +4,8 @@
 #
 #    pip-compile requirements.in
 #
+attrs==22.2.0
+    # via pytest
 black==22.12.0
     # via -r requirements.in
 certifi==2022.12.7
@@ -18,14 +20,22 @@ charset-normalizer==2.1.1
     #   requests
 click==8.1.3
     # via black
-cryptography==38.0.4
-    # via pdfminer-six
+coverage[toml]==7.2.2
+    # via pytest-cov
+cryptography==40.0.1
+    # via
+    #   -r requirements.in
+    #   pdfminer-six
 decorator==5.1.1
     # via retry
 distlib==0.3.6
     # via virtualenv
+exceptiongroup==1.1.1
+    # via pytest
 fastjsonschema==2.16.2
     # via python-documentcloud
+feedgen==0.9.0
+    # via -r requirements.in
 filelock==3.8.2
     # via virtualenv
 flake8==6.0.0
@@ -36,10 +46,14 @@ identify==2.5.11
     # via pre-commit
 idna==3.4
     # via requests
+iniconfig==2.0.0
+    # via pytest
 isort==5.11.2
     # via -r requirements.in
 listcrunch==1.0.1
     # via python-documentcloud
+lxml==4.9.2
+    # via feedgen
 mccabe==0.7.0
     # via flake8
 mypy==0.991
@@ -50,6 +64,8 @@ mypy-extensions==0.4.3
     #   mypy
 nodeenv==1.7.0
     # via pre-commit
+packaging==23.0
+    # via pytest
 pathspec==0.10.3
     # via black
 pdfminer-six==20221105
@@ -62,6 +78,8 @@ platformdirs==2.6.0
     # via
     #   black
     #   virtualenv
+pluggy==1.0.0
+    # via pytest
 pre-commit==2.20.0
     # via -r requirements.in
 py==1.11.0
@@ -72,13 +90,17 @@ pycparser==2.21
     # via cffi
 pyflakes==3.0.1
     # via flake8
-pytest
-    # via -r requirements.in
-pytest-cov
+pytest==7.2.2
+    # via
+    #   -r requirements.in
+    #   pytest-cov
+pytest-cov==4.0.0
     # via -r requirements.in
 python-dateutil==2.8.2
-    # via python-documentcloud
-python-documentcloud==3.1.4
+    # via
+    #   feedgen
+    #   python-documentcloud
+python-documentcloud==3.3.9
     # via -r requirements.in
 pyyaml==6.0
     # via
@@ -99,7 +121,9 @@ toml==0.10.2
 tomli==2.0.1
     # via
     #   black
+    #   coverage
     #   mypy
+    #   pytest
 types-requests==2.28.11.5
     # via -r requirements.in
 types-retry==0.9.9
@@ -116,7 +140,6 @@ virtualenv==20.17.1
     # via pre-commit
 wand==0.6.10
     # via pdfplumber
-feedgen
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
