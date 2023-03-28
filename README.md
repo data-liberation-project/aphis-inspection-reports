@@ -75,6 +75,7 @@ Column|Description|Example
 `pdf_site_name`|The text directly below the "Site" identifier printed in the report heading.| UNIVERSITY OF CALIFORNIA, BERKELEY 
 `pdf_insp_type`|The "Type" printed in the report heading.| ROUTINE INSPECTION 
 `pdf_date`|The "Date" printed in the report heading; should match `web_inspectionDate`, but instead in the `DD-MONTHABBR-YYYY` format.| 14-NOV-2022 
+`pdf_report_date`|The "Date" printed in the report footer. Appears to be the date the report was completed, rather than the date of inspection.| 15-NOV-2022 
 `pdf_animals_total`|The "Total" value printed at the end of the report's "Species Inspected" section.| 697 
 `doccloud_url`|The DocumentCloud URL to which this repository has uploaded the PDF. | [https://www.documentcloud.org/[...]](https://www.documentcloud.org/documents/23582024-aphis-inspection-ins-0000826614)
 `licenseType`|The type of license, extracted from `web_certNumber`. | R 
