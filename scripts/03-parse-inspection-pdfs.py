@@ -127,7 +127,7 @@ def get_bottom_section(
     # titles of the inspector are in the left-hand section. These could be
     # extracted in the future.
 
-    return {"report_date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})")}
+    return {"report_date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})?$")}
 
 
 def get_species(
