@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000846983",
+  "layout": "b",
+  "customer_id": "6009978",
+  "customer_name": "Shane Mart",
+  "customer_addr": "31265 Saint Joe Rd.\nDade City, FL 33525",
+  "certificate": "58-C-1256",
+  "site_id": "001",
+  "site_name": "Shane Mart",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-FEB-2023",
+  "report_date": "15-FEB-2023",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Elaphurus davidianus",
+      "common": "PERE DAVID'S DEER"
+    }
+  ]
+}

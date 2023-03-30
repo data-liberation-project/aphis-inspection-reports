@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000848068",
+  "layout": "b",
+  "customer_id": "507926",
+  "customer_name": "JAMES R POUSH",
+  "customer_addr": "697 A EVERGREEN AVE APT 1/BSMT\nBROOKLYN, NY 11207",
+  "certificate": "21-A-0211",
+  "site_id": "001",
+  "site_name": "JAMES R POUSH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-FEB-2023",
+  "report_date": "21-FEB-2023",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000847035",
+  "layout": "b",
+  "customer_id": "255",
+  "customer_name": "NORTHEAST OHIO MEDICAL UNIVERSITY",
+  "customer_addr": "4209 STATE ROUTE 44\nP.O. BOX 95\nROOTSTOWN, OH 44272",
+  "certificate": "31-R-0092",
+  "site_id": "001",
+  "site_name": "NORTHEAST OHIO MEDICAL UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-FEB-2023",
+  "report_date": "22-FEB-2023",
+  "animals_total": 105,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 40,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 49,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    }
+  ]
+}

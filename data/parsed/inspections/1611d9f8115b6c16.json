@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000847010",
+  "layout": "b",
+  "customer_id": "45236",
+  "customer_name": "Janet Hutson",
+  "customer_addr": "20779 EW 27 Rd\nChelsea, OK 74016",
+  "certificate": "73-A-2795",
+  "site_id": "001",
+  "site_name": "Janet Hutson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2023",
+  "report_date": "16-FEB-2023",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 66,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

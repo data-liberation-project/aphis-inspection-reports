@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000850911",
+  "layout": "b",
+  "customer_id": "1172",
+  "customer_name": "PIERCE COLLEGE",
+  "customer_addr": "6201 WINNETKA AVENUE\nWOODLAND HILLS, CA 91371",
+  "certificate": "93-R-0053",
+  "site_id": "001",
+  "site_name": "PIERCE COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "01-MAR-2023",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}

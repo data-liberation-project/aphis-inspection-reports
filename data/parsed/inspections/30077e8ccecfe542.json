@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000849021",
+  "layout": "b",
+  "customer_id": "334098",
+  "customer_name": "Ford Enterprises LLC",
+  "customer_addr": "6925 N Outer Rd\nOdessa, MO 64076",
+  "certificate": "43-A-6076",
+  "site_id": "001",
+  "site_name": "Ford Enterprises L L C",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "22-FEB-2023",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

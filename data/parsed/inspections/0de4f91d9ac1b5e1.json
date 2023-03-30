@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000849019",
+  "layout": "b",
+  "customer_id": "286",
+  "customer_name": "GLAXO SMITH KLINE",
+  "customer_addr": "1250 South Collegeville Rd. UP3400\nCOLLEGEVILLE, PA 19426",
+  "certificate": "23-R-0012",
+  "site_id": "001",
+  "site_name": "GLAXO SMITH KLINE",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "22-FEB-2023",
+  "animals_total": 186,
+  "species": [
+    {
+      "count": 132,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 30,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
+}

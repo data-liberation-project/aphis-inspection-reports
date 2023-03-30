@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000850944",
+  "layout": "b",
+  "customer_id": "325964",
+  "customer_name": "OK Tourism & Rec. Dept. Div. of State Parks",
+  "customer_addr": "123 Robert S. Kerr Building Suite 930\nOKLAHOMA CITY, OK 73102",
+  "certificate": "73-C-0200",
+  "site_id": "006",
+  "site_name": "Bernice State Park, Park Nature Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-FEB-2023",
+  "report_date": "28-FEB-2023",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis marsupialis",
+      "common": "SOUTHERN OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    }
+  ]
+}

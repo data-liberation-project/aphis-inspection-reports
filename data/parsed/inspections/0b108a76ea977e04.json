@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000850923",
+  "layout": "b",
+  "customer_id": "22947",
+  "customer_name": "Pocono Wildlife Rehab Center",
+  "customer_addr": "1161 Cherry Drive\nSTROUDSBURG, PA 18360",
+  "certificate": "23-C-0246",
+  "site_id": "001",
+  "site_name": "POCONO WILDLIFE REHAB CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-FEB-2023",
+  "report_date": "23-FEB-2023",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
+}

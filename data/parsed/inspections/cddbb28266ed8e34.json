@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000848057",
+  "layout": "b",
+  "customer_id": "3695",
+  "customer_name": "ARIZONA GAME & FISH DEPARTMENT",
+  "customer_addr": "5000 W CAREFREE HWY ATTN: EDUCATION BRANCH\nPHOENIX, AZ 85086",
+  "certificate": "86-C-0049",
+  "site_id": "003",
+  "site_name": "ARIZONA GAME & FISH DEPARTMENT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-FEB-2023",
+  "report_date": "24-FEB-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Spilogale gracilis",
+      "common": "WESTERN SPOTTED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

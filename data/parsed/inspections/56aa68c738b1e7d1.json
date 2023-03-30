@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000848038",
+  "layout": "b",
+  "customer_id": "3045",
+  "customer_name": "BAYS MOUNTAIN PRESERVE PARK",
+  "customer_addr": "853 BAYS MOUNTAIN PARK ROAD\nKINGSPORT, TN 37660",
+  "certificate": "63-C-0027",
+  "site_id": "001",
+  "site_name": "BAYS MOUNTAIN PRESERVE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-FEB-2023",
+  "report_date": "21-FEB-2023",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
+}

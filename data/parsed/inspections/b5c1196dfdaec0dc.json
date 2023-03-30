@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000849093",
+  "layout": "b",
+  "customer_id": "334974",
+  "customer_name": "ODYSEA AQUARIUM LLC",
+  "customer_addr": "9500 E Via De Ventura Suite A100\nSCOTTSDALE, AZ 85256",
+  "certificate": "86-C-0126",
+  "site_id": "001",
+  "site_name": "ODYSEA AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "23-FEB-2023",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Tolypeutes tricinctus",
+      "common": "BRAZILIAN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 7,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    }
+  ]
+}

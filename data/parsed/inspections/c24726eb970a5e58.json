@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000849010",
+  "layout": "b",
+  "customer_id": "2698",
+  "customer_name": "Bob Hudelson",
+  "customer_addr": "PO Box 82\nOrleans, IN 47452",
+  "certificate": "32-B-0123",
+  "site_id": "001",
+  "site_name": "Bob Hudelson",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "23-FEB-2023",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 9,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 9,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 13,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 5,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    }
+  ]
+}

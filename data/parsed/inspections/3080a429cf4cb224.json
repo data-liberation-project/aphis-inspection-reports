@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000851185",
+  "layout": "b",
+  "customer_id": "15097",
+  "customer_name": "TRIPLE J FARMS & KENT LABS",
+  "customer_addr": "777 JORGENSEN PLACE\nBELLINGHAM, WA 98226",
+  "certificate": "91-R-0054",
+  "site_id": "001",
+  "site_name": "TRIPLE J FARMS & KENT LABS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "02-MAR-2023",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

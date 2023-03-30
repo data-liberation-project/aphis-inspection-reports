@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000847003",
+  "layout": "b",
+  "customer_id": "1561",
+  "customer_name": "South Dakota State University",
+  "customer_addr": "MORRILL HALL 200F\nBOX 2201\nBROOKINGS, SD 57007",
+  "certificate": "46-R-0002",
+  "site_id": "001",
+  "site_name": "SOUTH DAKOTA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-FEB-2023",
+  "report_date": "16-FEB-2023",
+  "animals_total": 775,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 63,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 300,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 410,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000846945",
+  "layout": "b",
+  "customer_id": "333488",
+  "customer_name": "AUSTIN BAT REFUGE",
+  "customer_addr": "P O Box 49902\nAUSTIN, TX 78765",
+  "certificate": "74-C-1070",
+  "site_id": "001",
+  "site_name": "DIANNE ODEGARD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2023",
+  "report_date": "15-FEB-2023",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Myotis velifer",
+      "common": "CAVE MYOTIS"
+    },
+    {
+      "count": 2,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Dasypterus intermedius",
+      "common": "NORTHERN YELLOW BAT"
+    }
+  ]
+}

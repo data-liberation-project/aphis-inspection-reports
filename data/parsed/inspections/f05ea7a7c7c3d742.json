@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000850952",
+  "layout": "b",
+  "customer_id": "12240",
+  "customer_name": "Humane Animal Rescue of Pittsburgh Wildlife Center",
+  "customer_addr": "6000 Verona Road\nVerona, PA 15147",
+  "certificate": "23-C-0225",
+  "site_id": "001",
+  "site_name": "The Pennsylvania Wildlife Center",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "23-FEB-2023",
+  "report_date": "24-FEB-2023",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    }
+  ]
+}

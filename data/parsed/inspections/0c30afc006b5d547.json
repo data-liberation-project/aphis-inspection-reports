@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000847052",
+  "layout": "b",
+  "customer_id": "502460",
+  "customer_name": "OKLAHOMA STATE UNIVERSITY",
+  "customer_addr": "101 McElroy Hall Annex\nStillwater, OK 74078",
+  "certificate": "73-R-0121",
+  "site_id": "001",
+  "site_name": "OKLAHOMA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-FEB-2023",
+  "report_date": "17-FEB-2023",
+  "animals_total": 195,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 69,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 57,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 35,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

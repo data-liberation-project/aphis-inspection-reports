@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000850894",
+  "layout": "b",
+  "customer_id": "321004",
+  "customer_name": "The University of Texas Rio Grande Valley",
+  "customer_addr": "1 West University Blvd.\nBRHB 2.210\nBROWNSVILLE, TX 78520",
+  "certificate": "74-R-0216",
+  "site_id": "001",
+  "site_name": "The University of Texas Rio Grande Valley 001",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "23-FEB-2023",
+  "animals_total": 1385,
+  "species": [
+    {
+      "count": 1300,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 85,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}

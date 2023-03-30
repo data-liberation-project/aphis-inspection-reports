@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000847030",
+  "layout": "b",
+  "customer_id": "6009921",
+  "customer_name": "Jerry Troyer",
+  "customer_addr": "25812 545th St\nChariton, IA 50049",
+  "certificate": "42-B-0325",
+  "site_id": "001",
+  "site_name": "Jerry Troyer",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-FEB-2023",
+  "report_date": "16-FEB-2023",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
