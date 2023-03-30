@@ -4,6 +4,10 @@
 # VS Code
 .vscode
 
+# corpus_files
+**/tests/corpus
+
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
@@ -38,9 +42,6 @@ ipython_config.py
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# corpus_files
-tests/corpus
 
 # Icon must end with two \r
 Icon
