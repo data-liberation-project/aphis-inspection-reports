@@ -3,11 +3,13 @@ import argparse
 import sys
 import os
 import re
-from operator import itemgetter
 from pathlib import Path
 import pdfplumber
 
-
+def norm_ws(text: str, newlines: bool = False) -> str:
+    text = re.sub(r" +", " ", text).strip()
+    text = re.sub(r" *\n+ *", "\n" if newlines else " ", text)
+    return text
 
 def get_report_text(pages: list[pdfplumber.page.Page], layout: str) -> dict[str, typing.Any]:
     # Exclude species pages
@@ -20,50 +22,53 @@ def get_report_text(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
         return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
     
     pages = list(filter(lambda x: not is_species_page(x),pages))
+    text = str()
 
-    if layout == "b":
-
-        for i,page in enumerate(pages):
+    if len(pages[0].lines) > 2:
+        # handle layout 'b'
+        for i, page in enumerate(pages):
             if i==0:
-                pages[i] = page.crop((0,229,page.width,636))
+                page = page.crop((0,237,page.width,636))
             else:
-                pages[i] = page.crop((0,103,page.width,636))
+                page = page.crop((0,103,page.width,636))
+            
+            text = "".join((text, page.extract_text()))
 
     else:
+        # handle layout 'a'
         for i,page in enumerate(pages):
             if i==0:
-                pages[i] = page.crop((0,232,page.width,708))
+                page = page.crop((0,232,page.width,708))
             else:
-                pages[i] = page.crop((0,92,page.width,708))
+                page = page.crop((0,92,page.width,708))
 
-    return pages
+            text = "".join((text, page.extract_text()))
+
+    return text
 
 
-    
-
-
-        
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("file_path")
-    parser.add_argument("layout")
-
 
     args = parser.parse_args()
-    file = Path(args.file_path)
+    directory = Path(args.file_path)
 
-    with pdfplumber.open(file) as pdf:
-        pages = get_report_text(pdf.pages, args.layout)
+    for file in directory.glob('*'):
+        if Path(f"corpus/{file.name}").exists():
+            continue
+        with pdfplumber.open(file) as pdf:
+            
+            text = get_report_text(pdf.pages,"a")
+            text = norm_ws(text,newlines=True)
 
-        for i, page in enumerate(pages):
-            im = page.to_image()
-            im.draw_rects(page.edges)
-            im.save(f"test{i}.png")
-
-            for j, edge in enumerate(page.edges):
-                print(f"Page #{i}, Edge #{j}: {edge['top']}")
-        
-        
+            with open(f"corpus/{file.stem}.txt","w+") as output:
+                try:
+                    output.write(text)
+                except UnicodeEncodeError:
+                    print(f"Had trouble with characters file in {file.name}")
+                    output.write("Could not extract full file contents due to Unicode Encoding Error")
+                    
 
 
 
