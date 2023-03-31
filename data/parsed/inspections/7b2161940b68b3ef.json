@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000851132",
+  "layout": "b",
+  "customer_id": "329431",
+  "customer_name": "City of Lawrence",
+  "customer_addr": "2730 Harper St\nLAWRENCE, KS 66044",
+  "certificate": "48-C-0161",
+  "site_id": "001",
+  "site_name": "City of Lawrence",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "01-MAR-2023",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}

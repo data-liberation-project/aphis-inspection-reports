@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851145",
+  "layout": "b",
+  "customer_id": "16782",
+  "customer_name": "JENNIFER TURNER",
+  "customer_addr": "984 S 260st\nPittsburg, KS 66762",
+  "certificate": "48-A-1736",
+  "site_id": "001",
+  "site_name": "Jennifer Turner",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "02-MAR-2023",
+  "animals_total": 257,
+  "species": [
+    {
+      "count": 143,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 114,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

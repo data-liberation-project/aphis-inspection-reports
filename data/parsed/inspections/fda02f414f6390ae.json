@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851213",
+  "layout": "b",
+  "customer_id": "331138",
+  "customer_name": "Tina Boyd",
+  "customer_addr": "16153 Lawrence 1125\nMOUNT VERNON, MO 65712",
+  "certificate": "43-A-6127",
+  "site_id": "001",
+  "site_name": "Tina Cox",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-MAR-2023",
+  "report_date": "03-MAR-2023",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 43,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

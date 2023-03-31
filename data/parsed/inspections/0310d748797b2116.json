@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851120",
+  "layout": "b",
+  "customer_id": "294",
+  "customer_name": "STATE UNIVERSITY OF NEW YORK",
+  "customer_addr": "450 Clarkson Avenue, MSC 112\nBROOKLYN, NY 11203",
+  "certificate": "21-R-0021",
+  "site_id": "001",
+  "site_name": "SUNY DOWNSTATE MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-FEB-2023",
+  "report_date": "03-MAR-2023",
+  "animals_total": 288,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 225,
+      "scientific": "Carollia perspicillata",
+      "common": "SEBA'S SHORT-TAILED BAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851164",
+  "layout": "b",
+  "customer_id": "1182",
+  "customer_name": "SRI International",
+  "customer_addr": "333 Ravenswood Ave\nMenlo Park, CA 94025",
+  "certificate": "93-R-0026",
+  "site_id": "001",
+  "site_name": "SRI INTERNATIONAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-FEB-2023",
+  "report_date": "02-MAR-2023",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

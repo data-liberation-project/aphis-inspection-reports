@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851214",
+  "layout": "b",
+  "customer_id": "6013782",
+  "customer_name": "Rachel Curtis",
+  "customer_addr": "206 Hart Rd\nSeneca, MO 64865",
+  "certificate": "43-A-6710",
+  "site_id": "001",
+  "site_name": "Rachel Curtis",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "03-MAR-2023",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

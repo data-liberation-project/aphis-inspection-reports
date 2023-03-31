@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000851119",
+  "layout": "b",
+  "customer_id": "3137",
+  "customer_name": "Big Cat Rescue Corp",
+  "customer_addr": "12802 Easy Street\nTampa, FL 33625",
+  "certificate": "58-C-0814",
+  "site_id": "001",
+  "site_name": "BIG CAT RESCUE CORP",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "01-MAR-2023",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 19,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    }
+  ]
+}
