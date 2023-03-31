@@ -129,6 +129,70 @@ def get_bottom_section(
 
     return {"report_date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})?$")}
 
+def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str, typing.Any]:
+    # Exclude species pages
+    # Extract text based on layout
+
+    def is_header_char(obj: dict[str, typing.Any]) -> bool:
+        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > 11
+
+    def is_species_page(page: pdfplumber.page.Page) -> bool:
+        return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
+    
+    def extract_violation_codes(text: str) -> list:
+        
+        codes = re.findall(r"\d\.\d\S*", text)
+        violations = []
+        if len(codes) > 0:
+            for code in codes:
+                status, heading = re.search(r"\d\.\d\S*(.*)\s+(.*)",text).group(1,2)
+
+                # extract violation status ('non-critical' if blank), code, and heading
+        
+                status = status.strip().lower() if len(status.strip())>2 else "non-critical"
+                heading = heading.strip().lower()
+
+            # this may be clearer as a named tuple, but that would require import
+            violations.append((code,heading,status))
+            return violations
+        else:
+            return False
+    
+    pages = list(filter(lambda x: not is_species_page(x),pages))
+    content = str()
+    violations = []
+
+    if len(pages[0].lines) > 2:
+        # handle layout 'b'
+        for i, page in enumerate(pages):
+            if i==0:
+                page = page.crop((0,237,page.width,636))
+            else:
+                page = page.crop((0,103,page.width,636))
+            
+            page_content = page.extract_text()
+            content = "".join((content, page_content))
+            if (extract_violation_codes(page_content)):
+                violations += extract_violation_codes(page_content)
+            
+    else:
+        # handle layout 'a'
+        for i, page in enumerate(pages):
+            if i==0:
+                page = page.crop((0,232,page.width,708))
+            else:
+                page = page.crop((0,92,page.width,708))
+
+            page_content = page.extract_text()
+            content = "".join((content, page_content))
+            if (extract_violation_codes(page_content)):
+                violations += extract_violation_codes(page_content)
+
+    return {
+        'content':content,
+        'violations':violations
+    }
+
 
 def get_species(
     pages: list[pdfplumber.page.Page], layout: str
