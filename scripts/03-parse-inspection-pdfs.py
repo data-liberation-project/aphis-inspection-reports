@@ -133,24 +133,25 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
     # Exclude species pages
     # Extract text based on layout
 
-    def is_header_char(obj: dict[str, typing.Any]) -> bool:
-        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > 11
+    def is_header_char(obj: dict[str, typing.Any],size=11) -> bool:
+        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > size
 
     def is_species_page(page: pdfplumber.page.Page) -> bool:
         return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
     
     def extract_violation_codes(text: str) -> list:
-        
         codes = re.findall(r"\d\.\d\S*", text)
+        
         violations = []
         if len(codes) > 0:
             for code in codes:
+    
                 status, heading = re.search(r"\d\.\d\S*(.*)\s+(.*)",text).group(1,2)
 
                 # extract violation status ('non-critical' if blank), code, and heading
         
-                status = status.strip().lower() if len(status.strip())>2 else "non-critical"
-                heading = heading.strip().lower()
+                status = norm_ws(status.lower()) if len(status.strip())>2 else "non-critical"
+                heading = norm_ws(heading.lower())
 
             # this may be clearer as a named tuple, but that would require import
             violations.append((code,heading,status))
@@ -171,9 +172,10 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
                 page = page.crop((0,103,page.width,636))
             
             page_content = page.extract_text()
+            headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
             content = "".join((content, page_content))
-            if (extract_violation_codes(page_content)):
-                violations += extract_violation_codes(page_content)
+            if extract_violation_codes(headers):
+                violations += extract_violation_codes(headers)
             
     else:
         # handle layout 'a'
@@ -184,9 +186,11 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
                 page = page.crop((0,92,page.width,708))
 
             page_content = page.extract_text()
+            headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
+
             content = "".join((content, page_content))
-            if (extract_violation_codes(page_content)):
-                violations += extract_violation_codes(page_content)
+            if extract_violation_codes(headers):
+                violations += extract_violation_codes(headers)
 
     return {
         'content':content,

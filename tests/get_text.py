@@ -24,7 +24,11 @@ if __name__=="__main__":
     args = parser.parse_args()
     directory = Path(args.file_path)
 
+    i = 0
+
     for file in directory.glob('*'):
+        if i > 250:
+            break
         if file.suffix != ".pdf":
             continue
         with pdfplumber.open(file) as pdf:
@@ -32,7 +36,11 @@ if __name__=="__main__":
             text = parse_inspection_pdfs.get_report_body(pdf.pages,"a")
             content = norm_ws(text['content'],newlines=True)
 
-            print(text['violations'])
+            if len(text['violations'])>0:
+
+                print(file.name, text['violations'])  
+
+            i +=1
 
             with open(f"../example_reports/test_set/{file.stem}.txt","wb+") as output:
                 try:
@@ -40,8 +48,6 @@ if __name__=="__main__":
                 except UnicodeEncodeError:
                     print(f"Had trouble with characters file in {file.name}")
                     output.write("Could not extract full file contents due to Unicode Encoding Error")
-                    
-
 
 
 
