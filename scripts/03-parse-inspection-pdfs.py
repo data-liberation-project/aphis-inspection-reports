@@ -153,47 +153,41 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
                 status = norm_ws(status.lower()) if len(status.strip())>2 else "non-critical"
                 heading = norm_ws(heading.lower())
 
-            # this may be clearer as a named tuple, but that would require import
-            violations.append((code,heading,status))
+            # this may be clearer as a named tuple, but that would require an import
+                violations.append((code,heading,status))
+
             return violations
         else:
             return False
     
     pages = list(filter(lambda x: not is_species_page(x),pages))
-    content = str()
+
+    a_body_bbox = {'first_page_body':(0,232,pages[0].width,708),'other_page_body':(0,92,pages[0].width,708)}
+    b_body_bbox = {'first_page_body':(0,237,pages[0].width,636),'other_page_body':(0,103,pages[0].width,636)}
+
+    bbox = b_body_bbox if len(pages[0].lines) > 2 else a_body_bbox
+    
+    # content = str()
     violations = []
 
-    if len(pages[0].lines) > 2:
-        # handle layout 'b'
-        for i, page in enumerate(pages):
-            if i==0:
-                page = page.crop((0,237,page.width,636))
-            else:
-                page = page.crop((0,103,page.width,636))
-            
-            page_content = page.extract_text()
-            headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
-            content = "".join((content, page_content))
-            if extract_violation_codes(headers):
-                violations += extract_violation_codes(headers)
-            
-    else:
-        # handle layout 'a'
-        for i, page in enumerate(pages):
-            if i==0:
-                page = page.crop((0,232,page.width,708))
-            else:
-                page = page.crop((0,92,page.width,708))
+    for i, page in enumerate(pages):
+        if i==0:
+            page = page.crop(bbox['first_page_body'])
+        else:
+            page = page.crop(bbox['other_page_body'])
+        
+        # page_content = page.extract_text()
+        # content = "".join((content, page_content))
 
-            page_content = page.extract_text()
-            headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
+        headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
+        violations = extract_violation_codes(headers)
 
-            content = "".join((content, page_content))
-            if extract_violation_codes(headers):
-                violations += extract_violation_codes(headers)
+        if violations:
+            violations = tuple(violations)
+        
 
     return {
-        'content':content,
+        # 'content':content,
         'violations':violations
     }
 
@@ -307,12 +301,14 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
     insp_id, layout = get_inspection_id_and_layout(pages[0])
     top_section = get_top_section(pages[0], layout)
     bottom_section = get_bottom_section(pages[0], layout)
+    body = get_report_body(pages, layout)
     animals_total, species = get_species(pages, layout)
     return {
         "insp_id": insp_id,
         "layout": layout,
         **top_section,
         **bottom_section,
+        **body,
         **dict(animals_total=animals_total, species=species),
     }
 

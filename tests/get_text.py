@@ -7,6 +7,7 @@ import re
 from pathlib import Path
 import pdfplumber
 from importlib import import_module
+import random
 
 parse_inspection_pdfs = import_module('03-parse-inspection-pdfs')
 
@@ -22,32 +23,28 @@ if __name__=="__main__":
     parser.add_argument("file_path")
 
     args = parser.parse_args()
-    directory = Path(args.file_path)
+    directory = list(Path(args.file_path).iterdir())
+    
+    for _ in range(250):
 
-    i = 0
+        file = random.choice(directory)
 
-    for file in directory.glob('*'):
-        if i > 250:
-            break
-        if file.suffix != ".pdf":
-            continue
         with pdfplumber.open(file) as pdf:
             
-            text = parse_inspection_pdfs.get_report_body(pdf.pages,"a")
+            text = parse_inspection_pdfs.get_report_body(pdf.pages,"layout")
             content = norm_ws(text['content'],newlines=True)
 
-            if len(text['violations'])>0:
+            if text['violations']:
 
                 print(file.name, text['violations'])  
 
-            i +=1
 
-            with open(f"../example_reports/test_set/{file.stem}.txt","wb+") as output:
-                try:
-                    output.write(text['content'].encode('utf-8','replace'))
-                except UnicodeEncodeError:
-                    print(f"Had trouble with characters file in {file.name}")
-                    output.write("Could not extract full file contents due to Unicode Encoding Error")
+            # with open(f"../example_reports/test_set/{file.stem}.txt","wb+") as output:
+            #     try:
+            #         output.write(text['content'].encode('utf-8','replace'))
+            #     except UnicodeEncodeError:
+            #         print(f"Had trouble with characters file in {file.name}")
+            #         output.write("Could not extract full file contents due to Unicode Encoding Error")
 
 
 
