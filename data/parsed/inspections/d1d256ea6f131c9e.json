@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851282",
+  "layout": "b",
+  "customer_id": "10004",
+  "customer_name": "Orlando Science Center",
+  "customer_addr": "777 E Princeton Street\nOrlando, FL 32803",
+  "certificate": "58-C-1096",
+  "site_id": "001",
+  "site_name": "ORLANDO SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-MAR-2023",
+  "report_date": "06-MAR-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    }
+  ]
+}

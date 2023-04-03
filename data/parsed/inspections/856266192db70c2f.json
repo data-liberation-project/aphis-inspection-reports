@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000851274",
+  "layout": "b",
+  "customer_id": "863",
+  "customer_name": "Duke University",
+  "customer_addr": "Office Of Animal Welfare Assurance\n2424 Erwin Rd Ste 606\nDURHAM, NC 27705",
+  "certificate": "55-R-0003",
+  "site_id": "001",
+  "site_name": "DUKE UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "06-MAR-2023",
+  "report_date": "06-MAR-2023",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 16,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 56,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 30,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
+}

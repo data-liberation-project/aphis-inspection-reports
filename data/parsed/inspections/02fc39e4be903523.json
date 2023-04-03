@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851283",
+  "layout": "b",
+  "customer_id": "8800",
+  "customer_name": "Bob Hughes",
+  "customer_addr": "PO BOX 534\nWHEATON, MO 64874",
+  "certificate": "43-B-0386",
+  "site_id": "001",
+  "site_name": "BOB HUGHES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-MAR-2023",
+  "report_date": "06-MAR-2023",
+  "animals_total": 682,
+  "species": [
+    {
+      "count": 326,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 326,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 30,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
