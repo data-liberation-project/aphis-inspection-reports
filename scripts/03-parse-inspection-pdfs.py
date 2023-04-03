@@ -141,9 +141,10 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
     
     def extract_violation_codes(text: str) -> list:
         codes = re.findall(r"\d\.\d\S*", text)
-        
+
         violations = []
-        if len(codes) > 0:
+
+        if codes:
             for code in codes:
     
                 status, heading = re.search(r"\d\.\d\S*(.*)\s+(.*)",text).group(1,2)
@@ -153,12 +154,11 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
                 status = norm_ws(status.lower()) if len(status.strip())>2 else "non-critical"
                 heading = norm_ws(heading.lower())
 
-            # this may be clearer as a named tuple, but that would require an import
-                violations.append((code,heading,status))
+                violations.append({'regulation': code, 'heading': heading, 'status': status})
 
             return violations
         else:
-            return False
+            return None
     
     pages = list(filter(lambda x: not is_species_page(x),pages))
 
@@ -168,6 +168,7 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
     bbox = b_body_bbox if len(pages[0].lines) > 2 else a_body_bbox
     
     # content = str()
+
     violations = []
 
     for i, page in enumerate(pages):
@@ -179,12 +180,12 @@ def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str,
         # page_content = page.extract_text()
         # content = "".join((content, page_content))
 
-        headers = page.filter(lambda x: is_header_char(x,size=2)).extract_text()
-        violations = extract_violation_codes(headers)
+        headers = page.filter(lambda x: is_header_char(x,size=1)).extract_text()
 
-        if violations:
-            violations = tuple(violations)
-        
+        page_violations = extract_violation_codes(headers)
+
+        if page_violations:
+            violations += extract_violation_codes(headers)
 
     return {
         # 'content':content,

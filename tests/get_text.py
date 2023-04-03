@@ -39,13 +39,5 @@ if __name__=="__main__":
                 print(file.name, text['violations'])  
 
 
-            # with open(f"../example_reports/test_set/{file.stem}.txt","wb+") as output:
-            #     try:
-            #         output.write(text['content'].encode('utf-8','replace'))
-            #     except UnicodeEncodeError:
-            #         print(f"Had trouble with characters file in {file.name}")
-            #         output.write("Could not extract full file contents due to Unicode Encoding Error")
-
-
 
             
