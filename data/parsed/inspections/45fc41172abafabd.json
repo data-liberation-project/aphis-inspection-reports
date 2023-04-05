@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851396",
+  "layout": "b",
+  "customer_id": "44124",
+  "customer_name": "Vicky Smith",
+  "customer_addr": "8759 Tara Lane\nAuburn, AL 36830",
+  "certificate": "64-C-0245",
+  "site_id": "001",
+  "site_name": "VICKY SMITH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "08-MAR-2023",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    }
+  ]
+}

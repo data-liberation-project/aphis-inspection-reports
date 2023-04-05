@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000851257",
+  "layout": "b",
+  "customer_id": "114",
+  "customer_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "customer_addr": "77 MASSACHUSETTS AVENUE, 3-234\nCAMBRIDGE, MA 02139",
+  "certificate": "14-R-0018",
+  "site_id": "001",
+  "site_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAR-2023",
+  "report_date": "08-MAR-2023",
+  "animals_total": 1343,
+  "species": [
+    {
+      "count": 297,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 74,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 867,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 88,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}

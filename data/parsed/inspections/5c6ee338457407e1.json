@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000851369",
+  "layout": "b",
+  "customer_id": "5141",
+  "customer_name": "BUCHANAN CONSERVATION BOARD",
+  "customer_addr": "1883 125TH STREET\nHAZLETON, IA 50641",
+  "certificate": "42-C-0067",
+  "site_id": "001",
+  "site_name": "BUCHANAN CONSERVATION BOARD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "08-MAR-2023",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 4,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
+}

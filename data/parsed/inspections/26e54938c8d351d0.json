@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851349",
+  "layout": "b",
+  "customer_id": "878",
+  "customer_name": "SOUTHERN RESEARCH INSTITUTE",
+  "customer_addr": "2000 NINTH AVENUE SOUTH\nP.O. BOX 55305\nBIRMINGHAM, AL 35255",
+  "certificate": "64-R-0001",
+  "site_id": "001",
+  "site_name": "SOUTHERN RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-MAR-2023",
+  "report_date": "08-MAR-2023",
+  "animals_total": 101,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 50,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 27,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    }
+  ]
+}

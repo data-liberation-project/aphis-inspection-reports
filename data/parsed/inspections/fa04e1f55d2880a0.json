@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851340",
+  "layout": "b",
+  "customer_id": "2201",
+  "customer_name": "Lake Metroparks",
+  "customer_addr": "8668 Kirtland-Chadron Rd\nKirtland, OH 44094",
+  "certificate": "31-C-0040",
+  "site_id": "001",
+  "site_name": "LAKE METROPARKS",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "07-MAR-2023",
+  "report_date": "08-MAR-2023",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
+}
