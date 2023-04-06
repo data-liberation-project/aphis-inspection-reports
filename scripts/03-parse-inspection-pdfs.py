@@ -8,6 +8,7 @@ from operator import itemgetter
 from pathlib import Path
 
 import pdfplumber
+from pdfplumber.utils import cluster_objects
 
 
 def parse_args() -> argparse.Namespace:
@@ -139,19 +140,23 @@ def is_species_page(page: pdfplumber.page.Page) -> bool:
     return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
 
 
+def get_separators(
+    page: pdfplumber.page.Page, layout: str
+) -> list[dict[str, typing.Any]]:
+    if layout == "a":
+        clustered = cluster_objects(
+            [r for r in page.horizontal_edges if r["width"] > 400],
+            "top",
+            tolerance=5,
+        )
+        return [c[0] for c in clustered]
+    else:
+        return sorted(page.lines, key=itemgetter("top"))
+
+
 def get_report_body(
     pages: list[pdfplumber.page.Page], layout: str
 ) -> tuple[list[dict[str, str]], list[str]]:
-    a_body_bbox = {
-        "first_page_body": (0, 232, pages[0].width, 708),
-        "other_page_body": (0, 92, pages[0].width, 708),
-    }
-    b_body_bbox = {
-        "first_page_body": (0, 237, pages[0].width, 636),
-        "other_page_body": (0, 103, pages[0].width, 636),
-    }
-    bbox = b_body_bbox if layout == "a" else a_body_bbox
-
     def extract_violation_codes(text: str) -> list[dict[str, str]]:
         codes = re.findall(r"\d\.\d\S*", text)
 
@@ -179,10 +184,9 @@ def get_report_body(
     narrative = []
 
     for i, page in enumerate(pages):
-        if i == 0:
-            cropped = page.crop(bbox["first_page_body"])
-        else:
-            cropped = page.crop(bbox["other_page_body"])
+        separators = get_separators(page, layout)
+        bbox = (0, separators[-2]["bottom"], page.width, separators[-1]["top"])
+        cropped = page.crop(bbox)
 
         narrative.append(cropped.extract_text().strip())
 
