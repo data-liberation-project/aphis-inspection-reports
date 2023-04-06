@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851409",
+  "layout": "b",
+  "customer_id": "331096",
+  "customer_name": "Pet Travel Show Inc.",
+  "customer_addr": "3172 N. Rainbow Blvd #340\nLas Vegas, NV 89108",
+  "certificate": "88-C-0206",
+  "site_id": "001",
+  "site_name": "Pet Travel Show Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

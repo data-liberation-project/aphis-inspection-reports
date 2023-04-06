@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851344",
+  "layout": "b",
+  "customer_id": "6014957",
+  "customer_name": "Paul D.E. Schwartz",
+  "customer_addr": "18853 Kofahl Rd\nLicking, MO 65542",
+  "certificate": "43-A-6761",
+  "site_id": "001",
+  "site_name": "Paul Schwartz",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 49,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 61,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

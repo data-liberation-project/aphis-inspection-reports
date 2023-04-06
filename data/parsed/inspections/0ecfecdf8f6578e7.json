@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851444",
+  "layout": "b",
+  "customer_id": "36727",
+  "customer_name": "Allen Nolt",
+  "customer_addr": "5000 Phelps Rd\nStanley, NY 14561",
+  "certificate": "21-A-0118",
+  "site_id": "001",
+  "site_name": "Allen Nolt",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

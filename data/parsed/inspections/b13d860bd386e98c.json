@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000851443",
+  "layout": "b",
+  "customer_id": "6746",
+  "customer_name": "Chrissy Craig",
+  "customer_addr": "24923 S Groh Road\nCleveland, MO 64734",
+  "certificate": "43-A-2713",
+  "site_id": "001",
+  "site_name": "CHRISSY CRAIG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 21,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851419",
+  "layout": "b",
+  "customer_id": "321517",
+  "customer_name": "Tom Steffensmeier Carla Steffensmeier",
+  "customer_addr": "2293 St. Paul Rd\nWEST POINT, IA 52656",
+  "certificate": "42-A-1368",
+  "site_id": "001",
+  "site_name": "Tom & Carla Steffensmeier",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 225,
+  "species": [
+    {
+      "count": 147,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

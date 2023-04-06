@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000851295",
+  "layout": "b",
+  "customer_id": "4790",
+  "customer_name": "Turpentine Creek Foundation",
+  "customer_addr": "239 Turpentine Creek Lane\nEureka Springs, AR 72632",
+  "certificate": "71-C-0103",
+  "site_id": "001",
+  "site_name": "TURPENTINE CREEK FOUNDATION",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "06-MAR-2023",
+  "report_date": "09-MAR-2023",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    }
+  ]
+}
