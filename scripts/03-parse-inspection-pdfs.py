@@ -129,80 +129,75 @@ def get_bottom_section(
 
     return {"report_date": extract_right(r"Date: *(\d{1,2}-[A-Za-z]{3}-\d{4})?$")}
 
-def get_report_body(pages: list[pdfplumber.page.Page], layout: str) -> dict[str, typing.Any]:
-    # Exclude species pages
-    # Extract text based on layout
 
-    def is_header_char(obj: dict[str, typing.Any],size=11) -> bool:
-        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > size
+def is_header_char(obj: dict[str, typing.Any], size: int = 11) -> bool:
+    return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > size
 
-    def is_species_page(page: pdfplumber.page.Page) -> bool:
-        return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
-    
-    def extract_violation_codes(text: str) -> list:
+
+def is_species_page(page: pdfplumber.page.Page) -> bool:
+    return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
+
+
+def get_report_body(
+    pages: list[pdfplumber.page.Page], layout: str
+) -> tuple[list[dict[str, str]], list[str]]:
+    def extract_violation_codes(text: str) -> list[dict[str, str]]:
         codes = re.findall(r"\d\.\d\S*", text)
 
         violations = []
 
-        if codes:
-            for code in codes:
-    
-                status, heading = re.search(r"\d\.\d\S*(.*)\s+(.*)",text).group(1,2)
+        for code in codes or []:
+            match = re.search(r"\d\.\d\S*(.*)\s+(.*)", text)
+            assert match
+            status, heading = match.group(1, 2)
 
-                # extract violation status ('non-critical' if blank), code, and heading
-        
-                status = norm_ws(status.lower()) if len(status.strip())>2 else "non-critical"
-                heading = norm_ws(heading.lower())
+            # extract violation status ('non-critical' if blank), code, and heading
 
-                violations.append({'regulation': code, 'heading': heading, 'status': status})
+            status = (
+                norm_ws(status.lower()) if len(status.strip()) > 2 else "non-critical"
+            )
+            heading = norm_ws(heading.lower())
 
-            return violations
-        else:
-            return None
-    
-    pages = list(filter(lambda x: not is_species_page(x),pages))
+            violations.append(
+                {"regulation": code, "heading": heading, "status": status}
+            )
 
-    a_body_bbox = {'first_page_body':(0,232,pages[0].width,708),'other_page_body':(0,92,pages[0].width,708)}
-    b_body_bbox = {'first_page_body':(0,237,pages[0].width,636),'other_page_body':(0,103,pages[0].width,636)}
+        return violations
+
+    a_body_bbox = {
+        "first_page_body": (0, 232, pages[0].width, 708),
+        "other_page_body": (0, 92, pages[0].width, 708),
+    }
+    b_body_bbox = {
+        "first_page_body": (0, 237, pages[0].width, 636),
+        "other_page_body": (0, 103, pages[0].width, 636),
+    }
 
     bbox = b_body_bbox if len(pages[0].lines) > 2 else a_body_bbox
-    
-    # content = str()
 
     violations = []
+    narrative = []
 
     for i, page in enumerate(pages):
-        if i==0:
-            page = page.crop(bbox['first_page_body'])
+        if i == 0:
+            cropped = page.crop(bbox["first_page_body"])
         else:
-            page = page.crop(bbox['other_page_body'])
-        
-        # page_content = page.extract_text()
-        # content = "".join((content, page_content))
+            cropped = page.crop(bbox["other_page_body"])
 
-        headers = page.filter(lambda x: is_header_char(x,size=1)).extract_text()
+        narrative.append(cropped.extract_text().strip())
+
+        headers = cropped.filter(lambda x: is_header_char(x, size=1)).extract_text()
 
         page_violations = extract_violation_codes(headers)
+        violations += page_violations
 
-        if page_violations:
-            violations += extract_violation_codes(headers)
-
-    return {
-        # 'content':content,
-        'violations':violations
-    }
+    return violations, narrative
 
 
 def get_species(
     pages: list[pdfplumber.page.Page], layout: str
 ) -> tuple[typing.Optional[int], list[dict[str, typing.Any]]]:
     species = []
-
-    def is_header_char(obj: dict[str, typing.Any]) -> bool:
-        return "Bold" in obj.get("fontname", "") and obj.get("size", 0) > 11
-
-    def is_species_page(page: pdfplumber.page.Page) -> bool:
-        return page.filter(is_header_char).extract_text().strip() == "Species Inspected"
 
     def get_table_chars(
         chars: list[dict[str, typing.Any]]
@@ -299,18 +294,29 @@ def prep_page(page: pdfplumber.page.Page) -> pdfplumber.page.Page:
 
 def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
     pages = list(map(prep_page, pdf.pages))
+
+    pages_by_kind: dict[str, list[pdfplumber.page.Page]] = {"main": [], "species": []}
+    for page in pages:
+        kind = "species" if is_species_page(page) else "main"
+        pages_by_kind[kind].append(page)
+
     insp_id, layout = get_inspection_id_and_layout(pages[0])
     top_section = get_top_section(pages[0], layout)
     bottom_section = get_bottom_section(pages[0], layout)
-    body = get_report_body(pages, layout)
-    animals_total, species = get_species(pages, layout)
+    violations, narrative = get_report_body(pages_by_kind["main"], layout)
+    animals_total, species = get_species(pages_by_kind["species"], layout)
+
     return {
         "insp_id": insp_id,
         "layout": layout,
         **top_section,
         **bottom_section,
-        **body,
-        **dict(animals_total=animals_total, species=species),
+        **dict(
+            violations=violations,
+            narrative=narrative,
+            animals_total=animals_total,
+            species=species,
+        ),
     }
 
 

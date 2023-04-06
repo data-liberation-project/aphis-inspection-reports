@@ -95,7 +95,6 @@ def main() -> None:
                     for v in parsed["violations"]:
                         all_violations.append({"hash_id": hash_id, **v})
 
-
             doccloud = doccloud_data.get(hash_id, {"url": ""})
 
             c = {
@@ -118,7 +117,7 @@ def main() -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_species)
-    with open(DATA_DIR / "combined" / "inspections-violations.csv","w") as f:
+    with open(DATA_DIR / "combined" / "inspections-violations.csv", "w") as f:
         fieldnames = ["hash_id", "regulation", "heading", "status"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
