@@ -33,9 +33,17 @@ All of the data collected and processed are available in this repository, some m
 
 ### What have people done with it?
 
-Some examples that have used the data in this repository:
+Some examples of news reports, visualizations, and other uses of the reports and data gathered through this repository: 
+
+#### News reports
+
+- “[Colony of prairie dogs disappears from El Paso Zoo, according to USDA report](https://www.valleycentral.com/news/colony-of-prairie-dogs-disappears-from-el-paso-zoo-according-to-usda-report/),” KTSM — El Paso, Texas (April 3, 2023).
+- “[El Paso Zoo mystery: The case of the vanishing prairie dogs](https://www.youtube.com/watch?v=k0u0F7mJx1E),” KVIA ABC-7 — El Paso, Texas (April 3, 2023).
+
+#### Visualizations
 
 - [Gustav Cappaert](https://gcappaert.github.io/) has [built](https://github.com/gcappaert/Animal-Welfare-Inspections) a [map of all reports citing 2+ critical issues or 8+ non-critical ones](https://gcappaert.github.io/inspections.html).
+
 
 *Disclaimer: The list above is for illustrative purposes; Data Liberation Project and Big Local News neither explicitly endorse (nor explicltly renounce) these projects' methodologies or findings.*
 
