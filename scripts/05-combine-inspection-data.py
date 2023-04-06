@@ -46,7 +46,7 @@ def main() -> None:
         doccloud_data = json.load(f)
 
     all_species = []
-    all_violations = []
+    all_citations = []
 
     with open(DATA_DIR / "combined" / "inspections.csv", "w") as f:
         fieldnames = (
@@ -91,9 +91,9 @@ def main() -> None:
                     if s["scientific"].upper() == "NONE" and s["count"] == 0:
                         continue
                     all_species.append({"hash_id": hash_id, **s})
-                if parsed["violations"]:
-                    for v in parsed["violations"]:
-                        all_violations.append({"hash_id": hash_id, **v})
+                if parsed["citations"]:
+                    for v in parsed["citations"]:
+                        all_citations.append({"hash_id": hash_id, **v})
 
             doccloud = doccloud_data.get(hash_id, {"url": ""})
 
@@ -117,11 +117,12 @@ def main() -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_species)
-    with open(DATA_DIR / "combined" / "inspections-violations.csv", "w") as f:
-        fieldnames = ["hash_id", "regulation", "heading", "status"]
+
+    with open(DATA_DIR / "combined" / "inspections-citations.csv", "w") as f:
+        fieldnames = ["hash_id", "code", "kind", "repeat", "desc", "narrative"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(all_violations)
+        writer.writerows(all_citations)
 
 
 if __name__ == "__main__":
