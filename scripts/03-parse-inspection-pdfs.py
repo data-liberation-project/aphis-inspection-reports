@@ -154,48 +154,82 @@ def get_separators(
         return sorted(page.lines, key=itemgetter("top"))
 
 
+class Citation:
+    heading: str = ""
+    desc: str = ""
+    narrative: str = ""
+
+    def add_heading(self, text: str) -> None:
+        assert not self.heading
+        assert not self.desc
+        assert not self.narrative
+        self.heading = text
+
+        match = re.search(r"^(\d+[^ ]+)\s*?(Direct|Critical)?\s*(Repeat)?$", text, re.I)
+        if not match:
+            raise Exception(text)
+        self.code, self.kind, self.status = match.groups()
+
+    def add_desc(self, text: str) -> None:
+        assert self.heading
+        assert not self.narrative
+        self.desc += " " + text
+
+    def add_bolded(self, text: str) -> None:
+        if not self.heading:
+            self.add_heading(text)
+        else:
+            self.add_desc(text)
+
+    def add_narrative(self, text: str) -> None:
+        assert self.heading
+        assert self.desc
+        self.narrative += "\n" + text
+
+    def to_dict(self) -> dict[str, str | bool]:
+        return dict(
+            code=self.code,
+            kind=(self.kind or "").strip().title(),
+            repeat=bool(self.status),
+            desc=self.desc.strip(),
+            narrative=self.narrative.strip(),
+        )
+
+
 def get_report_body(
     pages: list[pdfplumber.page.Page], layout: str
-) -> tuple[list[dict[str, str]], list[str]]:
-    def extract_violation_codes(text: str) -> list[dict[str, str]]:
-        codes = re.findall(r"\d\.\d\S*", text)
-
-        violations = []
-
-        for code in codes or []:
-            match = re.search(r"\d\.\d\S*(.*)\s+(.*)", text)
-            assert match
-            status, heading = match.group(1, 2)
-
-            # extract violation status ('non-critical' if blank), code, and heading
-
-            status = (
-                norm_ws(status.lower()) if len(status.strip()) > 2 else "non-critical"
-            )
-            heading = norm_ws(heading.lower())
-
-            violations.append(
-                {"regulation": code, "heading": heading, "status": status}
-            )
-
-        return violations
-
-    violations = []
-    narrative = []
-
+) -> tuple[list[dict[str, str | bool]], str]:
+    full_text: list[str] = []
+    citations: list[Citation] = []
     for i, page in enumerate(pages):
         separators = get_separators(page, layout)
         bbox = (0, separators[-2]["bottom"], page.width, separators[-1]["top"])
         cropped = page.crop(bbox)
 
-        narrative.append(cropped.extract_text().strip())
+        words = cropped.extract_words(extra_attrs=["size", "fontname"])
+        for line_words in cluster_objects(words, "top", tolerance=0):
+            first = line_words[0]
+            text = " ".join(x["text"] for x in line_words)
+            addl = text.lower().strip(":") in [
+                "additional inspectors",  # Generic edge-case
+                "direct",  # Specific edge-case from hash_id:0db69ec135a5b244
+            ]
 
-        headers = cropped.filter(lambda x: is_header_char(x, size=1)).extract_text()
+            if "Bold" in first["fontname"] and not addl:
+                if not len(citations):
+                    citations.append(Citation())
 
-        page_violations = extract_violation_codes(headers)
-        violations += page_violations
+                if citations[-1].narrative:
+                    citations.append(Citation())
 
-    return violations, narrative
+                citations[-1].add_bolded(text)
+            else:
+                if len(citations):
+                    citations[-1].add_narrative(text)
+
+        full_text.append(cropped.extract_text().strip())
+
+    return ([v.to_dict() for v in citations], "\n\n".join(full_text))
 
 
 def get_species(
@@ -307,7 +341,7 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
     insp_id, layout = get_inspection_id_and_layout(pages[0])
     top_section = get_top_section(pages[0], layout)
     bottom_section = get_bottom_section(pages[0], layout)
-    violations, narrative = get_report_body(pages_by_kind["main"], layout)
+    citations, narrative = get_report_body(pages_by_kind["main"], layout)
     animals_total, species = get_species(pages_by_kind["species"], layout)
 
     return {
@@ -316,7 +350,7 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
         **top_section,
         **bottom_section,
         **dict(
-            violations=violations,
+            citations=citations,
             narrative=narrative,
             animals_total=animals_total,
             species=species,
