@@ -35,16 +35,17 @@ def get_inspection_id_and_layout(page: pdfplumber.page.Page) -> tuple[str, str]:
     top = page.crop((0, 0, page.width, edges[0]["top"]))
     top_text = top.extract_text(x_tolerance=2)
 
-    # There appear to be (at least) two PDF layouts, and the inspection ID
-    # formatting seems like a decent way to distinguish between them, so
-    # both bits of information are extracted in this step.
+    # There appear to be (at least) three PDF layouts, and the inspection
+    # ID formatting seems like a decent way to distinguish between them,
+    # so both bits of information are extracted in this step.
     match_a = re.search(r"\b(\d+)\s+Insp_id", top_text)
     if match_a:
-        return match_a.group(1), "a"
+        layout = "a" if len(page.lines) < 2 else "b"
+        return match_a.group(1), layout
     else:
         match_b = re.search(r"\b(INS-\d+)", top_text)
         if match_b:
-            return match_b.group(1), "b"
+            return match_b.group(1), "c"
         else:
             raise Exception(f"Cannot find inspection ID in text: \n{top_text}")
 
@@ -56,11 +57,11 @@ def norm_ws(text: str, newlines: bool = False) -> str:
 
 
 def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing.Any]:
-    if len(page.lines) > 2:
-        line_objs = [page.lines[0], page.lines[2]]
-    else:
+    if layout == "a":
         edges = sorted(page.horizontal_edges, key=itemgetter("top", "x0"))
         line_objs = [edges[0], edges[2]]
+    else:
+        line_objs = [page.lines[0], page.lines[2]]
 
     top = page.crop((0, line_objs[0]["top"], page.width, line_objs[1]["top"]))
 
@@ -101,7 +102,7 @@ def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing
 def get_bottom_section(
     page: pdfplumber.page.Page, layout: str
 ) -> dict[str, typing.Any]:
-    bottom_line = page.lines[1] if len(page.lines) > 1 else page.edges[-1]
+    bottom_line = page.edges[-1] if layout == "a" else page.lines[1]
 
     # Extract the bottom
     bottom = page.crop((0, bottom_line["bottom"], page.width, page.height))
@@ -141,6 +142,16 @@ def is_species_page(page: pdfplumber.page.Page) -> bool:
 def get_report_body(
     pages: list[pdfplumber.page.Page], layout: str
 ) -> tuple[list[dict[str, str]], list[str]]:
+    a_body_bbox = {
+        "first_page_body": (0, 232, pages[0].width, 708),
+        "other_page_body": (0, 92, pages[0].width, 708),
+    }
+    b_body_bbox = {
+        "first_page_body": (0, 237, pages[0].width, 636),
+        "other_page_body": (0, 103, pages[0].width, 636),
+    }
+    bbox = b_body_bbox if layout == "a" else a_body_bbox
+
     def extract_violation_codes(text: str) -> list[dict[str, str]]:
         codes = re.findall(r"\d\.\d\S*", text)
 
@@ -163,17 +174,6 @@ def get_report_body(
             )
 
         return violations
-
-    a_body_bbox = {
-        "first_page_body": (0, 232, pages[0].width, 708),
-        "other_page_body": (0, 92, pages[0].width, 708),
-    }
-    b_body_bbox = {
-        "first_page_body": (0, 237, pages[0].width, 636),
-        "other_page_body": (0, 103, pages[0].width, 636),
-    }
-
-    bbox = b_body_bbox if len(pages[0].lines) > 2 else a_body_bbox
 
     violations = []
     narrative = []
