@@ -17,8 +17,8 @@ This repository aims to collect, and extract data from, all [publicly-available 
 For every inspection we've been able to identify through the [APHIS inspections portal](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports), we've collected:
 
 - __Inspection metadata__ from the portal, such as the inspection date, licensee, and violation counts.
+- Additional __data parsed from the PDF__, such as the type of inspection, the list of citations, each report's full text, and the list of inspected species.
 - The __inspection report PDF__ linked from the portal.
-- Additional __data parsed from the PDF__, such as the type of inspection and the list of inspected species
 
 The file [METHODOLOGY.md](METHODOLOGY.md) describes the process of scraping, parsing, uploading, and merging the inspection reports.
 
@@ -27,7 +27,11 @@ The file [METHODOLOGY.md](METHODOLOGY.md) describes the process of scraping, par
 
 All of the data collected and processed are available in this repository, some more raw/processed than others. We've also combined these records into the following __main resources__:
 
-- The data from all inspections, available as [one core CSV spreadsheet](data/combined/inspections.csv) plus [another sheet listing species-level counts of animals inspected, per inspection](data/combined/inspections-species.csv). See "Data Dictionary" below for details.
+- The following data, as CSV files, from all inspections currently available (see "Data Dictionary" below for details):
+    - [The core metadata for each inspection](data/combined/inspections.csv)
+    - [Species-level counts of the animals inspected](data/combined/inspections-species.csv), per inspection
+    - [Each inspection's citations](data/combined/inspections-citations.csv), with the code cited, severity level, repeat status, description, and narrative
+    - [The full narrative text of each report](data/combined/inspections-narratives.csv), with the code cited, severity level, repeat status, description, and narrative
 - All inspection report PDFs, available [directly](pdfs/inspections/) and as [a searchable project on DocumentCloud](https://www.documentcloud.org/app?q=%2Bproject%3Ausda-aphis-inspection-rep-211004%20)
 - An [RSS feed](https://data-liberation-project.github.io/aphis-inspection-reports/latest-inspections.rss) listing the inspections we've most recently *discovered*, and [another](https://data-liberation-project.github.io/aphis-inspection-reports/latest-critical-inspections.rss) limited to inspections with critical citations
 
@@ -100,6 +104,32 @@ Column|Description|Example
 `scientific`|The value in the PDF table's "Scientific Name" column.|Capra hircus
 `common`|The value in the PDF table's "Common Name" column.|DOMESTIC GOAT
 
+### Citation data
+
+The file [`data/combined/inspections-citations.csv`](data/combined/inspections-citations.csv) contains all citations we've been able to extract from the inspection report PDFs, linkable back to the main file via `hash_id`. __Notes__:
+
+- The citation counts in the PDFs generally match up with those in the `web_` metadata, but *sometimes* disagree in the number or severity. It's best to check both counts and to consult the original PDF.
+- For inspections of type `ATTEMPTED INSPECTION`, APHIS appears not to count instances of citation `2.126(b)` ("Access and inspection of records and property; submission of itineraries") toward the report's `web_` citation counts.
+- For now, the `narrative` value for the final citation in an inspection also contains the end-of-report discussion. Ultimately, however, we hope to be able to remove that text, but first need to find a consistent way to do so.
+
+
+Column|Description|Example
+------|-----------|-------
+`hash_id`|The `hash_id` of the inspection report PDF|4e616aea5de92ead
+`code`|The code cited.|3.13(b)(4)
+`desc`|The code's description|Veterinary care for dogs.
+`kind`|Whether the finding was "Direct," "Critical," or neither|Direct
+`repeat`|Whether the finding was a repeat finding|True
+`narrative`|The text of the inspector's findings|The facility had large pigs housed in four primary enclosure pens [...]
+
+### Full report text
+
+The file [`data/combined/inspections-narratives.csv`](data/combined/inspections-narratives.csv) contains the full text extracted from the body of the report (i.e., minus report headers and footers).
+
+Column|Description|Example
+------|-----------|-------
+`hash_id`|The `hash_id` of the inspection report PDF|4e616aea5de92ead
+`narrative`|The report text|[...] The USDA reviewed the facility's records for the 5-year-old whale [...]
 
 ## Caveats and Limitations
 
@@ -118,6 +148,12 @@ Column|Description|Example
 - Run `. venv/bin/activate` to activate the virtual environment
 - Run `pip install -r requirements.txt` to install the necessary Python libraries
 - Consult the [`Makefile`](Makefile) to understand the available `make` commands
+
+## Contributors
+
+Many thanks to the following external contributors:
+
+- [@gcappaert](https://github.com/gcappaert)
 
 ## Licensing
 
