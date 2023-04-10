@@ -47,6 +47,7 @@ def main() -> None:
 
     all_species = []
     all_citations = []
+    all_narratives = []
 
     with open(DATA_DIR / "combined" / "inspections.csv", "w") as f:
         fieldnames = (
@@ -91,9 +92,15 @@ def main() -> None:
                     if s["scientific"].upper() == "NONE" and s["count"] == 0:
                         continue
                     all_species.append({"hash_id": hash_id, **s})
+
                 if parsed["citations"]:
                     for v in parsed["citations"]:
                         all_citations.append({"hash_id": hash_id, **v})
+
+                if parsed["narrative"]:
+                    all_narratives.append(
+                        {"hash_id": hash_id, "narrative": parsed["narrative"]}
+                    )
 
             doccloud = doccloud_data.get(hash_id, {"url": ""})
 
@@ -123,6 +130,12 @@ def main() -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_citations)
+
+    with open(DATA_DIR / "combined" / "inspections-narratives.csv", "w") as f:
+        fieldnames = ["hash_id", "narrative"]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_narratives)
 
 
 if __name__ == "__main__":
