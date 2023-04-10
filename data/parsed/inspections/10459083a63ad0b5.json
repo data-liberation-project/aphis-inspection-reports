@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000814962",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "1143",
   "customer_name": "Pacific BioLabs",
   "customer_addr": "551 LINUS PAULING DRIVE\nHERCULES, CA 94547",
@@ -10,6 +10,23 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "26-JUL-2022",
   "report_date": "20-SEP-2022",
+  "citations": [
+    {
+      "code": "2.33(b)(3)",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On 3/7/22, 2 rabbits were mistakenly dosed with fully concentrated Polyethylene Glycol as part of protocol 17A-07. The\nlaboratory personnel responsible for the error notified the study director but not the veterinary staff of the incident. The\nanimals were left overnight without veterinary examination or care. The next day when laboratory personnel noted that\nthe animals were showing symptoms of reacting to the injections, the study director had the animals removed from the\nstudy and humanely euthanized. Neither the attending veterinarian nor the IACUC were informed of the incident. The\nincident was instead discovered by the attending veterinarian approximately one week later when a controlled substance\nlog was reviewed.\nIt is imperative that a mechanism of direct and frequent communication be provided to the attending veterinarian so that\naccurate information on problems of animal health, behavior, and well-being is conveyed. This ensures that the attending\nveterinarian has the appropriate authority to ensure adequate veterinary care is provided, avoiding any unnecessary pain\nor suffering.\nCorrected by the time of inspection"
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On 3/7/22, while laboratory personnel were performing intracutaneous injections on 2 rabbits as part of protocol 17A-07,\nthe animals were mistakenly given a fully concentrated dose of Polyethylene Glycol (PEG). According to the associated\nSOP for intracutaneous injections in rabbits, 16E-05, the PEG is to be diluted to a concentration of about 120mg/ml. The\nadministration of the fully concentrated dose of this medication directly resulted in the euthanasia of the animals the\nfollowing day.\nHandling of animals should be performed by trained and qualified personnel ensuring proper administration of all\nmedications and/or test articles to ensure the animals do not experience unnecessary trauma, behavioral stress, physical\nharm, or unnecessary discomfort.\nCorrected by the time of inspection.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(3)  Critical Repeat\n   \nAttending veterinarian and adequate veterinary care. \nOn 3/7/22, 2 rabbits were mistakenly dosed with fully concentrated Polyethylene Glycol as part of protocol 17A-07.  The \nlaboratory personnel responsible for the error notified the study director but not the veterinary staff of the incident.  The \nanimals were left overnight without veterinary examination or care.  The next day when laboratory personnel noted that \nthe animals were showing symptoms of reacting to the injections, the study director had the animals removed from the \nstudy and humanely euthanized.  Neither the attending veterinarian nor the IACUC were informed of the incident.  The \nincident was instead discovered by the attending veterinarian approximately one week later when a controlled substance \nlog was reviewed. \nIt is imperative that a mechanism of direct and frequent communication be provided to the attending veterinarian so that \naccurate information on problems of animal health, behavior, and well-being is conveyed.  This ensures that the attending \nveterinarian has the appropriate authority to ensure adequate veterinary care is provided, avoiding any unnecessary pain \nor suffering. \nCorrected by the time of inspection \n2.38(f)(1)  Critical\n   \nMiscellaneous.\n\nOn 3/7/22, while laboratory personnel were performing intracutaneous injections on 2 rabbits as part of protocol 17A-07, \nthe animals were mistakenly given a fully concentrated dose of Polyethylene Glycol (PEG).  According to the associated \nSOP for intracutaneous injections in rabbits, 16E-05, the PEG is to be diluted to a concentration of about 120mg/ml.  The \nadministration of the fully concentrated dose of this medication directly resulted in the euthanasia of the animals the \nfollowing day. \nHandling of animals should be performed by trained and qualified personnel ensuring proper administration of all \nmedications and/or test articles to ensure the animals do not experience unnecessary trauma, behavioral stress, physical \nharm, or unnecessary discomfort. \nCorrected by the time of inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
   "animals_total": 483,
   "species": [
     {

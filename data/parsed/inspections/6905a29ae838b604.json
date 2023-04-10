@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000824479",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "852",
   "customer_name": "UNIVERSITY OF MEMPHIS",
   "customer_addr": "Executive Vice President for Research & Innovation\n365 Innovation Drive\nMEMPHIS, TN 38152",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "03-NOV-2022",
   "report_date": "04-NOV-2022",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol #0873 does not include a complete description of the proposed use of animals. The protocol states that\neuthanasia will be carried out by the PI and describes the method of euthanasia, but does not state when, why, or how\nmany animals will be euthanized. Accurately describing animal usage including determining and describing humane ends\npoints is important for animal welfare. Correct by ensuring that protocols completely describe the proposed use of\nanimals.\nThis inspection was conducted with the Associate Director ACE and the IACUC chair. The exit interview was conducted\nwith the Associate Director ACE, IACUC chair, the Attending Veterinarian, and the Senior Associate Director of Research\nCompliance.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol #0873 does not include a complete description of the proposed use of animals. The protocol states that \neuthanasia will be carried out by the PI and describes the method of euthanasia, but does not state when, why, or how \nmany animals will be euthanized. Accurately describing animal usage including determining and describing humane ends \npoints is important for animal welfare. Correct by ensuring that protocols completely describe the proposed use of \nanimals. \n \nThis inspection was conducted with the Associate Director ACE and the IACUC chair. The exit interview was conducted \nwith the Associate Director ACE, IACUC chair, the Attending Veterinarian, and the Senior Associate Director of Research \nCompliance. \n \n n",
   "animals_total": 301,
   "species": [
     {

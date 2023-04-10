@@ -1,6 +1,6 @@
 {
   "insp_id": "2016090000682964",
-  "layout": "a",
+  "layout": "b",
   "customer_id": "140",
   "customer_name": "TUFTS MEDICAL CENTER",
   "customer_addr": "I A C U C/ D L A M\n136 HARRISON AVENUE\nBOSTON, MA 02111",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "11-AUG-2021",
   "report_date": "13-AUG-2021",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol B2021-35 includes a terminal surgical procedure as part of the experimental study design, but there is no\ndescription of this surgical procedure in the protocol. Multiple species are approved for use on this protocol, including\nswine. Though the procedure had not been conducted on any animals enrolled on this protocol to date, the activity was\napproved without a complete description of all proposed animal use. A complete description of the proposed animal use is\nnecessary for the IACUC to be able to evaluate those activities to ensure humane care and use of the animals in\naccordance with the Animal Welfare Act and Regulations. In order for the IACUC to approve activities involving animals,\nthe proposal to conduct those activities must contain a complete description of the proposed use of the animals.\nTo be corrected by 9/11/2021.\nThis inspection and exit briefing was conducted with the Attending Veterinarian and IACUC representatives.\nEnd Section"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol B2021-35 includes a terminal surgical procedure as part of the experimental study design, but there is no \ndescription of this surgical procedure in the protocol. Multiple species are approved for use on this protocol, including \nswine.  Though the procedure had not been conducted on any animals enrolled on this protocol to date, the activity was \napproved without a complete description of all proposed animal use. A complete description of the proposed animal use is \nnecessary for the IACUC to be able to evaluate those activities to ensure humane care and use of the animals in \naccordance with the Animal Welfare Act and Regulations. In order for the IACUC to approve activities involving animals, \nthe proposal to conduct those activities must contain a complete description of the proposed use of the animals. \n \nTo be corrected by 9/11/2021. \n \nThis inspection and exit briefing was conducted with the Attending Veterinarian and IACUC representatives. \n \nEnd Section",
   "animals_total": 19,
   "species": [
     {

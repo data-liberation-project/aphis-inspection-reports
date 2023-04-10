@@ -1,6 +1,6 @@
 {
   "insp_id": "2016090000445425",
-  "layout": "a",
+  "layout": "b",
   "customer_id": "779",
   "customer_name": "PURDUE UNIVERSITY",
   "customer_addr": "410 SOUTH UNIVERSITY ST\nWEST LAFAYETTE, IN 47907",
@@ -10,6 +10,16 @@
   "insp_type": "FOCUSED INSPECTION",
   "date": "28-SEP-2020",
   "report_date": "30-SEP-2020",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An animal received dermatologic burns due to the use of a heating device during surgery. The device was not approved\nfor use on the IACUC approved protocol. Lesions on the hindlimb and flank were treated successfully.\nAn animal died due to the use of a dosing chart not approved for use on the IACUC approved protocol. The approved\nchart in the protocol was not used. The unapproved chart resulted in administration of an anticoagulant overdose. The\nanimal was treated, and appeared stable at the final evening check, but was found dead in the morning.\nDeviation from IACUC approved protocols may result in animal injury and death. A proposal to conduct an activity\ninvolving animals must contain a complete description of the proposed animal use.\nCorrect by: Corrected prior to the time of inspection\nThis inspection and exit interview were conducted with Facility Representative and other facility personnel.\nEnd Section"
+    }
+  ],
+  "narrative": "2.31(e)(3)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn animal received dermatologic burns due to the use of a heating device during surgery.  The device was not approved \nfor use on the IACUC approved protocol.  Lesions on the hindlimb and flank were treated successfully. \n \nAn animal died due to the use of a dosing chart not approved for use on the IACUC approved protocol.  The approved \nchart in the protocol was not used.  The unapproved chart resulted in administration of an anticoagulant overdose.  The \nanimal was treated, and appeared stable at the final evening check, but was found dead in the morning. \n \nDeviation from IACUC approved protocols may result in animal injury and death.  A proposal to conduct an activity \ninvolving animals must contain a complete description of the proposed animal use. \n \nCorrect by:  Corrected prior to the time of inspection \n \nThis inspection and exit interview were conducted with Facility Representative and other facility personnel. \n \nEnd Section",
   "animals_total": 0,
   "species": [
     {

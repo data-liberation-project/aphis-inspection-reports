@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000812461",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "328004",
   "customer_name": "OPERATIONAL MEDICINE CONSULTANTS L L C",
   "customer_addr": "3900 WESTERRE PKWY STE 300\nHENRICO, VA 23233",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "29-AUG-2022",
   "report_date": "30-AUG-2022",
+  "citations": [
+    {
+      "code": "2.31(e)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The facility's protocol does not contain the approximate number of animals to be used in the protocol. The protocol states\nthat the ratio of students to animals will be 4:1 but there is no overall number of animals to be used.\nAn overall approximate number of animals to be used in the protocol is critical information that needs to be provided to the\nIACUC while performing protocol review so they can assess the validity of the request and either deny, approve with\nmodifications, or approve the protocol.\nCorrect by September 27, 2022 by modifying the current protocol to include the approximate number of animals to be\nused, explain why that number of animals is being requested, and resubmit to the IACUC for approval, approval with\nmodifications, or denial.\nThis inspection and exit interview were conducted with the Institutional Officer.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(1) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe facility's protocol does not contain the approximate number of animals to be used in the protocol. The protocol states \nthat the ratio of students to animals will be 4:1 but there is no overall number of animals to be used. \nAn overall approximate number of animals to be used in the protocol is critical information that needs to be provided to the \nIACUC while performing protocol review so they can assess the validity of the request and either deny, approve with \nmodifications, or approve the protocol. \nCorrect by September 27, 2022 by modifying the current protocol to include the approximate number of animals to be \nused, explain why that number of animals is being requested, and resubmit to the IACUC for approval, approval with \nmodifications, or denial. \n \nThis inspection and exit interview were conducted with the Institutional Officer. \n \n n",
   "animals_total": 0,
   "species": [
     {

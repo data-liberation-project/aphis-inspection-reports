@@ -1,6 +1,6 @@
 {
   "insp_id": "2016090000721916",
-  "layout": "a",
+  "layout": "b",
   "customer_id": "1047",
   "customer_name": "LEGACY HEALTH",
   "customer_addr": "P. O. BOX 3950\nPORTLAND, OR 97208",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "23-SEP-2021",
   "report_date": "27-SEP-2021",
+  "citations": [
+    {
+      "code": "2.33(b)(4)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "An adverse event was reported to the IACUC. On 9/9/2021, a NHP was undergoing a procedure. During the procedure, a\nproblem with respirations was noted. It was discovered that during setup system checks of the anesthesia machine, the\npopoff valve was left closed. The step of reopening the popoff valve post-pressure check was missed. By the time it was\ndiscovered, the NHP had suffered fatal barotrauma to the lungs.\nFollowing approved procedural and safety protocols exactly is required for the safety of the animals and for the quality of\nthe science.\nThis was corrected prior to the inspection by retraining all personnel responsible for administering anesthesia, and by\nordering new safety valves for all the anesthesia machines that will be installed as soon as they arrive.\nThis inspection and exit interview were conducted with facility representatives.\nEnd Section"
+    }
+  ],
+  "narrative": "2.33(b)(4)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nAn adverse event was reported to the IACUC. On 9/9/2021, a NHP was undergoing a procedure. During the procedure, a \nproblem with respirations was noted. It was discovered that during setup system checks of the anesthesia machine, the \npopoff valve was left closed. The step of reopening the popoff valve post-pressure check was missed. By the time it was \ndiscovered, the NHP had suffered fatal barotrauma to the lungs. \nFollowing approved procedural and safety protocols exactly is required for the safety of the animals and for the quality of \nthe science. \nThis was corrected prior to the inspection by retraining all personnel responsible for administering anesthesia, and by \nordering new safety valves for all the anesthesia machines that will be installed as soon as they arrive. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nEnd Section",
   "animals_total": 50,
   "species": [
     {
