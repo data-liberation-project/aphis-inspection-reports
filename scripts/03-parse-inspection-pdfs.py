@@ -376,17 +376,6 @@ def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
                 json.dump(results, f, indent=2)
 
 
-def combine() -> None:
-    def load(path: Path) -> tuple[str, dict[str, typing.Any]]:
-        with open(path) as f:
-            return (path.stem, json.load(f))
-
-    paths = sorted(Path("data/parsed/inspections/").glob("*.json"))
-    combined = dict(map(load, paths))
-    with open("data/parsed/inspections.json", "w") as f:
-        json.dump(combined, f, indent=2)
-
-
 def main() -> None:
     args = parse_args()
     if args.test:
@@ -396,7 +385,6 @@ def main() -> None:
             sys.stdout.write("\n")
     else:
         parse_all(overwrite=args.overwrite, start=args.start)
-        combine()
 
 
 if __name__ == "__main__":

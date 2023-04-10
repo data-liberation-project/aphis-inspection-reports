@@ -32,14 +32,19 @@ convert_parsed = make_converter("pdf", ["species", "narrative", "citations"], []
 convert_doccloud = make_converter("doccloud", [], [])
 
 
+def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
+    with open(path) as f:
+        return (path.stem, json.load(f))
+
+
 def main() -> None:
     # Get web-fetched data
     with open(DATA_DIR / "fetched" / "inspections.csv") as f:
         fetched_data = list(csv.DictReader(f))
 
     # Get data parsed from PDFs
-    with open(DATA_DIR / "parsed" / "inspections.json") as f:
-        parsed_data = json.load(f)
+    parsed_paths = sorted(Path("data/parsed/inspections/").glob("*.json"))
+    parsed_data = dict(map(load_json, parsed_paths))
 
     # Get DocCloud URLs
     with open(DATA_DIR / "doccloud" / "inspections.json") as f:
