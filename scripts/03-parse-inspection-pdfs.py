@@ -186,7 +186,7 @@ class Citation:
         assert self.desc
         self.narrative += "\n" + text
 
-    def to_dict(self) -> dict[str, str | bool]:
+    def to_dict(self) -> dict[str, typing.Union[str, bool]]:
         return dict(
             code=self.code,
             kind=(self.kind or "").strip().title(),
@@ -198,7 +198,7 @@ class Citation:
 
 def get_report_body(
     pages: list[pdfplumber.page.Page], layout: str
-) -> tuple[list[dict[str, str | bool]], str]:
+) -> tuple[list[dict[str, typing.Union[str, bool]]], str]:
     full_text: list[str] = []
     citations: list[Citation] = []
     for i, page in enumerate(pages):
