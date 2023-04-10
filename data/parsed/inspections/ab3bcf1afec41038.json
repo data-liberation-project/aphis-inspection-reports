@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000851500",
+  "layout": "b",
+  "customer_id": "6266",
+  "customer_name": "St Louis County Parks",
+  "customer_addr": "41 S Central 7th Floor\nSAINT LOUIS, MO 63105",
+  "certificate": "43-C-0151",
+  "site_id": "002",
+  "site_name": "ST. LOUIS COUNTY -SUSON PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAR-2023",
+  "report_date": "13-MAR-2023",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}

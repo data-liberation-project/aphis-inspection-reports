@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851461",
+  "layout": "b",
+  "customer_id": "35591",
+  "customer_name": "Charles Williams",
+  "customer_addr": "11742 C R 7830\nCaulfield, MO 65626",
+  "certificate": "43-A-4832",
+  "site_id": "001",
+  "site_name": "CHARLES WILLIAMS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "10-MAR-2023",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 35,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

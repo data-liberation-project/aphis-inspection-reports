@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851381",
+  "layout": "b",
+  "customer_id": "334937",
+  "customer_name": "Mike Boggan",
+  "customer_addr": "1625 Ranch Road 403\nLoop, TX 79342",
+  "certificate": "74-A-1522",
+  "site_id": "001",
+  "site_name": "Mike Boggan",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "13-MAR-2023",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
