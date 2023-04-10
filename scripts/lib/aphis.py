@@ -16,8 +16,6 @@ urllib3.disable_warnings()
 
 AURA_URL = "https://efile.aphis.usda.gov/PublicSearchTool/s/sfsites/aura"
 
-FWUID = "f-ORwbkOzgxJoD8-NarJXg"
-
 HEADERS = {
     "User-Agent": "The Data Liberation Project (data-liberation-project.org)",
     "Accept": "*/*",
@@ -32,7 +30,6 @@ HEADERS = {
 
 AURA_CONTEXT = {
     "mode": "PROD",
-    "fwuid": FWUID,
     "app": "siteforce:communityApp",
     "loaded": {
         ("APPLICATION@markup://" "siteforce:communityApp"): "11hSeJMz5y2BtbPLHOZFww",
@@ -46,6 +43,22 @@ AURA_CONTEXT = {
 }
 
 
+@retry(tries=3, delay=30)
+def get_fwuid() -> str:
+    url = "https://aphis-efile.force.com/PublicSearchTool/s/inspection-reports"
+    res = requests.get(url)
+    html = res.content.decode("utf-8")
+    match = re.search("%22fwuid%22%3A%22([^%]+)%22%2C", html)
+    if match is None:
+        raise ValueError("Cannot find fwuid.")
+    fwuid = match.group(1)
+    return fwuid
+
+
+def set_fwuid() -> None:
+    AURA_CONTEXT["fwuid"] = get_fwuid()
+
+
 def make_inspection_payload(
     index: int, criteria: dict[str, typing.Any]
 ) -> dict[str, str]:
@@ -57,6 +70,9 @@ def make_inspection_payload(
         },
     }
 
+    if "fwuid" not in AURA_CONTEXT:
+        raise ValueError("fwuid has not yet been set; set via lib.aphis.set_fwuid.")
+
     return {
         "message": '{"actions":[' + json.dumps(action) + "]}",
         "aura.context": json.dumps(AURA_CONTEXT),
@@ -64,7 +80,13 @@ def make_inspection_payload(
     }
 
 
-@retry(tries=10, delay=30)
+class BadResponse(Exception):
+    pass
+
+
+@retry(
+    exceptions=(BadResponse, requests.exceptions.JSONDecodeError), tries=10, delay=30
+)
 def fetch(
     index: int, criteria: dict[str, typing.Any], timeout: int = 60
 ) -> dict[str, typing.Any]:
@@ -76,9 +98,13 @@ def fetch(
         verify=False,
         timeout=timeout,
     )
+    decoded = res.content.decode("utf-8")
+    if re.search(r"Framework has been updated. Expected:", decoded):
+        raise ValueError("FWUID needs updating")
+
     res_data: typing.Optional[dict[str, str]] = res.json()["actions"][0]["returnValue"]
     if res_data is None:
-        raise ValueError(json.dumps(res.json(), indent=2))
+        raise BadResponse(json.dumps(res.json(), indent=2))
     return res_data
 
 
