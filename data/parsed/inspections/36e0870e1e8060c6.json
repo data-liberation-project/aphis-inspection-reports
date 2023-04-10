@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000812588",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "321189",
   "customer_name": "INTERVET INC",
   "customer_addr": "2 GIRALDA FARMS\nMADISON, NJ 07940",
@@ -10,6 +10,23 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "22-AUG-2022",
   "report_date": "01-SEP-2022",
+  "citations": [
+    {
+      "code": "2.32(a)",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Personnel qualifications.",
+      "narrative": "On January 21, 2022, 5 hamsters were found deceased in their enclosure. An investigation determined a caretaker had\nnot properly slid an enclosure completely into the rack system which caused a flap at the back of the enclosure to\nimproperly engage the lixit waterer, causing it to run and fill the enclosure below which contained the 5 hamsters.\nCorrective actions taken have included retraining the staff, replacing the enclosures with a newer model, adding\nenrichment which provides an elevated space for the hamsters, and redesigning the rack system to ensure enclosures\nare always properly engaged.\nIt shall be the responsibility of the research facility to ensure that all scientists, research technicians, animal technicians,\nand other personnel involved in animal care, treatment, and use are qualified to perform their duties. This responsibility\nshall be fulfilled in part through the provision of training and instruction to those personnel."
+    },
+    {
+      "code": "3.25(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "On February 7, 2022, two hamsters were found deceased in their enclosure. It was determined that the hamsters died of\ndehydration. An investigation found that a rusty quick-connect fitting between the main water line and the rack system\nhad caused a decrease in water pressure to the rack and resulted in no water reaching the enclosure containing the two\nhamsters. Further investigation by the facility found that these fittings were not designed for water systems and that there\nwere several of these fittings in use throughout the facility. All the fittings in the facility were changed to new ones\ndesigned for use in watering systems and no further issues have been reported.\nHamsters housed in enclosures in rack systems rely on the structural integrity of that system to ensure the proper delivery\nof water. Facilities for hamsters need to be structurally sound and maintained in good repair to protect them from injury.\nThis inspection and exit interview were conducted with the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.32(a)  Critical Repeat\n   \nPersonnel qualifications. \nOn January 21, 2022, 5 hamsters were found deceased in their enclosure.  An investigation determined a caretaker had \nnot properly slid an enclosure completely into the rack system which caused a flap at the back of the enclosure to \nimproperly engage the lixit waterer, causing it to run and fill the enclosure below which contained the 5 hamsters.  \nCorrective actions taken have included retraining the staff, replacing the enclosures with a newer model, adding \nenrichment which provides an elevated space for the hamsters, and redesigning the rack system to ensure enclosures \nare always properly engaged. \nIt shall be the responsibility of the research facility to ensure that all scientists, research technicians, animal technicians, \nand other personnel involved in animal care, treatment, and use are qualified to perform their duties. This responsibility \nshall be fulfilled in part through the provision of training and instruction to those personnel. \n3.25(a)  Critical\n   \nFacilities, general. \nOn February 7, 2022, two hamsters were found deceased in their enclosure.  It was determined that the hamsters died of \ndehydration.  An investigation found that a rusty quick-connect fitting between the main water line and the rack system \nhad caused a decrease in water pressure to the rack and resulted in no water reaching the enclosure containing the two\n\nhamsters.  Further investigation by the facility found that these fittings were not designed for water systems and that there \nwere several of these fittings in use throughout the facility.  All the fittings in the facility were changed to new ones \ndesigned for use in watering systems and no further issues have been reported. \nHamsters housed in enclosures in rack systems rely on the structural integrity of that system to ensure the proper delivery \nof water. Facilities for hamsters need to be structurally sound and maintained in good repair to protect them from injury. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
   "animals_total": 898,
   "species": [
     {

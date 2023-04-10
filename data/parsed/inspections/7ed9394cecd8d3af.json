@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000851162",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "333902",
   "customer_name": "Robert Humbert",
   "customer_addr": "6570 Mann Rd.\nAkron, NY 14001",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "02-MAR-2023",
   "report_date": "02-MAR-2023",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "There is a section of the wire mesh for the fox enclosure that is separated from the roof and is falling into the enclosure.\nThis downed section of mesh creates an avenue for the foxes to climb out of the enclosure and potentially escape. This\nsection of mesh must be maintained in good repair to effectively contain the foxes.\nCorrect by: March 3, 2023\nThis inspection and exit interview were conducted with the licensee.\nEnd Section"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nThere is a section of the wire mesh for the fox enclosure that is separated from the roof and is falling into the enclosure. \nThis downed section of mesh creates an avenue for the foxes to climb out of the enclosure and potentially escape. This \nsection of mesh must be maintained in good repair to effectively contain the foxes.  \nCorrect by: March 3, 2023 \n \nThis inspection and exit interview were conducted with the licensee. \n \nEnd Section",
   "animals_total": 10,
   "species": [
     {

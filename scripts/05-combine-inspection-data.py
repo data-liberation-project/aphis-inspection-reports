@@ -28,8 +28,13 @@ convert_fetched = make_converter(
     ["hash_id", "discovered"],  # Derived columns
 )
 
-convert_parsed = make_converter("pdf", ["species"], [])
+convert_parsed = make_converter("pdf", ["species", "narrative", "citations"], [])
 convert_doccloud = make_converter("doccloud", [], [])
+
+
+def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
+    with open(path) as f:
+        return (path.stem, json.load(f))
 
 
 def main() -> None:
@@ -38,14 +43,16 @@ def main() -> None:
         fetched_data = list(csv.DictReader(f))
 
     # Get data parsed from PDFs
-    with open(DATA_DIR / "parsed" / "inspections.json") as f:
-        parsed_data = json.load(f)
+    parsed_paths = sorted(Path("data/parsed/inspections/").glob("*.json"))
+    parsed_data = dict(map(load_json, parsed_paths))
 
     # Get DocCloud URLs
     with open(DATA_DIR / "doccloud" / "inspections.json") as f:
         doccloud_data = json.load(f)
 
     all_species = []
+    all_citations = []
+    all_narratives = []
 
     with open(DATA_DIR / "combined" / "inspections.csv", "w") as f:
         fieldnames = (
@@ -91,6 +98,15 @@ def main() -> None:
                         continue
                     all_species.append({"hash_id": hash_id, **s})
 
+                if parsed["citations"]:
+                    for v in parsed["citations"]:
+                        all_citations.append({"hash_id": hash_id, **v})
+
+                if parsed["narrative"]:
+                    all_narratives.append(
+                        {"hash_id": hash_id, "narrative": parsed["narrative"]}
+                    )
+
             doccloud = doccloud_data.get(hash_id, {"url": ""})
 
             c = {
@@ -113,6 +129,18 @@ def main() -> None:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_species)
+
+    with open(DATA_DIR / "combined" / "inspections-citations.csv", "w") as f:
+        fieldnames = ["hash_id", "code", "kind", "repeat", "desc", "narrative"]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_citations)
+
+    with open(DATA_DIR / "combined" / "inspections-narratives.csv", "w") as f:
+        fieldnames = ["hash_id", "narrative"]
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_narratives)
 
 
 if __name__ == "__main__":

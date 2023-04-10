@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000822181",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "842",
   "customer_name": "NORTH CAROLINA STATE UNIVERSITY",
   "customer_addr": "CAMPUS BOX 7514\nRALEIGH, NC 27695",
@@ -10,6 +10,23 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "17-OCT-2022",
   "report_date": "19-OCT-2022",
+  "citations": [
+    {
+      "code": "2.33(b)(3)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "Daily veterinary observations and husbandry care for two hamsters did not occur on a Sunday. Based on an IACUC\ninvestigation report, a scheduling error led to this incident. No negative physiological effects were noted upon the\ndiscovery of the weekend day oversight the following day. The hamsters had adequate water and feed over the weekend.\nThe IACUC approved a corrective action plan to prevent future occurrences of missed daily observations and husbandry.\nNot providing daily observations of the animals can lead to negative effects on the health and wellbeing of the animals."
+    },
+    {
+      "code": "3.129(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "Several rooms of swine housed in the finger barns had unsanitary food receptacles, which were contaminated with grime\nand brown material. Unclean food receptacles can be a source for infection and disease transmission. Per the\nregulations, food receptacles shall be kept clean and sanitary at all times. Corrected during inspection.\nThis inspection (17-18Oct2022) and exit interview (18Oct2022) were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(3)  Repeat\n   \nAttending veterinarian and adequate veterinary care. \nDaily veterinary observations and husbandry care for two hamsters did not occur on a Sunday. Based on an IACUC \ninvestigation report, a scheduling error led to this incident. No negative physiological effects were noted upon the \ndiscovery of the weekend day oversight the following day. The hamsters had adequate water and feed over the weekend.  \nThe IACUC approved a corrective action plan to prevent future occurrences of missed daily observations and husbandry. \nNot providing daily observations of the animals can lead to negative effects on the health and wellbeing of the animals. \n3.129(b) \n   \nFeeding. \nSeveral rooms of swine housed in the finger barns had unsanitary food receptacles, which were contaminated with grime \nand brown material.  Unclean food receptacles can be a source for infection and disease transmission. Per the \nregulations, food receptacles shall be kept clean and sanitary at all times. Corrected during inspection. \n \nThis inspection (17-18Oct2022) and exit interview (18Oct2022) were conducted with facility representatives. \n \n n",
   "animals_total": 537,
   "species": [
     {

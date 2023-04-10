@@ -1,6 +1,6 @@
 {
   "insp_id": "2016090000631521",
-  "layout": "a",
+  "layout": "b",
   "customer_id": "502015",
   "customer_name": "EMBRYOTECH LABORATORIES INC",
   "customer_addr": "140 HALE STREET\nHAVERHILL, MA 01830",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "15-JUN-2021",
   "report_date": "17-JUN-2021",
+  "citations": [
+    {
+      "code": "3.26(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, indoor.",
+      "narrative": "On June 10th, 2021, the ambient temperature in the hamster room reached 30\u00b0C (86\u00b0 F). Ambient temperatures in\nhamster facilities shall not be allowed to exceed 85\u00b0 F to provide for their health and comfort.\nCorrective measures had been instituted by the facility at the time of this inspection. To remain corrected from this date\nforward.\nThis inspection and exit interview were conducted on June 15th with the IACUC Chair.\nEnd Section"
+    }
+  ],
+  "narrative": "3.26(a) \n   \nFacilities, indoor. \nOn June 10th, 2021, the ambient temperature in the hamster room reached 30\u00b0C (86\u00b0 F). Ambient temperatures in \nhamster facilities shall not be allowed to exceed 85\u00b0 F to provide for their health and comfort. \n \nCorrective measures had been instituted by the facility at the time of this inspection. To remain corrected from this date \nforward. \n \nThis inspection and exit interview were conducted on June 15th with the IACUC Chair. \n \nEnd Section",
   "animals_total": 50,
   "species": [
     {

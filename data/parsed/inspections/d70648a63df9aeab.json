@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000833087",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "601718",
   "customer_name": "Bayside Preclinical Services, Inc",
   "customer_addr": "P.O. Box 4051\nDavis, CA 95617",
@@ -10,6 +10,23 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "13-DEC-2022",
   "report_date": "23-DEC-2022",
+  "citations": [
+    {
+      "code": "2.31(d)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC)",
+      "narrative": "Two protocols were approved by designated member review process on 9 Nov 22 and 5 Dec 22. The designated\nmember who reviewed the protocol is personally involved in the activity and is listed as test facility personnel on the first\npage of the protocol. No member may participate in the IACUC review or approval of an activity in which that member\nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the\nIACUC, nor may a member has a conflicting interest contribute to the constitution of a quorum.\nCorrect for all future protocols."
+    },
+    {
+      "code": "2.134(a)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "The contingency plan referred to responsible persons in Annex A, but the Annex was missing. There was no clear chain\nof command identified who will be responsible for fulfilling these tasks as required by the Animal Welfare Regulations. In\nthe event of an emergency, a clearly identified chain of command is important to take responsibility to provide for the\nhumans handling, treatment, transportation, housing and care of their animals.\nCorrect by 15 January 2023\nThis inspection and exit interview were conducted with IACUC personnel and owners.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC) \nTwo protocols were approved by designated member review process on 9 Nov 22 and 5 Dec 22.  The designated \nmember who reviewed the protocol is personally involved in the activity and is listed as test facility personnel on the first \npage of the protocol.  No member may participate in the IACUC review or approval of an activity in which that member \nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the \nIACUC, nor may a member has a conflicting interest contribute to the constitution of a quorum. \n \nCorrect for all future protocols. \n2.134(a)(3) \n   \nContingency planning. \nThe contingency plan referred to responsible persons in Annex A, but the Annex was missing.  There was no clear chain \nof command identified who will be responsible for fulfilling these tasks as required by the Animal Welfare Regulations.  In \nthe event of an emergency, a clearly identified chain of command is important to take responsibility to provide for the \nhumans handling, treatment, transportation, housing and care of their animals.\n\nCorrect by 15 January 2023 \n \nThis inspection and exit interview were conducted with IACUC personnel and owners. \n \n n",
   "animals_total": 6,
   "species": [
     {

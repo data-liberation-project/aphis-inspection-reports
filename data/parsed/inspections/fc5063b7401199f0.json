@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000824171",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "112",
   "customer_name": "Boston University",
   "customer_addr": "85 East Newton St., Room 426\nBoston, MA 02118",
@@ -10,6 +10,16 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "18-OCT-2022",
   "report_date": "21-OCT-2022",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol 201800091 includes a blood collection method requiring anesthesia in chinchillas. According to the IACUC\napproved protocol, researchers are approved to collect blood twice per animal, a minimum of 5 days apart. Review of\nrecords for 4 animals observed at the time of USDA inspection reveals that blood collection was conducted on 10/13,\n10/17, 10/18, and 10/20. Increasing the frequency of blood collection constitutes a significant change regarding the use of\nanimals in an ongoing activity that was not reviewed or approved by the committee.\nThe protocol also describes a middle ear fluid collection procedure that includes 48 hours of post-procedural analgesia\nafter the first collection. The records indicate that for this same group of 4 animals, the first middle ear fluid collection was\nconducted on 10/17, but analgesia was not administered on the second day post-procedure (10/19). No concerns of\nanimal health were noted on clinical observation of these animals by veterinary and lab staff on that date. Failure to\nprovide post-procedural care according to the protocol is a significant change regarding the care of animals in an ongoing\nactivity that was not reviewed by the committee.\nThe committee must ensure that all significant changes regarding the care and use of animals in ongoing activities are\nreviewed and approved prior to implementation.\nTo be corrected by December 21st, 2022.\nThis inspection and exit briefing was conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol 201800091 includes a blood collection method requiring anesthesia in chinchillas. According to the IACUC \napproved protocol, researchers are approved to collect blood twice per animal, a minimum of 5 days apart. Review of \nrecords for 4 animals observed at the time of USDA inspection reveals that blood collection was conducted on 10/13, \n10/17, 10/18, and 10/20. Increasing the frequency of blood collection constitutes a significant change regarding the use of \nanimals in an ongoing activity that was not reviewed or approved by the committee. \n \nThe protocol also describes a middle ear fluid collection procedure that includes 48 hours of post-procedural analgesia \nafter the first collection. The records indicate that for this same group of 4 animals, the first middle ear fluid collection was \nconducted on 10/17, but analgesia was not administered on the second day post-procedure (10/19). No concerns of \nanimal health were noted on clinical observation of these animals by veterinary and lab staff on that date. Failure to \nprovide post-procedural care according to the protocol is a significant change regarding the care of animals in an ongoing \nactivity that was not reviewed by the committee.\n\nThe committee must ensure that all significant changes regarding the care and use of animals in ongoing activities are \nreviewed and approved prior to implementation. \n \nTo be corrected by December 21st, 2022. \n \nThis inspection and exit briefing was conducted with facility representatives. \n \n n",
   "animals_total": 446,
   "species": [
     {

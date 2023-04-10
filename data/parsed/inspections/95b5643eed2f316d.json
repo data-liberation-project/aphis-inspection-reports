@@ -1,6 +1,6 @@
 {
   "insp_id": "2016090000770616",
-  "layout": "a",
+  "layout": "b",
   "customer_id": "1835",
   "customer_name": "UNIVERSITY OF COLORADO-BOULDER",
   "customer_addr": "2860 Wilderness Place, 603 UCB / Room 122\nBOULDER, CO 80301",
@@ -10,6 +10,23 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "16-SEP-2021",
   "report_date": "10-MAR-2022",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "In a recent amendment to the vole protocol, dexamethasone was added to the post-surgical procedures without a\ncomplete description of how it would be used in the study. At the time of inspection, the lab stated that the\ndexamethasone was only being used in half of the animals undergoing a specific surgical procedure in order to test if it\nimproved outcomes. The amendment that was approved does not describe this process or which animals would receive\nthe dexamethasone. The designated member that approved this amendment believed that dexamethasone was being\nadded for every vole undergoing the procedure. Additionally, the route of administration for the dexamethasone in the\nprotocol does not match the standard operating procedure (SOP) that the lab uses for post-operative care. This SOP is\nnot mentioned in the protocol.\nA complete description of the use of the animals is necessary in a protocol to ensure that all research staff and IACUC\nmembers are aware of the details regarding the study activities being conducted on the animals and the parameters in\nplace to assure the health and comfort of the animals. In addition, the IACUC members need a complete description to\nunderstand the proposed use of the animals in order to approve the protocol and to assure compliance with regulatory\nrequirements. This protocol must be amended to give a complete and accurate description of intended animal use.\nTo be corrected by 30 September 2021."
+    },
+    {
+      "code": "2.32(c)(1)(iii)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "On July 23, 2021, one adult prairie vole was found dead following a surgical procedure outlined in an IACUC approved\nprotocol. The study protocol was recently amended to include the use of dexamethasone in post-surgical care for up to\nseven days; however, the amount administered during two doses was above the dose specified. The volume given to the\nvole was calculated based on a diluted solution of dexamethasone, but was drawn from a non-diluted source, resulting in\nthe administration of 100 times the approved dose.\nIt is the responsibility of the research facility to provide training and instruction to all personnel with sufficient frequency to\nfulfill the research facility\u2019s responsibility. The facility must devise a plan to ensure adequate training in the proper pre-\nprocedural and post-procedural care of animals for all employees.\nTo be corrected by 23 September 2021.\nThis inspection and exit interview were conducted with facility representatives.\nEnd Section"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIn a recent amendment to the vole protocol, dexamethasone was added to the post-surgical procedures without a \ncomplete description of how it would be used in the study. At the time of inspection, the lab stated that the \ndexamethasone was only being used in half of the animals undergoing a specific surgical procedure in order to test if it \nimproved outcomes. The amendment that was approved does not describe this process or which animals would receive \nthe dexamethasone. The designated member that approved this amendment believed that dexamethasone was being \nadded for every vole undergoing the procedure. Additionally, the route of administration for the dexamethasone in the \nprotocol does not match the standard operating procedure (SOP) that the lab uses for post-operative care. This SOP is \nnot mentioned in the protocol. \nA complete description of the use of the animals is necessary in a protocol to ensure that all research staff and IACUC \nmembers are aware of the details regarding the study activities being conducted on the animals and the parameters in \nplace to assure the health and comfort of the animals. In addition, the IACUC members need a complete description to \nunderstand the proposed use of the animals in order to approve the protocol and to assure compliance with regulatory \nrequirements. This protocol must be amended to give a complete and accurate description of intended animal use. \nTo be corrected by 30 September 2021.\n\n2.32(c)(1)(iii)  Critical\n   \nPersonnel qualifications. \nOn July 23, 2021, one adult prairie vole was found dead following a surgical procedure outlined in an IACUC approved \nprotocol. The study protocol was recently amended to include the use of dexamethasone in post-surgical care for up to \nseven days; however, the amount administered during two doses was above the dose specified. The volume given to the \nvole was calculated based on a diluted solution of dexamethasone, but was drawn from a non-diluted source, resulting in \nthe administration of 100 times the approved dose. \nIt is the responsibility of the research facility to provide training and instruction to all personnel with sufficient frequency to \nfulfill the research facility\u2019s responsibility. The facility must devise a plan to ensure adequate training in the proper pre-\nprocedural and post-procedural care of animals for all employees. \nTo be corrected by 23 September 2021. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nEnd Section",
   "animals_total": 343,
   "species": [
     {

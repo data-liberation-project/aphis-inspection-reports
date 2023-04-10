@@ -1,6 +1,6 @@
 {
   "insp_id": "INS-0000851257",
-  "layout": "b",
+  "layout": "c",
   "customer_id": "114",
   "customer_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
   "customer_addr": "77 MASSACHUSETTS AVENUE, 3-234\nCAMBRIDGE, MA 02139",
@@ -10,6 +10,30 @@
   "insp_type": "ROUTINE INSPECTION",
   "date": "01-MAR-2023",
   "report_date": "08-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(iii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol #2210000429 does not contain a written assurance from the principal investigator that the proposed activities do\nnot unnecessarily duplicate previous experiments. The protocol received IACUC approval on December 16th, 2022.\nWhen reviewing proposed activities involving animals, the IACUC must ensure that proposed activities contain written\nassurance from the investigator that the activities do not unnecessarily duplicate previous experiments.\nTo be corrected by April 15th, 2023."
+    },
+    {
+      "code": "2.33(b)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "Hamsters enrolled on protocol # 2203000011 are housed in individual enclosures in a temperature controlled hibernation\nchamber during one arm of the study. Observation of hibernating animals for problems of animal health and wellbeing\nincludes monitoring of data from implanted telemetric devices and observation by veterinary staff.\nIn the evening of December 28th, 2022, one hamster escaped its primary enclosure. This is reflected in the telemetric\ndata by a loss of active data collected cage-side, indicating that the telemetric device was out of range of the enclosure.\nNeither research personnel nor veterinary staff noted that the animal was missing until six days later on January 4th,\n2023, when veterinary staff observed damage to the enclosure and discovered that the animal was missing from its\nenclosure. On review of data recovered from the device, facility representatives determined that the animal was deceased\nas of December 29th.\nObservations being conducted on the hamsters in this housing arrangement were insufficient to identify that an animal\nwas not present in an enclosure for six days. Per this section of the regulations, all animals must be observed daily to\nassess their health and well being.\nIn response to this incident, enclosure security was refined, research personnel have modified the display of telemetric\ndata for easier daily evaluation, and veterinary staff are directly observing each hamster every day. To remain corrected\nfrom this date forward."
+    },
+    {
+      "code": "3.28(a)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "Hamsters enrolled on protocol #2203000011 are housed in primary enclosures within a temperature controlled\nhibernation chamber. New caging was developed for this arm of the study, which included an external clip on one side of\nthe cage to secure the lid in place, but according to facility representatives, on December 28th, 2022, one hamster was\nable to manipulate the lid enough to get on top of the food hopper area of the enclosure, subsequently chewing through\nthe lid to escape into the chamber. Ultimately, the animal died in the hibernation chamber on December 29th before it\ncould be recovered. The primary enclosure was not sufficiently structurally sound to protect the animal from injury\nsubsequent to its escape.\nIn response to this incident, the facility modified the chamber and refined enclosure security by ensuring both sides of the\nlid are secured tightly to the enclosure to prevent escape or injury. To remain corrected from this date forward.\nThis inspection and exit interview were conducted with facility representatives.\nEnd Section"
+    }
+  ],
+  "narrative": "2.31(d)(1)(iii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol #2210000429 does not contain a written assurance from the principal investigator that the proposed activities do \nnot unnecessarily duplicate previous experiments. The protocol received IACUC approval on December 16th, 2022. \nWhen reviewing proposed activities involving animals, the IACUC must ensure that proposed activities contain written \nassurance from the investigator that the activities do not unnecessarily duplicate previous experiments. \nTo be corrected by April 15th, 2023. \n2.33(b)(3) \n   \nAttending veterinarian and adequate veterinary care. \nHamsters enrolled on protocol # 2203000011 are housed in individual enclosures in a temperature controlled hibernation \nchamber during one arm of the study. Observation of hibernating animals for problems of animal health and wellbeing \nincludes monitoring of data from implanted telemetric devices and observation by veterinary staff.  \nIn the evening of December 28th, 2022, one hamster escaped its primary enclosure. This is reflected in the telemetric \ndata by a loss of active data collected cage-side, indicating that the telemetric device was out of range of the enclosure. \nNeither research personnel nor veterinary staff noted that the animal was missing until six days later on January 4th, \n2023, when veterinary staff observed damage to the enclosure and discovered that the animal was missing from its\n\nenclosure. On review of data recovered from the device, facility representatives determined that the animal was deceased \nas of December 29th.  \nObservations being conducted on the hamsters in this housing arrangement were insufficient to identify that an animal \nwas not present in an enclosure for six days. Per this section of the regulations, all animals must be observed daily to \nassess their health and well being.  \nIn response to this incident, enclosure security was refined, research personnel have modified the display of telemetric \ndata for easier daily evaluation, and veterinary staff are directly observing each hamster every day. To remain corrected \nfrom this date forward. \n3.28(a)(1)  Critical\n   \nPrimary enclosures. \nHamsters enrolled on protocol #2203000011 are housed in primary enclosures within a temperature controlled \nhibernation chamber. New caging was developed for this arm of the study, which included an external clip on one side of \nthe cage to secure the lid in place, but according to facility representatives, on December 28th, 2022, one hamster was \nable to manipulate the lid enough to get on top of the food hopper area of the enclosure, subsequently chewing through \nthe lid to escape into the chamber. Ultimately, the animal died in the hibernation chamber on December 29th before it \ncould be recovered. The primary enclosure was not sufficiently structurally sound to protect the animal from injury \nsubsequent to its escape.  \n \nIn response to this incident, the facility modified the chamber and refined enclosure security by ensuring both sides of the \nlid are secured tightly to the enclosure to prevent escape or injury. To remain corrected from this date forward. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nEnd Section",
   "animals_total": 1343,
   "species": [
     {
