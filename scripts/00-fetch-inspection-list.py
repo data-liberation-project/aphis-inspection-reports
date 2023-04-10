@@ -10,6 +10,7 @@ from lib.aphis import (
     add_hash_ids,
     deduplicate,
     iter_fetch_all,
+    set_fwuid,
     update_cache,
     write_results,
 )
@@ -38,6 +39,7 @@ def iter_char(
 
 
 def fetch_for_letter(letter: str) -> None:
+    set_fwuid()
     dest = Path(f"data/fetched/inspections-by-letter/{letter}.csv")
     if dest.exists():
         return

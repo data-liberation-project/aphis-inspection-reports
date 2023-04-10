@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000850912",
+  "layout": "b",
+  "customer_id": "3261",
+  "customer_name": "Worldwide Primates Inc",
+  "customer_addr": "P.O. Box 971279\nMiami, FL 33197",
+  "certificate": "58-B-0542",
+  "site_id": "001",
+  "site_name": "WORLDWIDE PRIMATES INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2023",
+  "report_date": "10-MAR-2023",
+  "animals_total": 6484,
+  "species": [
+    {
+      "count": 288,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 110,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 5837,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 207,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 30,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}

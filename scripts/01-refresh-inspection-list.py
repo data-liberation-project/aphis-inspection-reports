@@ -3,12 +3,14 @@ from lib.aphis import (
     deduplicate,
     fetch,
     iter_fetch_all,
+    set_fwuid,
     update_cache,
     write_results,
 )
 
 
 def main() -> None:
+    set_fwuid()
     search_total = fetch(0, {})["totalCount"]
     with open("data/fetched/inspections-search-total.txt", "w") as f:
         f.write(str(search_total))

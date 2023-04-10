@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851413",
+  "layout": "b",
+  "customer_id": "13006",
+  "customer_name": "WVC",
+  "customer_addr": "2425 EAST OQUENDO ROAD\nLAS VEGAS, NV 89120",
+  "certificate": "88-R-0003",
+  "site_id": "002",
+  "site_name": "WESTERN VETERINARY CONFERENCE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAR-2023",
+  "report_date": "10-MAR-2023",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

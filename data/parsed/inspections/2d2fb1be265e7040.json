@@ -1,0 +1,26 @@
+{
+  "insp_id": "INS-0000851457",
+  "layout": "b",
+  "customer_id": "11576",
+  "customer_name": "Donald Pullen",
+  "customer_addr": "440986 E 350 Rd\nBig Cabin, OK 74332",
+  "certificate": "73-B-1822",
+  "site_id": "001",
+  "site_name": "DONALD PULLEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-MAR-2023",
+  "report_date": "10-MAR-2023",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
