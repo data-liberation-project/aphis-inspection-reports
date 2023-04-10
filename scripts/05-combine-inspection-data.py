@@ -28,7 +28,7 @@ convert_fetched = make_converter(
     ["hash_id", "discovered"],  # Derived columns
 )
 
-convert_parsed = make_converter("pdf", ["species"], [])
+convert_parsed = make_converter("pdf", ["species", "narrative", "citations"], [])
 convert_doccloud = make_converter("doccloud", [], [])
 
 
