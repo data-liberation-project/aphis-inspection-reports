@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0000856350",
+  "layout": "c",
+  "customer_id": "634",
+  "customer_name": "MEDICAL COLLEGE OF WISCONSIN",
+  "customer_addr": "8701 WATERTOWN PLANK ROAD\nMILWAUKEE, WI 53226",
+  "certificate": "35-R-0029",
+  "site_id": "001",
+  "site_name": "MEDICAL COLLEGE OF WI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAR-2023",
+  "report_date": "16-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "**During a review of a guinea pig protocol the following was noted regarding the justification for the species and use of the\nanimals. The protocol indicated the rationale and appropriate species to be used would include specific characteristics\nthat make the best choice for utilizing the animals, however, the description of the rationale and species chosen was\nvague. The description of why the animals were utilized was not clearly defined in the protocol. The rationale for use\nand species utilized needs to be clearly defined in order for the IACUC to have a clear understanding of the rationale and\nspecies to be used for the proposed animal activity. It is the responsibility of the IACUC to review proposed animal\nactivities in order to ensure adherence to the requirements as set forth in this section.\nCorrect by: March 31, 2023\nThis inspection and exit interview were conducted with the attending veterinarian and facility representatives.\nAdditional Inspectors:\nDAWN BARKSDALE, VETERINARY MEDICAL OFFICEREnd Section"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \n**During a review of a guinea pig protocol the following was noted regarding the justification for the species and use of the \nanimals.  The protocol indicated the rationale and appropriate species to be used would include specific characteristics \nthat make the best choice for utilizing the animals, however, the description of the rationale and species chosen was \nvague.   The description of why the animals were utilized was not clearly defined in the protocol.  The rationale for use \nand species utilized needs to be clearly defined in order for the IACUC to have a clear understanding of the rationale and \nspecies to be used for the proposed animal activity.  It is the responsibility of the IACUC to review proposed animal \nactivities in order to ensure adherence to the requirements as set forth in this section. \n \nCorrect by: March 31, 2023 \n \nThis inspection and exit interview were conducted with the attending veterinarian and facility representatives. \n \nAdditional Inspectors: \nDAWN BARKSDALE, VETERINARY MEDICAL OFFICEREnd Section",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Spermophilus tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    },
+    {
+      "count": 22,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    },
+    {
+      "count": 8,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

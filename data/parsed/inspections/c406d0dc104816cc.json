@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000856381",
+  "layout": "c",
+  "customer_id": "326",
+  "customer_name": "Memorial Sloan-Kettering Cancer Center",
+  "customer_addr": "417 East 68th Street, 9th Floor, Suite 920\nNew York, NY 10065",
+  "certificate": "21-R-0072",
+  "site_id": "001",
+  "site_name": "RARC ZUCKERMAN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2023",
+  "report_date": "17-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A protocol identified during inspection contained potentially painful procedures for hamsters. The protocol did not contain\na consideration of alternatives to potentially painful procedures.\nThe IACUC must determine that the principal investigator has considered alternatives to procedures that may cause more\nthan momentary or slight pain or distress to the animals and has provided a written narrative description of the methods\nand sources used.\nCorrected at the time of inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA protocol identified during inspection contained potentially painful procedures for hamsters. The protocol did not contain \na consideration of alternatives to potentially painful procedures.  \nThe IACUC must determine that the principal investigator has considered alternatives to procedures that may cause more \nthan momentary or slight pain or distress to the animals and has provided a written narrative description of the methods \nand sources used. \nCorrected at the time of inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 28,
+      "scientific": "Cricetulus migratorius",
+      "common": "ARMENIAN HAMSTER / MIGRATORY HAMSTER"
+    }
+  ]
+}
