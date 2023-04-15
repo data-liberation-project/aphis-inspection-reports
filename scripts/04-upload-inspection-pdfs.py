@@ -17,6 +17,11 @@ CACHE_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
 
 
+def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
+    with open(path) as f:
+        return (path.stem, json.load(f))
+
+
 def main() -> None:
     """Upload all local PDFs not yet posted to DocumentCloud."""
 
@@ -25,8 +30,8 @@ def main() -> None:
         fetched_data = list(csv.DictReader(f))
 
     # Get everything that's been parsed
-    with open("data/parsed/inspections.json") as f:
-        parsed_data = json.load(f)
+    parsed_paths = sorted(Path("data/parsed/inspections/").glob("*.json"))
+    parsed_data = dict(map(load_json, parsed_paths))
 
     print(f"{len(parsed_data)} parsed documents found locally")
 
