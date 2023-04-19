@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000859374",
+  "layout": "c",
+  "customer_id": "1458",
+  "customer_name": "University of Houston",
+  "customer_addr": "Health & Biomedical Sciences Bulding 1\n4849 Calhoun Rd\nHOUSTON, TX 77204",
+  "certificate": "74-R-0020",
+  "site_id": "003",
+  "site_name": "University of Houston",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAR-2023",
+  "report_date": "22-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocols 201800039 and 16-007 are approved by the IACUC but have insufficient rationale for the appropriateness of the\nnumber of animals used.\nProtocol 201800039 refers only to how many animals have been used historically by the principal investigator to\ndetermine how many macaques will be used for this animal activity. The Amendment Summary (AMEND202300036) from\nsaid protocol states, under the \u201cJustify the number of animals to be involved in this protocol\u201d heading, \u201cOur estimate is\nfundamentally based on historic usage in our lab.\u201d\nProtocol 16-007 (experiments 6, 7, and 8 within this protocol) only list the number of animals used for each testing method\nwith no reference to how those numbers were determined.\nThe rationale/justification for the appropriateness of the numbers of animals used is vital to ensure an adequate\nrepresentation of the animal population to render useful research results, while also avoiding unnecessary overuse of the\nselected animal species. The Intuitional Animal Care and Use Committee (IACUC) must ensure any proposals to conduct\nan activity involving animals, or to make a significant change in an ongoing activity involving animals, must contain a\nrationale for involving animals, and for the appropriateness of the species and numbers of animals to be used.\nCorrect by: April 5, 2023\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nMARGARET SHAVER, VETERINARY MEDICAL OFFICEREnd Section"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocols 201800039 and 16-007 are approved by the IACUC but have insufficient rationale for the appropriateness of the \nnumber of animals used.  \n \nProtocol 201800039 refers only to how many animals have been used historically by the principal investigator to \ndetermine how many macaques will be used for this animal activity. The Amendment Summary (AMEND202300036) from \nsaid protocol states, under the \u201cJustify the number of animals to be involved in this protocol\u201d heading, \u201cOur estimate is \nfundamentally based on historic usage in our lab.\u201d  \n \nProtocol 16-007 (experiments 6, 7, and 8 within this protocol) only list the number of animals used for each testing method \nwith no reference to how those numbers were determined. \n \nThe rationale/justification for the appropriateness of the numbers of animals used is vital to ensure an adequate \nrepresentation of the animal population to render useful research results, while also avoiding unnecessary overuse of the \nselected animal species. The Intuitional Animal Care and Use Committee (IACUC) must ensure any proposals to conduct\n\nan activity involving animals, or to make a significant change in an ongoing activity involving animals, must contain a \nrationale for involving animals, and for the appropriateness of the species and numbers of animals to be used.  \n \nCorrect by: April 5, 2023 \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nMARGARET SHAVER, VETERINARY MEDICAL OFFICEREnd Section",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
