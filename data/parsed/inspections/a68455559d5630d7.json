@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000858307",
+  "layout": "c",
+  "customer_id": "10776",
+  "customer_name": "Science Museum of Long Island",
+  "customer_addr": "1526 N. Plandome Rd\nManhasset, NY 11030",
+  "certificate": "21-C-0222",
+  "site_id": "001",
+  "site_name": "Science Museum of Long Island",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAR-2023",
+  "report_date": "21-MAR-2023",
+  "citations": [
+    {
+      "code": "3.54(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "The rabbit food storage cannister contained dust-like white, sporous material in back corners, contacting the food pellets\nand active larvae were also seen. Contaminated food can lead to decreased diet quality which may cause disease or\nillness in the animals being fed. Food must free from contamination, wholesome, palatable and of sufficient quantity and\nnutritive value. Correct by 21 March 2023.\nThis inspection and exit interview were conducted with a facility representative.\nEnd Section"
+    }
+  ],
+  "narrative": "3.54(a) \n   \nFeeding. \nThe rabbit food storage cannister contained dust-like white, sporous material in back corners, contacting the food pellets \nand active larvae were also seen. Contaminated food can lead to decreased diet quality which may cause disease or \nillness in the animals being fed. Food must free from contamination, wholesome, palatable and of sufficient quantity and \nnutritive value. Correct by 21 March 2023. \n \nThis inspection and exit interview were conducted with a facility representative. \n \nEnd Section",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    }
+  ]
+}

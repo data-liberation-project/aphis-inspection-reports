@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000859400",
+  "layout": "c",
+  "customer_id": "41529",
+  "customer_name": "CITY OF FORT COLLINS",
+  "customer_addr": "600 N Sherwood St.\nFORT COLLINS, CO 80521",
+  "certificate": "84-C-0108",
+  "site_id": "001",
+  "site_name": "CITY OF FORT COLLINS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAR-2023",
+  "report_date": "23-MAR-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \nEnd Section",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
