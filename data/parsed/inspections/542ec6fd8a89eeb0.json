@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000859491",
+  "layout": "c",
+  "customer_id": "3281",
+  "customer_name": "Barry Coggins",
+  "customer_addr": "P O BOX 1187\nBRYSON CITY, NC 28713",
+  "certificate": "55-C-0118",
+  "site_id": "001",
+  "site_name": "BARRY COGGINS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-MAR-2023",
+  "report_date": "27-MAR-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the Manager. \n \nEnd Section",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    }
+  ]
+}
