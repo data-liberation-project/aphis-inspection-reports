@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000859537",
+  "layout": "c",
+  "customer_id": "1139",
+  "customer_name": "BioSurg",
+  "customer_addr": "27956 State Hwy 128\nWinters, CA 95694",
+  "certificate": "93-R-0200",
+  "site_id": "001",
+  "site_name": "BIOSURG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAR-2023",
+  "report_date": "28-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(2)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC)",
+      "narrative": "Records review indicated that on a study approved on 2/16/2021 the Institutional Animal Care and Use Committee\n(IACUC) approved four animals maximum for the protocol, and five animals were utilized on the protocol without\nadditional approval. An IACUC amendment changed the species from Bovine to Ovine, but did not increase the animal\nnumbers on 5/18/2021. The IACUC shall review and approve proposed activities or changes to activities involving the\ncare and use of animals.\nCorrect by 5 April, 2023\nThis inspection and exit interview were conducted with the Attending Vet and facility representatives.\nEnd Section"
+    }
+  ],
+  "narrative": "2.31(d)(2)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC) \nRecords review indicated that on a study approved on 2/16/2021 the Institutional Animal Care and Use Committee \n(IACUC) approved four animals maximum for the protocol, and five animals were utilized on the protocol without \nadditional approval.  An IACUC amendment changed the species from Bovine to Ovine, but did not increase the animal \nnumbers on 5/18/2021.  The IACUC shall review and approve proposed activities or changes to activities involving the \ncare and use of animals. \n \nCorrect by 5 April, 2023 \n \nThis inspection and exit interview were conducted with the Attending Vet and facility representatives. \n \nEnd Section",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
