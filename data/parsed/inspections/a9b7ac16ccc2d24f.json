@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000859628",
+  "layout": "c",
+  "customer_id": "6003475",
+  "customer_name": "Pet Palace",
+  "customer_addr": "3720 Hardy St, Suite #5\nHattiesburg, MS 39402",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Pet Palace",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-MAR-2023",
+  "report_date": "30-MAR-2023",
+  "citations": [
+    {
+      "code": "2.1(a)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Requirements and application.",
+      "narrative": "This is a search inspection.\nThe pet store currently sells regulated mammals (hedgehogs and sugar gliders) without a valid USDA license. The pet\nshop sold 1 hedgehog and 2 sugar gliders in March 2023, and has 4 hedgehogs for sale in the store today. The pet shop\nowner was previously contacted by USDA personnel and informed that a license is required to sell exotic pocket pets\nincluding hedgehogs and sugar gliders; an application with instructions was emailed to the store owner; and contact\ninformation for the local USDA inspector was provided.\nA valid license is necessary to protect the health and well-being of the animals and to comply with the Animal Welfare Act\nand Regulations. The facility needs to obtain a USDA license or discontinue regulated activities.\nNo regulated activities may be conducted until USDA license is obtained. The owner stated they will be applying for a\nUSDA license.\nThis inspection and exit interview were conducted with the owner.\nn"
+    }
+  ],
+  "narrative": "2.1(a)(1)  Critical\n   \nRequirements and application. \nThis is a search inspection. \nThe pet store currently sells regulated mammals (hedgehogs and sugar gliders) without a valid USDA license. The pet \nshop sold 1 hedgehog and 2 sugar gliders in March 2023, and has 4 hedgehogs for sale in the store today. The pet shop \nowner was previously contacted by USDA personnel and informed that a license is required to sell exotic pocket pets \nincluding hedgehogs and sugar gliders; an application with instructions was emailed to the store owner; and contact \ninformation for the local USDA inspector was provided.  \nA valid license is necessary to protect the health and well-being of the animals and to comply with the Animal Welfare Act \nand Regulations. The facility needs to obtain a USDA license or discontinue regulated activities. \nNo regulated activities may be conducted until USDA license is obtained. The owner stated they will be applying for a \nUSDA license. \n \nThis inspection and exit interview were conducted with the owner. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 0,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

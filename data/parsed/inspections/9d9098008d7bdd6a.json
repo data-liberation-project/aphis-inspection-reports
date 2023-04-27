@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000859662",
+  "layout": "c",
+  "customer_id": "329220",
+  "customer_name": "Pima Medical Institute",
+  "customer_addr": "40 N. Swan Road, Suite 100\nTUCSON, AZ 85711",
+  "certificate": "86-R-0042",
+  "site_id": "020",
+  "site_name": "PIMA MEDICAL INSTITUTE 020",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-MAR-2023",
+  "report_date": "30-MAR-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "At time of inspection, the report for the November 2022 semiannual evaluation was not signed by any of the IACUC\nmembers. An IACUC functions to assess a research facility's animal program, facilities and procedures in order to ensure\nanimal welfare. The registrant shall ensure that a majority of the IACUC members review and sign the semiannual\nreports. Correct by 28 April 2023."
+    },
+    {
+      "code": "2.38(l)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "At time of inspection, the registrant did not have documentation of training on the contingency plan for program\nemployees. Employees of the veterinary technician program must know their roles and responsibilities as outlined in the\ncontingency plan in order to ensure animal care and welfare in emergent events. The registrant must train personnel on\nthe contingency plan. Correct by 28 April 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAt time of inspection, the report for the November 2022 semiannual evaluation was not signed by any of the IACUC \nmembers.  An IACUC functions to assess a research facility's animal program, facilities and procedures in order to ensure \nanimal welfare. The registrant shall ensure that a majority of the IACUC members review and sign the semiannual \nreports.  Correct by 28 April 2023. \n2.38(l)(3) \n   \nMiscellaneous. \nAt time of inspection, the registrant did not have documentation of training on the contingency plan for program \nemployees.  Employees of the veterinary technician program must know their roles and responsibilities as outlined in the \ncontingency plan in order to ensure animal care and welfare in emergent events.  The registrant must train personnel on \nthe contingency plan.  Correct by 28 April 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
