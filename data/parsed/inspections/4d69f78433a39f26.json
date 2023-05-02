@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0000859552",
+  "layout": "c",
+  "customer_id": "640",
+  "customer_name": "Labcorp Early Development Laboratories Inc",
+  "customer_addr": "3301 KINSMAN BOULEVARD\nMADISON, WI 53704",
+  "certificate": "35-R-0030",
+  "site_id": "010",
+  "site_name": "Labcorp Early Development Laboratories Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-MAR-2023",
+  "report_date": "04-APR-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(8)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On December 21st, 2022, a supervisor identified a technician who reused a syringe filled with saline on multiple\nmacaques. According to the protocol, syringes may not be cleaned for re-use and for intravenous dosing, a new needle\nand syringe will be used for each animal.\nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be\nsubject to further appropriate review and approval by officials of the research facility.\nThis was corrected before the time of inspection through a corrective action plan and a retraining of the animal technician."
+    },
+    {
+      "code": "2.33(b)(3)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On September 23, 2022, a macaque was identified by an animal care technician as being lethargic and dehydrated. The\nanimal care technician immediately notified the Attending Veterinarian. The macaque was provided treatment, but it was\neuthanized.\nAccording to medical records, the macaque had loose feces or watery feces in the months of July, August, and\nSeptember. The Veterinary Care SOP states that if loose stool is identified over two days the veterinarian should be\nnotified. Loose or watery feces was noted in the macaque\u2019s medial record on July 17th and July 18th but there was no\nrecord of communicating this to the Attending Veterinarian.\nA mechanism of direct and frequent communication is required so that timely and accurate information on problems of\nanimal health, behavior, and well-being is conveyed to the attending veterinarian.\nThis was corrected before the time of inspection through a corrective action plan."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On November 16th, 2022, a macaque was identified for having a tight collar by the behaviorist. Medical records indicated\nthat the collar was last checked on October 3rd. According to facility representatives, the collar should have been\nchecked in a every twenty-eight-days. The collar was immediately removed. The macaque was reviewed, and abrasions\nwere identified. The abrasions were treated by the veterinary staff and the collar remained off until the area healed.\nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma,\noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort.\nThis was corrected before the time of inspection through a corrective action plan.\nThis inspection and exit interview were conducted with facility representatives.\nThis inspection was conducted March 28, 2023 to March 29, 2023.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(8) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn December 21st, 2022, a supervisor identified a technician who reused a syringe filled with saline on multiple \nmacaques.  According to the protocol, syringes may not be cleaned for re-use and for intravenous dosing, a new needle \nand syringe will be used for each animal.   \n \nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be \nsubject to further appropriate review and approval by officials of the research facility. \n \nThis was corrected before the time of inspection through a corrective action plan and a retraining of the animal technician. \n2.33(b)(3)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nOn September 23, 2022, a macaque was identified by an animal care technician as being lethargic and dehydrated.  The \nanimal care technician immediately notified the Attending Veterinarian.  The macaque was provided treatment, but it was \neuthanized.  \nAccording to medical records, the macaque had loose feces or watery feces in the months of July, August, and\n\nSeptember.  The Veterinary Care SOP states that if loose stool is identified over two days the veterinarian should be \nnotified.  Loose or watery feces was noted in the macaque\u2019s medial record on July 17th and July 18th but there was no \nrecord of communicating this to the Attending Veterinarian.   \n \nA mechanism of direct and frequent communication is required so that timely and accurate information on problems of \nanimal health, behavior, and well-being is conveyed to the attending veterinarian. \n \nThis was corrected before the time of inspection through a corrective action plan. \n2.38(f)(1) \n   \nMiscellaneous. \nOn November 16th, 2022, a macaque was identified for having a tight collar by the behaviorist.  Medical records indicated \nthat the collar was last checked on October 3rd.  According to facility representatives, the collar should have been \nchecked in a every twenty-eight-days.  The collar was immediately removed.  The macaque was reviewed, and abrasions \nwere identified.  The abrasions were treated by the veterinary staff and the collar remained off until the area healed.   \n \nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma, \noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort. \n \nThis was corrected before the time of inspection through a corrective action plan.\n\nThis inspection and exit interview were conducted with facility representatives. \n \nThis inspection was conducted March 28, 2023 to March 29, 2023. \n \n n",
+  "animals_total": 629,
+  "species": [
+    {
+      "count": 157,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 423,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 46,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
