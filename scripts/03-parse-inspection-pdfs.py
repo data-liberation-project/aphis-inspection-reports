@@ -367,13 +367,13 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
 
 
 def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
-    paths = sorted(Path("/pdfs/inspections/").glob("*.pdf"))
+    paths = sorted(Path("pdfs/inspections/").glob("*.pdf"))
     start_int = start or 0
     for i, path in enumerate(paths):
         if i < start_int:
             continue
 
-        dest = Path(f"/data/parsed/inspections/{path.stem}.json")
+        dest = Path(f"data/parsed/inspections/{path.stem}.json")
         if dest.exists() and not overwrite:
             continue
 
