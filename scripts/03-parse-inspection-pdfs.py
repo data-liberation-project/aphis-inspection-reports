@@ -184,6 +184,7 @@ class Citation:
     def add_narrative(self, text: str) -> None:
         assert self.heading
         assert self.desc
+
         self.narrative += "\n" + text
 
     def to_dict(self) -> dict[str, typing.Union[str, bool]]:
@@ -210,6 +211,8 @@ def get_report_body(
         for line_words in cluster_objects(words, "top", tolerance=0):
             first = line_words[0]
             text = " ".join(x["text"] for x in line_words)
+
+                
             addl = text.lower().strip(":") in [
                 "additional inspectors",  # Generic edge-case
                 "direct",  # Specific edge-case from hash_id:0db69ec135a5b244
@@ -229,6 +232,11 @@ def get_report_body(
 
         full_text.append(cropped.extract_text().strip())
 
+    if len(citations):
+        conclusion_patterns = r"(.*(exit interview|exit.*conducted|additional.*inspectors|end section|exit.*[facility representative | licensee]))"
+        res = re.search(conclusion_patterns, citations[-1].narrative.lower())
+        if res:
+            citations[-1].narrative = citations[-1].narrative[0:res.start()]
     return ([v.to_dict() for v in citations], "\n\n".join(full_text))
 
 
@@ -359,13 +367,13 @@ def parse(pdf: pdfplumber.pdf.PDF) -> dict[str, typing.Any]:
 
 
 def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
-    paths = sorted(Path("pdfs/inspections/").glob("*.pdf"))
+    paths = sorted(Path("../pdfs/inspections/").glob("*.pdf"))
     start_int = start or 0
     for i, path in enumerate(paths):
         if i < start_int:
             continue
 
-        dest = Path(f"data/parsed/inspections/{path.stem}.json")
+        dest = Path(f"../data/parsed/inspections/{path.stem}.json")
         if dest.exists() and not overwrite:
             continue
 
