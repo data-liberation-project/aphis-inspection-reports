@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000862736",
+  "layout": "c",
+  "customer_id": "37111",
+  "customer_name": "Iso-Tex Diagnostics, Inc.",
+  "customer_addr": "P. O. BOX 909\nFRIENDSWOOD, TX 77549",
+  "certificate": "74-R-0185",
+  "site_id": "001",
+  "site_name": "Iso-Tex Diagnostics Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-APR-2023",
+  "report_date": "07-APR-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "At the time of the inspection, the facility had two total active protocols pertaining to USDA covered species - one for the\nguinea pigs, and one for the rabbits. Neither protocol included a rationale for involving animals or the for the\nappropriateness of the species, which is important to ensure the procedures are appropriate for animal usage, the right\nspecies is chosen, and therefore the avoidance of unnecessary discomfort and/or pain. A proposal to conduct an activity\ninvolving animals, or to make a significant change in an ongoing activity involving animals, must contain a rationale for\ninvolving animals, and for the appropriateness of the species and numbers of animals to be used.\nCorrect by: May 5, 2023\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAt the time of the inspection, the facility had two total active protocols pertaining to USDA covered species - one for the \nguinea pigs, and one for the rabbits. Neither protocol included a rationale for involving animals or the for the \nappropriateness of the species, which is important to ensure the procedures are appropriate for animal usage, the right \nspecies is chosen, and therefore the avoidance of unnecessary discomfort and/or pain. A proposal to conduct an activity \ninvolving animals, or to make a significant change in an ongoing activity involving animals, must contain a rationale for \ninvolving animals, and for the appropriateness of the species and numbers of animals to be used. \n \nCorrect by: May 5, 2023 \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 0,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
