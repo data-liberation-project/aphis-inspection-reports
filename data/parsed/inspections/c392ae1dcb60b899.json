@@ -1,0 +1,50 @@
+{
+  "insp_id": "INS-0000861705",
+  "layout": "c",
+  "customer_id": "6002907",
+  "customer_name": "Jaybird Noel LLC",
+  "customer_addr": "9799 highway 80\nMorton, MS 39117",
+  "certificate": "65-R-0508",
+  "site_id": "001",
+  "site_name": "Jaybird Noel LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-APR-2023",
+  "report_date": "10-APR-2023",
+  "citations": [
+    {
+      "code": "2.31(b)(3)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC\u2019s unaffiliated member is the spouse of the Attending Veterinarian. The unaffiliated member must be\nunaffiliated in order to represent the general community interests in the proper care and use of animals. Correct by June\n5th, 2023 by having the Institutional Official appoint an individual to serve on the IACUC as an unaffiliated member; this\nperson must not be affiliated with the institution in any way other than as a member of the IACUC, and must not be a\nmember of the immediate family of a person who is affiliated with the institution."
+    },
+    {
+      "code": "2.31(c)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC failed to approve SOPs that govern animal care and use at the facility. There are currently 7 cats and 8 dogs\nthat are being held at the facility but are not on an active research protocol. The care of these animals is described in the\n\u201cCat/Dog Research SOP\u201d but this SOP has not been approved by the IACUC. IACUC review and approval of proposed\nanimal activities is important for ensuring oversight of animal care and use at the facility and compliance with the Animal\nWelfare Act. Correct by June 5th, 2023 by ensuring that the IACUC reviews and approves all animal care and use\nactivities before animals are used."
+    },
+    {
+      "code": "3.13(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The facility\u2019s Program of Veterinary Care for Dogs is not signed by the Attending Veterinarian (AV). Instead, it is signed by\nthe Institutional Official who also acts as a clinical veterinarian on site. The signature of the AV is important for ensuring\nthat contents of the plan are accurate and approved by the AV. Correct by June 5th, 2023 by obtaining the AV\u2019s signature\non the written Program of Veterinary Care for Dogs.\nThis inspection and exit interview were conducted with the IACUC chair.\nn"
+    }
+  ],
+  "narrative": "2.31(b)(3)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC\u2019s unaffiliated member is the spouse of the Attending Veterinarian. The unaffiliated member must be \nunaffiliated in order to represent the general community interests in the proper care and use of animals. Correct by June \n5th, 2023 by having the Institutional Official appoint an individual to serve on the IACUC as an unaffiliated member; this \nperson must not be affiliated with the institution in any way other than as a member of the IACUC, and must not be a \nmember of the immediate family of a person who is affiliated with the institution. \n2.31(c)(6) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC failed to approve SOPs that govern animal care and use at the facility. There are currently 7 cats and 8 dogs \nthat are being held at the facility but are not on an active research protocol. The care of these animals is described in the \n\u201cCat/Dog Research SOP\u201d but this SOP has not been approved by the IACUC. IACUC review and approval of proposed \nanimal activities is important for ensuring oversight of animal care and use at the facility and compliance with the Animal \nWelfare Act. Correct by June 5th, 2023 by ensuring that the IACUC reviews and approves all animal care and use \nactivities before animals are used. \n3.13(a) \n   \nVeterinary care for dogs.\n\nThe facility\u2019s Program of Veterinary Care for Dogs is not signed by the Attending Veterinarian (AV). Instead, it is signed by \nthe Institutional Official who also acts as a clinical veterinarian on site. The signature of the AV is important for ensuring \nthat contents of the plan are accurate and approved by the AV. Correct by June 5th, 2023 by obtaining the AV\u2019s signature \non the written Program of Veterinary Care for Dogs. \n \nThis inspection and exit interview were conducted with the IACUC chair. \n \n n",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

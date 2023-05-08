@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000859827",
+  "layout": "c",
+  "customer_id": "1153",
+  "customer_name": "SAN DIEGO MESA COLLEGE",
+  "customer_addr": "7250 MESA COLLEGE DRIVE, P-300\nSAN DIEGO, CA 92111",
+  "certificate": "93-R-0124",
+  "site_id": "001",
+  "site_name": "SAN DIEGO MESA COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-APR-2023",
+  "report_date": "10-APR-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A semiannual evaluation was performed in October 2022, and a corresponding report was prepared and submitted to the\nInstitutional Official (IO). However, this report to the IO was not signed by a majority of the IACUC members.\nSemiannual reports to the Institutional Official ensure that the IO is kept informed regarding the current status of the\nanimal program and facilities. The semiannual reports must be reviewed and signed by a majority of the IACUC members,\nand must include any minority views. This demonstrates consensus amongst the IACUC members, allows the opportunity\nfor communication of any minority views, and helps to ensure animal health and well-being.\nThe IACUC must prepare reports of its semiannual evaluations and submit the reports to the Institutional Official at least\nonce every six months upon completion of the required semiannual evaluations; These reports must be reviewed and\nsigned by a majority of the IACUC members, and must include any minority views.\nTo be corrected from this point forward.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA semiannual evaluation was performed in October 2022, and a corresponding report was prepared and submitted to the \nInstitutional Official (IO). However, this report to the IO was not signed by a majority of the IACUC members. \n \nSemiannual reports to the Institutional Official ensure that the IO is kept informed regarding the current status of the \nanimal program and facilities. The semiannual reports must be reviewed and signed by a majority of the IACUC members, \nand must include any minority views. This demonstrates consensus amongst the IACUC members, allows the opportunity \nfor communication of any minority views, and helps to ensure animal health and well-being. \n \nThe IACUC must prepare reports of its semiannual evaluations and submit the reports to the Institutional Official at least \nonce every six months upon completion of the required semiannual evaluations; These reports must be reviewed and \nsigned by a majority of the IACUC members, and must include any minority views. \n \nTo be corrected from this point forward. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
