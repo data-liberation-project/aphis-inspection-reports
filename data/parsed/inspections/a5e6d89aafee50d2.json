@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000864764",
+  "layout": "c",
+  "customer_id": "907",
+  "customer_name": "GEORGIA STATE UNIVERSITY",
+  "customer_addr": "58 EDGEWOOD AVENUE NE\nATL, GA 30303",
+  "certificate": "57-R-0012",
+  "site_id": "004",
+  "site_name": "PETIT SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-APR-2023",
+  "report_date": "14-APR-2023",
+  "citations": [
+    {
+      "code": "2.38(k)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "Three protocols were noted to contain exceptions to the standards of the Animal Welfare Act and Regulations that were\nnot specified or justified in the proposal to conduct the activity. Protocol A21019 involves Roborovskii hamsters being\nhoused in 5-inch-high cages instead of the required 6 inches. For protocols A22036 and A20029, nursing Syrian hamster\ncages can be sanitized at an interval greater than the required 14 days in order to not disturb the animals around the time\nof parturition. These exemptions were approved by the IACUC as general husbandry procedures for the given species but\nnot described/justified in the study protocols. Exceptions to the AWA regulations and standards can only be made and\napproved by the IACUC when such exceptions are justified for the research study being conducted and specified in the\nproposal to conduct the activity. To be corrected by September 14, 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.38(k)(1) \n   \nMiscellaneous. \nThree protocols were noted to contain exceptions to the standards of the Animal Welfare Act and Regulations that were \nnot specified or justified in the proposal to conduct the activity. Protocol A21019 involves Roborovskii hamsters being \nhoused in 5-inch-high cages instead of the required 6 inches. For protocols A22036 and A20029, nursing Syrian hamster \ncages can be sanitized at an interval greater than the required 14 days in order to not disturb the animals around the time \nof parturition. These exemptions were approved by the IACUC as general husbandry procedures for the given species but \nnot described/justified in the study protocols. Exceptions to the AWA regulations and standards can only be made and \napproved by the IACUC when such exceptions are justified for the research study being conducted and specified in the \nproposal to conduct the activity. To be corrected by September 14, 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 769,
+  "species": [
+    {
+      "count": 98,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 658,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 13,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
