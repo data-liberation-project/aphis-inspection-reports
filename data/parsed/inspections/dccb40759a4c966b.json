@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0000868145",
+  "layout": "c",
+  "customer_id": "390",
+  "customer_name": "SUNY COLLEGE OF TECHNOLOGY",
+  "customer_addr": "454 DELHI DRIVE\nDELHI, NY 13753",
+  "certificate": "21-R-0053",
+  "site_id": "001",
+  "site_name": "SUNNY COLLEGE OF TECHNOLOGY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-APR-2023",
+  "report_date": "29-APR-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Three deficiencies were identified during the facility IACUC inspection which took place on January 17, 2023, however,\nthe plan and schedule for correction was not documented. The facility must document a plan and schedule with dates for\ncorrection of all deficiencies identified during IACUC inspections. The facility must correct this issue.\n**********Correct by June 1, 2023\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThree deficiencies were identified during the facility IACUC inspection which took place on January 17, 2023, however, \nthe plan and schedule for correction was not documented.   The facility must document a plan and schedule with dates for \ncorrection of all deficiencies identified during IACUC inspections. The facility must correct this issue.  \n**********Correct by June 1, 2023 \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 104,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 22,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 15,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 31,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 17,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 6,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
