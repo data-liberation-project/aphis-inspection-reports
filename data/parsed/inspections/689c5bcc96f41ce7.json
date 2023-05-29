@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000868202",
+  "layout": "c",
+  "customer_id": "6013096",
+  "customer_name": "Nathan Miller",
+  "customer_addr": "E 17156 St Hwy 82\nHillsboro, WI 54634",
+  "certificate": "35-A-0509",
+  "site_id": "001",
+  "site_name": "Nathan Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAY-2023",
+  "report_date": "01-MAY-2023",
+  "citations": [
+    {
+      "code": "2.50",
+      "kind": "",
+      "repeat": false,
+      "desc": "Time and method of identification.",
+      "narrative": "The facility has official tags for each dog, however 8 dogs don't have a collar with their ID on them. Having a collar with\nID is important for tracking husbandry and health information on dogs. Ensure that each dog has its collar with official ID.\n***Correct by 6/1/2023.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.50 \n   \nTime and method of identification. \nThe facility has official tags for each dog, however 8 dogs don't have a collar with their ID on them.  Having a collar with \nID is important for tracking husbandry and health information on dogs.  Ensure that each dog has its collar with official ID.   \n***Correct by 6/1/2023. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
