@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000868406",
+  "layout": "c",
+  "customer_id": "332231",
+  "customer_name": "COLE GORDON",
+  "customer_addr": "7575 BREMEN ROAD S E\nLANCASTER, OH 43130",
+  "certificate": "31-A-0530",
+  "site_id": "001",
+  "site_name": "COLE GORDON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-MAY-2023",
+  "report_date": "05-MAY-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 318,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis silvestris catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 164,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 119,
+      "scientific": "Canis lupus familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
