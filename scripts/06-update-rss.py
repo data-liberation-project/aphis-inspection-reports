@@ -12,6 +12,9 @@ from feedgen.feed import FeedGenerator
 THIS_DIR = Path(__file__).parent.absolute()
 DATA_DIR = THIS_DIR.parent / "data"
 
+with open(DATA_DIR / "manual" / "states.csv") as f:
+    STATES = sorted(set([row["abbr"] for row in csv.DictReader(f)]))
+
 
 def main() -> None:
     # Get data
@@ -28,25 +31,38 @@ def main() -> None:
         reverse=True,
     )
 
-    # Create our full feed
-    full_feed = generate_feed(
-        sorted_data,
-        title="Lastest APHIS inpections",
-        desc="The latest inspections posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
-    )
+    for state in [None] + STATES:
+        all_reports = (
+            [x for x in sorted_data if x["customer_state"] == state]
+            if state
+            else sorted_data
+        )
+        critical_reports = [d for d in all_reports if int(d["web_critical"]) > 0]
+        state_text = f" of {state} customers" if state else ""
+        dest_dir = (
+            DATA_DIR / "combined" / "state-feeds" if state else DATA_DIR / "combined"
+        )
+        fn_prefix = f"{state.lower()}-" if state else ""
 
-    # Create our critical feed
-    critical_feed = generate_feed(
-        [d for d in sorted_data if int(d["web_critical"]) > 0],
-        title="Lastest critical APHIS inpections",
-        desc="The latest inspections with critical violations posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
-    )
+        # Create our full feed
+        full_feed = generate_feed(
+            all_reports,
+            title=f"Latest APHIS inspections{state_text}",
+            desc=f"The latest inspections{state_text} posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
+        )
 
-    # Write it out
-    full_feed.rss_file(DATA_DIR / "combined" / "latest-inspections.rss", pretty=True)
-    critical_feed.rss_file(
-        DATA_DIR / "combined" / "latest-critical-inspections.rss", pretty=True
-    )
+        full_feed.rss_file(dest_dir / f"{fn_prefix}latest-inspections.rss", pretty=True)
+
+        # Create our critical feed
+        critical_feed = generate_feed(
+            critical_reports,
+            title=f"Latest critical APHIS inspections{state_text}",
+            desc=f"The latest inspections{state_text} with critical violations posted online by the U.S. Department of Agriculture's Animal and Plant Health Inspection Service",  # noqa: E501
+        )
+
+        critical_feed.rss_file(
+            dest_dir / f"{fn_prefix}latest-critical-inspections.rss", pretty=True
+        )
 
 
 def _create_entry(entry: FeedEntry, data: typing.Dict[typing.Any, typing.Any]) -> None:

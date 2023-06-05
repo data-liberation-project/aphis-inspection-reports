@@ -1,6 +1,7 @@
 """Combine inspection data from web, PDF parsing, and DocumentCloud."""
 import csv
 import json
+import re
 import typing
 from pathlib import Path
 
@@ -31,6 +32,43 @@ convert_fetched = make_converter(
 convert_parsed = make_converter("pdf", ["species", "narrative", "citations"], [])
 convert_doccloud = make_converter("doccloud", [], [])
 
+state_pat_postal = re.compile(r", ([A-Z]{2})( \d{3,}( ?- ?\d{4})?)?$")
+state_pat_name = re.compile(r", ([A-Za-z ]{3,}) \d{3,}$")
+
+with open(DATA_DIR / "manual" / "states.csv") as f:
+    state_name_to_abbr = {row["name"]: row["abbr"] for row in csv.DictReader(f)}
+
+with open(DATA_DIR / "manual" / "hash-id-to-state-abbr.csv") as f:
+    hash_id_to_state = {row["hash_id"]: row["state_abbr"] for row in csv.DictReader(f)}
+
+
+def address_to_state(address: str) -> typing.Optional[str]:
+    if len(address) < 2:
+        return None
+
+    match_postal = re.search(state_pat_postal, address)
+    if match_postal:
+        return match_postal.group(1)
+
+    match_name = re.search(state_pat_name, address)
+    if match_name:
+        state_name = match_name.group(1)
+        if state_name in state_name_to_abbr:
+            abbr = state_name_to_abbr[state_name]
+            return abbr
+        else:
+            raise ValueError(f"Cannot find abbreviation for '{state_name}'")
+
+    raise ValueError(f"Could not extract state from address '{address}'")
+
+
+def row_to_state(row: dict[str, typing.Any]) -> typing.Optional[str]:
+    if row["hash_id"] in hash_id_to_state:
+        return hash_id_to_state[row["hash_id"]]
+
+    address = row.get("pdf_customer_addr") or ""
+    return address_to_state(address)
+
 
 def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
     with open(path) as f:
@@ -60,7 +98,7 @@ def main() -> None:
             + list(convert_parsed(parsed_data[next(iter(parsed_data))]).keys())
             + list(convert_doccloud(doccloud_data[next(iter(doccloud_data))]).keys())
             # Add derived columns
-            + ["licenseType"]
+            + ["licenseType", "customer_state"]
         )
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -121,6 +159,8 @@ def main() -> None:
                 c["licenseType"] = parts[1]
             else:
                 c["licenseType"] = None
+
+            c["customer_state"] = row_to_state(c)
 
             writer.writerow(c)
 
