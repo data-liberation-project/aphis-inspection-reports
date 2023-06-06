@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000868477",
+  "layout": "c",
+  "customer_id": "515",
+  "customer_name": "UNIVERSITY OF MASSACHUSETTS AMHERST",
+  "customer_addr": "217 Mass Venture Center 100 Venture Way\nHADLEY, MA 01035",
+  "certificate": "14-R-0036",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MASSACHUSETTS, AMHERST",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2023",
+  "report_date": "09-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #1965 did not provide a written narrative description of the methods and sources used to\ndetermine that alternatives were not available to a major operative procedure that may cause more than momentary pain\nor distress to the animals that is included in the protocol (tissue ablation).\nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or\ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those\nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources\nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the\nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by\n5/31/23.\nThis inspection and exit briefing were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #1965 did not provide a written narrative description of the methods and sources used to \ndetermine that alternatives were not available to a major operative procedure that may cause more than momentary pain \nor distress to the animals that is included in the protocol (tissue ablation).  \n \nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or \ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those \nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources \nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the \nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by \n5/31/23. \n \nThis inspection and exit briefing were conducted with facility representatives. \n \n n",
+  "animals_total": 114,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 28,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 5,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 21,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

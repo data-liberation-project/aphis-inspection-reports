@@ -1,0 +1,63 @@
+{
+  "insp_id": "INS-0000867063",
+  "layout": "c",
+  "customer_id": "896",
+  "customer_name": "Emory University",
+  "customer_addr": "IACUC Administration 1599 Clifton Road NE - 4th Floor. Mails\n1BE\nAtlanta, GA 30332",
+  "certificate": "57-R-0003",
+  "site_id": "003",
+  "site_name": "YERKES REGIONAL PRIMATE RESEARCH CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-FEB-2023",
+  "report_date": "09-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The written narratives for Protocols 201700811 and 201900151 described a literature search for alternatives focusing on\nthe science being studied, but the search did not address all of the painful/distressful procedures described in the\nprotocols. Both protocols describe surgery that involves a craniotomy and the use of meloxicam for pain during/after the\nprocedure. Both protocols also involve the use of foot shocks in behavior testing. The consideration of alternatives for\nboth protocols did not address the craniotomy procedure and one protocol, 201900151, also did not address alternatives\nto the foot shock procedure.\nThe searches were therefore not adequate to determine that alternatives were not available. In order to approve proposed\nactivities, the IACUC shall determine that the principal investigator has considered alternatives to procedures that may\ncause more than momentary or slight pain or distress to the animals and has provided a written narrative description of\nthe methods and sources used to determine that alternatives were not available. Correct by 6/21/23."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "According to IACUC records, on December 2, 2022, a facility staff member found a dead vole in a freezer outside of a\nplastic bag. Based on an internal investigation of six voles that had been through euthanasia procedures and frozen in a\nbag on a previous date, it was determined that the euthanasia procedures had been incomplete, and therefore the facility\ndid not handle that animal in accordance with this section of the regulations. The facility instituted appropriate retraining\nand other staff changes after concluding their internal investigation. All animals shall be handled as expeditiously and\ncarefully as possible so as not to cause trauma, excessive cooling, behavioral stress, physical harm or unnecessary\ndiscomfort. Corrected prior to this inspection.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nSUSANNE BRUNKHORST, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe written narratives for Protocols 201700811 and 201900151 described a literature search for alternatives focusing on \nthe science being studied, but the search did not address all of the painful/distressful procedures described in the \nprotocols. Both protocols describe surgery that involves a craniotomy and the use of meloxicam for pain during/after the \nprocedure. Both protocols also involve the use of foot shocks in behavior testing. The consideration of alternatives for \nboth protocols did not address the craniotomy procedure and one protocol, 201900151, also did not address alternatives \nto the foot shock procedure. \n \nThe searches were therefore not adequate to determine that alternatives were not available. In order to approve proposed \nactivities, the IACUC shall determine that the principal investigator has considered alternatives to procedures that may \ncause more than momentary or slight pain or distress to the animals and has provided a written narrative description of \nthe methods and sources used to determine that alternatives were not available. Correct by 6/21/23. \n2.38(f)(1)  Critical\n   \nMiscellaneous.\n\nAccording to IACUC records, on December 2, 2022, a facility staff member found a dead vole in a freezer outside of a \nplastic bag. Based on an internal investigation of six voles that had been through euthanasia procedures and frozen in a \nbag on a previous date, it was determined that the euthanasia procedures had been incomplete, and therefore the facility \ndid not handle that animal in accordance with this section of the regulations.  The facility instituted appropriate retraining \nand other staff changes after concluding their internal investigation. All animals shall be handled as expeditiously and \ncarefully as possible so as not to cause trauma, excessive cooling, behavioral stress, physical harm or unnecessary \ndiscomfort. Corrected prior to this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nSUSANNE BRUNKHORST, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1672,
+  "species": [
+    {
+      "count": 914,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 6,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 4,
+      "scientific": "Cercocebus atys",
+      "common": "SOOTY MANGABEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 742,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
