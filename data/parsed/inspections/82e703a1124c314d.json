@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000868533",
+  "layout": "c",
+  "customer_id": "334810",
+  "customer_name": "Tammie Jones",
+  "customer_addr": "35499 Hwy D\nELDRIDGE, MO 65463",
+  "certificate": "43-A-6122",
+  "site_id": "002",
+  "site_name": "TAMMIE S JONES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAY-2023",
+  "report_date": "10-MAY-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with licensee. \n \n n",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 31,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
