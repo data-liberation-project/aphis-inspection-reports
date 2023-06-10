@@ -1,0 +1,81 @@
+{
+  "insp_id": "INS-0000868562",
+  "layout": "c",
+  "customer_id": "9192",
+  "customer_name": "UNIVERSITY OF CALIFORNIA DAVIS",
+  "customer_addr": "ONE SHIELDS AVE\nDAVIS, CA 95616",
+  "certificate": "93-R-0433",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-MAY-2023",
+  "report_date": "12-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A teaching protocol was in renewal, but not yet approved by the IACUC and 4 animals were utilized on the expired\nprotocol for three days of covered activity in a class only offered in a single quarter. The expiration of the protocol was\ndiscovered approximately a month later during renewal review and the investigator was advised to cease all activity and\ntransfer any current animals to a currently approved holding protocol.\nCorrected at the time of inspection.\nThis inspection and exit interview were conducted with IACUC staff and Attending Veterinarian.\nAdditional Inspectors:\nWilliam Campbell, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(6) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA teaching protocol was in renewal, but not yet approved by the IACUC and 4 animals were utilized on the expired \nprotocol for three days of covered activity in a class only offered in a single quarter.  The expiration of the protocol was \ndiscovered approximately a month later during renewal review and the investigator was advised to cease all activity and \ntransfer any current animals to a currently approved holding protocol. \n \nCorrected at the time of inspection. \n \nThis inspection and exit interview were conducted with IACUC staff and Attending Veterinarian. \n \nAdditional Inspectors: \nWilliam Campbell, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1089,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 159,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 45,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 433,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 297,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 113,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
