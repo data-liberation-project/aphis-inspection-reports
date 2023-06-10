@@ -183,7 +183,9 @@ def deduplicate(
 
 def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
     with open(dest, "w") as f:
-        writer = csv.DictWriter(f, fieldnames=list(results[0].keys()))
+        writer = csv.DictWriter(
+            f, fieldnames=list(results[0].keys()), extrasaction="ignore"
+        )
         writer.writeheader()
         writer.writerows(results)
 
