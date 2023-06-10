@@ -11,9 +11,16 @@ from lib.aphis import (
 
 def main() -> None:
     set_fwuid()
-    search_total = fetch(0, {})["totalCount"]
+
+    single_response = fetch(0, {})
+
+    search_total = single_response["totalCount"]
     with open("data/fetched/inspections-search-total.txt", "w") as f:
         f.write(str(search_total))
+
+    first_result = single_response["results"][0]
+    with open("data/fetched/columns-returned.txt", "w") as f:
+        f.write("\n".join(sorted(first_result.keys())))
 
     latest = add_hash_ids(deduplicate(iter_fetch_all({}, raise_size_error=False)))
     write_results(latest, "data/fetched/inspections-latest.csv")
