@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000868721",
+  "layout": "c",
+  "customer_id": "6010066",
+  "customer_name": "Pet Planet LLC",
+  "customer_addr": "272 S Decatur Blvd\nLas Vegas, NV 89107",
+  "certificate": "88-B-0044",
+  "site_id": "001",
+  "site_name": "Pet Planet LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAY-2023",
+  "report_date": "16-MAY-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Graphiurus lorraineus",
+      "common": "AFRICAN DORMOUSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 7,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
