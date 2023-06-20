@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000870866",
+  "layout": "c",
+  "customer_id": "1575",
+  "customer_name": "IOWA STATE UNIVERSITY",
+  "customer_addr": "2420 Lincoln Way Suite 202\nAMES, IA 50014",
+  "certificate": "42-R-0003",
+  "site_id": "001",
+  "site_name": "IOWA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-MAY-2023",
+  "report_date": "23-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On Dec 20, 2022, facility veterinarians discovered 4 ferrets had been anesthetized with a drug combination that was not\ndescribed in the IACUC approved protocol for the study under which the procedure occurred. The ferrets fully recovered\nfrom anesthesia without incident. The personnel administering the anesthesia were following instructions given to them by\nthe principal investigator (PI) for the study. The PI had changed the drugs used to anesthetize ferrets in the study without\nprior IACUC review and approval.\nThe IACUC, in its role to oversee the welfare of the animals by assessing the facility\u2019s animal program and procedures,\nmust review and approve, require modifications in (to secure approval), or withhold approval of proposed significant\nchanges regarding the care and use of animals in ongoing activities. An amendment to change the anesthesia drugs for\nthe ferrets in the study was submitted January 5, 2023 and approved by the IACUC on January 11, 2023.\nThis inspection and exit interview were conducted with the Attending Veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn Dec 20, 2022, facility veterinarians discovered 4 ferrets had been anesthetized with a drug combination that was not \ndescribed in the IACUC approved protocol for the study under which the procedure occurred. The ferrets fully recovered \nfrom anesthesia without incident. The personnel administering the anesthesia were following instructions given to them by \nthe principal investigator (PI) for the study.  The PI had changed the drugs used to anesthetize ferrets in the study without \nprior IACUC review and approval. \nThe IACUC, in its role to oversee the welfare of the animals by assessing the facility\u2019s animal program and procedures, \nmust review and approve, require modifications in (to secure approval), or withhold approval of proposed significant \nchanges regarding the care and use of animals in ongoing activities.  An amendment to change the anesthesia drugs for \nthe ferrets in the study was submitted January 5, 2023 and approved by the IACUC on January 11, 2023. \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \n n",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
