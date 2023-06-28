@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0000870793",
+  "layout": "c",
+  "customer_id": "337",
+  "customer_name": "CHILDRENS HOSPITAL OF PHILADELPHIA",
+  "customer_addr": "3615 CIVIC CENTER BOULEVARD\nPHILADELPHIA, PA 19104",
+  "certificate": "23-R-0033",
+  "site_id": "001",
+  "site_name": "COLKET TRANSLATIONAL RESEARCH BLDG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAY-2023",
+  "report_date": "31-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(8)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "During a routine review of animal records performed by the IACUC, it was noted that there was a deviation of the protocol.\nUnder Protocol A3, five pigs were sedated with ketamine and buprenorphine regular during the procedure but did not\nreceive a fentanyl patch. According to the protocol, when buprenorphine regular is administered a fentanyl patch is\nrequired for the recovery period.\nDuring the Spring 2023 semiannual program review, IACUC members identified a pig that received 1mg/kg of a ketamine\nbolus. Under protocol B1, the pig should have received 10-40mg/kg of a ketamine bolus.\nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be\nsubject to further appropriate review and approval by officials of the research facility. However, those officials may not\napprove an activity involving the care and use of animals if it has not been approved by the IACUC.\nThis has been corrected by the IACUC through a corrective action plan and protocol amendment.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(8) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nDuring a routine review of animal records performed by the IACUC, it was noted that there was a deviation of the protocol.  \nUnder Protocol A3, five pigs were sedated with ketamine and buprenorphine regular during the procedure but did not \nreceive a fentanyl patch.  According to the protocol, when buprenorphine regular is administered a fentanyl patch is \nrequired for the recovery period.   \n \nDuring the Spring 2023 semiannual program review, IACUC members identified a pig that received 1mg/kg of a ketamine \nbolus.  Under protocol B1, the pig should have received 10-40mg/kg of a ketamine bolus. \n \nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be \nsubject to further appropriate review and approval by officials of the research facility.  However, those officials may not \napprove an activity involving the care and use of animals if it has not been approved by the IACUC.  \n \nThis has been corrected by the IACUC through a corrective action plan and protocol amendment.\n\nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 81,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 24,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 17,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
