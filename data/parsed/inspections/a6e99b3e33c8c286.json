@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000871120",
+  "layout": "c",
+  "customer_id": "7413",
+  "customer_name": "Larry Battson",
+  "customer_addr": "4140 North 600 West\nGreencastle, IN 46135",
+  "certificate": "32-C-0229",
+  "site_id": "001",
+  "site_name": "Larry Battson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-MAY-2023",
+  "report_date": "02-JUN-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}
