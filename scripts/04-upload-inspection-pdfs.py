@@ -1,6 +1,7 @@
 """Upload PDFs to DocumentCloud."""
 import csv
 import json
+import logging
 import os
 import time
 import typing
@@ -15,6 +16,11 @@ THIS_DIR = Path(__file__).parent.absolute()
 ROOT_DIR = THIS_DIR.parent
 CACHE_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
+
+format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
+logging.basicConfig(format=format)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
 
 def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
@@ -33,7 +39,7 @@ def main() -> None:
     parsed_paths = sorted(Path("data/parsed/inspections/").glob("*.json"))
     parsed_data = dict(map(load_json, parsed_paths))
 
-    print(f"{len(parsed_data)} parsed documents found locally")
+    logger.debug(f"{len(parsed_data)} parsed documents found locally")
 
     upload_unuploaded(fetched_data, parsed_data)
     combine_cache()
@@ -77,7 +83,7 @@ def get_documentcloud_client() -> DocumentCloud:
     )
 
 
-@retry(tries=10, delay=30)
+@retry(tries=10, delay=30, logger=logger)
 def upload_pdf(
     pdf_path: Path, insp_id: str, verbose: bool = True
 ) -> tuple[typing.Optional[str], bool]:
@@ -100,12 +106,12 @@ def upload_pdf(
     # If it is, we're done
     if len(list(search)) > 0:
         if verbose:
-            print(f"{pdf_path.stem} already uploaded")
+            logger.info(f"{pdf_path.stem} already uploaded")
         return search[0].canonical_url, False
 
     # If it isn't, upload it now
     if verbose:
-        print(f"Uploading {pdf_path.stem}")
+        logger.info(f"Uploading {pdf_path.stem}")
     try:
         document = client.documents.upload(
             pdf_path,
