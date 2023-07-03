@@ -1,7 +1,6 @@
 """Download inspection PDFs."""
 import csv
 import logging
-import sys
 from pathlib import Path
 
 import requests

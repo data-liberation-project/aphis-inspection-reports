@@ -3,7 +3,6 @@ import hashlib
 import json
 import logging
 import re
-import sys
 import typing
 from datetime import datetime, timezone
 from operator import itemgetter
