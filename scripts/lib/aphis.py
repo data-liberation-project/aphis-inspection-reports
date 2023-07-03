@@ -1,7 +1,6 @@
 import csv
 import hashlib
 import json
-import logging
 import re
 import typing
 from datetime import datetime, timezone
@@ -11,6 +10,10 @@ from pathlib import Path
 import requests
 import urllib3
 from retry import retry
+
+from .logger import get_logger
+
+logger = get_logger()
 
 urllib3.disable_warnings()
 
@@ -41,11 +44,6 @@ AURA_CONTEXT = {
     "globals": {},
     "uad": False,
 }
-
-format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
-logging.basicConfig(format=format)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
 
 
 @retry(tries=3, delay=30, logger=logger)

@@ -1,6 +1,5 @@
 import argparse
 import json
-import logging
 import re
 import sys
 import typing
@@ -9,12 +8,10 @@ from operator import itemgetter
 from pathlib import Path
 
 import pdfplumber
+from lib.logger import get_logger
 from pdfplumber.utils import cluster_objects
 
-format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
-logging.basicConfig(format=format)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
+logger = get_logger()
 
 
 def parse_args() -> argparse.Namespace:

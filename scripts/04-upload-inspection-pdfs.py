@@ -1,7 +1,6 @@
 """Upload PDFs to DocumentCloud."""
 import csv
 import json
-import logging
 import os
 import time
 import typing
@@ -9,18 +8,16 @@ from pathlib import Path
 
 from documentcloud import DocumentCloud
 from documentcloud.exceptions import APIError
+from lib.logger import get_logger
 from retry import retry
+
+logger = get_logger()
 
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
 ROOT_DIR = THIS_DIR.parent
 CACHE_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
-
-format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
-logging.basicConfig(format=format)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
 
 
 def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:

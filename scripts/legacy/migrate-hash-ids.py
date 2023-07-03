@@ -1,5 +1,4 @@
 import csv
-import logging
 import sys
 from pathlib import Path
 
@@ -7,11 +6,10 @@ from pathlib import Path
 lib_path = Path(__file__).parent.parent / "lib"
 sys.path.insert(0, str(lib_path))
 from aphis import add_hash_ids, deduplicate, write_results  # noqa: E402
+from logger import get_logger  # noqa: E402
 
-format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
-logging.basicConfig(format=format)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
+logger = get_logger()
+
 
 with open("data/manual/legacy-hash-id-crosswalk.csv") as f:
     xwalk = list(csv.DictReader(f))

@@ -1,16 +1,13 @@
 """Download inspection PDFs."""
 import csv
-import logging
 from pathlib import Path
 
 import requests
 from lib.aphis import hash_id_from_url
+from lib.logger import get_logger
 from retry import retry
 
-format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
-logging.basicConfig(format=format)
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
+logger = get_logger()
 
 
 @retry(tries=10, delay=30, logger=logger)
