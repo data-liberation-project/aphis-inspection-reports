@@ -37,7 +37,7 @@ def main() -> None:
         if dest.exists():
             continue
         else:
-            logger.debug(f"Fetching {i:05d}: {link}\n")
+            logger.debug(f"Fetching {i:05d}: {link}")
             content = fetch(link)
             with open(dest, "wb") as f:
                 f.write(content)

@@ -125,7 +125,7 @@ def iter_fetch_all(
 ) -> typing.Generator[dict[str, str], None, None]:
     data = fetch(0, criteria)
     count = data["totalCount"]
-    logger.debug(f"{count} results for {criteria}\n")
+    logger.debug(f"{count} results for {criteria}")
     if count >= 2100 and raise_size_error:
         raise TooManyResultsError
 
