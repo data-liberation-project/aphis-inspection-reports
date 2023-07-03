@@ -1,6 +1,7 @@
 import csv
 import hashlib
 import json
+import logging
 import re
 import sys
 import typing
@@ -42,8 +43,13 @@ AURA_CONTEXT = {
     "uad": False,
 }
 
+format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
+logging.basicConfig(format=format)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
-@retry(tries=3, delay=30)
+
+@retry(tries=3, delay=30, logger=logger)
 def get_fwuid() -> str:
     url = "https://aphis-efile.force.com/PublicSearchTool/s/inspection-reports"
     res = requests.get(url)
@@ -85,7 +91,7 @@ class BadResponse(Exception):
 
 
 @retry(
-    exceptions=(BadResponse, requests.exceptions.JSONDecodeError), tries=10, delay=30
+    exceptions=(BadResponse, requests.exceptions.JSONDecodeError), tries=10, delay=30, logger=logger
 )
 def fetch(
     index: int, criteria: dict[str, typing.Any], timeout: int = 60
@@ -117,7 +123,7 @@ def iter_fetch_all(
 ) -> typing.Generator[dict[str, str], None, None]:
     data = fetch(0, criteria)
     count = data["totalCount"]
-    sys.stderr.write(f"{count} results for {criteria}\n")
+    logger.debug(f"{count} results for {criteria}\n")
     if count >= 2100 and raise_size_error:
         raise TooManyResultsError
 

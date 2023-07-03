@@ -1,4 +1,5 @@
 import csv
+import logging
 import sys
 from pathlib import Path
 
@@ -6,6 +7,11 @@ from pathlib import Path
 lib_path = Path(__file__).parent.parent / "lib"
 sys.path.insert(0, str(lib_path))
 from aphis import add_hash_ids, deduplicate, write_results  # noqa: E402
+
+format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
+logging.basicConfig(format=format)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
 with open("data/manual/legacy-hash-id-crosswalk.csv") as f:
     xwalk = list(csv.DictReader(f))
@@ -22,13 +28,13 @@ for entry in xwalk:
     for kind, tmpl in TEMPLATES.items():
         src = Path(tmpl.format(id_legacy))
         if src.exists():
-            print(f"Moving {kind}: {id_legacy} -> {id_new}")
+            logger.debug(f"Moving {kind}: {id_legacy} -> {id_new}")
             dest = Path(tmpl.format(id_new))
             src.rename(dest)
 
 for root in ["data/fetched/inspections-by-letter/", "data/fetched/"]:
     for path in Path(root).glob("*.csv"):
-        print(f"Updating hashes in {path}")
+        logger.debug(f"Updating hashes in {path}")
         with open(path) as f:
             legacy = list(csv.DictReader(f))
 

@@ -1,5 +1,6 @@
 import argparse
 import json
+import logging
 import re
 import sys
 import typing
@@ -9,6 +10,11 @@ from pathlib import Path
 
 import pdfplumber
 from pdfplumber.utils import cluster_objects
+
+format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
+logging.basicConfig(format=format)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
 
 def parse_args() -> argparse.Namespace:
@@ -369,7 +375,7 @@ def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
         if dest.exists() and not overwrite:
             continue
 
-        print(i, path)
+        logger.debug(f"{i}, {path}")
         with pdfplumber.open(path) as pdf:
             results = parse(pdf)
             with open(dest, "w") as f:

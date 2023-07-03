@@ -1,5 +1,6 @@
 """Download inspection PDFs."""
 import csv
+import logging
 import sys
 from pathlib import Path
 
@@ -7,8 +8,13 @@ import requests
 from lib.aphis import hash_id_from_url
 from retry import retry
 
+format = "%(levelname)s:%(filename)s:%(lineno)d: %(message)s"
+logging.basicConfig(format=format)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
-@retry(tries=10, delay=30)
+
+@retry(tries=10, delay=30, logger=logger)
 def fetch(link: str, timeout: int = 60) -> bytes:
     """Request the provided URL and return the content."""
     res = requests.get(link, timeout=timeout)
@@ -32,7 +38,7 @@ def main() -> None:
         if dest.exists():
             continue
         else:
-            sys.stderr.write(f"Fetching {i:05d}: {link}\n")
+            logger.debug(f"Fetching {i:05d}: {link}\n")
             content = fetch(link)
             with open(dest, "wb") as f:
                 f.write(content)
