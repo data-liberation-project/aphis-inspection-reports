@@ -91,7 +91,10 @@ class BadResponse(Exception):
 
 
 @retry(
-    exceptions=(BadResponse, requests.exceptions.JSONDecodeError), tries=10, delay=30, logger=logger
+    exceptions=(BadResponse, requests.exceptions.JSONDecodeError),
+    tries=10,
+    delay=30,
+    logger=logger,
 )
 def fetch(
     index: int, criteria: dict[str, typing.Any], timeout: int = 60
