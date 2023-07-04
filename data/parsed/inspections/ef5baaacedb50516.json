@@ -1,0 +1,85 @@
+{
+  "insp_id": "INS-0000868677",
+  "layout": "c",
+  "customer_id": "109",
+  "customer_name": "University of Michigan",
+  "customer_addr": "NCRC 520 \u2013 2137\n2800 Plymouth Rd\nAnn Arbor, MI 48109",
+  "certificate": "34-R-0001",
+  "site_id": "002",
+  "site_name": "ANN ARBOR CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2023",
+  "report_date": "12-MAY-2023",
+  "citations": [
+    {
+      "code": "2.32(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "On April 13th, 2023, husbandry staff performed a cage change on the facility\u2019s grass rats. One male grass rat, housed\nwith conspecifics, was missed in the process. As a result, the grass rat was left in the dirty cage on the dirty side of\ncagewash. The animal was found on April 17th, 2023, four days after the cage change. For the duration of those four\ndays, the animal did not have access to water and was not observed daily for health issues. Per a record review, the\nfacility re-trained the individual and lab involved. Failure to have appropriately trained personnel can lead to unnecessary\nanimal stress and discomfort. It shall be the responsibility of the research facility to ensure that all scientists, research\ntechnicians, animal technicians, and other personnel involved in animal care, treatment, and use are qualified to perform\ntheir duties. This responsibility shall be fulfilled in part through the provision of training and instruction to those personnel.\nThis issue was corrected prior to inspection."
+    },
+    {
+      "code": "2.33(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "The facility\u2019s policy is to have anesthesia machines recalibrated annually. During inspection, one expired anesthesia\nmachine was identified. Its calibration expired in March 2023. Upon investigation, it was determined that the machine had\nbeen used during four rabbit procedures. The use of an expired anesthesia machine could affect the health and safety of\nthe animals involved. Each research facility shall establish and maintain programs of adequate veterinary care that\ninclude the availability of appropriate facilities, personnel, equipment, and services. The facility must ensure that all\nequipment used in animal procedures is appropriately maintained.\nTo be corrected by 6/12/2023"
+    },
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On March 31st, 2023, a lab member euthanized four rabbits. However, the lab member did not perform the secondary\nmethod of euthanasia as described in the protocol. As a result, one female rabbit was discovered alive the next morning,\nApril 1st, 2023. Failure to appropriately follow the methods prescribed for euthanasia can lead to unnecessary animal\nstress and discomfort.\nOn April 5th, 2023, expired reconstituted Telazol was administered to a pig to sedate it for a procedure. The use of\nexpired medications can lead to unnecessary animal stress and discomfort.\nEach research facility shall establish and maintain programs of adequate veterinary care that include the use of\nappropriate methods to prevent, control, diagnose, and treat diseases and injuries, and the availability of emergency,\nweekend, and holiday care.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.32(a)  Critical\n   \nPersonnel qualifications. \nOn April 13th, 2023, husbandry staff performed a cage change on the facility\u2019s grass rats. One male grass rat, housed \nwith conspecifics, was missed in the process. As a result, the grass rat was left in the dirty cage on the dirty side of \ncagewash. The animal was found on April 17th, 2023, four days after the cage change. For the duration of those four \ndays, the animal did not have access to water and was not observed daily for health issues. Per a record review, the \nfacility re-trained the individual and lab involved. Failure to have appropriately trained personnel can lead to unnecessary \nanimal stress and discomfort. It shall be the responsibility of the research facility to ensure that all scientists, research \ntechnicians, animal technicians, and other personnel involved in animal care, treatment, and use are qualified to perform \ntheir duties. This responsibility shall be fulfilled in part through the provision of training and instruction to those personnel. \nThis issue was corrected prior to inspection. \n2.33(b)(1) \n   \nAttending veterinarian and adequate veterinary care. \nThe facility\u2019s policy is to have anesthesia machines recalibrated annually. During inspection, one expired anesthesia \nmachine was identified. Its calibration expired in March 2023. Upon investigation, it was determined that the machine had \nbeen used during four rabbit procedures. The use of an expired anesthesia machine could affect the health and safety of\n\nthe animals involved. Each research facility shall establish and maintain programs of adequate veterinary care that \ninclude the availability of appropriate facilities, personnel, equipment, and services. The facility must ensure that all \nequipment used in animal procedures is appropriately maintained. \nTo be corrected by 6/12/2023 \n2.33(b)(2)  Repeat\n   \nAttending veterinarian and adequate veterinary care. \nOn March 31st, 2023, a lab member euthanized four rabbits. However, the lab member did not perform the secondary \nmethod of euthanasia as described in the protocol. As a result, one female rabbit was discovered alive the next morning, \nApril 1st, 2023. Failure to appropriately follow the methods prescribed for euthanasia can lead to unnecessary animal \nstress and discomfort. \n \nOn April 5th, 2023, expired reconstituted Telazol was administered to a pig to sedate it for a procedure. The use of \nexpired medications can lead to unnecessary animal stress and discomfort. \n \nEach research facility shall establish and maintain programs of adequate veterinary care that include the use of \nappropriate methods to prevent, control, diagnose, and treat diseases and injuries, and the availability of emergency, \nweekend, and holiday care. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 454,
+  "species": [
+    {
+      "count": 352,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 30,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 18,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 7,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 19,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    }
+  ]
+}
