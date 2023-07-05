@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0000871145",
+  "layout": "c",
+  "customer_id": "91",
+  "customer_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+  "customer_addr": "DIRECTOR LABORATORY ANIMAL CARE\nCOLLEGE PARK CAMPUS\nCOLLEGE PARK, MD 20742",
+  "certificate": "51-R-0095",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-MAY-2023",
+  "report_date": "07-JUN-2023",
+  "citations": [
+    {
+      "code": "2.33(b)(3)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "Daily Observation\nOn March 22, 2023 three (3) gerbils were found dead in their cage. It was noted that no food was in the cage hopper, but\nan adequate amount of water was still present in the bottle. All other cages housing gerbils had adequate amounts of food\nand water.\nThe well-being of the three gerbils was negatively affected by the failure to observe that no food was provided within at\nleast a 24-hour period. Facilities must ensure animals are provided a sufficient quantity food daily.\nCorrection: Appropriate corrective actions were implemented prior to inspection that included discussions with all care\nstaff regarding relevant animal care program SOPs and expectations, and the implementation of a dual check system for\ndaily observations.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(3)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nDaily Observation  \nOn March 22, 2023 three (3) gerbils were found dead in their cage. It was noted that no food was in the cage hopper, but \nan adequate amount of water was still present in the bottle. All other cages housing gerbils had adequate amounts of food \nand water. \nThe well-being of the three gerbils was negatively affected by the failure to observe that no food was provided within at \nleast a 24-hour period. Facilities must ensure animals are provided a sufficient quantity food daily.  \n \nCorrection: Appropriate corrective actions were implemented prior to inspection that included discussions with all care \nstaff regarding relevant animal care program SOPs and expectations, and the implementation of a dual check system for \ndaily observations. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 203,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 45,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 16,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 104,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 3,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
