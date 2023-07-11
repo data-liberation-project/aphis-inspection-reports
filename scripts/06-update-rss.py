@@ -37,7 +37,9 @@ def main() -> None:
             if state
             else sorted_data
         )
-        critical_reports = [d for d in all_reports if int(d["web_critical"]) > 0]
+        critical_reports = [
+            d for d in all_reports if int(d["web_critical"]) or int(d["web_direct"])
+        ]
         state_text = f" of {state} customers" if state else ""
         dest_dir = (
             DATA_DIR / "combined" / "state-feeds" if state else DATA_DIR / "combined"
@@ -70,7 +72,8 @@ def _create_entry(entry: FeedEntry, data: typing.Dict[typing.Any, typing.Any]) -
     entry.title(f"{data['web_legalName']} ({data['web_inspectionDate']})")
     entry.link(href=data["doccloud_url"])
     entry.description(
-        f"""Critical: {data['web_critical']}
+        f"""Direct: {data['web_direct']}
+Other Critical: {data['web_critical']}
 Not critical: {data['web_nonCritical']}
 Teachable moments: {data['web_teachableMoments']}
 
