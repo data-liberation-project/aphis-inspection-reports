@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000874340",
+  "layout": "c",
+  "customer_id": "321189",
+  "customer_name": "INTERVET INC",
+  "customer_addr": "2 GIRALDA FARMS\nMADISON, NJ 07940",
+  "certificate": "22-R-0144",
+  "site_id": "002",
+  "site_name": "INTERVET INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JUN-2023",
+  "report_date": "14-JUN-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 606,
+  "species": [
+    {
+      "count": 111,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 268,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 191,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 36,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
