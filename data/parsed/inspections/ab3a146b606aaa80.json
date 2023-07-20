@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0000874605",
+  "layout": "c",
+  "customer_id": "503465",
+  "customer_name": "Sue Stevens",
+  "customer_addr": "4330 Hodgenville Road\nGREENSBURG, KY 42743",
+  "certificate": "61-B-0144",
+  "site_id": "001",
+  "site_name": "Sue Stevens",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JUN-2023",
+  "report_date": "22-JUN-2023",
+  "citations": [
+    {
+      "code": "3.6(b)(4)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "An enclosure containing one cat did not have an elevated resting surface. Another enclosure containing three cats had an\nelevated resting surface with space for only two cats. The lack of elevated resting spaces does not allow for normal feline\nbehaviors nor offer an opportunity to avoid confrontation with other cats in the enclosure. Licensee must ensure that an\nadequate number of elevated resting surfaces are provide to accommodate all the felines in the enclosure at the same\ntime to allow for normal feline behaviors, reduce stress and possible confrontation.\n* To be corrected by: 7/5/2023"
+    },
+    {
+      "code": "3.130",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering.",
+      "narrative": "Three different enclosures (2 servals, 1 caracal) had kiddie pools/bowl that had a build up of green material on the bottom\nand sides. There were also accumulations of this green organic build up floating in the water. The water contained within\nwas not potable. Water receptacles need to be kept clean and sanitary to reduce stagnant water, minimize pests and\nharmful algae or bacterial growth. Licensee must ensure that all water receptacles are kept clean to allow for potable\nwater access.\n* To be corrected by 6/14/2023 (corrected at time of inspection)\nThis inspection and verbal exit interview were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "3.6(b)(4) \n   \nPrimary enclosures. \nAn enclosure containing one cat did not have an elevated resting surface. Another enclosure containing three cats had an \nelevated resting surface with space for only two cats. The lack of elevated resting spaces does not allow for normal feline \nbehaviors nor offer an opportunity to avoid confrontation with other cats in the enclosure. Licensee must ensure that an \nadequate number of elevated resting surfaces are provide to accommodate all the felines in the enclosure at the same \ntime to allow for normal feline behaviors, reduce stress and possible confrontation. \n* To be corrected by: 7/5/2023 \n3.130 \n   \nWatering. \nThree different enclosures (2 servals, 1 caracal) had kiddie pools/bowl that had a build up of green material on the bottom \nand sides. There were also accumulations of this green organic build up floating in the water. The water contained within \nwas not potable. Water receptacles need to be kept clean and sanitary to reduce stagnant water, minimize pests and \nharmful algae or bacterial growth. Licensee must ensure that all water receptacles are kept clean to allow for potable \nwater access. \n* To be corrected by 6/14/2023 (corrected at time of inspection) \n \nThis inspection and verbal exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 14,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 8,
+      "scientific": "Felis sp",
+      "common": "DOMESTIC X EXOTIC CAT HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

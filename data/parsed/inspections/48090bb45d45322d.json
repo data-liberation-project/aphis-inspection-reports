@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0000874439",
+  "layout": "c",
+  "customer_id": "843",
+  "customer_name": "UNIV OF TENNESSEE KNOXVILLE OFF LAB AN CARE",
+  "customer_addr": "2415 Fletcher Luck Lane\nThird Creek Building\nKNOXVILLE, TN 37996",
+  "certificate": "63-R-0105",
+  "site_id": "001",
+  "site_name": "UNIV OF TENNESSEE KNOXVILLE OFF LAB AN CARE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUN-2023",
+  "report_date": "22-JUN-2023",
+  "citations": [
+    {
+      "code": "2.32(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "The items below indicate a lapse in training of employees, daily observations and general oversight.\n***Twelve hamsters on a study protocol received high doses of a study agent. Four of the hamsters died after\nadministration of the agent. An investigation was conducted by the IACUC who determined that while the procedure had\nbeen conducted in the past the PI had failed to refamiliarize herself with the approved procedures in the protocol. It is the\nresponsibility of the research facility to ensure that all personnel involved in the care and treatment of animals are\nqualified to fulfill their responsibility and it is the responsibility of all personnel involved in the protocol to be familiar with\nthe procedures in the approved protocol. The facility identified the cause of the incident and followed up appropriately with\nrefresher training for all personnel involved in the care and treatment of the hamsters on study as well as provided\nadditional monitoring and oversight of the lab.\n***A young goat was found dead in its enclosure. Records indicated the goat was observed on 7/22/2022 but later found\ndead in its enclosure on 7/25/2022. The investigation showed the daily observation records were incomplete and could\nnot verify that the daily observations were conducted over the weekend. A second goat from the same herd being\ntransported for observation was found dead in the trailer at time of transport. The review for both incidents at necropsy\nindicate both goats were heavily parasitized but there was no documentation in the animal records indicating a decline in\nthe goats health status or body condition.\n***A pregnant mare used for a Therio lab was moved from her enclosure and relocated to another pasture to allow\nadditional grazing. The facility routinely uses a whiteboard to track the horses. When the mare was relocated her ID was\nremoved from the whiteboard and after the move there was a failure to continue to document her reproductive status in\nher individual record resulting in he PI and VREC staff losing track of her reproductive status. The lack of tracking led to a\nfailure to terminate the pregnancy as required in the protocol. When the continued pregnancy was discovered the mare\nwas returned to the large animal clinic where she delivered a healthy foal.\nAll of the incidents documented above were investigated and appropriate corrective measures put in place including\nincreased oversight and further training in proper documentation of daily observations and completion of medical records.\nCorrected.\nThis inspection and exit interview were conducted with the Director/IACUC Chair, Attending Veterinarian, IACUC\nCoordinator and other Facility Representatives.\nn"
+    }
+  ],
+  "narrative": "2.32(a)  Critical\n   \nPersonnel qualifications. \nThe items below indicate a lapse in training of employees, daily observations and general oversight. \n \n ***Twelve hamsters on a study protocol received high doses of a study agent. Four of the hamsters died after \nadministration of the agent. An investigation was conducted by the IACUC who determined that while the procedure had \nbeen conducted in the past the PI had failed to refamiliarize herself with the approved procedures in the protocol. It is the \nresponsibility of the research facility to ensure that all personnel involved in the care and treatment of animals are \nqualified to fulfill their responsibility and it is the responsibility of all personnel involved in the protocol to be familiar with \nthe procedures in the approved protocol. The facility identified the cause of the incident and followed up appropriately with \nrefresher training for all personnel involved in the care and treatment of the hamsters on study as well as provided \nadditional monitoring and oversight of the lab.  \n \n***A young goat was found dead in its enclosure. Records indicated the goat was observed on 7/22/2022 but later found \ndead in its enclosure on 7/25/2022. The investigation showed the daily observation records were incomplete and could \nnot verify that the daily observations were conducted over the weekend. A second goat from the same herd being \ntransported for observation was found dead in the trailer at time of transport. The review for both incidents at necropsy \nindicate both goats were heavily parasitized but there was no documentation in the animal records indicating a decline in \nthe goats health status or body condition.  \n \n***A pregnant mare used for a Therio lab was moved from her enclosure and relocated to another pasture to allow \nadditional grazing. The facility routinely uses a whiteboard to track the horses. When the mare was relocated her ID was \nremoved from the whiteboard and after the move there was a failure to continue to document her reproductive status in \nher individual record resulting in he PI and VREC staff losing track of her reproductive status. The lack of tracking led to a \nfailure to terminate the pregnancy as required in the protocol. When the continued pregnancy was discovered the mare \nwas returned to the large animal clinic where she delivered a healthy foal.  \n \nAll of the incidents documented above were investigated and appropriate corrective measures put in place including \nincreased oversight and further training in proper documentation of daily observations and completion of medical records. \nCorrected.\n\nThis inspection and exit interview were conducted with the Director/IACUC Chair, Attending Veterinarian, IACUC \nCoordinator and other Facility Representatives. \n \n n",
+  "animals_total": 158,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 83,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    }
+  ]
+}

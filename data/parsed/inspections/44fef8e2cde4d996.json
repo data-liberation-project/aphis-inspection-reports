@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0000874620",
+  "layout": "c",
+  "customer_id": "3835",
+  "customer_name": "Maura O'Connor",
+  "customer_addr": "6 Stowe Road\nMillbury, MA 01527",
+  "certificate": "14-C-0049",
+  "site_id": "001",
+  "site_name": "Stowe Farm",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUN-2023",
+  "report_date": "22-JUN-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
