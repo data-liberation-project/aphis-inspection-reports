@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0000874749",
+  "layout": "c",
+  "customer_id": "3768",
+  "customer_name": "The Marine Mammal Center",
+  "customer_addr": "2000 Bunker Road\nSausalito, CA 94965",
+  "certificate": "93-R-0475",
+  "site_id": "002",
+  "site_name": "THE MARINE MAMMAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUN-2023",
+  "report_date": "23-JUN-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The report to the Institutional Official of the July 2022 semiannual facility inspection and program review was not reviewed\nand signed by a majority of the Institutional Animal Care and Use Committee (IACUC) and available during inspection.\nThe documentation of the semi annual program review and facility inspection was available. The reports shall be reviewed\nand signed by a majority of the IACUC members; updated at least once every six months upon completion of the required\nsemiannual evaluations; maintained by the research facility and made available to APHIS for inspection.\nCorrect by 30 June 2023"
+    },
+    {
+      "code": "2.31(d)(1)(iii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "At the time of inspection, in one of the protocols, the principal investigator (PI) had not signed the electronic version of the\nprotocol, providing written assurance that the activities do not unnecessarily duplicate previous experiments. The\nInstitutional Animal Care and Use Committee shall determine that the proposed activities meet these requirements.\nCorrect by 30 June 2023\nThis inspection and exit interview were conducted with the Attending Veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe report to the Institutional Official of the July 2022 semiannual facility inspection and program review was not reviewed \nand signed by a majority of the Institutional Animal Care and Use Committee (IACUC) and available during inspection. \nThe documentation of the semi annual program review and facility inspection was available. The reports shall be reviewed \nand signed by a majority of the IACUC members; updated at least once every six months upon completion of the required \nsemiannual evaluations; maintained by the research facility and made available to APHIS for inspection. \n \nCorrect by 30 June 2023 \n2.31(d)(1)(iii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAt the time of inspection, in one of the protocols, the principal investigator (PI) had not signed the electronic version of the \nprotocol, providing written assurance that the activities do not unnecessarily duplicate previous experiments. The \nInstitutional Animal Care and Use Committee shall determine that the proposed activities meet these requirements. \n \nCorrect by 30 June 2023 \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \n n",
+  "animals_total": 91,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 77,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
+}
