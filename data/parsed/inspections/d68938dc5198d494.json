@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000874751",
+  "layout": "c",
+  "customer_id": "4866",
+  "customer_name": "Texas State Aquarium",
+  "customer_addr": "2710 N Shoreline Blvd\nCorpus Christi, TX 78402",
+  "certificate": "74-C-0241",
+  "site_id": "001",
+  "site_name": "TEXAS STATE AQUARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JUN-2023",
+  "report_date": "24-JUN-2023",
+  "citations": [
+    {
+      "code": "2.131(b)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Handling of animals.",
+      "narrative": "During the course of inspection, facility representatives indicated that two male Vampire bats (ID#'s: M16012 and\nM16021) were found drowned in a bowl of water in the secondary containment area just outside of their primary enclosure\non 5/5/2023 as a result of an employee mistakenly leaving their primary enclosure door open. Failure to be careful when\nhandling animals can negatively impact their health and well-being, and ultimately lead to death. Handling of all animals\nmust be done as expeditiously and carefully as possible in a manner that does not cause trauma, overheating, excessive\ncooling, behavioral stress, physical harm, or unnecessary discomfort. The facility implemented the following corrective\nactions as result of the incident: changes to depth and presentation of water bowl that is held in the secondary\ncontainment area; disciplinary action for employee; and an update to the Vampire bat husbandry checklist to include\nchecking the seal of the primary enclosure door.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.131(b)(1)  Critical\n   \nHandling of animals. \nDuring the course of inspection, facility representatives indicated that two male Vampire bats (ID#'s: M16012 and \nM16021) were found drowned in a bowl of water in the secondary containment area just outside of their primary enclosure \non 5/5/2023 as a result of an employee mistakenly leaving their primary enclosure door open. Failure to be careful when \nhandling animals can negatively impact their health and well-being, and ultimately lead to death. Handling of all animals \nmust be done as expeditiously and carefully as possible in a manner that does not cause trauma, overheating, excessive \ncooling, behavioral stress, physical harm, or unnecessary discomfort. The facility implemented the following corrective \nactions as result of the incident: changes to depth and presentation of water bowl that is held in the secondary \ncontainment area; disciplinary action for employee; and an update to the Vampire bat husbandry checklist to include \nchecking the seal of the primary enclosure door. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 20,
+      "scientific": "Desmodus rotundus",
+      "common": "COMMON VAMPIRE BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus pardalis",
+      "common": "OCELOT"
+    }
+  ]
+}
