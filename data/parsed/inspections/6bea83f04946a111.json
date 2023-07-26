@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000874776",
+  "layout": "c",
+  "customer_id": "596",
+  "customer_name": "MIDWESTERN UNIVERSITY",
+  "customer_addr": "555 31ST STREET\nDOWNERS GROVE, IL 60515",
+  "certificate": "33-R-0010",
+  "site_id": "002",
+  "site_name": "MIDWESTERN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JUN-2023",
+  "report_date": "28-JUN-2023",
+  "citations": [
+    {
+      "code": "2.38(l)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "At time of inspection, the facility representative stated that there was no formal training plan in place for personnel on the\ncontingency plan. Lack of training for personnel that have responsibilities outlined in the contingency plan can lead to\npreventable losses. The facility must provide training for its personnel regarding their roles and responsibilities as outlined\nin the plan.\nCorrect by training responsible personnel on their duties outlined in the contingency plan by 23 August 2023.\nThis inspection and exit interview were conducted with IACUC representative.\nn"
+    }
+  ],
+  "narrative": "2.38(l)(3) \n   \nMiscellaneous. \nAt time of inspection, the facility representative stated that there was no formal training plan in place for personnel on the \ncontingency plan. Lack of training for personnel that have responsibilities outlined in the contingency plan can lead to \npreventable losses. The facility must provide training for its personnel regarding their roles and responsibilities as outlined \nin the plan. \n \nCorrect by training responsible personnel on their duties outlined in the contingency plan by 23 August 2023. \n \nThis inspection and exit interview were conducted with IACUC representative. \n \n n",
+  "animals_total": 60,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 32,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    }
+  ]
+}
