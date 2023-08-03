@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000874596",
+  "layout": "c",
+  "customer_id": "93",
+  "customer_name": "BIOQUAL INC",
+  "customer_addr": "9600 MEDICAL CENTER DRIVE\nSuite 101\nROCKVILLE, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "003",
+  "site_name": "BIOQUAL INC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "20-JUN-2023",
+  "report_date": "06-JUL-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol A indicated blood will be withdrawn from the non-human primate study animals. However, the frequency of such\nblood withdrawals is not outlined in the protocol. Without this information, the IACUC will not be able to effectively\ndetermine if the proposed amount of blood withdrawn will exceed the maximum allowable amount as outlined in the\nfacility SOP \u2013 Nonhuman Primates Withdrawal Limitations.\nA complete description of all proposed uses of study animals is necessary to ensure the procedures avoid or minimize\ndiscomfort, distress, and pain as in accordance with the animal welfare regulations. The Institutional Animal Care and Use\nCommittee (IACUC) should ensure that a proposal to conduct an animal activity includes a complete description of the\nproposed use of the animals.\nCorrected prior to inspection by protocol amendment and review.\nThis inspection and exit interview were conducted with the facility representatives and the IO.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol A indicated blood will be withdrawn from the non-human primate study animals. However, the frequency of such \nblood withdrawals is not outlined in the protocol. Without this information, the IACUC will not be able to effectively \ndetermine if the proposed amount of blood withdrawn will exceed the maximum allowable amount as outlined in the \nfacility SOP \u2013 Nonhuman Primates Withdrawal Limitations.  \n \nA complete description of all proposed uses of study animals is necessary to ensure the procedures avoid or minimize \ndiscomfort, distress, and pain as in accordance with the animal welfare regulations. The Institutional Animal Care and Use \nCommittee (IACUC) should ensure that a proposal to conduct an animal activity includes a complete description of the \nproposed use of the animals. \n \nCorrected prior to inspection by protocol amendment and review. \n \nThis inspection and exit interview were conducted with the facility representatives and the IO. \n \n n",
+  "animals_total": 804,
+  "species": [
+    {
+      "count": 53,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 638,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 13,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 100,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}
