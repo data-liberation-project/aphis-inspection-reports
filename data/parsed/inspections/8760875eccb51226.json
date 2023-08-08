@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000877993",
+  "layout": "c",
+  "customer_id": "166",
+  "customer_name": "Trustees Of Dartmouth College",
+  "customer_addr": "6004 PARKHURST HALL\nHANOVER, NH 03755",
+  "certificate": "12-R-0001",
+  "site_id": "001",
+  "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-JUL-2023",
+  "report_date": "11-JUL-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol 00002278, approved 03/11/2022, did not contain a justification for the appropriateness of the number of animals\nto be used. Review of the appropriateness of the number of animals to be used ensures that the IACUC is approving\nscientifically valuable research that will produce replicable data leading to correct conclusions. The facility must ensure\nthat protocols contain a rationale for the appropriateness of the numbers of animals to be used.\nCorrect by August 10, 2023.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol 00002278, approved 03/11/2022, did not contain a justification for the appropriateness of the number of animals \nto be used. Review of the appropriateness of the number of animals to be used ensures that the IACUC is approving \nscientifically valuable research that will produce replicable data leading to correct conclusions. The facility must ensure \nthat protocols contain a rationale for the appropriateness of the numbers of animals to be used.  \n \nCorrect by August 10, 2023. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 147,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    }
+  ]
+}
