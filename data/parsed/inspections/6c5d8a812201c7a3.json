@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000870765",
+  "layout": "c",
+  "customer_id": "1450",
+  "customer_name": "UNIV OF OKLAHOMA-NORMAN",
+  "customer_addr": "633 ELM ST\nNORMAN, OK 73019",
+  "certificate": "73-R-0100",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF OK-NORMAN, COLLEGE OF A & S",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-MAY-2023",
+  "report_date": "22-MAY-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(iv)(A)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC approved animal use activity (protocol R22-007) involving chinchillas stated \u201cTo reduce the pain or distress on\nanimals, analgesic Buprenorphine SR at dosage 0.3? 1.5mg/kg will be administered subcutaneously (SQ).\u201d The medical\nrecords and procedure records do not indicate a time, amount, or frequency of buprenorphine administration. Procedure\nrecords indicate the protocol was not followed by the complete absence of administering the post-procedure analgesic as\nstated above. Laboratory personnel were not giving the Buprenorphine SR and the drug log book confirmed that the last\ntime it was dispensed was on 8-25-21. Specifically, 20 chinchillas in the 22-1 group which were numbered 22-1-1 through\n22-1-20 (including control animals) did not receive any post-procedure Buprenorphine SR for procedures conducted\nbetween 9-30-2022 to 12-6-2022.\nThe failure to follow the protocol and administer the Buprenorphine SR as approved, at the prescribed times and dosages,\nmay have caused the chinchillas undue pain and distress. The IACUC must ensure that all responsible personnel follow\nthe approved protocol, adequate post-approval monitoring is conducted, and that protocols are reviewed and amended as\nneeded with adequate scrutiny.\nProcedures that may cause more than momentary or slight pain or distress to the animals will be performed with\nappropriate sedatives, analgesics or anesthetics, unless withholding such agents is justified for scientific reasons, in\nwriting, by the principal investigator and will continue for only the necessary period of time.\nCorrect by May 25, 2023.\nThis inspection and exit briefing were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(iv)(A)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC approved animal use activity (protocol R22-007) involving chinchillas stated \u201cTo reduce the pain or distress on \nanimals, analgesic Buprenorphine SR at dosage 0.3? 1.5mg/kg will be administered subcutaneously (SQ).\u201d  The medical \nrecords and procedure records do not indicate a time, amount, or frequency of buprenorphine administration. Procedure \nrecords indicate the protocol was not followed by the complete absence of administering the post-procedure analgesic as \nstated above.  Laboratory personnel were not giving the Buprenorphine SR and the drug log book confirmed that the last \ntime it was dispensed was on 8-25-21. Specifically, 20 chinchillas in the 22-1 group which were numbered 22-1-1 through \n22-1-20 (including control animals) did not receive any post-procedure Buprenorphine SR for procedures conducted \nbetween 9-30-2022 to 12-6-2022. \n \nThe failure to follow the protocol and administer the Buprenorphine SR as approved, at the prescribed times and dosages, \nmay have caused the chinchillas undue pain and distress. The IACUC must ensure that all responsible personnel follow \nthe approved protocol, adequate post-approval monitoring is conducted, and that protocols are reviewed and amended as \nneeded with adequate scrutiny.\n\nProcedures that may cause more than momentary or slight pain or distress to the animals will be performed with \nappropriate sedatives, analgesics or anesthetics, unless withholding such agents is justified for scientific reasons, in \nwriting, by the principal investigator and will continue for only the necessary period of time.  \n \nCorrect by May 25, 2023. \n \nThis inspection and exit briefing were conducted with facility representatives. \n \n n",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Onychomys torridus",
+      "common": "SOUTHERN GRASSHOPPER MOUSE"
+    },
+    {
+      "count": 8,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
