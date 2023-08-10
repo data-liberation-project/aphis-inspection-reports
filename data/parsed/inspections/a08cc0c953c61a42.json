@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000878057",
+  "layout": "c",
+  "customer_id": "267",
+  "customer_name": "BROWN UNIVERSITY",
+  "customer_addr": "Box G-B 222\nPROVIDENCE, RI 02912",
+  "certificate": "15-R-0003",
+  "site_id": "001",
+  "site_name": "BROWN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JUL-2023",
+  "report_date": "13-JUL-2023",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "In December 2022, two bats died following the administration of injectable anesthesia by laboratory staff for a research\nprocedure in IACUC approved protocol 22-10-3; veterinary staff were contacted by the laboratory. The Attending\nVeterinarian determined from the review of the anesthetic drug withdrawal procedure and the anesthetic dose calculations\nperformed by the laboratory staff, that the dose of anesthetic administered to the bats by the laboratory staff was higher\nthan in the approved protocol and the bats died from an overdose of the anesthetic agent.\nPer this Section, the handling of animals by all personnel, including laboratory research staff, should be done as carefully\nas possible in a manner that does not cause physical harm, behavioral stress, or unnecessary discomfort. The failure of\nthe laboratory staff to accurately calculate and prepare the dose of the anesthetic agent prior to administration of the\nmedication to the bats resulted in an overdose and the death of the two animals.\nThe Attending Veterinarian and research facility acted promptly to address this incident by investigating and implementing\ncorrective actions to prevent future incidents. Corrective actions included but were not limited to refresher training of the\nlaboratory staff on drug calculation and administration with the veterinary staff, and the veterinary staff will review all drug\ncalculations with the laboratory staff prior to administration to the animals. There have not been any additional incidents\nafter the implementation of these corrective actions.\nThis item was corrected by the research facility prior to the inspection.\nThis inspection was conducted with facility representatives on 7/12/23 and 7/13/23, and the exit briefing was held with\nfacility representatives on 7/13/23.\n*END OF REPORT*\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1)  Critical\n   \nMiscellaneous. \nIn December 2022, two bats died following the administration of injectable anesthesia by laboratory staff for a research \nprocedure in IACUC approved protocol 22-10-3; veterinary staff were contacted by the laboratory. The Attending \nVeterinarian determined from the review of the anesthetic drug withdrawal procedure and the anesthetic dose calculations \nperformed by the laboratory staff, that the dose of anesthetic administered to the bats by the laboratory staff was higher \nthan in the approved protocol and the bats died from an overdose of the anesthetic agent. \n \nPer this Section, the handling of animals by all personnel, including laboratory research staff, should be done as carefully \nas possible in a manner that does not cause physical harm, behavioral stress, or unnecessary discomfort. The failure of \nthe laboratory staff to accurately calculate and prepare the dose of the anesthetic agent prior to administration of the \nmedication to the bats resulted in an overdose and the death of the two animals. \n \nThe Attending Veterinarian and research facility acted promptly to address this incident by investigating and implementing \ncorrective actions to prevent future incidents. Corrective actions included but were not limited to refresher training of the \nlaboratory staff on drug calculation and administration with the veterinary staff, and the veterinary staff will review all drug \ncalculations with the laboratory staff prior to administration to the animals. There have not been any additional incidents \nafter the implementation of these corrective actions. \n \nThis item was corrected by the research facility prior to the inspection. \n \nThis inspection was conducted with facility representatives on 7/12/23 and 7/13/23, and the exit briefing was held with \nfacility representatives on 7/13/23.  \n \n*END OF REPORT* \n \n n",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 19,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 21,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 0,
+      "scientific": "Artibeus jamaicensis",
+      "common": "JAMAICAN FRUIT-EATING BAT / JAMAICAN FRUIT BAT"
+    }
+  ]
+}
