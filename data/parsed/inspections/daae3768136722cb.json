@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000876744",
+  "layout": "c",
+  "customer_id": "107",
+  "customer_name": "HARVARD MEDICAL SCHOOL",
+  "customer_addr": "HARVARD CENTER FOR COMPARATIVE MEDICINE\n665 HUNTINGTON AVE\nBOSTON, MA 02115",
+  "certificate": "14-R-0019",
+  "site_id": "001",
+  "site_name": "HARVARD CENTER FOR COMPARATIVE MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUN-2023",
+  "report_date": "29-JUN-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol #IS1049-6 describes repeated administration of a compound. The approved protocol states that the compound is\nadministered every 4 days, up to a maximum of 8 total doses. Animal #189-07 was administered the compound at 3 day\nintervals for a total of 9 doses between 5/11/2023 and 6/4/2023. Significant changes to approved protocols, such as\nincreasing the number of total doses or changing frequency of doses, must be reviewed and approved by the IACUC.\nAnimal #233-07, enrolled on protocol #IS1049-6, and animal #5-16, enrolled on protocol #IS888-6, were both undergoing\nwater scheduling for training at the time of inspection. They were not weighed at the frequency approved in the protocols.\nThe change to the weight monitoring schedule defined in the protocols was not reviewed and approved by the IACUC.\nThe IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to\nimplementation.\nCorrect from June 29, 2023 forward.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nSARA TOBIAS, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol #IS1049-6 describes repeated administration of a compound. The approved protocol states that the compound is \nadministered every 4 days, up to a maximum of 8 total doses. Animal #189-07 was administered the compound at 3 day \nintervals for a total of 9 doses between 5/11/2023 and 6/4/2023. Significant changes to approved protocols, such as \nincreasing the number of total doses or changing frequency of doses, must be reviewed and approved by the IACUC.  \n \nAnimal #233-07, enrolled on protocol #IS1049-6, and animal #5-16, enrolled on protocol #IS888-6, were both undergoing \nwater scheduling for training at the time of inspection. They were not weighed at the frequency approved in the protocols. \nThe change to the weight monitoring schedule defined in the protocols was not reviewed and approved by the IACUC. \n \nThe IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to \nimplementation. \n \nCorrect from June 29, 2023 forward. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nSARA TOBIAS, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 36,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

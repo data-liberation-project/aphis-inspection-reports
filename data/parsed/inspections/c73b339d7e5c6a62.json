@@ -1,0 +1,76 @@
+{
+  "insp_id": "INS-0000878172",
+  "layout": "c",
+  "customer_id": "1044",
+  "customer_name": "The University of Arizona",
+  "customer_addr": "1501 N. Campbell Ave., Room 1126\nPO Box 245092\nTucson, AZ 85724",
+  "certificate": "86-R-0003",
+  "site_id": "001",
+  "site_name": "The University of Arizona Animal Care",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JUL-2023",
+  "report_date": "14-JUL-2023",
+  "citations": [
+    {
+      "code": "2.36(b)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Annual report.",
+      "narrative": "The incorrect species common name was listed in the FY 2022 annual report as Black-footed ferret (an endangered\nspecies), whereas the actual species on hand and in use for Category D research was domestic ferret. It was determined\nthat research staff understood the animals to be domestic ferrets when working with them. Incorrectly identifying species\nused in research on records can lead to clerical errors and misunderstanding when reporting to Congress and the\nAmerican public. On the annual report, research facilities shall state the correct common names of animals upon which\nresearch tests were conducted involving accompanying pain or distress to the animal and for which appropriate\nanesthetic, analgesic or tranquilizing drugs were used.\nCorrect by submitting an amended FY 2022 annual report to USDA APHIS Animal Care by 28 July 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.36(b)(6) \n   \nAnnual report. \nThe incorrect species common name was listed in the FY 2022 annual report as Black-footed ferret (an endangered \nspecies), whereas the actual species on hand and in use for Category D research was domestic ferret. It was determined \nthat research staff understood the animals to be domestic ferrets when working with them. Incorrectly identifying species \nused in research on records can lead to clerical errors and misunderstanding when reporting to Congress and the \nAmerican public. On the annual report, research facilities shall state the correct common names of animals upon which \nresearch tests were conducted involving accompanying pain or distress to the animal and for which appropriate \nanesthetic, analgesic or tranquilizing drugs were used.  \n \nCorrect by submitting an amended FY 2022 annual report to USDA APHIS Animal Care by 28 July 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 188,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 51,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 30,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 26,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 9,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 18,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
+}
