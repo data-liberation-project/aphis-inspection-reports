@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000882052",
+  "layout": "c",
+  "customer_id": "324240",
+  "customer_name": "Wolf Woods",
+  "customer_addr": "P. O. Box 312\nIGNACIO, CO 81137",
+  "certificate": "84-C-0139",
+  "site_id": "001",
+  "site_name": "Wolf Woods",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-JUL-2023",
+  "report_date": "20-JUL-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis lupus X C. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis latrans x C. familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    },
+    {
+      "count": 14,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
