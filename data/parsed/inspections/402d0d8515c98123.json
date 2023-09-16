@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000882169",
+  "layout": "c",
+  "customer_id": "252",
+  "customer_name": "COLUMBUS STATE COMMUNITY COLLEGE",
+  "customer_addr": "550 E SPRING STREET\nCOLUMBUS, OH 43216",
+  "certificate": "31-R-0088",
+  "site_id": "001",
+  "site_name": "VETERINARY TECHNOLOGY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUL-2023",
+  "report_date": "24-JUL-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC did not review the program of humane care and use of animals at the intervals required by the Animal Welfare\nAct, which is every 6 months. Records indicate that the IACUC reviewed the program for humane care and use of animals\non July 29, 2022 and then not again until April 17, 2023, which is a span of almost 9 months. One of the IACUC functions\nis to review at least once every 6 months, the research facility's program for humane care and use of animals. This is to\nensure protocol changes, adverse events, personnel changes, and other issues are addressed in a timely manner.\nCorrect by October 2023."
+    },
+    {
+      "code": "2.31(c)(2)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Records indicate that the IACUC failed to inspect the facility at least once every 6 months. The facility was inspected on\nJuly 29, 2022, and then not again until March 30, 2023, which is a span of 8 months. Regular reviews are necessary to\nensure IACUC oversight of the facility and to ensure the welfare of the animals being used in research by the facility. With\nrespect to activities involving animals, the IACUC shall inspect at least once every 6 months all of the research facility's\nanimal facilities, including animal study areas. Correct by October 2023.\nThis inspection and exit interview were conducted with the attending veterinarians and administrative facility\nrepresentatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(1)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC did not review the program of humane care and use of animals at the intervals required by the Animal Welfare \nAct, which is every 6 months. Records indicate that the IACUC reviewed the program for humane care and use of animals \non July 29, 2022 and then not again until April 17, 2023, which is a span of almost 9 months. One of the IACUC functions \nis to review at least once every 6 months, the research facility's program for humane care and use of animals. This is to \nensure protocol changes, adverse events, personnel changes, and other issues are addressed in a timely manner. \nCorrect by October 2023. \n2.31(c)(2)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nRecords indicate that the IACUC failed to inspect the facility at least once every 6 months. The facility was inspected on \nJuly 29, 2022, and then not again until March 30, 2023, which is a span of 8 months. Regular reviews are necessary to \nensure IACUC oversight of the facility and to ensure the welfare of the animals being used in research by the facility. With \nrespect to activities involving animals, the IACUC shall inspect at least once every 6 months all of the research facility's \nanimal facilities, including animal study areas. Correct by October 2023. \n \nThis inspection and exit interview were conducted with the attending veterinarians and administrative facility \nrepresentatives. \n \n n",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
