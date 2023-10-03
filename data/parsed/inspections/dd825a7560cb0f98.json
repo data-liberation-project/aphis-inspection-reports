@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000889944",
+  "layout": "c",
+  "customer_id": "146",
+  "customer_name": "MCLEAN HOSPITAL CORPORATION",
+  "customer_addr": "115 MILL STREET\nBELMONT, MA 02478",
+  "certificate": "14-R-0096",
+  "site_id": "001",
+  "site_name": "MC LEAN HOSPITAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-AUG-2023",
+  "report_date": "01-SEP-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An IACUC approved protocol indicates that animals could be expected to experience loss of up to 10% body weight while\nenrolled on procedures that include food scheduling. On review of records at the time of inspection, it was discovered that\none animal had lost 13% of its body weight as of June 2nd, 2023 while enrolled on a food scheduled procedure under this\nprotocol. The attending veterinarian was not notified and the animal was maintained on study.\nDeviation from the monitoring parameters described in the protocol can compromise the ability of research and veterinary\npersonnel to respond to potential problems of animal health and wellbeing and constitutes a significant change that did\nnot undergo IACUC review and approval.\nAny activity involving the care and use of animals must be conducted as approved by the IACUC, and any significant\nchange in ongoing activities regarding the care and use of animals must be reviewed and approved by the IACUC prior to\nbeing instituted.\nTo be corrected from September 1st, 2023 forward.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn IACUC approved protocol indicates that animals could be expected to experience loss of up to 10% body weight while \nenrolled on procedures that include food scheduling. On review of records at the time of inspection, it was discovered that \none animal had lost 13% of its body weight as of June 2nd, 2023 while enrolled on a food scheduled procedure under this \nprotocol. The attending veterinarian was not notified and the animal was maintained on study. \n \nDeviation from the monitoring parameters described in the protocol can compromise the ability of research and veterinary \npersonnel to respond to potential problems of animal health and wellbeing and constitutes a significant change that did \nnot undergo IACUC review and approval.  \n \nAny activity involving the care and use of animals must be conducted as approved by the IACUC, and any significant \nchange in ongoing activities regarding the care and use of animals must be reviewed and approved by the IACUC prior to \nbeing instituted.  \n \nTo be corrected from September 1st, 2023 forward. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 89,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 13,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 47,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

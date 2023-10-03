@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000885925",
+  "layout": "c",
+  "customer_id": "1043",
+  "customer_name": "ARIZONA STATE UNIVERSITY",
+  "customer_addr": "550 E. Orange St. ISTB1-122\nTEMPE, AZ 85287",
+  "certificate": "86-R-0002",
+  "site_id": "001",
+  "site_name": "DEPARTMENT OF ANIMAL CARE & TECHNOLOGIES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-AUG-2023",
+  "report_date": "25-AUG-2023",
+  "citations": [
+    {
+      "code": "3.154(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Environment enhancement to promote psychological well-being.",
+      "narrative": "No species differences considerations were detailed in the avian environment enrichment plan. Rather, the plan listed\nexamples of enrichment items that birds broadly may be provided, but frequency, amount or specific types of enrichment\nwere not determined for the species on hand. Failure to determine minimum standards of environment enrichment by\nspecies of birds prior to their use in research may result in development of adverse behavior or psychological stress in the\nanimal. Research facilities should consider species differences when determining the type or methods of enrichment.\nCorrect by 27 October 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.154(b) \n   \nEnvironment enhancement to promote psychological well-being. \nNo species differences considerations were detailed in the avian environment enrichment plan. Rather, the plan listed \nexamples of enrichment items that birds broadly may be provided, but frequency, amount or specific types of enrichment \nwere not determined for the species on hand. Failure to determine minimum standards of environment enrichment by \nspecies of birds prior to their use in research may result in development of adverse behavior or psychological stress in the \nanimal. Research facilities should consider species differences when determining the type or methods of enrichment.  \n \nCorrect by 27 October 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 19,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 16,
+      "scientific": "Agapornis roseicollis",
+      "common": "ROSY-FACED LOVEBIRD"
+    }
+  ]
+}

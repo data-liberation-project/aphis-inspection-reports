@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000890834",
+  "layout": "c",
+  "customer_id": "3930",
+  "customer_name": "Texas Biomedical Research Institute",
+  "customer_addr": "PO Box 760549\nSAN ANTONIO, TX 78245",
+  "certificate": "74-A-0061",
+  "site_id": "001",
+  "site_name": "Texas Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-AUG-2023",
+  "report_date": "31-AUG-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit briefing were conducted with facility employees . \n \n n",
+  "animals_total": 1294,
+  "species": [
+    {
+      "count": 315,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 530,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 420,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 29,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    }
+  ]
+}
