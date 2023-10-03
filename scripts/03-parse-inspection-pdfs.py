@@ -186,7 +186,6 @@ class Citation:
 
     def add_narrative(self, text: str) -> None:
         assert self.heading
-        assert self.desc
         self.narrative += "\n" + text
 
     def to_dict(self) -> dict[str, typing.Union[str, bool]]:
