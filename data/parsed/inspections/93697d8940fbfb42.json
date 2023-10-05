@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000891837",
+  "layout": "c",
+  "customer_id": "6003073",
+  "customer_name": "J&L Farms",
+  "customer_addr": "N13572 Sterling Ave\nWithee, WI 54498",
+  "certificate": "35-A-0483",
+  "site_id": "001",
+  "site_name": "J&L Farms",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-SEP-2023",
+  "report_date": "07-SEP-2023",
+  "citations": [
+    {
+      "code": "3.13(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The medical records do not contain the identity of the two dogs whose stool samples were collected and tested for\nintestinal parasites on April 21, 2023. Not knowing the identity of the dogs cannot ensure that the correct dog will receive\nany necessary treatment. The licensee must complete and maintain updated medical records including the identify of the\ndogs being tested at the facility. Correct by September 6, 2023."
+    },
+    {
+      "code": "3.13(b)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The licensee has not been recording the names and dates of the vaccines and deworming treatments being administered\nto the adult dogs in the kennel. Failure to list the names and dates of all vaccines and deworming treatments administered\nmakes it difficult the access the animal care program. Licensee must ensure that medical records are kept with the names\nand dates of all vaccines and treatments administered to the adult dogs. Correct by September 6, 2023.\nThis inspection and exit interview were conducted with the Licensee.\nn"
+    }
+  ],
+  "narrative": "3.13(b)(1) \n   \nVeterinary care for dogs. \nThe medical records do not contain the identity of the two dogs whose stool samples were collected and tested for \nintestinal parasites on April 21, 2023. Not knowing the identity of the dogs cannot ensure that the correct dog will receive \nany necessary treatment. The licensee must complete and maintain updated medical records including the identify of the \ndogs being tested at the facility. Correct by September 6, 2023. \n3.13(b)(3) \n   \nVeterinary care for dogs. \nThe licensee has not been recording the names and dates of the vaccines and deworming treatments being administered \nto the adult dogs in the kennel. Failure to list the names and dates of all vaccines and deworming treatments administered \nmakes it difficult the access the animal care program. Licensee must ensure that medical records are kept with the names \nand dates of all vaccines and treatments administered to the adult dogs. Correct by September 6, 2023. \n \nThis inspection and exit interview were conducted with the Licensee. \n \n n",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
