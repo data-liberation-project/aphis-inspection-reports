@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0000891827",
+  "layout": "c",
+  "customer_id": "147",
+  "customer_name": "Labcorp Bedford LLC",
+  "customer_addr": "15 Wiggins Ave\nBedford, MA 01730",
+  "certificate": "14-R-0101",
+  "site_id": "001",
+  "site_name": "Labcorp Bedford LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-SEP-2023",
+  "report_date": "08-SEP-2023",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An IACUC approved training protocol that includes surgical procedures does not contain a written narrative of the\nmethods and sources used to determine that alternatives to potentially painful or distressful procedures were not\navailable.\nIn order to approve proposed activities the IACUC shall determine that the principal investigator has considered\nalternatives to procedures that may cause more than momentary or slight pain or distress to the animals and has provided\na written narrative description of the methods and sources used to determine that alternatives were not available.\nTo be corrected by October 1, 2023."
+    },
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An IACUC approved training protocol does not contain a rationale for the appropriateness of the numbers of animals to be\nused.\nAnother IACUC approved protocol stated a need to use a large number of animals to 'normalize results' and create a 'high\npower study,' but no details, such as statistical tests used or statisticians consulted, were included to support the\nstatement.\nAll animal use protocols must include a rationale for the appropriateness of the numbers of animals to be used that\nenables the IACUC to conduct a thorough review of the components of the activities related to the care and use of\nanimals and determine that the proposed activities are in accordance with the Animal Welfare Act.\nTo be corrected by October 1, 2023.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nTonya Hadjis, Supervisory Animal Care Specialist n"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn IACUC approved training protocol that includes surgical procedures does not contain a written narrative of the \nmethods and sources used to determine that alternatives to potentially painful or distressful procedures were not \navailable.  \n \nIn order to approve proposed activities the IACUC shall determine that the principal investigator has considered \nalternatives to procedures that may cause more than momentary or slight pain or distress to the animals and has provided \na written narrative description of the methods and sources used to determine that alternatives were not available. \n \nTo be corrected by October 1, 2023. \n2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn IACUC approved training protocol does not contain a rationale for the appropriateness of the numbers of animals to be \nused.  \n \nAnother IACUC approved protocol stated a need to use a large number of animals to 'normalize results' and create a 'high \npower study,' but no details, such as statistical tests used or statisticians consulted, were included to support the \nstatement.  \n \nAll animal use protocols must include a rationale for the appropriateness of the numbers of animals to be used that \nenables the IACUC to conduct a thorough review of the components of the activities related to the care and use of \nanimals and determine that the proposed activities are in accordance with the Animal Welfare Act. \n \nTo be corrected by October 1, 2023. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nAdditional Inspectors: \nTonya Hadjis, Supervisory Animal Care Specialist n",
+  "animals_total": 973,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 693,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 262,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000891937",
+  "layout": "c",
+  "customer_id": "2620",
+  "customer_name": "Carol J. Yonk",
+  "customer_addr": "877 E Mound Street\nPalmer, IL 62556",
+  "certificate": "33-A-0517",
+  "site_id": "001",
+  "site_name": "CAROL YONK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-SEP-2023",
+  "report_date": "08-SEP-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with licensee. \n \n n",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cynomys leucurus",
+      "common": "WHITE-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 6,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
+}
