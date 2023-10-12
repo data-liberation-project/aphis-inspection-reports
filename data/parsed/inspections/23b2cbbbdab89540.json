@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0000892120",
+  "layout": "c",
+  "customer_id": "6050",
+  "customer_name": "Mostyn Enterprise",
+  "customer_addr": "1000 Prospect St\nSan Marcos, TX 78666",
+  "certificate": "74-C-0371",
+  "site_id": "001",
+  "site_name": "MOSTYN ENTERPRISES INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-SEP-2023",
+  "report_date": "14-SEP-2023",
+  "citations": [
+    {
+      "code": "2.40(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care (dealers and exhibitors).",
+      "narrative": "The written program of veterinary care does not address the veterinary care for the 2 macaws and 2 emus at this facility .\nThey need to be added to the program of veterinary care to ensure that adequate veterinary care is provided.\nCORRECT BY : 10/15/2023"
+    },
+    {
+      "code": "2.131(c)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Handling of animals.",
+      "narrative": "The perches and food containers for the 2 blue and gold macaws are attached to the front enclosure wall which is next to\nthe public viewing area. The public could reach the macaws at this location resulting in injury to the animals or to the\npublic. During public exhibition, any animal must be handled so there is minimal risk of harm to the animal and to the\npublic, with sufficient distance and/or barriers between the animal and the general viewing public so as to assure the\nsafety of animals and the public.\nCORRECT BY : 10/14/2023\nThis inspection and exit briefing were conducted with facility employees.\nn"
+    }
+  ],
+  "narrative": "2.40(a)(1) \n   \nAttending veterinarian and adequate veterinary care (dealers and exhibitors). \nThe written program of veterinary care does not address the veterinary care for the 2 macaws and 2 emus at this facility . \nThey need to be added to the program of veterinary care to ensure that adequate veterinary care is provided.  \nCORRECT BY : 10/15/2023 \n2.131(c)(1) \n   \nHandling of animals. \nThe perches and food containers for the 2 blue and gold macaws are attached to the front enclosure wall which is next to \nthe public viewing area. The public could reach the macaws at this location resulting in injury to the animals or to the \npublic. During public exhibition, any animal must be handled so there is minimal risk of harm to the animal and to the \npublic, with sufficient distance and/or barriers between the animal and the general viewing public so as to assure the \nsafety of animals and the public. \nCORRECT BY : 10/14/2023 \n \nThis inspection and exit briefing were conducted with facility employees. \n \n n",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 35,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Antilope cervicapra",
+      "common": "BLACKBUCK"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    }
+  ]
+}

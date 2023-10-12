@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000892093",
+  "layout": "c",
+  "customer_id": "335443",
+  "customer_name": "A D R U",
+  "customer_addr": "3003 ADBF, WSU, P.O. Box 646630\nPULLMAN, WA 99164",
+  "certificate": "91-G-0001",
+  "site_id": "002",
+  "site_name": "USDA ARS ADRU",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-SEP-2023",
+  "report_date": "14-SEP-2023",
+  "citations": [
+    {
+      "code": "2.33(b)(2)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "**The following outdated medications or medical supplies were identified during the inspection:\na. Holm Center- Fatal Plus, lot #2889, exp 08/2023, Bottle #115, 116, 117, 118, 119, 120, 121\nb. Hemoparasite Barn: 1 bottle Penicillin, lot #1033-51A, exp 01/2023; 4 bottles Prestige 5-way\nvaccine, lot # 9185A0308, exp 6/2023\n**The use of outdated medications and/or medical supplies may not be safe or efficacious. It is the responsibility of the\nfacility to ensure appropriate methods are used to prevent, control, diagnose and treat diseases in order to ensure the\nhealth and well-being of the animals housed at the facility.\nCorrect by: 09/15/2023\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(2)  Critical\n   \nAttending veterinarian and adequate veterinary care. \n**The following outdated medications or medical supplies were identified during the inspection: \n \n a. Holm Center- Fatal Plus, lot #2889, exp 08/2023, Bottle #115, 116, 117, 118, 119, 120, 121 \n b. Hemoparasite Barn: 1 bottle Penicillin, lot #1033-51A, exp 01/2023; 4 bottles Prestige 5-way  \n vaccine, lot # 9185A0308, exp 6/2023 \n \n**The use of outdated medications and/or medical supplies may not be safe or efficacious. It is the responsibility of the \nfacility to ensure appropriate methods are used to prevent, control, diagnose and treat diseases in order to ensure the \nhealth and well-being of the animals housed at the facility.  \n \nCorrect by: 09/15/2023 \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 96,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 45,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 18,
+      "scientific": "ARS RATS",
+      "common": "ARS RATS"
+    }
+  ]
+}
