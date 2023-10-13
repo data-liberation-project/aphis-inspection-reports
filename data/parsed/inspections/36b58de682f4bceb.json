@@ -1,0 +1,55 @@
+{
+  "insp_id": "INS-0000892103",
+  "layout": "c",
+  "customer_id": "38804",
+  "customer_name": "CBSET Inc",
+  "customer_addr": "500 Shire Way\nLexington, MA 02421",
+  "certificate": "14-R-0183",
+  "site_id": "002",
+  "site_name": "CBSET, Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-SEP-2023",
+  "report_date": "15-SEP-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On 5/15/2023, a pig underwent a surgical procedure and received only one of two pain medications required by the\nIACUC approved protocol. This oversight was detected later that day by facility staff and the animal was provided with the\nmissed dose of analgesia at that time.\nOn 8/3/2022, 3 pigs that had undergone biopsy procedures did not receive post-procedural analgesia as required by the\nIACUC approved protocol. According to facility records, post-procedural observations to evaluate for pain were conducted\nand no pain was noted.\nDeviation from IACUC approved pain control procedures constitutes a significant change to ongoing activities, as changes\nin the pain control regimen has the potential to negatively impact animal welfare. The IACUC must review and approve all\nsignificant changes in ongoing activities prior to their implementation in animals.\nThese incidents had been identified by the facility and corrective measures were implemented prior to inspection. To\nremain corrected from September 15, 2023."
+    },
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An IACUC approved protocol describes a procedure for the placement of a large cranial implant. The surgical procedure\ndescription states that incisions will be sutured closed in multiple layers. On 5/15/2023, a pig underwent a procedure on\nthis protocol and an additional \u201crotational scalp incision\u201d was created to be able to appose the skin over the implant site.\nThis surgical repair necessary to completely close the incision over a large implant was not described in the protocol.\nProcedures must be completely described to enable the IACUC to conduct a thorough review of the components of the\nactivities related to the care and use of animals, including surgical procedures, to be able to determine that the proposed\nactivities are in accordance with the Animal Welfare Act.\nThe facility must ensure that all proposals to conduct activities involving animals include a complete description of the\nproposed use of animals. Any activities conducted in animals must be completely described from September 15, 2023\nforward."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "During measurement of the rectal temperature of an anesthetized rabbit on 4/4/2023, a thermometer was inserted into the\nanimal and could not be retrieved by hand. When imaging was conducted to identify the location of the thermometer, it\nwas shown to have penetrated the colon and was partially within the abdominal cavity. Failure to handle the animal as\ncarefully as possible while monitoring body temperature caused trauma to the animal that required veterinary care and\nnecessitated the animal\u2019s removal from study.\nHandling of all animals shall be done as carefully as possible and in a manner that does not cause trauma or physical\nharm.\nThis incident had been identified by the facility and corrective measures had been implemented prior to inspection, which\nincluded retraining of all staff. To remain corrected from September 15, 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn 5/15/2023, a pig underwent a surgical procedure and received only one of two pain medications required by the \nIACUC approved protocol. This oversight was detected later that day by facility staff and the animal was provided with the \nmissed dose of analgesia at that time.  \n \nOn 8/3/2022, 3 pigs that had undergone biopsy procedures did not receive post-procedural analgesia as required by the \nIACUC approved protocol. According to facility records, post-procedural observations to evaluate for pain were conducted \nand no pain was noted. \n \nDeviation from IACUC approved pain control procedures constitutes a significant change to ongoing activities, as changes \nin the pain control regimen has the potential to negatively impact animal welfare. The IACUC must review and approve all \nsignificant changes in ongoing activities prior to their implementation in animals.  \n \nThese incidents had been identified by the facility and corrective measures were implemented prior to inspection. To \nremain corrected from September 15, 2023. \n2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn IACUC approved protocol describes a procedure for the placement of a large cranial implant. The surgical procedure \ndescription states that incisions will be sutured closed in multiple layers. On 5/15/2023, a pig underwent a procedure on \nthis protocol and an additional \u201crotational scalp incision\u201d was created to be able to appose the skin over the implant site. \nThis surgical repair necessary to completely close the incision over a large implant was not described in the protocol.  \n \nProcedures must be completely described to enable the IACUC to conduct a thorough review of the components of the \nactivities related to the care and use of animals, including surgical procedures, to be able to determine that the proposed \nactivities are in accordance with the Animal Welfare Act.  \n \nThe facility must ensure that all proposals to conduct activities involving animals include a complete description of the\n\nproposed use of animals. Any activities conducted in animals must be completely described from September 15, 2023 \nforward. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nDuring measurement of the rectal temperature of an anesthetized rabbit on 4/4/2023, a thermometer was inserted into the \nanimal and could not be retrieved by hand. When imaging was conducted to identify the location of the thermometer, it \nwas shown to have penetrated the colon and was partially within the abdominal cavity. Failure to handle the animal as \ncarefully as possible while monitoring body temperature caused trauma to the animal that required veterinary care and \nnecessitated the animal\u2019s removal from study. \n \nHandling of all animals shall be done as carefully as possible and in a manner that does not cause trauma or physical \nharm.  \n \nThis incident had been identified by the facility and corrective measures had been implemented prior to inspection, which \nincluded retraining of all staff. To remain corrected from September 15, 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 60,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
