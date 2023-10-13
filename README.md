@@ -4,6 +4,8 @@
 
 This repository aims to collect, and extract data from, all [publicly-available inspection reports](https://efile.aphis.usda.gov/PublicSearchTool/s/inspection-reports) published by the US Department of Agriculture's [Animal and Plant Health Inspection Service](https://www.aphis.usda.gov/aphis/home/) (APHIS).
 
+For general documentation, [read this FAQ](https://docs.google.com/document/d/19rnwJfahCm9ld-71mkgKJjWhphsuOCCx3ZauL1lIuHE/edit). For technical documentation, read below.
+
 ## Overview
 
 ### What are these inspections?
