@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000894193",
+  "layout": "c",
+  "customer_id": "583",
+  "customer_name": "LOYOLA UNIVERSITY CHICAGO",
+  "customer_addr": "2160 S. FIRST AVE.\nBUILDING 115 ROOM 432-8\nMAYWOOD, IL 60153",
+  "certificate": "33-R-0024",
+  "site_id": "001",
+  "site_name": "STRITCH SCHOOL OF MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-SEP-2023",
+  "report_date": "20-SEP-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "**During a review of records the following was noted:\nProtocol #203-018:\n***Changes regarding the use of animals, swine, was not approved by the Institutional Animal Care and Use Committee\n(IACUC). Section M02 indicates the protocol was approved for the use of pigs weighing between 45-60 kg. The Yorkshire\npig #P1351 used on this protocol was received on 6/01/2023 weighing 33.7kg. The principal investigator postponed the\nprocedure several times resulting in the procedure taking place on 8/10/2023. The weight of the pig at the time of the\nprocedure was 78.8 kg. The anesthesia machine used for the animal during the procedure had a maximum weight\ncapacity of 68 kg. The staff conveyed that the weight of the animal at the time of the procedure lead to inadequate\nintubation during the procedure resulting in insufficient anesthesia and ventilation leading to the death of the animal,\naccording to facility records.\n***Section A01 indicated blood would be collected via jugular vein, however, the incident report noted blood had also\nbeen collected via cranial vena cava at the request of the principal investigator which was not approved by the IACUC.\nCorrect by October 20, 2023\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nKristin Ray, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \n**During a review of records the following was noted: \nProtocol #203-018:  \n***Changes regarding the use of animals, swine, was not approved by the Institutional Animal Care and Use Committee \n(IACUC). Section M02 indicates the protocol was approved for the use of pigs weighing between 45-60 kg. The Yorkshire \npig #P1351 used on this protocol was received on 6/01/2023 weighing 33.7kg. The principal investigator postponed the \nprocedure several times resulting in the procedure taking place on 8/10/2023. The weight of the pig at the time of the \nprocedure was 78.8 kg. The anesthesia machine used for the animal during the procedure had a maximum weight \ncapacity of 68 kg. The staff conveyed that the weight of the animal at the time of the procedure lead to inadequate \nintubation during the procedure resulting in insufficient anesthesia and ventilation leading to the death of the animal, \naccording to facility records. \n***Section A01 indicated blood would be collected via jugular vein, however, the incident report noted blood had also \nbeen collected via cranial vena cava at the request of the principal investigator which was not approved by the IACUC. \n \nCorrect by October 20, 2023 \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nKristin Ray, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
