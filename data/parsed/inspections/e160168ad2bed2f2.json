@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000896159",
+  "layout": "c",
+  "customer_id": "40223",
+  "customer_name": "Kevin Street",
+  "customer_addr": "18328 PIKE 318\nBOWLING GREEN, MO 63334",
+  "certificate": "43-A-5486",
+  "site_id": "001",
+  "site_name": "KEVIN STREET",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-SEP-2023",
+  "report_date": "22-SEP-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 262,
+  "species": [
+    {
+      "count": 133,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 97,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
