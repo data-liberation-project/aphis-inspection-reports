@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000896223",
+  "layout": "c",
+  "customer_id": "1497",
+  "customer_name": "Texas A & M University-Kingsville",
+  "customer_addr": "M S C 201, 700 University Blvd\nKINGSVILLE, TX 78363",
+  "certificate": "74-R-0094",
+  "site_id": "001",
+  "site_name": "Texas A & M University-Kingsville",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-SEP-2023",
+  "report_date": "26-SEP-2023",
+  "citations": [
+    {
+      "code": "2.35(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Recordkeeping requirements.",
+      "narrative": "Acquisition records are missing for 4 cats ( ID : 184 - 187 ) that are present at at the vet tech building at time of the\ninspection . Records for the other cats and dogs are present however these 4 were omitted on the record. Acquistion\nrecords are important if an animal must be traced to its origin and to verify it was obtained from a source compliant with\nthe Animal Welfare Act. The record must contain the name and address of the person from whom a dog or cat was\npurchased or otherwise acquired.\nCORRECT BY : 9/28/23\nThis inspection and exit briefing were conducted with facility employees.\nn"
+    }
+  ],
+  "narrative": "2.35(b)(1) \n   \nRecordkeeping requirements. \nAcquisition records are missing for 4 cats ( ID : 184 - 187 ) that are present at at the vet tech building at time of the \ninspection . Records for the other cats and dogs are present however these 4 were omitted on the record. Acquistion \nrecords are important if an animal must be traced to its origin and to verify it was obtained from a source compliant with \nthe Animal Welfare Act. The record must contain the name and address of the person from whom a dog or cat was \npurchased or otherwise acquired.  \nCORRECT BY : 9/28/23 \n \nThis inspection and exit briefing were conducted with facility employees. \n \n n",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
