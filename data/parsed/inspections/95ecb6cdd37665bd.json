@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000896278",
+  "layout": "c",
+  "customer_id": "694",
+  "customer_name": "I I T RESEARCH INSTITUTE",
+  "customer_addr": "10 WEST 35TH STREET\nCHICAGO, IL 60616",
+  "certificate": "33-R-0008",
+  "site_id": "001",
+  "site_name": "ITT RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2023",
+  "report_date": "28-SEP-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "In May 2023, the IACUC was notified that a Principal Investigator (PI) had utilized 8 minipigs on a range-finding protocol\nthat was approved for dogs but not for use on pigs. Modifications in the protocol were not submitted nor approved prior to\nanimal usage. It was reported that there were no adverse effects in the minipigs.\nIACUC review and approval of proposed animal activities is important for ensuring oversight of animal care and use at the\nfacility, and compliance with the Animal Welfare Act. With respect to activities involving animals, the IACUC, shall: review\nand approve, require modifications in or withhold approval of those components of proposed activities related to the care\nand use of animals.\nCorrected prior to inspection.\nCorrective actions included changing the SOP for protocol approval, retraining of staff, and submission of a revised\nprotocol for a study in pigs.\nThis inspection and exit interview were conducted with the Attending Veterinarian and IACUC Chair.\nAdditional Inspectors:\nREBECCA NANNEY, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(6) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIn May 2023, the IACUC was notified that a Principal Investigator (PI) had utilized 8 minipigs on a range-finding protocol \nthat was approved for dogs but not for use on pigs. Modifications in the protocol were not submitted nor approved prior to \nanimal usage. It was reported that there were no adverse effects in the minipigs.  \n \nIACUC review and approval of proposed animal activities is important for ensuring oversight of animal care and use at the \nfacility, and compliance with the Animal Welfare Act. With respect to activities involving animals, the IACUC, shall: review \nand approve, require modifications in or withhold approval of those components of proposed activities related to the care \nand use of animals.  \n \nCorrected prior to inspection.  \n \nCorrective actions included changing the SOP for protocol approval, retraining of staff, and submission of a revised \nprotocol for a study in pigs. \n \nThis inspection and exit interview were conducted with the Attending Veterinarian and IACUC Chair. \n \nAdditional Inspectors: \nREBECCA NANNEY, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 92,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 0,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

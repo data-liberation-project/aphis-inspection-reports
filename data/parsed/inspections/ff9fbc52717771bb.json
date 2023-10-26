@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000896324",
+  "layout": "c",
+  "customer_id": "333720",
+  "customer_name": "Animal Encounters Sanctuary Inc",
+  "customer_addr": "39608 Calle Cascada\nGreen Valley, CA 91390",
+  "certificate": "93-C-1118",
+  "site_id": "001",
+  "site_name": "Animal Encounters Sanctuary Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2023",
+  "report_date": "28-SEP-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the President of the Sanctuary. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    }
+  ]
+}
