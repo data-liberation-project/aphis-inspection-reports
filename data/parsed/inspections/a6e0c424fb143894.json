@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000899472",
+  "layout": "c",
+  "customer_id": "8784",
+  "customer_name": "The Alaska Zoo",
+  "customer_addr": "4731 O'Malley Road\nAnchorage, AK 99507",
+  "certificate": "96-C-0025",
+  "site_id": "001",
+  "site_name": "The Alaska Zoo",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "11-OCT-2023",
+  "report_date": "15-OCT-2023",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "On May 26, 2022 a swing gate that provided access to a shared lock-out area between the Dall Sheep and Mountain\nGoat exhibits was found open and the animals co-mingled in the Sheep enclosure. Lauren, the adult female Dall Sheep,\nwas found with a laceration behind the right mandible that was assessed to most likely have been caused by a mountain\ngoat horn. Veterinary treatment was provided to Lauren by the Attending Veterinarian. Lauren was found dead the\nmorning of May 28, 2022 due to injuries and stress of the incident.\nAll enclosures must be constructed to contain the animals and to prevent injury or harm to the animals.\nCorrected prior to the time of inspection. Immediately after the incident, double padlocks were used on the gate and two\npersonnel were present when gate was used until the gate was permanently welded shut to prevent reoccurrence.\nThis inspection and exit interview were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a)  Critical\n   \nFacilities, general. \nOn May 26, 2022 a swing gate that provided access to a shared lock-out area between the Dall Sheep and Mountain \nGoat exhibits was found open and the animals co-mingled in the Sheep enclosure. Lauren, the adult female Dall Sheep, \nwas found with a laceration behind the right mandible that was assessed to most likely have been caused by a mountain \ngoat horn. Veterinary treatment was provided to Lauren by the Attending Veterinarian. Lauren was found dead the \nmorning of May 28, 2022 due to injuries and stress of the incident.  \nAll enclosures must be constructed to contain the animals and to prevent injury or harm to the animals. \nCorrected prior to the time of inspection. Immediately after the incident, double padlocks were used on the gate and two \npersonnel were present when gate was used until the gate was permanently welded shut to prevent reoccurrence. \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 0,
+      "scientific": "Ovis dalli",
+      "common": "DALL SHEEP WHITE SHEEP"
+    }
+  ]
+}
