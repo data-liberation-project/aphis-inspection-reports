@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000899594",
+  "layout": "c",
+  "customer_id": "6013594",
+  "customer_name": "Dallas Park Pets LLC",
+  "customer_addr": "9801 Fall Creek Road #322\nIndianapolis, IN 46256",
+  "certificate": "32-A-0989",
+  "site_id": "001",
+  "site_name": "Dallas Park Pets LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2023",
+  "report_date": "17-OCT-2023",
+  "citations": [
+    {
+      "code": "3.10(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering",
+      "narrative": "During the inspection it was found that two adult poodles were in a primary enclosure without water.\nNot having access to water can cause dehydration and lead to significant health concerns.\nPotable water must be continuously available to all the dogs.\nCorrection Date: October 17, 2023\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.10(a) \n   \nWatering \nDuring the inspection it was found that two adult poodles were in a primary enclosure without water. \nNot having access to water can cause dehydration and lead to significant health concerns.  \nPotable water must be continuously available to all the dogs. \nCorrection Date: October 17, 2023 \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
