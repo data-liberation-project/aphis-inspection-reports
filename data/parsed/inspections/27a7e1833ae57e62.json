@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0000899754",
+  "layout": "c",
+  "customer_id": "108",
+  "customer_name": "GENERAL HOSPITAL CORPORATION",
+  "customer_addr": "RES MGMT 149 13TH ST # 5249\nCHARLESTOWN, MA 02129",
+  "certificate": "14-R-0014",
+  "site_id": "001",
+  "site_name": "M G H MAIN CAMPUS",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "20-OCT-2023",
+  "report_date": "23-OCT-2023",
+  "citations": [
+    {
+      "code": "3.83",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering.",
+      "narrative": "Two non human primates (91xx and 93xx) were not given water as directed by the research protocol on January 14,\n2023. Both animals experienced a slight decrease in feces and urine for the following two days, which resolved by\nJanuary 17, 2023. The facility must ensure that water is provided as required by the research protocol or as often as\nnecessary to ensure their health and well-being.\nCorrected by the facility as of January 15, 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.83 \n   \nWatering. \nTwo non human primates (91xx and 93xx) were not given water as directed by the research protocol on January 14, \n2023. Both animals experienced a slight decrease in feces and urine for the following two days, which resolved by \nJanuary 17, 2023. The facility must ensure that water is provided as required by the research protocol or as often as \nnecessary to ensure their health and well-being.  \n \nCorrected by the facility as of January 15, 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

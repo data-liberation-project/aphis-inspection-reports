@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000899671",
+  "layout": "c",
+  "customer_id": "33112",
+  "customer_name": "LESLIE JENNINGS",
+  "customer_addr": "1685 Crooked Run Rd\nMount Jackson, VA 22842",
+  "certificate": "52-B-0145",
+  "site_id": "002",
+  "site_name": "Leslie Jennings",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-OCT-2023",
+  "report_date": "19-OCT-2023",
+  "citations": [
+    {
+      "code": "3.130",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering.",
+      "narrative": "The water trough for the pigs is not being maintained in a clean and sanitary manner. The water was muddy and opaque.\nWhen the water was drained, a large amount of mud was present at the bottom of the receptacle. Additionally, one of the\nwater troughs in the pasture for the goats, sheep, and cattle has green algae growing along the walls and bottom surface.\nThe water in this trough was clear. Water receptacles that are not kept clean can lead to decreased water consumption by\nthe animals, contaminated drinking water and potential disease or illness. The facility took measures to drain and clean\nthe pig water trough and refill with clear, potable water during the inspection. Correct by ensuring all water receptacles are\nmaintained in a clean and sanitary manner. Correct by October 20, 2023.\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.130 \n   \nWatering. \nThe water trough for the pigs is not being maintained in a clean and sanitary manner. The water was muddy and opaque. \nWhen the water was drained, a large amount of mud was present at the bottom of the receptacle. Additionally, one of the \nwater troughs in the pasture for the goats, sheep, and cattle has green algae growing along the walls and bottom surface. \nThe water in this trough was clear. Water receptacles that are not kept clean can lead to decreased water consumption by \nthe animals, contaminated drinking water and potential disease or illness. The facility took measures to drain and clean \nthe pig water trough and refill with clear, potable water during the inspection. Correct by ensuring all water receptacles are \nmaintained in a clean and sanitary manner. Correct by October 20, 2023. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 375,
+  "species": [
+    {
+      "count": 327,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 41,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
