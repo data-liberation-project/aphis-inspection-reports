@@ -32,7 +32,7 @@ convert_fetched = make_converter(
 convert_parsed = make_converter("pdf", ["species", "narrative", "citations"], [])
 convert_doccloud = make_converter("doccloud", [], [])
 
-state_pat_postal = re.compile(r", ([A-Z]{2})( \d{3,}( ?- ?\d{4})?)?$")
+state_pat_postal = re.compile(r", ([A-Z]{2}),?( \d{3,}( ?- ?\d{4})?)?$")
 state_pat_name = re.compile(r", ([A-Za-z ]{3,}) \d{3,}$")
 
 with open(DATA_DIR / "manual" / "states.csv") as f:
