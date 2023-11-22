@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000896431",
+  "layout": "c",
+  "customer_id": "93",
+  "customer_name": "BIOQUAL INC",
+  "customer_addr": "9600 MEDICAL CENTER DRIVE\nSuite 101\nROCKVILLE, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "001",
+  "site_name": "BIOQUAL INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-SEP-2023",
+  "report_date": "25-OCT-2023",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Under Study A, bone marrow was collected from two non-human primates at seven different timepoints. Monthly bone\nmarrow collections were not in the approved protocol nor the subsequent amendments. The two NHPs did not experience\nmore than momentary pain or distress from the procedures and collections were conducted per facility SOP.\nA proposal to conduct an activity involving animals must include a complete description of the proposed use of the\nanimals to ensure pain and distress is minimized and procedures are performed within established facility policies and\nSOPs.\nCorrected by protocol amendment prior to the time of inspection.\nThis inspection and exit interview were conducted with the facility representatives.\nAdditional Inspectors:\nJESSICA GOWINS, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nUnder Study A, bone marrow was collected from two non-human primates at seven different timepoints. Monthly bone \nmarrow collections were not in the approved protocol nor the subsequent amendments. The two NHPs did not experience \nmore than momentary pain or distress from the procedures and collections were conducted per facility SOP.  \n \nA proposal to conduct an activity involving animals must include a complete description of the proposed use of the \nanimals to ensure pain and distress is minimized and procedures are performed within established facility policies and \nSOPs. \n \nCorrected by protocol amendment prior to the time of inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \nAdditional Inspectors: \nJESSICA GOWINS, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1020,
+  "species": [
+    {
+      "count": 374,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 426,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 220,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}

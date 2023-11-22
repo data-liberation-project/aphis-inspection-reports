@@ -1,0 +1,71 @@
+{
+  "insp_id": "INS-0000899817",
+  "layout": "c",
+  "customer_id": "12951",
+  "customer_name": "Central Mass Aquatics",
+  "customer_addr": "240 Barber Ave\nWorcester, MA 01606",
+  "certificate": "14-B-0037",
+  "site_id": "001",
+  "site_name": "Central Mass Aquatics",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-OCT-2023",
+  "report_date": "25-OCT-2023",
+  "citations": [
+    {
+      "code": "2.126(a)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Access and inspection of records and property; submission of itineraries.",
+      "narrative": "Required documentation, such as the program of veterinary care, avian enrichment plan, contingency plan, and record of\nanimals on hand, were not available at the time of inspection. The records ensure that the licensee is accountable for\ncompliance with the Animal Welfare Act. The facility must ensure that these records are available for review at the time of\ninspection.\nCorrect by 11/25/23\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.126(a)(2) \n   \nAccess and inspection of records and property; submission of itineraries. \nRequired documentation, such as the program of veterinary care, avian enrichment plan, contingency plan, and record of \nanimals on hand, were not available at the time of inspection. The records ensure that the licensee is accountable for \ncompliance with the Animal Welfare Act. The facility must ensure that these records are available for review at the time of \ninspection. \n \nCorrect by 11/25/23 \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Taeniopygia guttata",
+      "common": "ZEBRA FINCH / TIMOR ZEBRA FINCH"
+    },
+    {
+      "count": 4,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET"
+    },
+    {
+      "count": 5,
+      "scientific": "Pyrrhura molinae",
+      "common": "GREEN-CHEEKED PARAKEET / GREEN-CHEEKED CONURE"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 10,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 6,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Nymphicus hollandicus",
+      "common": "COCKATIEL"
+    },
+    {
+      "count": 62,
+      "scientific": "Melopsittacus undulatus",
+      "common": "BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL"
+    },
+    {
+      "count": 6,
+      "scientific": "Gerbillus gerbillus",
+      "common": "EGYPTIAN GERBIL"
+    }
+  ]
+}
