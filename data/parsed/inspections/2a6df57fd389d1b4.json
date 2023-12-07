@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0000903134",
+  "layout": "c",
+  "customer_id": "298",
+  "customer_name": "Stony Brook University",
+  "customer_addr": "BST, LEVEL 1 ROOM 223 DIV OF LAB ANIMAL RSRC\nSTONY BROOK, NY 11794",
+  "certificate": "21-R-0039",
+  "site_id": "001",
+  "site_name": "DIV. OF LAB ANIMAL RESOURCES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-NOV-2023",
+  "report_date": "09-NOV-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Seven rabbits were utilized between 8/6/2023 and 8/23/2023 in procedures not included in the IACUC approved protocol.\nThe discrepancy was identified by DLAR and activity of the lab associated with the protocol was paused.\nFailure of notification to request changes in protocol resulted in the IACUC's inability to carry out its function to review and\napprove proposed significant changes in care and use of animals in order to ensure compliance with the Animal Welfare\nAct. The IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to\nimplementation.\nCorrect by January 10th, 2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(6) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nSeven rabbits were utilized between 8/6/2023 and 8/23/2023 in procedures not included in the IACUC approved protocol. \nThe discrepancy was identified by DLAR and activity of the lab associated with the protocol was paused.  \n \nFailure of notification to request changes in protocol resulted in the IACUC's inability to carry out its function to review and \napprove proposed significant changes in care and use of animals in order to ensure compliance with the Animal Welfare \nAct. The IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to \nimplementation. \n \nCorrect by January 10th, 2023. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0000903126",
+  "layout": "c",
+  "customer_id": "1512",
+  "customer_name": "Texas Biomedical Research Institute",
+  "customer_addr": "P. O. BOX 760549\nSAN ANTONIO, TX 78245",
+  "certificate": "74-R-0003",
+  "site_id": "001",
+  "site_name": "SOUTHWEST FOUNDATION FOR BIOMEDICAL RESEARCH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-NOV-2023",
+  "report_date": "09-NOV-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A male rhesus macaque ( 31236 ) assigned to Protocol 1516 had 3 serial blood draws ( 10/10/23, 10/24/23 , 11/7/23 ) .\nThe approved IACUC protocol describes random blood draws and specifically states if serial blood draws are needed\nthere will be a separate IACUC protocol for that activity . Failure to follow the approved protocol may affect the health and\nwell-being of the animals. This is a significant change regarding the care of animals in an ongoing activity that was not\nreviewed by the IACUC. The IACUC must ensure that all significant changes regarding the care and use of animals in\nongoing activities are reviewed and approved prior to implementation. CORRECT BY : 11/23/2023\nThis inspection and exit interview were conducted with facility employees..\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA male rhesus macaque ( 31236 ) assigned to Protocol 1516 had 3 serial blood draws ( 10/10/23, 10/24/23 , 11/7/23 ) . \nThe approved IACUC protocol describes random blood draws and specifically states if serial blood draws are needed \nthere will be a separate IACUC protocol for that activity . Failure to follow the approved protocol may affect the health and \nwell-being of the animals. This is a significant change regarding the care of animals in an ongoing activity that was not \nreviewed by the IACUC. The IACUC must ensure that all significant changes regarding the care and use of animals in \nongoing activities are reviewed and approved prior to implementation. CORRECT BY : 11/23/2023 \n \nThis inspection and exit interview were conducted with facility employees.. \n \n n",
+  "animals_total": 1339,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 8,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 253,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 195,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 522,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 308,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 24,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}

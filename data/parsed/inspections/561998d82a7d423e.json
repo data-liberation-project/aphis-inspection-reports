@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0000903131",
+  "layout": "c",
+  "customer_id": "346",
+  "customer_name": "New York University Washington Square",
+  "customer_addr": "OFFICE OF VETERINARY RESOURCES\n665 BROADWAY, SUITE 804\nNEW YORK NEW YORK, NY 10012",
+  "certificate": "21-R-0118",
+  "site_id": "001",
+  "site_name": "NEW YORK UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-NOV-2023",
+  "report_date": "09-NOV-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On September 27, 2023, the IACUC Director received a whistleblower report associated with protocol non-compliance\ninvolving a rhesus macaque. Records noted 2 procedures were conducted by the lab which did not follow the IACUC\napproved protocol. Veterinary staff was not consulted for 2 procedures and no corresponding medical records were found.\nThe IACUC initiated an investigation, suspended the associated lab, and notified the appropriate regulatory and funding\nagencies (including the USDA on October 18, 2023).\nThe IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to\nimplementation.\nCorrective actions have been taken at the time of inspection."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On July 20, 2023, the IACUC was informed of an unexpected adverse event in a rhesus macaque. The animal in question\ndied due to aspiration pneumonia during a fully anesthetized terminal procedure, despite taking appropriate measures to\ntreat the condition. An investigation by OVR found that although proper pre-procedural policies were in place, the animal\nhad been accidentally fed the morning of surgery.\nImproper handling can result in distress, bodily harm, or death in the animals. Handling of all animals must be done as\ncarefully as possible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress, physical\nharm, or unnecessary discomfort.\nCorrective actions have been taken at the time of inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn September 27, 2023, the IACUC Director received a whistleblower report associated with protocol non-compliance \ninvolving a rhesus macaque. Records noted 2 procedures were conducted by the lab which did not follow the IACUC \napproved protocol. Veterinary staff was not consulted for 2 procedures and no corresponding medical records were found. \nThe IACUC initiated an investigation, suspended the associated lab, and notified the appropriate regulatory and funding \nagencies (including the USDA on October 18, 2023). \n \nThe IACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to \nimplementation. \n \nCorrective actions have been taken at the time of inspection. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nOn July 20, 2023, the IACUC was informed of an unexpected adverse event in a rhesus macaque. The animal in question \ndied due to aspiration pneumonia during a fully anesthetized terminal procedure, despite taking appropriate measures to \ntreat the condition. An investigation by OVR found that although proper pre-procedural policies were in place, the animal \nhad been accidentally fed the morning of surgery.  \n \nImproper handling can result in distress, bodily harm, or death in the animals. Handling of all animals must be done as \ncarefully as possible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress, physical \nharm, or unnecessary discomfort. \n \nCorrective actions have been taken at the time of inspection. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 141,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 91,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 25,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}
