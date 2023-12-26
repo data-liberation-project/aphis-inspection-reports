@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000906115",
+  "layout": "c",
+  "customer_id": "38462",
+  "customer_name": "Mary Jean Quirk",
+  "customer_addr": "25131 Carlsbad Ave\nDavis, CA 95616",
+  "certificate": "93-C-1190",
+  "site_id": "001",
+  "site_name": "Mary Jean Quirk",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-NOV-2023",
+  "report_date": "28-NOV-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Aeorestes cinereus",
+      "common": "NORTHERN HOARY BAT / NORTH AMERICAN HOARY BAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Tadarida brasiliensis",
+      "common": "BRAZILIAN FREE-TAILED BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Antrozous pallidus",
+      "common": "PALLID BAT"
+    }
+  ]
+}
