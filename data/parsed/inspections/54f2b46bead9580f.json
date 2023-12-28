@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0000906057",
+  "layout": "c",
+  "customer_id": "330528",
+  "customer_name": "The Red Apple Farm, LLC",
+  "customer_addr": "455 Highland Avenue\nPhillipston, MA 01331",
+  "certificate": "14-C-0132",
+  "site_id": "001",
+  "site_name": "The Red Apple Farm LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-OCT-2023",
+  "report_date": "29-NOV-2023",
+  "citations": [
+    {
+      "code": "2.126(a)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Access and inspection of records and property; submission of itineraries.",
+      "narrative": "Required documentation, including the program of veterinary care, records of animal acquisition and disposition, and\nrecord of animals on hand, was not available at the time of inspection. This documentation assures accountability for\nmeeting the stipulations of the Animal Welfare Act. The facility must ensure the records are available for review at the\ntime of inspection.\nCorrect from this inspection on 25 October 2023 forward."
+    },
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Facilities, general.",
+      "narrative": "3 sections of wire panel fencing for the goat pen had @ 4 inch sharp wire points extending inside the pen. Wire points\npresent a risk of injury. The facility must ensure that the animals are contained safely and protect them from injury."
+    },
+    {
+      "code": "3.154",
+      "kind": "",
+      "repeat": false,
+      "desc": "Environment enhancement to promote psychological well-being.",
+      "narrative": "The facility does not have a veterinary approved and documented program of environmental enhancement for birds.\nCaptive birds, including poultry, require environmental enhancement to promote psychological welfare. The facility must\nensure that a written plan for environmental enhancement exists, is approved by the veterinarian, and can be reviewed at\nthe time of inspection.\nCorrect by 25 November 2023.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.126(a)(2) \n   \nAccess and inspection of records and property; submission of itineraries. \nRequired documentation, including the program of veterinary care, records of animal acquisition and disposition, and \nrecord of animals on hand, was not available at the time of inspection. This documentation assures accountability for \nmeeting the stipulations of the Animal Welfare Act. The facility must ensure the records are available for review at the \ntime of inspection. \n \nCorrect from this inspection on 25 October 2023 forward. \n3.125(a)  Repeat\n   \nFacilities, general. \n3 sections of wire panel fencing for the goat pen had @ 4 inch sharp wire points extending inside the pen. Wire points \npresent a risk of injury. The facility must ensure that the animals are contained safely and protect them from injury. \n3.154 \n   \nEnvironment enhancement to promote psychological well-being. \nThe facility does not have a veterinary approved and documented program of environmental enhancement for birds. \nCaptive birds, including poultry, require environmental enhancement to promote psychological welfare. The facility must \nensure that a written plan for environmental enhancement exists, is approved by the veterinarian, and can be reviewed at \nthe time of inspection.  \n \nCorrect by 25 November 2023. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    }
+  ]
+}
