@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000906232",
+  "layout": "c",
+  "customer_id": "616",
+  "customer_name": "UNIVERSITY OF WISCONSIN MADISON",
+  "customer_addr": "DIRECTOR RESEARCH ANIMAL RESOURCES CENTER\n1710 UNIVERSITY AVENUE 396 ENZYME INST\nMADISON, WI 53726",
+  "certificate": "35-R-0001",
+  "site_id": "001",
+  "site_name": "ALL CAMPUS SITES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-NOV-2023",
+  "report_date": "01-DEC-2023",
+  "citations": [
+    {
+      "code": "2.33(b)(2)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "In September 2023 a fully anesthetized pig undergoing a study-related surgery was given a medication to correct an\nincreased heart rate. The dose of the corrective medication given was more than what it should have received. The pig's\nheart rate then dropped too much and became unstable. Attempts to stabilize the heart rate were unsuccessful and it was\nhumanely euthanized. The incorrect dose of medication given to this pig caused the procedure to terminate early and not\nallow the pig to recover. Ensure that appropriate methods are in place so that medications are given to animals at the\ncorrect dose.\nNote: This incident was reported to the overseeing ACUC and to OLAW by the facility and a plan of preventive measures\nis in place.\nCorrection: Ensure preventive measures are followed so that animals receive the correct dose of medication(s).\nThis inspection and exit interview were conducted with facility representatives.\nThis was an inspection of the animals and records under CALS and SMPH oversight and some records pertaining to SVM\nand LSVC protocols.\nAdditional Inspectors:\nDAWN BARKSDALE, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.33(b)(2)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nIn September 2023 a fully anesthetized pig undergoing a study-related surgery was given a medication to correct an \nincreased heart rate. The dose of the corrective medication given was more than what it should have received. The pig's \nheart rate then dropped too much and became unstable. Attempts to stabilize the heart rate were unsuccessful and it was \nhumanely euthanized. The incorrect dose of medication given to this pig caused the procedure to terminate early and not \nallow the pig to recover. Ensure that appropriate methods are in place so that medications are given to animals at the \ncorrect dose.  \n \nNote: This incident was reported to the overseeing  ACUC and to OLAW by the facility and a plan of preventive  measures \nis in place.  \n \nCorrection: Ensure preventive  measures are followed so that animals receive the correct dose of medication(s). \n \nThis inspection and exit interview were conducted with facility representatives.   \n \nThis was an inspection of the animals and records under CALS and SMPH oversight and some records pertaining to SVM \nand LSVC protocols. \n \nAdditional Inspectors: \nDAWN BARKSDALE, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 133,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 64,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 40,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 25,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

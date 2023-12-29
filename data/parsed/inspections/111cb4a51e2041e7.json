@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000906274",
+  "layout": "c",
+  "customer_id": "331611",
+  "customer_name": "Animal Services of Richmond Inc",
+  "customer_addr": "PO Box 14694\nRichmond, VA 23221",
+  "certificate": "52-C-0274",
+  "site_id": "004",
+  "site_name": "Animal Services of Richmond Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-NOV-2023",
+  "report_date": "01-DEC-2023",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ondatra zibethicus",
+      "common": "MUSKRAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Coragyps atratus",
+      "common": "BLACK VULTURE / MEXICAN VULTURE"
+    }
+  ]
+}
