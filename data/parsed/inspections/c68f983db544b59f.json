@@ -1,0 +1,83 @@
+{
+  "insp_id": "INS-0000911051",
+  "layout": "c",
+  "customer_id": "842",
+  "customer_name": "North Carolina State University",
+  "customer_addr": "CAMPUS BOX 7514\nRALEIGH, NC 27695",
+  "certificate": "55-R-0005",
+  "site_id": "001",
+  "site_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-DEC-2023",
+  "report_date": "06-DEC-2023",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A stallion used for artificial insemination was included on a protocol stating that semen could be collected once a day up\nto three times a week. However, records review demonstrated that this horse had been used for collection twice in one\nday.\nCollecting this horse twice in one day was a non-compliant activity of the IACUC-approved protocol. The IACUC became\naware of the noncompliant protocol action due to a complaint submitted to the Attending Veterinarian (AV). The\nsubsequent IACUC investigation was appropriate and a protocol amendment has been submitted.\nThe regulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall\nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes\nregarding the care and use of animals in ongoing activities.\nCorrected prior to inspection."
+    },
+    {
+      "code": "3.131(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "Excessive amounts of feces were present in twelve ferret enclosures. The floors and walls of the enclosures showed\nevidence of smeared brown material. The daily log indicated that daily cleaning had already occurred prior to this\ninspection. The ferrets had undergone major surgical procedures approximately 6 days prior to this inspection.\nNot following adequate cleaning procedures allows for excessive feces and debris build-up in the enclosures, which\nincreases the risk of infection at the animals\u2019 surgical sites and poses health and disease risks.\nThe regulations state that excreta shall be removed from primary enclosures as often as necessary to prevent\ncontamination of the animals contained therein and to minimize disease hazards and to reduce odors.\nCorrect by 08December2023.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA stallion used for artificial insemination was included on a protocol stating that semen could be collected once a day up \nto three times a week. However, records review demonstrated that this horse had been used for collection twice in one \nday.  \n \nCollecting this horse twice in one day was a non-compliant activity of the IACUC-approved protocol. The IACUC became \naware of the noncompliant protocol action due to a complaint submitted to the Attending Veterinarian (AV). The \nsubsequent IACUC investigation was appropriate and a protocol amendment has been submitted.  \n \nThe regulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall \nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes \nregarding the care and use of animals in ongoing activities.  \n \nCorrected prior to inspection. \n3.131(a) \n   \nSanitation. \nExcessive amounts of feces were present in twelve ferret enclosures. The floors and walls of the enclosures showed \nevidence of smeared brown material. The daily log indicated that daily cleaning had already occurred prior to this \ninspection. The ferrets had undergone major surgical procedures approximately 6 days prior to this inspection.  \n \nNot following adequate cleaning procedures allows for excessive feces and debris build-up in the enclosures, which \nincreases the risk of infection at the animals\u2019 surgical sites and poses health and disease risks. \n \nThe regulations state that excreta shall be removed from primary enclosures as often as necessary to prevent \ncontamination of the animals contained therein and to minimize disease hazards and to reduce odors. \n \nCorrect by 08December2023.\n\nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 466,
+  "species": [
+    {
+      "count": 108,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 39,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 51,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 64,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 114,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis rufus",
+      "common": "RED WOLF"
+    },
+    {
+      "count": 16,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
