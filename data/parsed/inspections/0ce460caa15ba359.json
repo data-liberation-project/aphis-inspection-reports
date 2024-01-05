@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000911178",
+  "layout": "c",
+  "customer_id": "15600",
+  "customer_name": "CITY OF GAYLORD",
+  "customer_addr": "305 EAST MAIN STREET\nGAYLORD, MI 49735",
+  "certificate": "34-C-0347",
+  "site_id": "001",
+  "site_name": "CITY OF GAYLORD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-DEC-2023",
+  "report_date": "08-DEC-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 36,
+      "scientific": "Cervus canadensis",
+      "common": "ELK / WAPITI"
+    },
+    {
+      "count": 3,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000911073",
+  "layout": "c",
+  "customer_id": "166",
+  "customer_name": "Trustees Of Dartmouth College",
+  "customer_addr": "6004 PARKHURST HALL\nHANOVER, NH 03755",
+  "certificate": "12-R-0001",
+  "site_id": "001",
+  "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-DEC-2023",
+  "report_date": "06-DEC-2023",
+  "citations": [
+    {
+      "code": "3.54(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "Two rabbits had been fed from a bag of rabbit food that expired October 2023. Expired feed may not be wholesome or of\nsufficient nutritive value. The facility must ensure the diet is wholesome and meets the dietary requirements of the animals\nto which it is fed.\nCorrected at the time of inspection on 06 December 2023.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.54(a) \n   \nFeeding. \nTwo rabbits had been fed from a bag of rabbit food that expired October 2023. Expired feed may not be wholesome or of \nsufficient nutritive value. The facility must ensure the diet is wholesome and meets the dietary requirements of the animals \nto which it is fed. \n \nCorrected at the time of inspection on 06 December 2023. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 87,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 78,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    }
+  ]
+}
