@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0000912192",
+  "layout": "c",
+  "customer_id": "6017856",
+  "customer_name": "New England Party Animals",
+  "customer_addr": "616 Portland Street, Unit 4\nRochester, NH 03867",
+  "certificate": "12-C-0064",
+  "site_id": "001",
+  "site_name": "Garland Farm and Stables",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-DEC-2023",
+  "report_date": "12-DEC-2023",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "A section of chicken wire attached to the goat/sheep enclosure gate, approximately 18x24 inches in size, had sharp\nedges of wires dangling and protruding into the interior of the pen. Sharp wires may cause injury to eyes or skin. The\nfacility must ensure that the enclosure protects the animals from injury.\nCorrect by end of day, 13 December 2023.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nA section of chicken wire attached to the goat/sheep enclosure gate, approximately 18x24 inches in size, had sharp \nedges of wires dangling and protruding into the interior of the pen. Sharp wires may cause injury to eyes or skin. The \nfacility must ensure that the enclosure protects the animals from injury.  \n \nCorrect by end of day, 13 December 2023. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 72,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 31,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 18,
+      "scientific": "Coturnix japonica",
+      "common": "JAPANESE QUAIL / COTURNIX QUAIL"
+    }
+  ]
+}
