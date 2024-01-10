@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000912348",
+  "layout": "c",
+  "customer_id": "199",
+  "customer_name": "HOPE COLLEGE",
+  "customer_addr": "35 EAST 12TH STREET\nHOLLAND, MI 49423",
+  "certificate": "34-R-0035",
+  "site_id": "001",
+  "site_name": "HOPE COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-DEC-2023",
+  "report_date": "13-DEC-2023",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 24,
+      "scientific": "Passer domesticus",
+      "common": "HOUSE SPARROW"
+    }
+  ]
+}

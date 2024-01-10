@@ -1,0 +1,258 @@
+{
+  "insp_id": "INS-0000912239",
+  "layout": "c",
+  "customer_id": "507672",
+  "customer_name": "AREA 51 SANCTUARY INC",
+  "customer_addr": "1111 North Plaza Drive Suite 200\nSCHAUMBURG, IL 60173",
+  "certificate": "33-C-0519",
+  "site_id": "001",
+  "site_name": "AREA 51 SANCTUARY INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-DEC-2023",
+  "report_date": "13-DEC-2023",
+  "citations": [
+    {
+      "code": "3.131(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "There is significant clutter in the field area near the food storage barn and goat enclosure. This area contains excess\nitems, including old machinery, batteries, fencing materials, tires, chemicals, and piles of wooden pallets. Additionally,\nthere are various miscellaneous items stacked on top of these piles. Piles of debris like this can harbor insects and vermin\nthat could injure the animals or cause disease.\nFailure to clean the premises can lead to health hazards and contribute to the development of pest breeding and living\nareas. Keeping the premises clean is essential to protect the animals from health hazards, minimize breeding and living\nareas for pests, and facilitate good husbandry practices. Correct by January 9, 2024."
+    },
+    {
+      "code": "3.131(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "The facility\u2019s current pest control program is ineffective. The large barns which contain multiple primary enclosures\nhousing primates had many rodents and rodent droppings present. The rodents were observed inside and on top of the\nenclosures. Pests can transmit disease, contaminate food and surfaces, and can harm animals. The facility must\nestablish and maintain an effective program for the control of insects, ectoparasites, and avian and mammalian pests.\nCorrect by December 29, 2023.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.131(c) \n   \nSanitation. \nThere is significant clutter in the field area near the food storage barn and goat enclosure. This area contains excess \nitems, including old machinery, batteries, fencing materials, tires, chemicals, and piles of wooden pallets. Additionally, \nthere are various miscellaneous items stacked on top of these piles. Piles of debris like this can harbor insects and vermin \nthat could injure the animals or cause disease. \n \nFailure to clean the premises can lead to health hazards and contribute to the development of pest breeding and living \nareas. Keeping the premises clean is essential to protect the animals from health hazards, minimize breeding and living \nareas for pests, and facilitate good husbandry practices. Correct by January 9, 2024. \n3.131(d) \n   \nSanitation. \nThe facility\u2019s current pest control program is ineffective. The large barns which contain multiple primary enclosures \nhousing primates had many rodents and rodent droppings present. The rodents were observed inside and on top of the \nenclosures. Pests can transmit disease, contaminate food and surfaces, and can harm animals. The facility must \nestablish and maintain an effective program for the control of insects, ectoparasites, and avian and mammalian pests. \nCorrect by December 29, 2023. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 1046,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 11,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 7,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 5,
+      "scientific": "Macropus giganteus",
+      "common": "EASTERN GREY KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 24,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 147,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 122,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 17,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 300,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Aotus trivirgatus",
+      "common": "THREE-STRIPED NIGHT MONKEY / OWL MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 10,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 17,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 5,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 66,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga X E. asinus",
+      "common": "ZEBRA-DONKEY HYBRID / ZEDONK / ZEBRINNY"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga X E. caballus",
+      "common": "ZEBRA-HORSE HYBRID / ZORSE / ZONY / HEBRA"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Ateles hybridus",
+      "common": "BROWN (WHITE-BELLIED) SPIDER MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 5,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 18,
+      "scientific": "Cygnus atratus",
+      "common": "BLACK SWAN"
+    },
+    {
+      "count": 17,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 3,
+      "scientific": "Rhea pennata",
+      "common": "LESSER RHEA / DARWIN'S RHEA"
+    },
+    {
+      "count": 10,
+      "scientific": "Struthio camelus",
+      "common": "COMMON OSTRICH"
+    },
+    {
+      "count": 13,
+      "scientific": "Cygnus olor",
+      "common": "MUTE SWAN"
+    },
+    {
+      "count": 16,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 3,
+      "scientific": "Cacatua alba",
+      "common": "WHITE COCKATOO / UMBRELLA COCKATOO"
+    },
+    {
+      "count": 15,
+      "scientific": "Numida meleagris",
+      "common": "DOMESTIC GUINEAFOWL / HELMETED GUINEAFOWL /"
+    },
+    {
+      "count": 5,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 41,
+      "scientific": "Anser anser domesticus",
+      "common": "DOMESTIC GOOSE"
+    },
+    {
+      "count": 52,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Pauxi pauxi",
+      "common": "HELMETED CURASSOW / NORTHERN HELMETED"
+    },
+    {
+      "count": 69,
+      "scientific": "Alopochen aegyptiaca",
+      "common": "EGYPTIAN GOOSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Cereopsis novaehollandiae",
+      "common": "CAPE BARREN GOOSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Eolophus roseicapilla",
+      "common": "GALAH / ROSE-BREASTED COCKATOO / ROSEATE"
+    },
+    {
+      "count": 1,
+      "scientific": "Diopsittaca nobilis",
+      "common": "RED-SHOULDERED MACAW / HAHN'S MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Amazona oratrix",
+      "common": "YELLOW-HEADED PARROT / YELLOW-HEADED AMAZON /"
+    },
+    {
+      "count": 2,
+      "scientific": "Psittacus erithacus",
+      "common": "CONGO AFRICAN GREY PARROT / GRAY PARROT"
+    }
+  ]
+}
