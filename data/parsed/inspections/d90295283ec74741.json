@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000913287",
+  "layout": "c",
+  "customer_id": "29003",
+  "customer_name": "Bay dot org",
+  "customer_addr": "55 Francisco Street Suite 330\nSan Francisco, CA 94133",
+  "certificate": "93-C-0914",
+  "site_id": "001",
+  "site_name": "Bay.org",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-DEC-2023",
+  "report_date": "15-DEC-2023",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Spermophilus beecheyi",
+      "common": "CALIFORNIA ROCK SQUIRREL"
+    }
+  ]
+}
