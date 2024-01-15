@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000913274",
+  "layout": "c",
+  "customer_id": "112",
+  "customer_name": "Boston University",
+  "customer_addr": "85 East Newton St., Room 426\nBoston, MA 02118",
+  "certificate": "14-R-0017",
+  "site_id": "003",
+  "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-DEC-2023",
+  "report_date": "18-DEC-2023",
+  "citations": [
+    {
+      "code": "3.80(a)(2)(ii)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "On April 22, 2023, a nonhuman primate was found deceased in its primary enclosure after becoming entangled in an\nenrichment device. According to facility representatives, the chain used to attach a device to the enclosure was 31.5cm\nlong and constructed of >4 chain links, which was long enough to be pulled into the enclosure to form a loop in which the\nanimal became entrapped. On review of the facility's plan for environmental enhancement that was in place at the time of\nthe incident, the length of chain used exceeded the length approved for attaching items that are accessible to animals in\nthe enclosure.\nAttachment of a device accessible to the animal with a chain of this length created an enclosure set up that did not protect\nthe animal from injury. Primary enclosures, including any fixtures attached to those enclosures, must be constructed and\nmaintained to protect the nonhuman primates from injury.\nThis incident was voluntarily reported to USDA and corrective measures, including review of all enrichment devices in use\nat the facility, had been implemented prior to inspection. To remain corrected after December 18, 2023 by ensuring\nenclosures used to house nonhuman primates are constructed and maintained in a manner that protects the animals from\ninjury.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.80(a)(2)(ii)  Critical\n   \nPrimary enclosures. \nOn April 22, 2023, a nonhuman primate was found deceased in its primary enclosure after becoming entangled in an \nenrichment device. According to facility representatives, the chain used to attach a device to the enclosure was 31.5cm \nlong and constructed of >4 chain links, which was long enough to be pulled into the enclosure to form a loop in which the \nanimal became entrapped. On review of the facility's plan for environmental enhancement that was in place at the time of \nthe incident, the length of chain used exceeded the length approved for attaching items that are accessible to animals in \nthe enclosure. \n \nAttachment of a device accessible to the animal with a chain of this length created an enclosure set up that did not protect \nthe animal from injury. Primary enclosures, including any fixtures attached to those enclosures, must be constructed and \nmaintained to protect the nonhuman primates from injury. \n \nThis incident was voluntarily reported to USDA and corrective measures, including review of all enrichment devices in use \nat the facility, had been implemented prior to inspection. To remain corrected after December 18, 2023 by ensuring \nenclosures used to house nonhuman primates are constructed and maintained in a manner that protects the animals from \ninjury. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 397,
+  "species": [
+    {
+      "count": 129,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 32,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 79,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 24,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 133,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
