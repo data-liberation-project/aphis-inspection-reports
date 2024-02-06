@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000918651",
+  "layout": "c",
+  "customer_id": "120",
+  "customer_name": "Wayne State University",
+  "customer_addr": "DIRECTOR/ATTENDING VETERINARIAN\nDIVISION OF LABORATORY ANIMAL RESOURCES\nDETROIT, MI 48201",
+  "certificate": "34-R-0014",
+  "site_id": "002",
+  "site_name": "CS MOTT CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JAN-2024",
+  "report_date": "09-JAN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
