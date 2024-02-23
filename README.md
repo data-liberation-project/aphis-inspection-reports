@@ -43,6 +43,7 @@ Some examples of news reports, visualizations, and other uses of the reports and
 
 #### News reports
 
+- “[USDA reports monkeys at Connecticut’s Beardsley Zoo died after delay in reaching vet](https://www.ctpost.com/news/article/feds-exotic-monkeys-died-beardsley-zoo-delayed-18677390.php),” Connecticut Post (February 22, 2024)
 - “[Colony of prairie dogs disappears from El Paso Zoo, according to USDA report](https://www.valleycentral.com/news/colony-of-prairie-dogs-disappears-from-el-paso-zoo-according-to-usda-report/),” KTSM — El Paso, Texas (April 3, 2023).
 - “[El Paso Zoo mystery: The case of the vanishing prairie dogs](https://www.youtube.com/watch?v=k0u0F7mJx1E),” KVIA ABC-7 — El Paso, Texas (April 3, 2023).
 
