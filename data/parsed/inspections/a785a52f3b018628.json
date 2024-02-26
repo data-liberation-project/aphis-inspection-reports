@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000923382",
+  "layout": "c",
+  "customer_id": "335071",
+  "customer_name": "Abcore Op, LLC",
+  "customer_addr": "405 Maple St. A-106\nRamona, CA 92065",
+  "certificate": "93-R-0574",
+  "site_id": "002",
+  "site_name": "ABCORE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JAN-2024",
+  "report_date": "29-JAN-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Following the facility\u2019s last semi-annual review of its animal care and use program and animal facility inspection on\n09/21/2023, the Institutional Animal Care and Use Committee (IACUC) failed to prepare and submit a report to the\nInstitutional Official (IO) as required. Reports completed by the IACUC ensures the Institutional Official is informed and up\nto date regarding the current status of the animal program, facilities, and procedures. The IACUC must prepare reports of\nits evaluations and submit them to the IO of the research facility. The reports shall be reviewed and signed by a majority\nof the IACUC members and must include any minority views.\nCorrect from this date 01/30/2024 forward.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nFollowing the facility\u2019s last semi-annual review of its animal care and use program and animal facility inspection on \n09/21/2023, the Institutional Animal Care and Use Committee (IACUC) failed to prepare and submit a report to the \nInstitutional Official (IO) as required. Reports completed by the IACUC ensures the Institutional Official is informed and up \nto date regarding the current status of the animal program, facilities, and procedures. The IACUC must prepare reports of \nits evaluations and submit them to the IO of the research facility. The reports shall be reviewed and signed by a majority \nof the IACUC members and must include any minority views. \n \nCorrect from this date 01/30/2024 forward. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 3195,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 127,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 343,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2722,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
