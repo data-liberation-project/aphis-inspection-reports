@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0000923490",
+  "layout": "c",
+  "customer_id": "1453",
+  "customer_name": "University of Texas Austin",
+  "customer_addr": "VICE PRESIDENT FOR RESEARCH\nP.O. BOX 7996\nAUSTIN, TX 78713",
+  "certificate": "74-R-0029",
+  "site_id": "001",
+  "site_name": "The University of Texas at Austin - ARC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JAN-2024",
+  "report_date": "31-JAN-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(6)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On June 19, 2023 animal care staff discovered that 2 non human primates had not received their approved amount of\nwater on June 18, 2023 . These animals were on an approved IACUC protocol ( 2022 - 000109 ) that allows for water\nrestriction ,however the protocol does not allow for withholding water. Water was immediately provided to the animals and\na veterinary exam revealed the animals suffered no distress or dehydration.\nFailure to follow the approved protocol\u2019s directions may affect the health and well-being of the animals. This is a deviation\nfrom the activities regarding the care and use of animals that the IACUC reviewed and approved. The IACUC must\nensure that all activities related to the care and use of animals are reviewed and approved. All staff involved in the matter\nreceived retraining as a corrective measure and now a water log is required and checked daily by 2 staff members.\nCORRECTED on 1/29/2024\nThis inspection and exit briefing were conducted with the attending veterinarian and facility employees.\nAdditional Inspectors:\nELIZABETH PANNILL, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(6) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn June 19, 2023 animal care staff discovered that 2 non human primates had not received their approved amount of \nwater on June 18, 2023 . These animals were on an approved IACUC protocol ( 2022 - 000109 ) that allows for water \nrestriction ,however the protocol does not allow for withholding water. Water was immediately provided to the animals and \na veterinary exam revealed the animals suffered no distress or dehydration. \nFailure to follow the approved protocol\u2019s directions may affect the health and well-being of the animals. This is a deviation \nfrom the activities regarding the care and use of animals that the IACUC reviewed and approved. The IACUC must \nensure that all activities related to the care and use of animals are reviewed and approved. All staff involved in the matter \nreceived retraining as a corrective measure and now a water log is required and checked daily by 2 staff members.  \nCORRECTED on 1/29/2024 \n \nThis inspection and exit briefing were conducted with the attending veterinarian and facility employees. \n \nAdditional Inspectors: \nELIZABETH PANNILL, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 311,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 36,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 32,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 26,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 44,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 44,
+      "scientific": "Microtus pennsylvanicus",
+      "common": "MEADOW VOLE"
+    },
+    {
+      "count": 117,
+      "scientific": "Scotinomys teguina",
+      "common": "ALSTON'S BROWN MOUSE / SHORT-TAILED SINGING MOUSE"
+    }
+  ]
+}
