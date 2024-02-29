@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0000923389",
+  "layout": "c",
+  "customer_id": "108",
+  "customer_name": "General Hospital Corporation",
+  "customer_addr": "RES MGMT 149 13TH ST # 5249\nCHARLESTOWN, MA 02129",
+  "certificate": "14-R-0014",
+  "site_id": "001",
+  "site_name": "M G H MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-JAN-2024",
+  "report_date": "01-FEB-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Two macaques enrolled on IACUC protocol #XXXXX000238 had a bone marrow collection procedure performed on June\n1st, 2023. The approved protocol includes both a long acting buprenorphine and 3 days of treatment with meloxicam for\npost-procedural pain control. The animals received analgesics per protocol on the day of the procedure, but did not\nreceive meloxicam the following day. The missed dose of meloxicam was recognized by facility staff the next day who\nnotified the facility veterinarian to evaluate the animals. Failure to administer post-operative analgesia in accordance with\nthe protocol constitutes a significant change that did not undergo IACUC review and approval.\nThis item was identified by the facility prior to inspection and corrective measures were implemented, which included a\nprotocol amendment. To remain corrected after February 1st, 2024."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On September 2nd, 2023, a staff member setting up enclosures after husbandry activities removed a barrier between two\nmacaques in error, leading to a fight between the animals. Both animals sustained skin injuries that required treatment.\nDuring husbandry activities in the housing room, two animals were handled in a manner that resulted in injuries when they\nwere mixed in an enclosure in error. Handling of all animals must be done as carefully as possible and in a manner that\ndoes not cause behavioral stress, physical harm, or unnecessary discomfort.\nAt the time of the incident, the staff member responded immediately to separate the animals and veterinary staff were\nnotified. This incident was identified by the facility and corrective measures were implemented prior to inspection, which\nincluded improving visibility of animal identification in enclosures. To remain corrected after February 1st, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nTwo macaques enrolled on IACUC protocol #XXXXX000238 had a bone marrow collection procedure performed on June \n1st, 2023. The approved protocol includes both a long acting buprenorphine and 3 days of treatment with meloxicam for \npost-procedural pain control. The animals received analgesics per protocol on the day of the procedure, but did not \nreceive meloxicam the following day. The missed dose of meloxicam was recognized by facility staff the next day who \nnotified the facility veterinarian to evaluate the animals. Failure to administer post-operative analgesia in accordance with \nthe protocol constitutes a significant change that did not undergo IACUC review and approval. \n \nThis item was identified by the facility prior to inspection and corrective measures were implemented, which included a \nprotocol amendment. To remain corrected after February 1st, 2024. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nOn September 2nd, 2023, a staff member setting up enclosures after husbandry activities removed a barrier between two \nmacaques in error, leading to a fight between the animals. Both animals sustained skin injuries that required treatment. \nDuring husbandry activities in the housing room, two animals were handled in a manner that resulted in injuries when they \nwere mixed in an enclosure in error. Handling of all animals must be done as carefully as possible and in a manner that \ndoes not cause behavioral stress, physical harm, or unnecessary discomfort. \n \nAt the time of the incident, the staff member responded immediately to separate the animals and veterinary staff were \nnotified. This incident was identified by the facility and corrective measures were implemented prior to inspection, which \nincluded improving visibility of animal identification in enclosures. To remain corrected after February 1st, 2024. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 165,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 37,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 81,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 19,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}

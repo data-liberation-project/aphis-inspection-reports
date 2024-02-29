@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000923552",
+  "layout": "c",
+  "customer_id": "346",
+  "customer_name": "New York University Washington Square",
+  "customer_addr": "OFFICE OF VETERINARY RESOURCES\n665 BROADWAY, SUITE 804\nNEW YORK NEW YORK, NY 10012",
+  "certificate": "21-R-0118",
+  "site_id": "001",
+  "site_name": "NEW YORK UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JAN-2024",
+  "report_date": "01-FEB-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 166,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 116,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 23,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}
