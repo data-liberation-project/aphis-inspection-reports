@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000923520",
+  "layout": "c",
+  "customer_id": "2996",
+  "customer_name": "Mitchel Kalmanson",
+  "customer_addr": "P.O. Box 940008\nMaitland, FL 32794",
+  "certificate": "58-C-0505",
+  "site_id": "001",
+  "site_name": "MITCHEL KALMANSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JAN-2024",
+  "report_date": "02-FEB-2024",
+  "citations": [
+    {
+      "code": "2.126(a)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Access and inspection of records and property; submission of itineraries.",
+      "narrative": "The facility was unable to provide the disposition records for one tiger and one fox as well as an updated copy of the\nprogram of veterinary care. These documents were being kept at a different location and were unable to be furnished at\nthe time of inspection.\nFailure to provide these documents hinders APHIS officials from confirming adequate veterinary care and from tracking\nanimals used in regulated activities to ensure their humane care, use, and disposition. The licensee must allow APHIS\nofficials to examine records required to be kept by the AWA.\nTo be corrected by February 16, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.126(a)(2) \n   \nAccess and inspection of records and property; submission of itineraries. \nThe facility was unable to provide the disposition records for one tiger and one fox as well as an updated copy of the \nprogram of veterinary care. These documents were being kept at a different location and were unable to be furnished at \nthe time of inspection.  \n \nFailure to provide these documents hinders APHIS officials from confirming adequate veterinary care and from tracking \nanimals used in regulated activities to ensure their humane care, use, and disposition. The licensee must allow APHIS \nofficials to examine records required to be kept by the AWA.  \n \nTo be corrected by February 16, 2024. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 22,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 17,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    }
+  ]
+}
