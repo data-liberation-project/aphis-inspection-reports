@@ -1,0 +1,58 @@
+{
+  "insp_id": "INS-0000923664",
+  "layout": "c",
+  "customer_id": "503",
+  "customer_name": "Lake Immunogenics, Inc.",
+  "customer_addr": "348 Berg Road\nOntario, NY 14519",
+  "certificate": "21-R-0095",
+  "site_id": "001",
+  "site_name": "LAKE IMMUNOGENICS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JAN-2024",
+  "report_date": "06-FEB-2024",
+  "citations": [
+    {
+      "code": "2.31(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "1. A scientific staff member who is a voting member of the IACUC is also listed on IACUC protocol #1202. That individual\nparticipated in a vote regarding the protocol at the IACUC meeting held in November 2023. However, since this individual\nis also listed on the protocol she should not have participated in the review or approval process, as she has a conflict of\ninterest.\nAllowing individuals with a conflict of interest to participate in the review and approval process compromises the ability of\nthe IACUC to ensure optimal animal welfare and the judicious use of animals in study activities. Correct by ensuring that\nno member contributes to a quorum nor participates in an IACUC review or approval of an activity in which that member\nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the\nIACUC.\n2. The written narrative of the methods and sources used to determine that alternatives were not available to potentially\npainful or distressful procedures is not included in the IACUC approved Protocol #1202 proposal for animal use.\nThe IACUC should determine during the review of animal use protocols that the proposed activities meet all of the\nrequirements as per Section 2.31 (d) that includes the consideration of alternatives by the investigator to the potentially\npainful or distressful procedures described in the proposal for animal use.\nThe IACUC needs to ensure that all active proposals including AWA covered species are in compliance with Section 2.31\n(d).\n******Correct by May 1, 2024 and for all future IACUC meetings."
+    },
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved protocol #1202 did not contain a complete description of several aspects of the proposed use of\nanimals. A compete description is required in order to ensure that the IACUC is able to properly assess the animal use.\nThe protocol must be updated to include the required information and subsequently approved by the IACUC.\n*********Correct the during next IACUC meeting or by May 1, 2024\nThis inspection and exit interview were conducted with the facility representatives.\nAdditional Inspectors:\nTONYA HADJIS n"
+    }
+  ],
+  "narrative": "2.31(d) \n   \nInstitutional Animal Care and Use Committee (IACUC). \n1. A scientific staff member who is a voting member of the IACUC is also listed on IACUC protocol #1202. That individual \nparticipated in a vote regarding the protocol at the IACUC meeting held in November 2023. However, since this individual \nis also listed on the protocol she should not have participated in the review or approval process, as she has a conflict of \ninterest. \n \nAllowing individuals with a conflict of interest to participate in the review and approval process compromises the ability of \nthe IACUC to ensure optimal animal welfare and the judicious use of animals in study activities. Correct by ensuring that \nno member contributes to a quorum nor participates in an IACUC review or approval of an activity in which that member \nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the \nIACUC.  \n \n2. The written narrative of the methods and sources used to determine that alternatives were not available to potentially \npainful or distressful procedures is not included in the IACUC approved Protocol #1202 proposal for animal use.  \n \nThe IACUC should determine during the review of animal use protocols that the proposed activities meet all of the \nrequirements as per Section 2.31 (d) that includes the consideration of alternatives by the investigator to the potentially \npainful or distressful procedures described in the proposal for animal use. \n \nThe IACUC needs to ensure that all active proposals including AWA covered species are in compliance with Section 2.31 \n(d). \n \n******Correct by May 1, 2024 and for all future IACUC meetings. \n2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved protocol #1202 did not contain a complete description of several aspects of the proposed use of \nanimals. A compete description is required in order to ensure that the IACUC is able to properly assess the animal use.\n\nThe protocol must be updated to include the required information and subsequently approved by the IACUC. \n*********Correct the during next IACUC meeting or by May 1, 2024 \n \nThis inspection and exit interview were conducted with the facility representatives. \n \nAdditional Inspectors: \nTONYA HADJIS n",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 62,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
