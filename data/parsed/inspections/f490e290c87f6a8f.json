@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000923895",
+  "layout": "c",
+  "customer_id": "329767",
+  "customer_name": "Kimberly DeFisher",
+  "customer_addr": "5465 Pease Road\nWilliamson, NY 14589",
+  "certificate": "21-C-0461",
+  "site_id": "001",
+  "site_name": "Kimberly DeFisher",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-FEB-2024",
+  "report_date": "09-FEB-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis lupus X C. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 19,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 5,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    }
+  ]
+}
