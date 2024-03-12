@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000923971",
+  "layout": "c",
+  "customer_id": "9423",
+  "customer_name": "Q Test, Ltd",
+  "customer_addr": "P.O. Box 12381\nColumbus, OH 43212",
+  "certificate": "31-R-0114",
+  "site_id": "001",
+  "site_name": "Q TEST, LTD",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-FEB-2024",
+  "report_date": "13-FEB-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 9,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
