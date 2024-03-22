@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0000928389",
+  "layout": "c",
+  "customer_id": "1182",
+  "customer_name": "SRI International",
+  "customer_addr": "333 Ravenswood Ave\nMenlo Park, CA 94025",
+  "certificate": "93-R-0026",
+  "site_id": "001",
+  "site_name": "SRI INTERNATIONAL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-FEB-2024",
+  "report_date": "23-FEB-2024",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 16,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
