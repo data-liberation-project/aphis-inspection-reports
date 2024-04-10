@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0000941580",
+  "layout": "c",
+  "customer_id": "1047",
+  "customer_name": "Legacy Health",
+  "customer_addr": "P. O. BOX 3950\nPORTLAND, OR 97208",
+  "certificate": "92-R-0002",
+  "site_id": "001",
+  "site_name": "LEGACY HEALTH - RES. ADMIN.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-MAR-2024",
+  "report_date": "13-MAR-2024",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The attending veterinarian determined that a principal investigator had collected nasal swabs from 25 lambs; however,\nthis sample collection was not described in the approved IACUC protocol.\nThe facility shall ensure that all proposals to conduct activity involving animals include a complete description of the\nproposed use of the animals. It is essential that this information be included in the proposal to ensure the judicious and\nhumane use of the animals. Corrected prior to the inspection.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe attending veterinarian determined that a principal investigator had collected nasal swabs from 25 lambs; however, \nthis sample collection was not described in the approved IACUC protocol.  \n \nThe facility shall ensure that all proposals to conduct activity involving animals include a complete description of the \nproposed use of the animals. It is essential that this information be included in the proposal to ensure the judicious and \nhumane use of the animals. Corrected prior to the inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 59,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 20,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
