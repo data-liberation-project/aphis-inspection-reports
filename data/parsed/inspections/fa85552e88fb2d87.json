@@ -1,0 +1,75 @@
+{
+  "insp_id": "INS-0000947289",
+  "layout": "c",
+  "customer_id": "11079",
+  "customer_name": "Terry K Beal",
+  "customer_addr": "3259 Water Plant Rd\nMaiden, NC 28650",
+  "certificate": "55-C-0138",
+  "site_id": "001",
+  "site_name": "Terry K Beal",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAR-2024",
+  "report_date": "15-MAR-2024",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "***Facility records indicate a red kangaroo was sold on August 10, 2023 but there are no corresponding records to show\nwhere the kangaroo came from, whether purchased, born on property, etc. The facility shall make and maintain records\nthat disclose complete information on all animals acquired as well as there final dispositions.\nCorrect by March 30, 2024."
+    },
+    {
+      "code": "2.131(b)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Handling of animals.",
+      "narrative": "***On the morning of March 13, 2024 just prior to USDA arrival for inspection, the facility found a young goat dead at the\nfood trough. It appeared the goat had put her head through the fence wire and become entangled between the trough and\nthe fence. The feed trough is attached to the fence loosely with wrapped wire leaving gaps 3 or more inches wide. The\ntroughs, if continued to be used, shall be attached in a manner that will remove the gaps and secure them eliminating the\nrisk to the goats and sheep, or another means of feeding them provided to protect the them from injury or death.\nCorrect by March 15, 2024"
+    },
+    {
+      "code": "2.134",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "***A contingency plan has not been developed for the facility. The facility must develop, document, and follow an\nappropriate plan to provide for the humane handling, treatment, transportation, housing, and care of their animals in the\nevent of an emergency or disaster (one which could reasonably be anticipated and expected to be detrimental to the good\nhealth and well-being of the animals in their possession).\nCorrect by March 30, 2024.\nThis inspection and exit interview were conducted with the owner.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1) \n   \nRecords: Dealers and exhibitors. \n***Facility records indicate a red kangaroo was sold on August 10, 2023 but there are no corresponding records to show \nwhere the kangaroo came from, whether purchased, born on property, etc. The facility shall make and maintain records \nthat disclose complete information on all animals acquired as well as there final dispositions.  \n \nCorrect by March 30, 2024. \n2.131(b)(1)  Critical\n   \nHandling of animals. \n***On the morning of March 13, 2024 just prior to USDA arrival for inspection, the facility found a young goat dead at the \nfood trough. It appeared the goat had put her head through the fence wire and become entangled between the trough and \nthe fence. The feed trough is attached to the fence loosely with wrapped wire leaving gaps 3 or more inches wide. The \ntroughs, if continued to be used, shall be attached in a manner that will remove the gaps and secure them eliminating the \nrisk to the goats and sheep, or another means of feeding them provided to protect the them from injury or death. \n \nCorrect by March 15, 2024 \n2.134 \n   \nContingency planning. \n***A contingency plan has not been developed for the facility. The facility must develop, document, and follow an \nappropriate plan to provide for the humane handling, treatment, transportation, housing, and care of their animals in the \nevent of an emergency or disaster (one which could reasonably be anticipated and expected to be detrimental to the good \nhealth and well-being of the animals in their possession).  \n \nCorrect by March 30, 2024. \n \nThis inspection and exit interview were conducted with the owner.\n\nn",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Bubalus bubalis",
+      "common": "ASIATIC WATER BUFFALO"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos grunniens",
+      "common": "YAK"
+    },
+    {
+      "count": 0,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    }
+  ]
+}
