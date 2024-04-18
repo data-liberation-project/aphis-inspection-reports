@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0000949628",
+  "layout": "c",
+  "customer_id": "321189",
+  "customer_name": "Intervet Inc",
+  "customer_addr": "Merck RY33-750 126 East Lincoln Avenue\nRahway, NJ 07065",
+  "certificate": "22-R-0144",
+  "site_id": "002",
+  "site_name": "Intervet Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAR-2024",
+  "report_date": "21-MAR-2024",
+  "citations": [
+    {
+      "code": "2.33(b)(4)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On January 9, 2024 a live rabbit (#1985) was discovered in a freezer used to store euthanized animals. The rabbit had\nchewed out of the bag it was in and was moving around the freezer. It was then euthanized by the Attending Veterinarian.\nThe rabbit was one of 16 rabbits that has been euthanized the previous day and placed in the freezer. Prior to euthanasia,\nthe rabbits received an injection of a ketamine/xylazine combination to provide anesthesia and were then euthanized\ntogether in a CO2 container. The facility Stand Operating Procedures (SOP) states that all animals must remain in the\neuthanasia container until \u201call signs of breathing have ceased. This may take up to 20 minutes\u2026\u201d and can then be placed\nin the freezer. The facility\u2019s investigation into this event points out that technicians must \u201cinspect each animal for breathing\nprior to storing in the freezer. Since the animals are anesthetized prior to euthanasia, this can be difficult to see.\u201d\nThe facilities investigation of the event also states that the technician performing the euthanasia did not allow the rabbits\nenough exposure time to the CO2. The facility investigation says the technician only left the rabbits exposed to CO2 for\n10 minutes. The AV says they are trained to leave them in for 20 minutes. The facility investigation also says that too\nmany rabbits were in the chamber. The SOP does not specify a maximum number, but the AV states they are trained to\nonly do a maximum of 8. The regulator that controls the flow of CO2 into the chamber had recently been replaced and\nthat may have cut the flow to the chamber by 50% according to the facility investigation and it was noted that the\ntechnician only filled the chamber for 2 to 3 minutes, which may have inadequately filled the chamber. The SOP states\nthat the chamber \u201cmust be filled with a slow flow of gas until full\u201d but doesn\u2019t provide further guidance.\nFailure to use appropriate euthanasia methods, including absolute confirmation of death, does not ensure that the\nprocedure meets the regulatory definition of euthanasia requiring that each animal\u2019s death is rapid without evidence of\npain and distress.\nResearch facilities must establish and maintain programs of adequate veterinary care that provide clear guidance to\npersonnel involved in the care and use of animals regarding handling, immobilization, anesthesia, analgesia,\ntranquilization, and euthanasia. The facility is in the process of revising euthanasia SOPs and improving training for the\nemployees who administer it.\nThis inspection and exit interview were conducted with the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(4)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nOn January 9, 2024 a live rabbit (#1985) was discovered in a freezer used to store euthanized animals. The rabbit had \nchewed out of the bag it was in and was moving around the freezer. It was then euthanized by the Attending Veterinarian. \nThe rabbit was one of 16 rabbits that has been euthanized the previous day and placed in the freezer. Prior to euthanasia, \nthe rabbits received an injection of a ketamine/xylazine combination to provide anesthesia and were then euthanized \ntogether in a CO2 container. The facility Stand Operating Procedures (SOP) states that all animals must remain in the \neuthanasia container until \u201call signs of breathing have ceased. This may take up to 20 minutes\u2026\u201d and can then be placed \nin the freezer. The facility\u2019s investigation into this event points out that technicians must \u201cinspect each animal for breathing \nprior to storing in the freezer. Since the animals are anesthetized prior to euthanasia, this can be difficult to see.\u201d  \nThe facilities investigation of the event also states that the technician performing the euthanasia did not allow the rabbits \nenough exposure time to the CO2. The facility investigation says the technician only left the rabbits exposed to CO2 for \n10 minutes. The AV says they are trained to leave them in for 20 minutes. The facility investigation also says that too \nmany rabbits were in the chamber. The SOP does not specify a maximum number, but the AV states they are trained to \nonly do a maximum of 8. The regulator that controls the flow of CO2 into the chamber had recently been replaced and \nthat may have cut the flow to the chamber by 50% according to the facility investigation and it was noted that the \ntechnician only filled the chamber for 2 to 3 minutes, which may have inadequately filled the chamber. The SOP states \nthat the chamber \u201cmust be filled with a slow flow of gas until full\u201d but doesn\u2019t provide further guidance.  \nFailure to use appropriate euthanasia methods, including absolute confirmation of death, does not ensure that the \nprocedure meets the regulatory definition of euthanasia requiring that each animal\u2019s death is rapid without evidence of \npain and distress. \nResearch facilities must establish and maintain programs of adequate veterinary care that provide clear guidance to \npersonnel involved in the care and use of animals regarding handling, immobilization, anesthesia, analgesia, \ntranquilization, and euthanasia. The facility is in the process of revising euthanasia SOPs and improving training for the \nemployees who administer it. \n \nThis inspection and exit interview were conducted with the attending veterinarian.\n\nn",
+  "animals_total": 479,
+  "species": [
+    {
+      "count": 115,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 196,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 137,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 31,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
