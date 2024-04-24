@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000953015",
+  "layout": "c",
+  "customer_id": "44086",
+  "customer_name": "Serenity Farm Inc",
+  "customer_addr": "PO Box 305\nBenedict, MD 20612",
+  "certificate": "51-C-0126",
+  "site_id": "001",
+  "site_name": "Serenity Farm Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAR-2024",
+  "report_date": "27-MAR-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    }
+  ]
+}
