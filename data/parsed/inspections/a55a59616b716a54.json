@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0000965214",
+  "layout": "c",
+  "customer_id": "6019533",
+  "customer_name": "Veranex, Inc.",
+  "customer_addr": "387 Technology Circle NW, Suite 175\nAtlanta, GA 30313",
+  "certificate": "67-R-0005",
+  "site_id": "001",
+  "site_name": "Veranex Preclinical Site",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-MAR-2024",
+  "report_date": "09-APR-2024",
+  "citations": [
+    {
+      "code": "2.36(b)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Annual report.",
+      "narrative": "A review of IACUC approved protocol DB01V found that it included housing calves in enclosures that limit their movement\nto laying and standing. Per the facility\u2019s census, calves were used on this protocol during the 2023 Fiscal Year, however\nthis exception to the AWA standards was not reported with the annual report submitted to USDA Animal Care. To assure\nthat the facility is adhering to the standards and regulations under the Act, a summary of all IACUC approved exceptions\nmust be attached to the annual report. Correct by submitting a revised FY 2023 annual report with a summary of all\nexceptions including a brief explanation of the exceptions, as well as the species and number of animals affected. Correct\nby April 19, 2024."
+    },
+    {
+      "code": "3.130",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering.",
+      "narrative": "On June 12, 2023, study related blood draws were challenging on 6 sheep who were found to be mildly dehydrated. Once\npresented with water, the sheep drank eagerly and for a prolonged period. Upon closer examination, the facility found the\nwater line to the animals\u2019 enclosures to be disconnected. This lapse in water access caused the sheep's thirst and\ndehydration. Potable water must be provided as often as necessary for the health and comfort of the animals. The sheep\nrecovered without needing medical treatment and corrective actions were put in place at the time of inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.36(b)(3) \n   \nAnnual report. \nA review of IACUC approved protocol DB01V found that it included housing calves in enclosures that limit their movement \nto laying and standing. Per the facility\u2019s census, calves were used on this protocol during the 2023 Fiscal Year, however \nthis exception to the AWA standards was not reported with the annual report submitted to USDA Animal Care. To assure \nthat the facility is adhering to the standards and regulations under the Act, a summary of all IACUC approved exceptions \nmust be attached to the annual report. Correct by submitting a revised FY 2023 annual report with a summary of all \nexceptions including a brief explanation of the exceptions, as well as the species and number of animals affected. Correct \nby April 19, 2024. \n3.130 \n   \nWatering. \nOn June 12, 2023, study related blood draws were challenging on 6 sheep who were found to be mildly dehydrated. Once \npresented with water, the sheep drank eagerly and for a prolonged period. Upon closer examination, the facility found the \nwater line to the animals\u2019 enclosures to be disconnected. This lapse in water access caused the sheep's thirst and \ndehydration. Potable water must be provided as often as necessary for the health and comfort of the animals. The sheep \nrecovered without needing medical treatment and corrective actions were put in place at the time of inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
