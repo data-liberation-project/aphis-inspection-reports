@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0000972956",
+  "layout": "c",
+  "customer_id": "389",
+  "customer_name": "State University of New York",
+  "customer_addr": "LEVEL 3, AML FAC 116 BIO MD BL\n3435 MAIN STREET\nBUFFALO, NY 14214",
+  "certificate": "21-R-0051",
+  "site_id": "001",
+  "site_name": "LABORATORY ANIMAL FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-APR-2024",
+  "report_date": "12-APR-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection was conducted with the Attending Veterinarian and a facility representative. The exit interview was \nconducted with the Attending Veterinarian. \n \n n",
+  "animals_total": 103,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 78,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
