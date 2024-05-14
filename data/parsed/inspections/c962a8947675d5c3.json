@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000977313",
+  "layout": "c",
+  "customer_id": "30492",
+  "customer_name": "Old McMicky's Farm LLC",
+  "customer_addr": "9612 Crescent Drive\nOdessa, FL 33556",
+  "certificate": "58-C-1184",
+  "site_id": "001",
+  "site_name": "Old McMicky's Farm LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-APR-2024",
+  "report_date": "16-APR-2024",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The enclosure (paddock) in the back of the property that had one cow had multiple holes, areas that were bent over at the\ntop, and sharp edges were also seen throughout the enclosure. The presence of holes, sharp edges, and areas bent at\nthe top could lead to injuries to the animals and escapes. Also, the area containing goats had a portion of the fence that\nhad sharp edges. The presence of sharp edges can lead to injuries. The indoor and outdoor housing facilities shall be\nstructurally sound and shall be maintained in good repair to protect animals from injury and contain the animals.\nThis inspection and exit interview were conducted with Facility Representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nThe enclosure (paddock) in the back of the property that had one cow had multiple holes, areas that were bent over at the \ntop, and sharp edges were also seen throughout the enclosure. The presence of holes, sharp edges, and areas bent at \nthe top could lead to injuries to the animals and escapes. Also, the area containing goats had a portion of the fence that \nhad sharp edges. The presence of sharp edges can lead to injuries. The indoor and outdoor housing facilities shall be \nstructurally sound and shall be maintained in good repair to protect animals from injury and contain the animals. \n \nThis inspection and exit interview were conducted with Facility Representative. \n \n n",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
