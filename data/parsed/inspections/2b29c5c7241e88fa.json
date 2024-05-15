@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0000980295",
+  "layout": "c",
+  "customer_id": "6013565",
+  "customer_name": "Bradford Schools LLC",
+  "customer_addr": "133 Freeport Road\nPittsburgh, PA 15215",
+  "certificate": "23-R-0190",
+  "site_id": "001",
+  "site_name": "Vet Tech Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-APR-2024",
+  "report_date": "17-APR-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The facility protocols had a change in Principal Investigator (PI) that was not approved by the IACUC. The PI for the dog,\ncat, and rabbit protocols left the facility several months ago, and the change to a new PI was not approved by the IACUC.\nA change in Principal Investigator for a protocol is considered a significant change which can affect the way that animal\nactivities are conducted and thus the care and use of such animals. To ensure the humane treatment of animals, the\nIACUC must review and approve, require modifications in, or withhold approval of proposed significant changes regarding\nthe care and use of animals in ongoing activities. Correct by seeking IACUC approval of the significant change in the\nprotocols by either full Committee review or designated member review.\nCorrect by: May 1, 2024."
+    },
+    {
+      "code": "3.13(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The facility does not have a current, written program of veterinary care for dogs. The previous attending veterinarian left\nthe facility several months ago and a different veterinarian has taken her place in the interim, however, they do not have a\ndocumented and signed program of veterinary care in place for the current attending veterinarian.\nFailure to maintain a documented and signed program of veterinary care can result in a lack of understanding and\ndirection in the general health and well-being of the animals.\nCorrect by having the attending veterinarian document and sign a program of veterinary care.\nCorrect by May 1, 2024.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe facility protocols had a change in Principal Investigator (PI) that was not approved by the IACUC. The PI for the dog, \ncat, and rabbit protocols left the facility several months ago, and the change to a new PI was not approved by the IACUC.  \nA change in Principal Investigator for a protocol is considered a significant change which can affect the way that animal \nactivities are conducted and thus the care and use of such animals. To ensure the humane treatment of animals, the \nIACUC must review and approve, require modifications in, or withhold approval of proposed significant changes regarding \nthe care and use of animals in ongoing activities. Correct by seeking IACUC approval of the significant change in the \nprotocols by either full Committee review or designated member review.  \nCorrect by: May 1, 2024. \n3.13(a) \n   \nVeterinary care for dogs. \nThe facility does not have a current, written program of veterinary care for dogs. The previous attending veterinarian left \nthe facility several months ago and a different veterinarian has taken her place in the interim, however, they do not have a \ndocumented and signed program of veterinary care in place for the current attending veterinarian.  \nFailure to maintain a documented and signed program of veterinary care can result in a lack of understanding and \ndirection in the general health and well-being of the animals. \nCorrect by having the attending veterinarian document and sign a program of veterinary care. \nCorrect by May 1, 2024. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 18,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
