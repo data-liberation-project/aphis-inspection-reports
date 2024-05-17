@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0000981445",
+  "layout": "c",
+  "customer_id": "234",
+  "customer_name": "Case Western Reserve University",
+  "customer_addr": "10900 EUCLID AVE\nCLEVELAND, OH 44106",
+  "certificate": "31-R-0028",
+  "site_id": "001",
+  "site_name": "CASE WESTERN RESERVE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-APR-2024",
+  "report_date": "19-APR-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC was not able to review and approve changes in a protocol prior to implementation. On December 8, 2023, the\nfacility self-reported to OLAW a non-compliance involving deviation from a protocol that was not approved by the IACUC.\nThe incident occurred on October 26, 2023, and involved an inoculation procedure performed on 3 ferrets that did not\nadhere to the IACUC approved protocol. The ferrets received an intra-muscular injection administered in a standard\nhousing room. It is understood the inoculation procedure detailed in the approved protocol was to be administered under\nABSL2 conditions. Medical records evaluated by the APHIS inspector for the affected animals did not indicate any\nuntoward affects to the animals from this deviation in the protocol.\nIn response to the incident, the IACUC Chair appointed a subcommittee to investigate the matter and the subcommittee\npresented its report to the IACUC on December 19, 2023. The committee determined the matter was a serious\nnoncompliance. The following corrective actions were approved by the IACUC in response to the incident: review of the\ndetails of the lab\u2019s IACUC protocols, audit of the affected lab, additional personnel training requirements, and amendment\nof the affected protocol.\nFailure of notification to request changes in a protocol resulted in the IACUC's inability to carry out its function to review\nand approve proposed significant changes in care and use of animals in order to ensure compliance with the Animal\nWelfare Act. The IACUC must review and approve significant changes regarding the use of animals in ongoing activities\nprior to implementation.\nCorrect by April 18, 2024, onward. Corrective actions have been taken by the time of inspection.\nThis inspection and exit interview were conducted with the attending veterinarians.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC was not able to review and approve changes in a protocol prior to implementation. On December 8, 2023, the \nfacility self-reported to OLAW a non-compliance involving deviation from a protocol that was not approved by the IACUC. \nThe incident occurred on October 26, 2023, and involved an inoculation procedure performed on 3 ferrets that did not \nadhere to the IACUC approved protocol. The ferrets received an intra-muscular injection administered in a standard \nhousing room. It is understood the inoculation procedure detailed in the approved protocol was to be administered under \nABSL2 conditions. Medical records evaluated by the APHIS inspector for the affected animals did not indicate any \nuntoward affects to the animals from this deviation in the protocol.  \n \nIn response to the incident, the IACUC Chair appointed a subcommittee to investigate the matter and the subcommittee \npresented its report to the IACUC on December 19, 2023. The committee determined the matter was a serious \nnoncompliance. The following corrective actions were approved by the IACUC in response to the incident: review of the \ndetails of the lab\u2019s IACUC protocols, audit of the affected lab, additional personnel training requirements, and amendment \nof the affected protocol.  \n \nFailure of notification to request changes in a protocol resulted in the IACUC's inability to carry out its function to review \nand approve proposed significant changes in care and use of animals in order to ensure compliance with the Animal \nWelfare Act. The IACUC must review and approve significant changes regarding the use of animals in ongoing activities \nprior to implementation.  \n \nCorrect by April 18, 2024, onward. Corrective actions have been taken by the time of inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarians. \n \n n",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 30,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 20,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
