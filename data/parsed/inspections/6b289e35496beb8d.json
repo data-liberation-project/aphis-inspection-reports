@@ -1,0 +1,73 @@
+{
+  "insp_id": "INS-0000986629",
+  "layout": "c",
+  "customer_id": "825",
+  "customer_name": "Wake Forest University",
+  "customer_addr": "Medical Center Blvd\nWinston Salem, NC 27157",
+  "certificate": "55-R-0001",
+  "site_id": "001",
+  "site_name": "ANIMAL RESOURCES PROGRAM/DOWNTOWN CAMPUS",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-APR-2024",
+  "report_date": "23-APR-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "An IACUC investigation documented one occurrence of off-protocol activities involving nonhuman primates (NHPs): five\n(5) vervets received anesthesia and MRI procedures not approved on their protocol. This occurred in Jan. 2024. No\nknown negative effects were documented following the anesthesia and MRI procedures.\nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The\nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall\nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes\nregarding the care and use of animals in ongoing activities.\nCorrective actions included re-training of staff."
+    },
+    {
+      "code": "3.80(a)(2)(ii)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "In Jan. 2024, there was a juvenile vervet suspended by her collar on a section of damaged chain link that supported a\nbarrel device (enrichment device) in the enclosure. Despite prompt veterinary intervention, the animal died due to the\nentrapment of the collar on the damaged chain.\nPrimary enclosures must be constructed and maintained so that they protect the nonhuman primates from injury.\nCorrected prior to inspection.\nCorrective actions included setting up a new process for maintenance of enrichment devices and discontinuing the\npreviously used type of chain.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nMARY ANN MCBRIDE, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nAn IACUC investigation documented one occurrence of off-protocol activities involving nonhuman primates (NHPs): five \n(5) vervets received anesthesia and MRI procedures not approved on their protocol. This occurred in Jan. 2024. No \nknown negative effects were documented following the anesthesia and MRI procedures.  \n \nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The \nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall \nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes \nregarding the care and use of animals in ongoing activities.  \n \nCorrective actions included re-training of staff. \n3.80(a)(2)(ii)  Critical\n   \nPrimary enclosures. \nIn Jan. 2024, there was a juvenile vervet suspended by her collar on a section of damaged chain link that supported a \nbarrel device (enrichment device) in the enclosure. Despite prompt veterinary intervention, the animal died due to the \nentrapment of the collar on the damaged chain.  \n \nPrimary enclosures must be constructed and maintained so that they protect the nonhuman primates from injury.  \n \nCorrected prior to inspection.  \n \nCorrective actions included setting up a new process for maintenance of enrichment devices and discontinuing the \npreviously used type of chain. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nAdditional Inspectors: \nMARY ANN MCBRIDE, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 812,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 155,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 265,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 39,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 319,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
