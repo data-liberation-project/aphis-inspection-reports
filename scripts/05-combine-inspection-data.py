@@ -46,6 +46,9 @@ def address_to_state(address: str) -> typing.Optional[str]:
     if len(address) < 2:
         return None
 
+    if re.sub(r"[^A-Za-z]", "", address).lower() == "test":
+        return None
+
     match_postal = re.search(state_pat_postal, address)
     if match_postal:
         return match_postal.group(1)
