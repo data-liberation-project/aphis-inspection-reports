@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0001002146",
+  "layout": "c",
+  "customer_id": "832",
+  "customer_name": "University of Alabama at Birmingham",
+  "customer_addr": "720 ADMINISTRATION BLDG\n1530 3RD AVENUE SOUTH\nBIRMINGHAM, AL 35294",
+  "certificate": "64-R-0004",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF BIRMINGHAM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2024",
+  "report_date": "09-MAY-2024",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "Documented in the January 2024 IACUC meeting minutes, on January 9th 2024 a Syrian hamster was found entrapped\nand deceased between the food hopper and the lid in its enclosure after a cage change. After speaking with the clinical\nveterinarian who conducted the investigation regarding the event, she explained that there were no abnormalities found\nwith the enclosure and occurred due to improper closing of the lid to the cage. Handling of all animals shall be done as\nexpeditiously and carefully as possible in a manner that does not cause trauma, overheating, excessive cooling,\nbehavioral stress, physical harm or unnecessary discomfort. Corrected prior to inspection on May 8th, 2024."
+    },
+    {
+      "code": "3.29(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "Reported in the OLAW adverse event letter dated April 22, 2024, a colony of 110 Syrian hamsters had been fed an\nexpired diet from December 1st, 2023 to January 12th, 2024 by the animal care staff. The veterinary staff were not\ninformed until January 12th, 2024. Expired food may lose some of its nutritional value and no longer be wholesome. Food\nmust be free from contamination, wholesome, palatable and of sufficient quantity and nutritive value to meet the normal\ndaily requirements for the condition and size of the hamster. Corrected prior to the inspection on May 8th, 2024.\nThis inspection and exit interview were conducted with the Executive Director ARP, the Attending Veterinarian, the IACUC\nDirector and other facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1)  Critical\n   \nMiscellaneous. \nDocumented in the January 2024 IACUC meeting minutes, on January 9th 2024 a Syrian hamster was found entrapped \nand deceased between the food hopper and the lid in its enclosure after a cage change. After speaking with the clinical \nveterinarian who conducted the investigation regarding the event, she explained that there were no abnormalities found \nwith the enclosure and occurred due to improper closing of the lid to the cage. Handling of all animals shall be done as \nexpeditiously and carefully as possible in a manner that does not cause trauma, overheating, excessive cooling, \nbehavioral stress, physical harm or unnecessary discomfort. Corrected prior to inspection on May 8th, 2024. \n3.29(a) \n   \nFeeding. \nReported in the OLAW adverse event letter dated April 22, 2024, a colony of 110 Syrian hamsters had been fed an \nexpired diet from December 1st, 2023 to January 12th, 2024 by the animal care staff. The veterinary staff were not \ninformed until January 12th, 2024. Expired food may lose some of its nutritional value and no longer be wholesome. Food \nmust be free from contamination, wholesome, palatable and of sufficient quantity and nutritive value to meet the normal \ndaily requirements for the condition and size of the hamster. Corrected prior to the inspection on May 8th, 2024. \n \nThis inspection and exit interview were conducted with the Executive Director ARP, the Attending Veterinarian, the IACUC \nDirector and other facility representatives. \n \n n",
+  "animals_total": 242,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 53,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 152,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 0,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
