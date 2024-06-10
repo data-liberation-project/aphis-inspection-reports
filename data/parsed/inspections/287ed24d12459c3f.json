@@ -1,0 +1,98 @@
+{
+  "insp_id": "INS-0001003253",
+  "layout": "c",
+  "customer_id": "326842",
+  "customer_name": "Grace & Glory Ministries",
+  "customer_addr": "7877 State Route 104\nOswego, NY 13126",
+  "certificate": "21-C-0430",
+  "site_id": "001",
+  "site_name": "Grace & Glory Ministries",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2024",
+  "report_date": "13-MAY-2024",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "On the morning of February 25, 2024, a South American Coati was found deceased in the enclosure, entwined in rope\nused to support enrichment materials. It was noted by staff that the rope was inappropriately thin for coatis. Facilities must\nbe maintained using materials and enrichment appropriate for the species to be housed in that enclosure.\nCorrect from this day forward."
+    },
+    {
+      "code": "3.131(c)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Sanitation.",
+      "narrative": "While much of the housekeeping around the facility has been addressed, a structure in the yard open to the wallaby and\ncavy remains in disrepair, exposing these animals to injury risk. Further, a large accumulation of trash remains that\npromotes breeding and living areas for rodents and pests.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a)  Critical\n   \nFacilities, general. \nOn the morning of February 25, 2024, a South American Coati was found deceased in the enclosure, entwined in rope \nused to support enrichment materials. It was noted by staff that the rope was inappropriately thin for coatis. Facilities must \nbe maintained using materials and enrichment appropriate for the species to be housed in that enclosure. \n \nCorrect from this day forward. \n3.131(c)  Repeat\n   \nSanitation. \nWhile much of the housekeeping around the facility has been addressed, a structure in the yard open to the wallaby and \ncavy remains in disrepair, exposing these animals to injury risk. Further, a large accumulation of trash remains that \npromotes breeding and living areas for rodents and pests. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 4,
+      "scientific": "Cynomys parvidens",
+      "common": "UTAH PRAIRIE DOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Nasua nasua",
+      "common": "SOUTH AMERICAN COATI"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    }
+  ]
+}
