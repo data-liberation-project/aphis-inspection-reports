@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0001006767",
+  "layout": "c",
+  "customer_id": "3025",
+  "customer_name": "Montgomery Zoo",
+  "customer_addr": "P.O. Box 3313\nMontgomery, AL 36109",
+  "certificate": "64-C-0003",
+  "site_id": "001",
+  "site_name": "Montgomery Zoo",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "17-MAY-2024",
+  "report_date": "17-MAY-2024",
+  "citations": [
+    {
+      "code": "2.131(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Handling of animals.",
+      "narrative": "On May 12, 2024, an employee handled a Hoffmann's two-toed sloth that resulted in behavioral stress. The individual\nbecame frustrated with the animal as he was not moving as fast enough and asked another employee to use a pillowcase\nto capture the animal resulting in a bite to the employee. The injury to the right thumb was severe enough that he had to\nseek medical attention. Handling of all animals shall be done as expeditiously and carefully as possible in a manner that\ndoes not cause trauma, overheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort.\nCorrected prior to the time of inspection."
+    },
+    {
+      "code": "3.153(a)(1)(iv)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Primary enclosures.",
+      "narrative": "Multiple wild muscovy ducklings were observed in the primary enclosure containing two Blue-and-gold macaws.\nPrevention of wildlife from entering a primary enclosure prevents the sharing of disease, parasites, and pests. Primary\nenclosures must be constructed and maintained so that they restrict other animals from the entering the enclosure.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.131(b)(1) \n   \nHandling of animals. \nOn May 12, 2024, an employee handled a Hoffmann's two-toed sloth that resulted in behavioral stress. The individual \nbecame frustrated with the animal as he was not moving as fast enough and asked another employee to use a pillowcase \nto capture the animal resulting in a bite to the employee. The injury to the right thumb was severe enough that he had to \nseek medical attention. Handling of all animals shall be done as expeditiously and carefully as possible in a manner that \ndoes not cause trauma, overheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort. \nCorrected prior to the time of inspection. \n3.153(a)(1)(iv)  Repeat\n   \nPrimary enclosures. \nMultiple wild muscovy ducklings were observed in the primary enclosure containing two Blue-and-gold macaws. \nPrevention of wildlife from entering a primary enclosure prevents the sharing of disease, parasites, and pests. Primary \nenclosures must be constructed and maintained so that they restrict other animals from the entering the enclosure. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hexaprotodon liberiensis",
+      "common": "PYGMY HIPPOPOTAMUS"
+    },
+    {
+      "count": 3,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Choloepus hoffmanni",
+      "common": "HOFFMANN'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara militaris",
+      "common": "MILITARY MACAW"
+    },
+    {
+      "count": 6,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    },
+    {
+      "count": 3,
+      "scientific": "Kobus megaceros",
+      "common": "NILE LECHWE"
+    }
+  ]
+}

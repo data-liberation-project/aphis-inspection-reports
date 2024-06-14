@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001006739",
+  "layout": "c",
+  "customer_id": "307",
+  "customer_name": "Rockefeller University",
+  "customer_addr": "1230 YORK AVENUE\nBOX 2\nNEW YORK NEW YORK, NY 10065",
+  "certificate": "21-R-0226",
+  "site_id": "001",
+  "site_name": "ROCKEFELLER UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-MAY-2024",
+  "report_date": "17-MAY-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 17,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 88,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}
