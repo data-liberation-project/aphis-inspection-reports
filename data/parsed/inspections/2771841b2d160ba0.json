@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0001010057",
+  "layout": "c",
+  "customer_id": "501397",
+  "customer_name": "OKC ALLERGY SUPPLIES INC",
+  "customer_addr": "1005 S W 2nd Street\nOKLAHOMA CITY, OK 73109",
+  "certificate": "73-R-0120",
+  "site_id": "001",
+  "site_name": "OKC ALLERGY SUPPLIES, INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAY-2024",
+  "report_date": "20-MAY-2024",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "- The primary protocol for the use of mice and guinea pigs does not contain any description of the final disposition method\nfor the animals. Protocols involving animals must have a complete description of their intended use. The facility should\ndetermine appropriate options to dispose of animals after testing, and provide a complete description of these options in\ntheir protocols.\nCorrect by 20 June 2024\nThis inspection and exit interview were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \n- The primary protocol for the use of mice and guinea pigs does not contain any description of the final disposition method \nfor the animals. Protocols involving animals must have a complete description of their intended use. The facility should \ndetermine appropriate options to dispose of animals after testing, and provide a complete description of these options in \ntheir protocols. \nCorrect by 20 June 2024 \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
