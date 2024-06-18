@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001011211",
+  "layout": "c",
+  "customer_id": "1415",
+  "customer_name": "Boehringer Ingelheim Animal Health USA Inc",
+  "customer_addr": "6498 Jade Rd\nFulton, MO 65251",
+  "certificate": "43-R-0014",
+  "site_id": "001",
+  "site_name": "Veterinary Quality Services, Cosby",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAY-2024",
+  "report_date": "21-MAY-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 609,
+  "species": [
+    {
+      "count": 125,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 385,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 99,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001011185",
+  "layout": "c",
+  "customer_id": "31337",
+  "customer_name": "Dan F Lapp",
+  "customer_addr": "2199 Ridge Road\nMontgomery, PA 17752",
+  "certificate": "23-A-0304",
+  "site_id": "001",
+  "site_name": "Dan F Lapp",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAY-2024",
+  "report_date": "21-MAY-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 876,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 15,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 846,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
