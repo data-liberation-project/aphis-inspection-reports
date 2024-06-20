@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001012367",
+  "layout": "c",
+  "customer_id": "130",
+  "customer_name": "UNIVERSITY OF MASSACHUSETTS MEDICAL SCHOOL",
+  "customer_addr": "55 LAKE AVENUE NORTH\nWORCESTER, MA 01655",
+  "certificate": "14-R-0035",
+  "site_id": "001",
+  "site_name": "UNIV. OF MASS. MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAY-2024",
+  "report_date": "23-MAY-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocols #0101 and #0128 did not provide a written narrative description of the methods and sources\nused to determine that alternatives were not available to a procedure that may cause more than momentary pain or\ndistress to the animals that is included in each of the protocols (blood collection via cardiac puncture).\nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or\ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those\nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources\nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the\nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by\n6/23/24.\nThis inspection was conducted with facility representatives on 5/22/24 and 5/23/24. The exit briefing was held with facility\nrepresentatives on 5/23/24.\n*END OF REPORT*\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocols #0101 and #0128 did not provide a written narrative description of the methods and sources \nused to determine that alternatives were not available to a procedure that may cause more than momentary pain or \ndistress to the animals that is included in each of the protocols (blood collection via cardiac puncture).  \n \nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or \ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those \nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources \nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the \nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by \n6/23/24. \n \nThis inspection was conducted with facility representatives on 5/22/24 and 5/23/24. The exit briefing was held with facility \nrepresentatives on 5/23/24. \n \n*END OF REPORT* \n \n n",
+  "animals_total": 325,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 271,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 36,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
