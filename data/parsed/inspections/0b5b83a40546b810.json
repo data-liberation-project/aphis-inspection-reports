@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001024443",
+  "layout": "c",
+  "customer_id": "878",
+  "customer_name": "Southern Research Institute",
+  "customer_addr": "2000 NINTH AVENUE SOUTH\nP.O. BOX 55305\nBIRMINGHAM, AL 35255",
+  "certificate": "64-R-0001",
+  "site_id": "001",
+  "site_name": "SOUTHERN RESEARCH INSTITUTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-MAY-2024",
+  "report_date": "30-MAY-2024",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Multiple protocols do not contain an adequate rationale for the appropriateness of the number of animals to be used.\nProtocol ACUP 23-07-018B, ACUP 23-10-025B, ACUP 24-01-002B, ACUP 24-02-005B, ACUP 24-04-009B, and ACUP\n24-04-010B all contain a generic statement that they will use the least number of animals possible rather than a specific\nrationale for the number of animals required by each study/protocol parameters. An animal use proposal must include an\nadequate rationale for the appropriateness of the numbers of animals to be used so that the IACUC can conduct a\nthorough review of the components of the activities related to the care and use of animals and determine that the\nproposed activities are in accordance with the Animal Welfare Act. Correct by ensuring that all proposals to conduct an\nactivity involving animals contain adequate rationales for the appropriateness of the number of animals to be used.\nCorrect by 11/1/2024."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "Two documented events occurred where the handling of animals had not been done as expeditiously and carefully as\npossible.\n***As detailed in the February 1, 2024 IACUC Memorandum, a report was made on December 18, 2023 to the veterinary\nstaff that multiple Syrian hamsters from protocol ACUP 23-10-025B and SR study number 16487.01 had ocular injuries.\nThese injuries necessitated five hamsters to be euthanized prior to the completion of the study. The veterinary staff\nidentified the retroorbital blood collection technique as the cause of the observed lesions. As documented for correction,\nimprovements in practices were implemented to be used moving forward. (Critical)\n***As noted in the November 2023 IACUC meeting minutes, a nonhuman primate exposure occurred on October 16, 2023\nwhen an employee was scratched while moving cages. This incident resulted in the necessity for the animal to be tested\nfor communicable diseases. After speaking with the IACUC administrator, it was a handling error that occurred and\nresulted in retraining of the employee. (Non-Critical)\nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma,\noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort. Corrected prior to the time\nof inspection on 5/29/2024.\nThis inspection and exit interview were conducted with the IACUC Chair and facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nMultiple protocols do not contain an adequate rationale for the appropriateness of the number of animals to be used. \nProtocol ACUP 23-07-018B, ACUP 23-10-025B, ACUP 24-01-002B, ACUP 24-02-005B, ACUP 24-04-009B, and ACUP \n24-04-010B all contain a generic statement that they will use the least number of animals possible rather than a specific \nrationale for the number of animals required by each study/protocol parameters. An animal use proposal must include an \nadequate rationale for the appropriateness of the numbers of animals to be used so that the IACUC can conduct a \nthorough review of the components of the activities related to the care and use of animals and determine that the \nproposed activities are in accordance with the Animal Welfare Act. Correct by ensuring that all proposals to conduct an \nactivity involving animals contain adequate rationales for the appropriateness of the number of animals to be used. \nCorrect by 11/1/2024. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nTwo documented events occurred where the handling of animals had not been done as expeditiously and carefully as \npossible. \n \n***As detailed in the February 1, 2024 IACUC Memorandum, a report was made on December 18, 2023 to the veterinary \nstaff that multiple Syrian hamsters from protocol ACUP 23-10-025B and SR study number 16487.01 had ocular injuries. \nThese injuries necessitated five hamsters to be euthanized prior to the completion of the study. The veterinary staff \nidentified the retroorbital blood collection technique as the cause of the observed lesions. As documented for correction, \nimprovements in practices were implemented to be used moving forward. (Critical)  \n \n***As noted in the November 2023 IACUC meeting minutes, a nonhuman primate exposure occurred on October 16, 2023 \nwhen an employee was scratched while moving cages. This incident resulted in the necessity for the animal to be tested \nfor communicable diseases. After speaking with the IACUC administrator, it was a handling error that occurred and \nresulted in retraining of the employee. (Non-Critical) \n \nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma,\n\noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort. Corrected prior to the time \nof inspection on 5/29/2024. \n \nThis inspection and exit interview were conducted with the IACUC Chair and facility representatives. \n \n n",
+  "animals_total": 82,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 53,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 0,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 0,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
