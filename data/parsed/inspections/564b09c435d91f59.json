@@ -1,0 +1,93 @@
+{
+  "insp_id": "INS-0001027763",
+  "layout": "c",
+  "customer_id": "334276",
+  "customer_name": "Green Horse Farm",
+  "customer_addr": "150 Hollow Road\nDornsife, PA 17823",
+  "certificate": "23-C-0366",
+  "site_id": "001",
+  "site_name": "GREEN HORSE FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-MAY-2024",
+  "report_date": "31-MAY-2024",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "A gate was left open and 9 fallow deer escaped a little over a week ago. Four deer were recovered but 5 deer remain\nmissing.\nFailure to ensure facilities housing animals are maintained to contain the animals can result in animal escape with\npossible inability to recover or injury/death.\nHousing facilities must be structurally sound and maintained in good repair to protect the animals from injury and to\ncontain the animals.\nCorrect by: From May 31 forward."
+    },
+    {
+      "code": "3.152(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, outdoor",
+      "narrative": "There was a cockatoo being exhibited perched on a fence post. There was no shelter or shade provided.\nAnimals without shelter or shade from inclement weather may suffer from stress, low body temperature, and decreased\nimmune system function.\nOutdoor housing facilities must provide adequate shelter and have areas of shade to prevent discomfort from direct\nsunlight, precipitation, or wind.\nCorrect by: July 19, 2024\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.125(a)  Critical\n   \nFacilities, general. \nA gate was left open and 9 fallow deer escaped a little over a week ago. Four deer were recovered but 5 deer remain \nmissing. \nFailure to ensure facilities housing animals are maintained to contain the animals can result in animal escape with \npossible inability to recover or injury/death. \nHousing facilities must be structurally sound and maintained in good repair to protect the animals from injury and to \ncontain the animals. \nCorrect by: From May 31 forward. \n3.152(b) \n   \nFacilities, outdoor \nThere was a cockatoo being exhibited perched on a fence post. There was no shelter or shade provided. \nAnimals without shelter or shade from inclement weather may suffer from stress, low body temperature, and decreased \nimmune system function. \nOutdoor housing facilities must provide adequate shelter and have areas of shade to prevent discomfort from direct \nsunlight, precipitation, or wind. \nCorrect by: July 19, 2024 \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 124,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 48,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 22,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Struthio camelus",
+      "common": "COMMON OSTRICH"
+    },
+    {
+      "count": 3,
+      "scientific": "Rhea americana",
+      "common": "GREATER RHEA / AMERICAN RHEA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cacatua galerita",
+      "common": "SULPHUR-CRESTED COCKATOO / GREATER SULPHUR-"
+    },
+    {
+      "count": 4,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    }
+  ]
+}

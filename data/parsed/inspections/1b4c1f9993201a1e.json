@@ -1,0 +1,75 @@
+{
+  "insp_id": "INS-0001012409",
+  "layout": "c",
+  "customer_id": "337",
+  "customer_name": "Childrens Hospital Of Philadelphia",
+  "customer_addr": "3615 CIVIC CENTER BOULEVARD\nPHILADELPHIA, PA 19104",
+  "certificate": "23-R-0033",
+  "site_id": "001",
+  "site_name": "COLKET TRANSLATIONAL RESEARCH BLDG",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-MAY-2024",
+  "report_date": "31-MAY-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "According to IACUC documents, on June 12, 2023, a pig was euthanized at study endpoints using an overdose of\npotassium chloride intravenous (IV) under general anesthesia. Under the approved protocol, the method of euthanasia\nwas through barbiturate overdose. The laboratory members immediately notified the Protocol Coordinator about the\nevent.\nWith respect to activities involving animals, the IACUC, as an agent of the research facility, shall review and approve,\nrequire modifications in (to secure approval), or withhold approval of proposed significant changes regarding the care and\nuse of animals in ongoing activities.\nCorrected before the time of inspection through an IACUC approved amendment to add potassium chloride under\nanesthesia as a method of euthanasia."
+    },
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On June 13, 2023, during a laboratory inventory review, the facility identified that expired Euthasol, dated 10/2022, was\nused on one sheep and one pig. According to laboratory records, the expired Euthasol was used for a sheep on February\n23, 2023, under Protocol SH-001 and a pig on March 15, 2023, under Protocol SW-002. Both protocols were under the\nsame Principal Investigator (PI). A report of the incident was submitted to the IACUC.\nExpired medications could lose potency and be less effective. Each research facility shall establish and maintain\nprograms of adequate veterinary care that include the use of appropriate methods to prevent, control, diagnosis, and treat\ndiseases and injuries, and the availability of emergency, weekend, and holiday care.\nCorrected before the time of inspection through additional oversight by Veterinary Resources (DVR), retraining of\nlaboratory members, and corrective action plan."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On March 8, 2023, at 11:40AM, a member of Veterinary Resources and a Technician noted that a macaque was not in its\nenclosure. According to IACUC documents, the macaque was separated from its cage mate into the bottom quadrant.\nThe cage mate was sedated and removed from the top quadrant for a medical procedure. The floor of the top quadrant\nwas not secured, which allowed the macaque to move the floor and gain access to the open top quadrant. The staff were\nable to safely return the macaque to its enclosure.\nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma,\noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort.\nCorrected before the time of inspecting through retraining and a corrective action plan.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nCatherine Beckwith, Supervisory Animal Care Specialist n"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nAccording to IACUC documents, on June 12, 2023, a pig was euthanized at study endpoints using an overdose of \npotassium chloride intravenous (IV) under general anesthesia. Under the approved protocol, the method of euthanasia \nwas through barbiturate overdose. The laboratory members immediately notified the Protocol Coordinator about the \nevent.  \n \nWith respect to activities involving animals, the IACUC, as an agent of the research facility, shall review and approve, \nrequire modifications in (to secure approval), or withhold approval of proposed significant changes regarding the care and \nuse of animals in ongoing activities. \n \nCorrected before the time of inspection through an IACUC approved amendment to add potassium chloride under \nanesthesia as a method of euthanasia. \n2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nOn June 13, 2023, during a laboratory inventory review, the facility identified that expired Euthasol, dated 10/2022, was \nused on one sheep and one pig. According to laboratory records, the expired Euthasol was used for a sheep on February \n23, 2023, under Protocol SH-001 and a pig on March 15, 2023, under Protocol SW-002. Both protocols were under the \nsame Principal Investigator (PI). A report of the incident was submitted to the IACUC.  \n \nExpired medications could lose potency and be less effective. Each research facility shall establish and maintain \nprograms of adequate veterinary care that include the use of appropriate methods to prevent, control, diagnosis, and treat \ndiseases and injuries, and the availability of emergency, weekend, and holiday care.  \n \nCorrected before the time of inspection through additional oversight by Veterinary Resources (DVR), retraining of \nlaboratory members, and corrective action plan. \n2.38(f)(1)\n\nMiscellaneous. \nOn March 8, 2023, at 11:40AM, a member of Veterinary Resources and a Technician noted that a macaque was not in its \nenclosure. According to IACUC documents, the macaque was separated from its cage mate into the bottom quadrant. \nThe cage mate was sedated and removed from the top quadrant for a medical procedure. The floor of the top quadrant \nwas not secured, which allowed the macaque to move the floor and gain access to the open top quadrant. The staff were \nable to safely return the macaque to its enclosure.  \n \nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma, \noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort.  \n \nCorrected before the time of inspecting through retraining and a corrective action plan. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nCatherine Beckwith, Supervisory Animal Care Specialist n",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 17,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 9,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
