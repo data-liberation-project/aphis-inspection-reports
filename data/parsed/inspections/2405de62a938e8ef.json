@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001033494",
+  "layout": "c",
+  "customer_id": "107",
+  "customer_name": "Harvard Medical School",
+  "customer_addr": "HARVARD CENTER FOR COMPARATIVE MEDICINE\n665 HUNTINGTON AVE\nBOSTON, MA 02115",
+  "certificate": "14-R-0019",
+  "site_id": "001",
+  "site_name": "HARVARD CENTER FOR COMPARATIVE MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JUN-2024",
+  "report_date": "05-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 42,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}
