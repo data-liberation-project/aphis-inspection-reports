@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001039030",
+  "layout": "c",
+  "customer_id": "907",
+  "customer_name": "Georgia State University",
+  "customer_addr": "58 EDGEWOOD AVENUE NE\nATL, GA 30303",
+  "certificate": "57-R-0012",
+  "site_id": "004",
+  "site_name": "PETIT SCIENCE CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JUN-2024",
+  "report_date": "07-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 774,
+  "species": [
+    {
+      "count": 425,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 340,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    },
+    {
+      "count": 9,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
