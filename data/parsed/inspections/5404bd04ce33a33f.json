@@ -1,0 +1,100 @@
+{
+  "insp_id": "INS-0001039061",
+  "layout": "c",
+  "customer_id": "528",
+  "customer_name": "Cornell University",
+  "customer_addr": "Office Of Research Integrity And Assurance\n395 Pine Tree Road Suite 320\nIthaca, NY 14850",
+  "certificate": "21-R-0119",
+  "site_id": "001",
+  "site_name": "Cornell University",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-MAY-2024",
+  "report_date": "10-JUN-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The facility identified multiple chinchillas assigned to IACUC approved protocol 2018-0089 determined to have undergone\nprocedures and treatments in a manner deviating from approved protocols directing the inoculation, sampling, and\ntreatment of chinchillas receiving bacterial inoculation for inducing otitis.\n\u2022 On 7/28/23, 2 chinchillas (identified M and U) received repeated inoculations of bacteria not listed on the protocol.\n\u2022 During the repeated inoculation, chinchillas M and U were inoculated with a higher dose of bacteria than was approved\non protocols.\nDosing and frequency of inoculations constitute significant changes to protocols that must be reviewed and approved by\nthe IACUC.\nCorrect on 5/23/24"
+    },
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "The facility identified multiple chinchillas that were administered an expired medication. These animals were assigned to\nIACUC approved protocol 2018-0089 and had received this medication in November 2023 after a surgical procedure.\nHowever, it is noted that the lab supply of this medication had an expiration date of 10/23. The use of expired medication\nis not considered the standard of care and could lose potency and be less effective. This could cause animals\nunnecessary harm or distress. The facility must correct this issue.\nCorrect on 5/23/24"
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On 8/31/23, one spiny mouse escaped during a cage change procedure. Efforts were made to retrieve the animal,\nhowever it was found deceased later the same day. Handling of animals must be conducted in a manner which protects\nthe animal from physical harm or unnecessary discomfort. Corrective actions by the facility included retraining of\nhusbandry staff on cage change operations.\nCorrect on 5/23/24\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nKERI LUPO, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe facility identified multiple chinchillas assigned to IACUC approved protocol 2018-0089 determined to have undergone \nprocedures and treatments in a manner deviating from approved protocols directing the inoculation, sampling, and \ntreatment of chinchillas receiving bacterial inoculation for inducing otitis.  \n\u2022 On 7/28/23, 2 chinchillas (identified M and U) received repeated inoculations of bacteria not listed on the protocol. \n\u2022 During the repeated inoculation, chinchillas M and U were inoculated with a higher dose of bacteria than was approved \non protocols. \nDosing and frequency of inoculations constitute significant changes to protocols that must be reviewed and approved by \nthe IACUC.  \n \nCorrect on 5/23/24 \n2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nThe facility identified multiple chinchillas that were administered an expired medication. These animals were assigned to \nIACUC approved protocol 2018-0089 and had received this medication in November 2023 after a surgical procedure. \nHowever, it is noted that the lab supply of this medication had an expiration date of 10/23. The use of expired medication \nis not considered the standard of care and could lose potency and be less effective. This could cause animals \nunnecessary harm or distress. The facility must correct this issue. \n \nCorrect on 5/23/24 \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nOn 8/31/23, one spiny mouse escaped during a cage change procedure. Efforts were made to retrieve the animal, \nhowever it was found deceased later the same day. Handling of animals must be conducted in a manner which protects \nthe animal from physical harm or unnecessary discomfort. Corrective actions by the facility included retraining of \nhusbandry staff on cage change operations.\n\nCorrect on 5/23/24 \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nKERI LUPO, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1171,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 201,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 102,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 9,
+      "scientific": "Cricetomys gambianus",
+      "common": "GAMBIAN POUCHED RAT / NORTHERN GIANT POUCHED RAT"
+    },
+    {
+      "count": 732,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 24,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 15,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 15,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}

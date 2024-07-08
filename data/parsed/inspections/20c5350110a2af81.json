@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001039076",
+  "layout": "c",
+  "customer_id": "6013605",
+  "customer_name": "Fox College LLC",
+  "customer_addr": "18020 Oak Park Ave\nTinley Park, IL 60477",
+  "certificate": "33-R-0163",
+  "site_id": "001",
+  "site_name": "Fox College LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-MAY-2024",
+  "report_date": "10-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 17,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001039015",
+  "layout": "c",
+  "customer_id": "501995",
+  "customer_name": "IUVO Bioscience Operations LLC",
+  "customer_addr": "7500 WEST HENRIETTA RD\nRUSH, NY 14543",
+  "certificate": "21-R-0245",
+  "site_id": "001",
+  "site_name": "I U V O BIOSCIENCE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-JUN-2024",
+  "report_date": "10-JUN-2024",
+  "citations": [
+    {
+      "code": "3.61(f)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live rabbits.",
+      "narrative": "Under IACUC protocol 23-2, rabbits are transported by the registrant to a separate facility for surgery. The rabbits are\ntransported to this site using unmarked carriers. Transport carriers must be clearly marked with the words \"Live Animal\"\non top and on one or more sides, in letters not less than 2.5 centimeters in height, and must bare arrows or markings\nindicating the correct upright position of the carrier. Unmarked carriers may expose rabbits to injury risk in handling during\ntransport. The facility must address these requirements.\nCorrect by 6/20/24 or before future transport.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.61(f) \n   \nPrimary enclosures used to transport live rabbits. \nUnder IACUC protocol 23-2, rabbits are transported by the registrant to a separate facility for surgery. The rabbits are \ntransported to this site using unmarked carriers. Transport carriers must be clearly marked with the words \"Live Animal\" \non top and on one or more sides, in letters not less than 2.5 centimeters in height, and must bare arrows or markings \nindicating the correct upright position of the carrier. Unmarked carriers may expose rabbits to injury risk in handling during \ntransport. The facility must address these requirements.  \n \nCorrect by 6/20/24 or before future transport. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 137,
+  "species": [
+    {
+      "count": 68,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 69,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
