@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001039133",
+  "layout": "c",
+  "customer_id": "577",
+  "customer_name": "The University of Chicago",
+  "customer_addr": "5841 S MARYLAND AVE, MC1030\nCHICAGO, IL 60637",
+  "certificate": "33-R-0151",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY OF CHICAGO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUN-2024",
+  "report_date": "11-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 326,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 49,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 249,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
