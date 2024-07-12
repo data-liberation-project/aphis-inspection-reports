@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001040376",
+  "layout": "c",
+  "customer_id": "1072",
+  "customer_name": "Lovelace Biomedical Research Institute",
+  "customer_addr": "2425 Ridgecrest Dr SE\nAlbuquerque, NM 87108",
+  "certificate": "85-R-0003",
+  "site_id": "001",
+  "site_name": "Lovelace Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUN-2024",
+  "report_date": "14-JUN-2024",
+  "citations": [
+    {
+      "code": "3.3(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Sheltered housing facilities.",
+      "narrative": "On June 7, 2024 20 female and 34 male, adult beagle dogs were housed in sheltered housing \"Kennel D,\" where the\nautomated environmental monitoring system measured and recorded temperatures in the indoor area within the range of\n29.6 degrees Celsius and 30.4 degrees Celsius between the hours of 1:44pm and 10:15pm (~8.5h).\nDogs that are hot may experience discomfort, lethargy or distress. Dogs with medical problems or under study may be\nespecially vulnerable to the effects of hot temperatures. The licensee must provide additional / alternate cooling\nmechanisms or make adjustments that adequately provide for animal comfort and well-being and ensure ambient\ntemperatures inside do not exceed 29.5 degrees Celsius for more than four consecutive hours when dogs are present.\nThis inspection and exit interview were conducted with the attending veterinarian, IACUC Chair and facility\nrepresentatives.\nn"
+    }
+  ],
+  "narrative": "3.3(a)  Repeat\n   \nSheltered housing facilities. \nOn June 7, 2024 20 female and 34 male, adult beagle dogs were housed in sheltered housing \"Kennel D,\" where the \nautomated environmental monitoring system measured and recorded temperatures in the indoor area within the range of \n29.6 degrees Celsius and 30.4 degrees Celsius between the hours of 1:44pm and 10:15pm (~8.5h). \nDogs that are hot may experience discomfort, lethargy or distress. Dogs with medical problems or under study may be \nespecially vulnerable to the effects of hot temperatures. The licensee must provide additional / alternate cooling \nmechanisms or make adjustments that adequately provide for animal comfort and well-being and ensure ambient \ntemperatures inside do not exceed 29.5 degrees Celsius for more than four consecutive hours when dogs are present. \n \nThis inspection and exit interview were conducted with the attending veterinarian, IACUC Chair and facility \nrepresentatives. \n \n n",
+  "animals_total": 941,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 369,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 86,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 362,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 78,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
+}
