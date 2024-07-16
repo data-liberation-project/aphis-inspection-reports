@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001044734",
+  "layout": "c",
+  "customer_id": "6021537",
+  "customer_name": "Sarah Barkheimer",
+  "customer_addr": "1643 Kenyon Ave Northwest\nMassillon, OH 44647",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Sarah Barkheimer",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-JUN-2024",
+  "report_date": "18-JUN-2024",
+  "citations": [
+    {
+      "code": "2.1(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Requirements and application.",
+      "narrative": "The facility is conducting regulated activity with out a valid USDA license in the form of public exhibition. Facility\nRepresentatives confirmed that exhibition had been conducted as recently as 09-June-2024. The exhibition being\nperformed are guided tours of the facility and animal encounters. There are approximately 57 animals at the facility that\nwould require a USDA license to exhibit including two giraffes, 6 bennet\u2019s wallabies, one zebra, one African Crested\nPorcupine, 8 domestic cows and 39 goats.\nOperating without a valid license impedes the ability of APHIS officials to ensure adequate welfare for the animals in the\nfacility. No person shall operate as a dealer, exhibitor, or operator of an auction sale, without a valid license.\nNo regulated activity, to include the exhibition or sale of regulated animals, can be conducted until a USDA license has\nbeen obtained.\nThis inspection and exit interview were conducted with the Facility Representative.\nn"
+    }
+  ],
+  "narrative": "2.1(a)(1) \n   \nRequirements and application. \nThe facility is conducting regulated activity with out a valid USDA license in the form of public exhibition. Facility \nRepresentatives confirmed that exhibition had been conducted as recently as 09-June-2024. The exhibition being \nperformed are guided tours of the facility and animal encounters. There are approximately 57 animals at the facility that \nwould require a USDA license to exhibit including two giraffes, 6 bennet\u2019s wallabies, one zebra, one African Crested \nPorcupine, 8 domestic cows and 39 goats.  \n \nOperating without a valid license impedes the ability of APHIS officials to ensure adequate welfare for the animals in the \nfacility. No person shall operate as a dealer, exhibitor, or operator of an auction sale, without a valid license. \n \nNo regulated activity, to include the exhibition or sale of regulated animals, can be conducted until a USDA license has \nbeen obtained. \n \nThis inspection and exit interview were conducted with the Facility Representative. \n \n n",
+  "animals_total": 57,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 39,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 8,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
