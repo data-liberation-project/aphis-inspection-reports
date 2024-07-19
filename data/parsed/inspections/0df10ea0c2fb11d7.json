@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001048989",
+  "layout": "c",
+  "customer_id": "1412",
+  "customer_name": "Baylor College of Medicine",
+  "customer_addr": "MAILSTOP: BCM310\nONE BAYLOR PLAZA, SUITE 600 D\nHOUSTON, TX 77030",
+  "certificate": "74-R-0018",
+  "site_id": "001",
+  "site_name": "Baylor College of Medicine",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-JUN-2024",
+  "report_date": "21-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 131,
+  "species": [
+    {
+      "count": 117,
+      "scientific": "Arvicanthis niloticus",
+      "common": "NILE RAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
