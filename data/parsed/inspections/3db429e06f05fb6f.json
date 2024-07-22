@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001043628",
+  "layout": "c",
+  "customer_id": "502924",
+  "customer_name": "University of Toledo",
+  "customer_addr": "3000 Arlington Ave., MS 1004\nTOLEDO, OH 43614",
+  "certificate": "31-R-0134",
+  "site_id": "001",
+  "site_name": "HEALTH SCIENCE CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JUN-2024",
+  "report_date": "24-JUN-2024",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "There was an incident involving improper handling of a prairie vole. On March 11, 2024, a vole escaped during a cage\nchange and leaped to the floor. A net was used for recapture and the metal frame struck the animal causing injury. There\nwas blood observed on the floor and the animal was observed to have decreased consciousness and labored breathing.\nThe animal was euthanized due to the injury.\nFailure to handle animals in a careful manner can lead to trauma including death.\nHandling of all animals must be done as carefully as possible in a manner that does not cause trauma, behavioral stress,\nphysical harm, or unnecessary discomfort.\nCorrective actions included changes in procedures for handling and recapturing voles. Correct by continuing to handle\nanimals in a careful manner from June 12, 2024 forward.\nThis inspection and exit interview were conducted with the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1)  Critical\n   \nMiscellaneous. \nThere was an incident involving improper handling of a prairie vole. On March 11, 2024, a vole escaped during a cage \nchange and leaped to the floor. A net was used for recapture and the metal frame struck the animal causing injury. There \nwas blood observed on the floor and the animal was observed to have decreased consciousness and labored breathing. \nThe animal was euthanized due to the injury. \nFailure to handle animals in a careful manner can lead to trauma including death. \nHandling of all animals must be done as carefully as possible in a manner that does not cause trauma, behavioral stress, \nphysical harm, or unnecessary discomfort. \nCorrective actions included changes in procedures for handling and recapturing voles. Correct by continuing to handle \nanimals in a careful manner from June 12, 2024 forward. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 402,
+  "species": [
+    {
+      "count": 375,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 27,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
