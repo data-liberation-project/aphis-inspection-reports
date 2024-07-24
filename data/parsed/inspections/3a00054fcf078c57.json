@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001053378",
+  "layout": "c",
+  "customer_id": "3768",
+  "customer_name": "The Marine Mammal Center",
+  "customer_addr": "2000 Bunker Road\nSausalito, CA 94965",
+  "certificate": "93-R-0475",
+  "site_id": "002",
+  "site_name": "The Marine Mammal Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUN-2024",
+  "report_date": "26-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 41,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 63,
+      "scientific": "Mirounga angustirostris",
+      "common": "NORTHERN ELEPHANT SEAL"
+    },
+    {
+      "count": 13,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
+}

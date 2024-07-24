@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001053389",
+  "layout": "c",
+  "customer_id": "500841",
+  "customer_name": "Arizona Humane Society",
+  "customer_addr": "5501 E Van Buren St\nPHOENIX, AZ 85008",
+  "certificate": "86-C-0129",
+  "site_id": "002",
+  "site_name": "Arizona Humane Society",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JUN-2024",
+  "report_date": "26-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
