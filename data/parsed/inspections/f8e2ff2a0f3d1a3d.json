@@ -1,0 +1,788 @@
+{
+  "insp_id": "INS-0001054472",
+  "layout": "c",
+  "customer_id": "2151",
+  "customer_name": "TOLEDO ZOOLOGICAL SOCIETY",
+  "customer_addr": "P.O. BOX 140130\nTOLEDO, OH 43614",
+  "certificate": "31-C-0002",
+  "site_id": "001",
+  "site_name": "TOLEDO ZOO",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUN-2024",
+  "report_date": "28-JUN-2024",
+  "citations": [
+    {
+      "code": "3.101(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "In the sea lion and seal enclosure, there are areas of concrete flooring in disrepair. Near the entrance to the indoor\nhousing, where the animals enter and exit the pool, there are multiple areas where the concrete flooring has chipped. One\narea, approximately 8\"x 4\" x 2\" deep, has chipped away causing a rough surface and exposing the underlying metal\nmesh.\nAreas of rough flooring within a pinniped enclosure can cause injury to the animals as they enter and exit the pool.\nIndoor and outdoor housing facilities for marine mammals must be structurally sound and must be maintained in good\nrepair to protect the animals from injury.\nCorrect by: September 1, 2024."
+    },
+    {
+      "code": "3.133",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Separation.",
+      "narrative": "On November 1, 2023, a young, male skunk died due to injuries incurred from fighting with another male skunk in the\nsame enclosure. On October 13, 2023, the facility acquired three young skunks, two intact males and a female, which\nappeared healthy and compatible. Their first physical exam (10/17/24) revealed that the smallest male skunk, \"Stetson\",\nhad small scabs on his head, likely from conspecific fighting, and a thin body condition, likely due to being the less\ndominate skunk and aggression during feeding. The facility adjusted the diet and fed the animals separately to avoid food\naggression, but continued to house them as a group. On October 30, a keeper alerted the veterinary staff after finding\n\"Stetson\" with several fighting injuries including puncture wounds on the head, ears, and legs. The skunk received\nmedical care and was returned to the conspecifics with direction to adjust feeding methods to prevent food aggression.\nThe following evening (10/31), \"Stetson\" was observed fighting with the larger male and found to have additional puncture\nwounds on several areas of his body. At this point, he was moved to the veterinary hospital for additional care, but\nunfortunately died the following day.\nHousing noncompatible animals in the same enclosure can result in aggression and fighting which can cause\nunnecessary stress, injury, or death.\nAnimals housed in the same primary enclosure must be compatible. They shall not be housed near animals that interfere\nwith their health or cause them discomfort.\nCorrect by: June 28, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nMark Sanderbeck, ANIMAL CARE INSPECTOR n"
+    }
+  ],
+  "narrative": "3.101(a)(1) \n   \nFacilities, general. \nIn the sea lion and seal enclosure, there are areas of concrete flooring in disrepair. Near the entrance to the indoor \nhousing, where the animals enter and exit the pool, there are multiple areas where the concrete flooring has chipped. One \narea, approximately 8\"x 4\" x 2\" deep, has chipped away causing a rough surface and exposing the underlying metal \nmesh.  \nAreas of rough flooring within a pinniped enclosure can cause injury to the animals as they enter and exit the pool.  \nIndoor and outdoor housing facilities for marine mammals must be structurally sound and must be maintained in good \nrepair to protect the animals from injury.  \nCorrect by: September 1, 2024. \n3.133  Critical\n   \nSeparation. \nOn November 1, 2023, a young, male skunk died due to injuries incurred from fighting with another male skunk in the \nsame enclosure. On October 13, 2023, the facility acquired three young skunks, two intact males and a female, which \nappeared healthy and compatible. Their first physical exam (10/17/24) revealed that the smallest male skunk, \"Stetson\", \nhad small scabs on his head, likely from conspecific fighting, and a thin body condition, likely due to being the less \ndominate skunk and aggression during feeding. The facility adjusted the diet and fed the animals separately to avoid food \naggression, but continued to house them as a group. On October 30, a keeper alerted the veterinary staff after finding \n\"Stetson\" with several fighting injuries including puncture wounds on the head, ears, and legs. The skunk received \nmedical care and was returned to the conspecifics with direction to adjust feeding methods to prevent food aggression. \nThe following evening (10/31), \"Stetson\" was observed fighting with the larger male and found to have additional puncture \nwounds on several areas of his body. At this point, he was moved to the veterinary hospital for additional care, but \nunfortunately died the following day.  \nHousing noncompatible animals in the same enclosure can result in aggression and fighting which can cause \nunnecessary stress, injury, or death.  \nAnimals housed in the same primary enclosure must be compatible. They shall not be housed near animals that interfere \nwith their health or cause them discomfort.  \nCorrect by: June 28, 2024.\n\nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nMark Sanderbeck, ANIMAL CARE INSPECTOR n",
+  "animals_total": 1120,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 2,
+      "scientific": "Ailurus fulgens",
+      "common": "RED PANDA"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla chinchilla",
+      "common": "SHORT-TAILED CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 17,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Cercopithecus ascanius",
+      "common": "RED-TAILED MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis salinicola",
+      "common": "CHACOAN MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 6,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Gazella leptoceros",
+      "common": "SLENDER-HORNED GAZELLE / AFRICAN SAND GAZELLE /"
+    },
+    {
+      "count": 3,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Hippopotamus amphibius",
+      "common": "HIPPOPOTAMUS"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Loxodonta africana",
+      "common": "AFRICAN ELEPHANT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 7,
+      "scientific": "Lamprotornis regius",
+      "common": "GOLDEN-BREASTED STARLING"
+    },
+    {
+      "count": 1,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Nomascus leucogenys",
+      "common": "WHITE-CHEEKED GIBBON"
+    },
+    {
+      "count": 6,
+      "scientific": "Saguinus imperator",
+      "common": "EMPEROR TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Geronticus eremita",
+      "common": "NORTHERN BALD IBIS"
+    },
+    {
+      "count": 16,
+      "scientific": "Lamprotornis iris",
+      "common": "EMERALD STARLING"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Anser canagicus",
+      "common": "EMPEROR GOOSE"
+    },
+    {
+      "count": 7,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    },
+    {
+      "count": 4,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 3,
+      "scientific": "Pudu pudu",
+      "common": "SOUTHERN PUDU"
+    },
+    {
+      "count": 3,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Trachypithecus francoisi",
+      "common": "FRANCOIS'S LANGUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Rhinoceros unicornis",
+      "common": "INDIAN RHINOCEROS"
+    },
+    {
+      "count": 5,
+      "scientific": "Lophophorus impejanus",
+      "common": "HIMALAYAN MONAL"
+    },
+    {
+      "count": 11,
+      "scientific": "Mergus squamatus",
+      "common": "SCALY-SIDED MERGANSER"
+    },
+    {
+      "count": 16,
+      "scientific": "Saguinus bicolor",
+      "common": "BARE-FACED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Sarcophilus harrisii",
+      "common": "TASMANIAN DEVIL"
+    },
+    {
+      "count": 4,
+      "scientific": "Suricata suricatta",
+      "common": "SLENDER-TAILED MEERKAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Tachyglossus aculeatus",
+      "common": "SHORT-BEAKED ECHIDNA"
+    },
+    {
+      "count": 6,
+      "scientific": "Alopecoenas xanthonurus",
+      "common": "WHITE-THROATED GROUND DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 8,
+      "scientific": "Aegypius monachus",
+      "common": "CINEREOUS VULTURE"
+    },
+    {
+      "count": 9,
+      "scientific": "Tragelaphus angasii",
+      "common": "NYALA"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragulus napu",
+      "common": "GREATER MALAYAN CHEVROTAIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    },
+    {
+      "count": 5,
+      "scientific": "Agapornis fischeri",
+      "common": "FISCHER'S LOVEBIRD"
+    },
+    {
+      "count": 8,
+      "scientific": "Gallus gallus",
+      "common": "RED JUNGLEFOWL"
+    },
+    {
+      "count": 11,
+      "scientific": "Aix galericulata",
+      "common": "MANDARIN DUCK"
+    },
+    {
+      "count": 6,
+      "scientific": "Branta ruficollis",
+      "common": "RED-BREASTED GOOSE"
+    },
+    {
+      "count": 7,
+      "scientific": "Lamprotornis superbus",
+      "common": "SUPERB STARLING"
+    },
+    {
+      "count": 3,
+      "scientific": "Paradisaea raggiana",
+      "common": "RAGGIANA BIRD-OF-PARADISE"
+    },
+    {
+      "count": 11,
+      "scientific": "Anser erythropus",
+      "common": "LESSER WHITE-FRONTED GOOSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Anthropoides virgo",
+      "common": "DEMOISELLE CRANE"
+    },
+    {
+      "count": 1,
+      "scientific": "Hypergerus atriceps",
+      "common": "ORIOLE WARBLER"
+    },
+    {
+      "count": 107,
+      "scientific": "Melopsittacus undulatus",
+      "common": "BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL"
+    },
+    {
+      "count": 3,
+      "scientific": "Otidiphaps nobilis",
+      "common": "PHEASANT PIGEON"
+    },
+    {
+      "count": 2,
+      "scientific": "Apteryx mantelli",
+      "common": "NORTH ISLAND BROWN KIWI"
+    },
+    {
+      "count": 13,
+      "scientific": "Gallicolumba crinigera",
+      "common": "MINDANAO BLEEDING-HEART"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo scandiacus",
+      "common": "SNOWY OWL"
+    },
+    {
+      "count": 2,
+      "scientific": "Buceros rhinoceros",
+      "common": "RHINOCEROS HORNBILL"
+    },
+    {
+      "count": 5,
+      "scientific": "Ciconia ciconia",
+      "common": "WHITE STORK"
+    },
+    {
+      "count": 4,
+      "scientific": "Cinnyricinclus leucogaster",
+      "common": "VIOLET-BACKED STARLING"
+    },
+    {
+      "count": 3,
+      "scientific": "Clangula hyemalis",
+      "common": "LONG-TAILED DUCK"
+    },
+    {
+      "count": 11,
+      "scientific": "Caloenas nicobarica",
+      "common": "NICOBAR PIGEON"
+    },
+    {
+      "count": 4,
+      "scientific": "Euplectes ardens",
+      "common": "RED-COLLARED WIDOWBIRD"
+    },
+    {
+      "count": 1,
+      "scientific": "Euplectes orix",
+      "common": "SOUTHERN RED BISHOP"
+    },
+    {
+      "count": 11,
+      "scientific": "Urocissa erythroryncha",
+      "common": "RED-BILLED BLUE-MAGPIE"
+    },
+    {
+      "count": 2,
+      "scientific": "Casuarius casuarius",
+      "common": "SOUTHERN CASSOWARY / DOUBLE-WATTLED CASSOWARY"
+    },
+    {
+      "count": 4,
+      "scientific": "Catreus wallichii",
+      "common": "CHEER PHEASANT"
+    },
+    {
+      "count": 5,
+      "scientific": "Histrionicus histrionicus",
+      "common": "HARLEQUIN DUCK"
+    },
+    {
+      "count": 10,
+      "scientific": "Chrysolophus amherstiae",
+      "common": "LADY AMHERST'S PHEASANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Copsychus saularis",
+      "common": "ORIENTAL MAGPIE-ROBIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Chrysolophus pictus",
+      "common": "GOLDEN PHEASANT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cleptornis marchei",
+      "common": "GOLDEN WHITE-EYE"
+    },
+    {
+      "count": 48,
+      "scientific": "Padda oryzivora",
+      "common": "JAVA SPARROW"
+    },
+    {
+      "count": 5,
+      "scientific": "Copsychus malabaricus",
+      "common": "WHITE-RUMPED SHAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Coua cristata",
+      "common": "CRESTED COUA"
+    },
+    {
+      "count": 5,
+      "scientific": "Goura victoria",
+      "common": "VICTORIA CROWNED-PIGEON"
+    },
+    {
+      "count": 7,
+      "scientific": "Ocyphaps lophotes",
+      "common": "CRESTED PIGEON"
+    },
+    {
+      "count": 2,
+      "scientific": "Coracias cyanogaster",
+      "common": "BLUE-BELLIED ROLLER"
+    },
+    {
+      "count": 10,
+      "scientific": "Lophura edwardsi",
+      "common": "EDWARDS'S PHEASANT / VIETNAM PHEASANT"
+    },
+    {
+      "count": 7,
+      "scientific": "Syrmaticus reevesii",
+      "common": "REEVES'S PHEASANT"
+    },
+    {
+      "count": 18,
+      "scientific": "Coryphospingus cucullatus",
+      "common": "RED-CRESTED FINCH"
+    },
+    {
+      "count": 2,
+      "scientific": "Crossoptilon auritum",
+      "common": "BLUE EARED-PHEASANT"
+    },
+    {
+      "count": 2,
+      "scientific": "Garrulax leucolophus",
+      "common": "WHITE-CRESTED LAUGHINGTHRUSH"
+    },
+    {
+      "count": 60,
+      "scientific": "Geopelia cuneata",
+      "common": "DIAMOND DOVE"
+    },
+    {
+      "count": 8,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 5,
+      "scientific": "Dacelo novaeguineae",
+      "common": "LAUGHING KOOKABURRA"
+    },
+    {
+      "count": 13,
+      "scientific": "Oxyura leucocephala",
+      "common": "WHITE-HEADED DUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Rhynochetos jubatus",
+      "common": "KAGU"
+    },
+    {
+      "count": 2,
+      "scientific": "Dinemellia dinemelli",
+      "common": "WHITE-HEADED BUFFALO-WEAVER"
+    },
+    {
+      "count": 3,
+      "scientific": "Entomyzon cyanotis",
+      "common": "BLUE-FACED HONEYEATER"
+    },
+    {
+      "count": 7,
+      "scientific": "Lamprotornis regius",
+      "common": "GOLDEN-BREASTED STARLING"
+    },
+    {
+      "count": 2,
+      "scientific": "Psittacus erithacus",
+      "common": "CONGO AFRICAN GREY PARROT / GRAY PARROT"
+    },
+    {
+      "count": 21,
+      "scientific": "Stagonopleura guttata",
+      "common": "DIAMOND FIRETAIL"
+    },
+    {
+      "count": 4,
+      "scientific": "Eurypyga helias",
+      "common": "SUNBITTERN"
+    },
+    {
+      "count": 75,
+      "scientific": "Ptilinopus porphyreus",
+      "common": "PINK-HEADED FRUIT-DOVE"
+    },
+    {
+      "count": 1,
+      "scientific": "Fulica americana",
+      "common": "AMERICAN COOT"
+    },
+    {
+      "count": 8,
+      "scientific": "Gallicolumba luzonica",
+      "common": "LUZON BLEEDING-HEART"
+    },
+    {
+      "count": 1,
+      "scientific": "Meleagris gallopavo domesticus",
+      "common": "DOMESTIC TURKEY"
+    },
+    {
+      "count": 9,
+      "scientific": "Glossoptilus goldiei",
+      "common": "GOLDIE'S LORIKEET"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragopan temminckii",
+      "common": "TEMMINCK'S TRAGOPAN"
+    },
+    {
+      "count": 3,
+      "scientific": "Haliaeetus leucocephalus",
+      "common": "BALD EAGLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Megascops asio",
+      "common": "EASTERN SCREECH-OWL"
+    },
+    {
+      "count": 4,
+      "scientific": "Nymphicus hollandicus",
+      "common": "COCKATIEL"
+    },
+    {
+      "count": 10,
+      "scientific": "Ptilinopus melanospilus",
+      "common": "BLACK-NAPED FRUIT-DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Larus marinus",
+      "common": "GREAT BLACK-BACKED GULL"
+    },
+    {
+      "count": 3,
+      "scientific": "Lophura diardi",
+      "common": "SIAMESE FIREBACK"
+    },
+    {
+      "count": 16,
+      "scientific": "Neophema bourkii",
+      "common": "BOURKE'S PARROT"
+    },
+    {
+      "count": 41,
+      "scientific": "Rollulus rouloul",
+      "common": "CRESTED PARTRIDGE"
+    },
+    {
+      "count": 7,
+      "scientific": "Lophura ignita",
+      "common": "BORNEAN CRESTED FIREBACK"
+    },
+    {
+      "count": 6,
+      "scientific": "Lophura nycthemera",
+      "common": "SILVER PHEASANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Streptopelia capicola",
+      "common": "BARBARY DOVE / RINGED TURTLE-DOVE / RINGNECK DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Lophura swinhoii",
+      "common": "SWINHOE'S PHEASANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Mergellus albellus",
+      "common": "SMEW"
+    },
+    {
+      "count": 15,
+      "scientific": "Numida meleagris",
+      "common": "DOMESTIC GUINEAFOWL / HELMETED GUINEAFOWL /"
+    },
+    {
+      "count": 1,
+      "scientific": "Paroaria coronata",
+      "common": "RED-CRESTED CARDINAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Phaenicophaeus curvirostris",
+      "common": "CHESTNUT-BREASTED MALKOHA"
+    },
+    {
+      "count": 50,
+      "scientific": "Phoenicopterus ruber",
+      "common": "AMERICAN FLAMINGO"
+    },
+    {
+      "count": 34,
+      "scientific": "Ptilinopus perousii",
+      "common": "MANY-COLORED FRUIT-DOVE"
+    },
+    {
+      "count": 13,
+      "scientific": "Platalea ajaja",
+      "common": "ROSEATE SPOONBILL"
+    },
+    {
+      "count": 3,
+      "scientific": "Struthio camelus",
+      "common": "COMMON OSTRICH"
+    },
+    {
+      "count": 6,
+      "scientific": "Tragopan caboti",
+      "common": "CABOT'S TRAGOPAN"
+    },
+    {
+      "count": 9,
+      "scientific": "Polyplectron napoleonis",
+      "common": "PALAWAN PEACOCK-PHEASANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ptilinopus pulchellus",
+      "common": "BEAUTIFUL FRUIT-DOVE"
+    },
+    {
+      "count": 1,
+      "scientific": "Pycnonotus goiavier",
+      "common": "YELLOW-VENTED BULBUL"
+    },
+    {
+      "count": 4,
+      "scientific": "Pycnonotus jocosus",
+      "common": "RED-WHISKERED BULBUL"
+    },
+    {
+      "count": 1,
+      "scientific": "Rupicola peruvianus",
+      "common": "ANDEAN COCK-OF-THE-ROCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Zapornia flavirostra",
+      "common": "BLACK CRAKE"
+    },
+    {
+      "count": 1,
+      "scientific": "Crithagra mozambica",
+      "common": "YELLOW-FRONTED CANARY"
+    },
+    {
+      "count": 1,
+      "scientific": "Somateria fischeri",
+      "common": "SPECTACLED EIDER"
+    },
+    {
+      "count": 24,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Vanellus spinosus",
+      "common": "SPUR-WINGED LAPWING"
+    },
+    {
+      "count": 2,
+      "scientific": "Neotoma magister",
+      "common": "ALLEGHENY WOODRAT"
+    }
+  ]
+}

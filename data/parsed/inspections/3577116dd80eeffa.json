@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001012368",
+  "layout": "c",
+  "customer_id": "91",
+  "customer_name": "University of Maryland College Park",
+  "customer_addr": "DIRECTOR LABORATORY ANIMAL CARE\nCOLLEGE PARK CAMPUS\nCOLLEGE PARK, MD 20742",
+  "certificate": "51-R-0095",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-MAY-2024",
+  "report_date": "28-JUN-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(8)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "During the Fall 2023 semi-annual inspection, IACUC members reviewed the water restriction log for gerbils used for Study\nProtocol CGL. Two separate incidents were identified in which water for gerbils 568, 569, and 570 was restricted for\nlonger than the maximum time allowed in the protocol. The gerbils received water at the following intervals:\n- October 6, 2024 at 13:30 hours (1:30pm) and October 8, 2024 at 17:00 hours (5:00pm)\n- October 12, 2024 at 14:40 hours (2:30pm) and October 14, 2024 at 19:00 hours (7:00pm)\nThe protocol indicates that water may be restricted for a maximum of 48 hours. Water was restricted from the gerbils for\n51.5 hours and 52.5 hours respectively. None of the animals appeared to be negatively affected.\nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be\nsubject to further appropriate review and approval by officials of the research facility. Guidelines for the restriction of water\nmust be followed as outlined in the IACUC approved protocol.\nCorrection: Appropriate corrective action was taken that included termination of the responsible lab member and\nreminding all other lab personnel of the importance of conducting study procedures as indicated in the protocol.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(8) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nDuring the Fall 2023 semi-annual inspection, IACUC members reviewed the water restriction log for gerbils used for Study \nProtocol CGL. Two separate incidents were identified in which water for gerbils 568, 569, and 570 was restricted for \nlonger than the maximum time allowed in the protocol. The gerbils received water at the following intervals: \n \n- October 6, 2024 at 13:30 hours (1:30pm) and October 8, 2024 at 17:00 hours (5:00pm) \n- October 12, 2024 at 14:40 hours (2:30pm) and October 14, 2024 at 19:00 hours (7:00pm) \n \nThe protocol indicates that water may be restricted for a maximum of 48 hours. Water was restricted from the gerbils for \n51.5 hours and 52.5 hours respectively. None of the animals appeared to be negatively affected.  \n \nProposed activities and proposed significant changes in ongoing activities that have been approved by the IACUC may be \nsubject to further appropriate review and approval by officials of the research facility. Guidelines for the restriction of water \nmust be followed as outlined in the IACUC approved protocol.  \n \nCorrection: Appropriate corrective action was taken that included termination of the responsible lab member and \nreminding all other lab personnel of the importance of conducting study procedures as indicated in the protocol. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 210,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 190,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

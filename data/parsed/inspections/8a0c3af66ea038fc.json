@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001052255",
+  "layout": "c",
+  "customer_id": "140",
+  "customer_name": "Tufts Medical Center",
+  "customer_addr": "I A C U C/ D L A M\n136 HARRISON AVENUE\nBOSTON, MA 02111",
+  "certificate": "14-R-0082",
+  "site_id": "001",
+  "site_name": "TUFTS MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUN-2024",
+  "report_date": "28-JUN-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 38,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 6,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
