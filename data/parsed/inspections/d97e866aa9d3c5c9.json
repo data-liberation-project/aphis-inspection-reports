@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0001055560",
+  "layout": "c",
+  "customer_id": "501718",
+  "customer_name": "Wildlife Geeks",
+  "customer_addr": "811 S Welcome Rd\nGREENVILLE, SC 29611",
+  "certificate": "56-C-0281",
+  "site_id": "002",
+  "site_name": "Wildlife Geeks",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUN-2024",
+  "report_date": "01-JUL-2024",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "The facility did not have complete disposition records. Required information was missing for one Ring-Tailed lemur\ntemporarily on loan at a different facility. Acquisition and disposition records, including offspring born at the facility,\ntransported, held, leased, or otherwise disposed of by that dealer or exhibitor are necessary to accurately track animals\nbeing used in regulated activities. The licensee shall make, keep, and maintain records of acquisition/disposition of all\nanimals that fully and correctly disclose the required information."
+    },
+    {
+      "code": "3.52(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Facilities, outdoor.",
+      "narrative": "Upon inspection, the rabbit housed outdoors was not provided with artificial cooling when the ambient temperature\nexceeded 90 degrees Fahrenheit. Though the outdoor enclosure provided shade from direct sunlight and the rabbit\npresented comfortably in its enclosure, the kestrel measured temperatures ranging from 96F - 99F at the time of\ninspection near this rabbit enclosure.\nRabbits are sensitive to excessive heat. Lack of additional cooling when ambient temperatures are elevated can result in\nheat stress, extreme discomfort, or debilitating illness. The licensee shall provide artificial cooling such as a sprinkler\nsystem or other means when temperatures exceed 90 degrees Fahrenheit.\nThe facility corrected during the inspection.\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1)  Repeat\n   \nRecords: Dealers and exhibitors. \nThe facility did not have complete disposition records. Required information was missing for one Ring-Tailed lemur \ntemporarily on loan at a different facility. Acquisition and disposition records, including offspring born at the facility, \ntransported, held, leased, or otherwise disposed of by that dealer or exhibitor are necessary to accurately track animals \nbeing used in regulated activities. The licensee shall make, keep, and maintain records of acquisition/disposition of all \nanimals that fully and correctly disclose the required information. \n3.52(a)  Repeat\n   \nFacilities, outdoor. \nUpon inspection, the rabbit housed outdoors was not provided with artificial cooling when the ambient temperature \nexceeded 90 degrees Fahrenheit. Though the outdoor enclosure provided shade from direct sunlight and the rabbit \npresented comfortably in its enclosure, the kestrel measured temperatures ranging from 96F - 99F at the time of \ninspection near this rabbit enclosure. \nRabbits are sensitive to excessive heat. Lack of additional cooling when ambient temperatures are elevated can result in \nheat stress, extreme discomfort, or debilitating illness. The licensee shall provide artificial cooling such as a sprinkler \nsystem or other means when temperatures exceed 90 degrees Fahrenheit. \n \nThe facility corrected during the inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 4,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 0,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
+}
