@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001059895",
+  "layout": "c",
+  "customer_id": "6014821",
+  "customer_name": "Acculab Life Sciences LLC",
+  "customer_addr": "11107 Roselle St Suite 204\nSan Diego, CA 92121",
+  "certificate": "93-R-0604",
+  "site_id": "001",
+  "site_name": "Acculab Life Sciences LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-JUL-2024",
+  "report_date": "03-JUL-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview was conducted with a facility representative. \n \n n",
+  "animals_total": 135,
+  "species": [
+    {
+      "count": 76,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 26,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

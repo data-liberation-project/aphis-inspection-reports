@@ -1,0 +1,88 @@
+{
+  "insp_id": "INS-0001059873",
+  "layout": "c",
+  "customer_id": "9634",
+  "customer_name": "Jennifer Caton",
+  "customer_addr": "238 Shepherds Mill Rd\nBerryville, VA 22611",
+  "certificate": "52-C-0160",
+  "site_id": "TRA",
+  "site_name": "Jennifer Caton",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUL-2024",
+  "report_date": "03-JUL-2024",
+  "citations": [
+    {
+      "code": "3.58(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Classification and separation.",
+      "narrative": "During the inspection, a rabbit was housed in the same primary enclosure as two tortoises.\nHousing rabbits with other species of animals, such as reptiles, can expose them to potential disease hazards which can\naffect their health.\nRabbits shall not be housed in the same primary enclosure with any other species of animals unless required for scientific\nreasons.\nCorrect by: July 6, 2024."
+    },
+    {
+      "code": "3.137(e)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live animals.",
+      "narrative": "The transport enclosures for the capybara and cavy did not have the words \"Live Animal\" or \"Wild Animal\" clearly marked\nwith arrows or other markings indicating the correct upright position of the enclosure.\nA lack of clear markings can inhibit correct handling and cage orientation by first responders in the event of an\nemergency.\nThe licensee must ensure that the words \u201cWild Animal\u201d or \u201cLive Animal\u201d are marked on the top and on one or more sides\nwith letters at least 1 inch (2.5 cm) high, and have arrows or other markings to indicate the correct upright position of the\nprimary enclosure.\nCorrect by: July 8, 2024.\nThis inspection was completed at the Big Butler Fair in Prospect, PA.\nThis inspection and exit interview were conducted with the licensee and facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.58(a) \n   \nClassification and separation. \nDuring the inspection, a rabbit was housed in the same primary enclosure as two tortoises.  \nHousing rabbits with other species of animals, such as reptiles, can expose them to potential disease hazards which can \naffect their health.  \nRabbits shall not be housed in the same primary enclosure with any other species of animals unless required for scientific \nreasons.  \nCorrect by: July 6, 2024. \n3.137(e) \n   \nPrimary enclosures used to transport live animals. \nThe transport enclosures for the capybara and cavy did not have the words \"Live Animal\" or \"Wild Animal\" clearly marked \nwith arrows or other markings indicating the correct upright position of the enclosure.  \nA lack of clear markings can inhibit correct handling and cage orientation by first responders in the event of an \nemergency.  \nThe licensee must ensure that the words \u201cWild Animal\u201d or \u201cLive Animal\u201d are marked on the top and on one or more sides \nwith letters at least 1 inch (2.5 cm) high, and have arrows or other markings to indicate the correct upright position of the \nprimary enclosure. \nCorrect by: July 8, 2024. \n \nThis inspection was completed at the Big Butler Fair in Prospect, PA. \n \nThis inspection and exit interview were conducted with the licensee and facility representatives. \n \n n",
+  "animals_total": 28,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Hydrochaeris hydrochaeris",
+      "common": "CAPYBARA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 3,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
+}
