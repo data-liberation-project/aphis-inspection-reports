@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001061041",
+  "layout": "c",
+  "customer_id": "147",
+  "customer_name": "Labcorp Bedford LLC",
+  "customer_addr": "15 Wiggins Ave\nBedford, MA 01730",
+  "certificate": "14-R-0101",
+  "site_id": "001",
+  "site_name": "Labcorp Bedford LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JUL-2024",
+  "report_date": "10-JUL-2024",
+  "citations": [
+    {
+      "code": "3.53(c)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "At approximately 11:30am, staff were preparing rabbits for a surgical procedure on an IACUC approved protocol. Two\nrabbits were observed in a set of 8 metal transport enclosures, each enclosure with approximately 0.9 sq ft of floor space.\nOn discussion with research staff, rabbits were housed in the transport enclosures since they were transferred from the\nhousing room at approximately 8am that morning. Rabbits were housed in enclosures that did not meet the minimum\namount of floor space for this species.\nWhile animals are being housed, adequate floor space is necessary to allow the rabbits to make normal postural and\nsocial adjustments with adequate freedom of movement. Each rabbit housed in a primary enclosure shall be provided the\nminimum amount of floor space appropriate for the animal\u2019s weight, per this regulation.\nCorrected at the time of inspection by housing rabbits in appropriately sized primary enclosures. To remain corrected after\nJuly 10th, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nMichael Brooks, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "3.53(c)(2) \n   \nPrimary enclosures. \nAt approximately 11:30am, staff were preparing rabbits for a surgical procedure on an IACUC approved protocol. Two \nrabbits were observed in a set of 8 metal transport enclosures, each enclosure with approximately 0.9 sq ft of floor space. \nOn discussion with research staff, rabbits were housed in the transport enclosures since they were transferred from the \nhousing room at approximately 8am that morning. Rabbits were housed in enclosures that did not meet the minimum \namount of floor space for this species. \n \nWhile animals are being housed, adequate floor space is necessary to allow the rabbits to make normal postural and \nsocial adjustments with adequate freedom of movement. Each rabbit housed in a primary enclosure shall be provided the \nminimum amount of floor space appropriate for the animal\u2019s weight, per this regulation. \n \nCorrected at the time of inspection by housing rabbits in appropriately sized primary enclosures. To remain corrected after \nJuly 10th, 2024. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nMichael Brooks, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 890,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 573,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 303,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
