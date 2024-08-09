@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001064298",
+  "layout": "c",
+  "customer_id": "1903",
+  "customer_name": "Julies Jungle Inc.",
+  "customer_addr": "4235 Dewey Rose Lane\nCantonment, FL 32533",
+  "certificate": "58-B-0583",
+  "site_id": "001",
+  "site_name": "JULIES JUNGLE INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-JUL-2024",
+  "report_date": "12-JUL-2024",
+  "citations": [
+    {
+      "code": "3.131(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "There is an accumulation of dirt, excess food debris and excreta between the wire mesh and the wall on the back side of\nthe bat enclosure. This accumulation needs to be removed more frequently to reduce this accumulation, odors and\nminimize disease hazards. This needs to be addressed for the health of the animals.\nCorrect by: July 20, 2024\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.131(a) \n   \nSanitation. \nThere is an accumulation of dirt, excess food debris and excreta between the wire mesh and the wall on the back side of \nthe bat enclosure. This accumulation needs to be removed more frequently to reduce this accumulation, odors and \nminimize disease hazards. This needs to be addressed for the health of the animals.  \nCorrect by: July 20, 2024 \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Caluromys philander",
+      "common": "BARE-TAILED WOOLLY OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
