@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001065452",
+  "layout": "c",
+  "customer_id": "465",
+  "customer_name": "New York University School of Medicine DCM",
+  "customer_addr": "Div of Comparative Medicine, 1 Park Ave, 6th floor\nNew York, NY 10016",
+  "certificate": "21-R-0092",
+  "site_id": "001",
+  "site_name": "CENTRAL ANIMAL FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUL-2024",
+  "report_date": "16-JUL-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 241,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 192,
+      "scientific": "Scotinomys teguina",
+      "common": "ALSTON'S BROWN MOUSE / SHORT-TAILED SINGING MOUSE"
+    },
+    {
+      "count": 13,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
