@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0001065450",
+  "layout": "c",
+  "customer_id": "6010250",
+  "customer_name": "Experimentica Ltd",
+  "customer_addr": "3500 Camp Bowie Blvd\nFort Worth, TX 76107",
+  "certificate": "74-R-0240",
+  "site_id": "001",
+  "site_name": "Experimentica Ltd",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2024",
+  "report_date": "17-JUL-2024",
+  "citations": [
+    {
+      "code": "2.32(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "A scientist and his laboratory group lacked appropriate training to follow approved animal activities as written, which led to\nthe death of 4 rabbits and the use of a fifth rabbit in an expired protocol.\nThe first protocol was written by a scientist that left the company so another scientist took over the activity. It states that a\nmedication to induce type 1 diabetes would be given intraperitoneal (IP), after which, rabbits would be monitored twice\ndaily with blood glucose checks for 5 days, and insulin administered as needed based on results. On 4/9/24, 9 rabbits\nwere administered the induction medication intravenously (IV), after which, high doses of sub-cutaneous (SQ) glucose\nwere then administered 3-4 times over the next 24 hours. No glucose checks were performed. Rabbit #2457 was found\ndead at 8:30am on 4/10/24. Rabbit #2453 was found unresponsive at 8:30am on 4/10/24, presumed hypoglycemic but\nwithout a blood glucose check to confirm, and administered a high dose of SQ glucose before being found dead at\n10:30am. Rabbit #2454 was found dead 4/14/24. Rabbit # 2455 was found obtunded at 8:50am on 4/16/24; at 9:30am,\nglucose reading was \"HIGH\" and the rabbit died at 9:40am. Presumptive cause of death for all rabbits was diabetic shock.\nThe scientist did not follow the protocol as written, notably:\n1. The induction medication was administered by a different route than approved (IV instead of IP).\n2. Twice daily monitoring of blood glucose for 5 days after induction was not done as indicated in the protocol.\n3. Glucose administration was not approved in the protocol.\n4. Insulin was never given as indicated in the protocol.\nThe scientist lacked the appropriate knowledge of this protocol to conduct animal activities consistent with its approval.\nRabbit #2395 was used in imaging studies under an expired protocol on Jan 22 and 23, 2024. The protocol had expired\non Jan 4, 2024 and had not been renewed. The scientist or his staff lacked the appropriate training to accurately identify\nactive protocols or what should be done when a protocol approval expires.\nIt is imperative that personnel working with animals in research have adequate training, knowledge, and qualifications to\nperform their duties so that animals are not harmed by inexperienced or unknowledgeable staff.\nCorrected prior to the time inspection on 7/16/24.\nThis inspection and exit interview were conducted with the principal investigator.\nn"
+    }
+  ],
+  "narrative": "2.32(a)  Critical\n   \nPersonnel qualifications. \nA scientist and his laboratory group lacked appropriate training to follow approved animal activities as written, which led to \nthe death of 4 rabbits and the use of a fifth rabbit in an expired protocol.  \nThe first protocol was written by a scientist that left the company so another scientist took over the activity. It states that a \nmedication to induce type 1 diabetes would be given intraperitoneal (IP), after which, rabbits would be monitored twice \ndaily with blood glucose checks for 5 days, and insulin administered as needed based on results. On 4/9/24, 9 rabbits \nwere administered the induction medication intravenously (IV), after which, high doses of sub-cutaneous (SQ) glucose \nwere then administered 3-4 times over the next 24 hours. No glucose checks were performed. Rabbit #2457 was found \ndead at 8:30am on 4/10/24. Rabbit #2453 was found unresponsive at 8:30am on 4/10/24, presumed hypoglycemic but \nwithout a blood glucose check to confirm, and administered a high dose of SQ glucose before being found dead at \n10:30am. Rabbit #2454 was found dead 4/14/24. Rabbit # 2455 was found obtunded at 8:50am on 4/16/24; at 9:30am, \nglucose reading was \"HIGH\" and the rabbit died at 9:40am. Presumptive cause of death for all rabbits was diabetic shock. \nThe scientist did not follow the protocol as written, notably: \n1. The induction medication was administered by a different route than approved (IV instead of IP).  \n2. Twice daily monitoring of blood glucose for 5 days after induction was not done as indicated in the protocol. \n3. Glucose administration was not approved in the protocol. \n4. Insulin was never given as indicated in the protocol.  \n \nThe scientist lacked the appropriate knowledge of this protocol to conduct animal activities consistent with its approval.  \n \nRabbit #2395 was used in imaging studies under an expired protocol on Jan 22 and 23, 2024. The protocol had expired \non Jan 4, 2024 and had not been renewed. The scientist or his staff lacked the appropriate training to accurately identify \nactive protocols or what should be done when a protocol approval expires.  \n \nIt is imperative that personnel working with animals in research have adequate training, knowledge, and qualifications to \nperform their duties so that animals are not harmed by inexperienced or unknowledgeable staff. \n \nCorrected prior to the time inspection on 7/16/24.\n\nThis inspection and exit interview were conducted with the principal investigator. \n \n n",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
