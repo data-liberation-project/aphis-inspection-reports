@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001065535",
+  "layout": "c",
+  "customer_id": "1399",
+  "customer_name": "MRIGlobal",
+  "customer_addr": "425 Dr. Martin Luther King Jr. Blvd\nKansas City, MO 64110",
+  "certificate": "43-R-0009",
+  "site_id": "001",
+  "site_name": "MRI Global",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUL-2024",
+  "report_date": "18-JUL-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "In a May 17, 2024 report to the Institutional Official about the January 17, 2024 semi-annual inspection of the facility's\nprogram for humane care and use of animals, three significant deficiencies were identified by the IACUC, but there was\nno corresponding plan and schedule with dates for correcting each deficiency.\nA significant deficiency is one which, in the judgement of the IACUC, is or may be a threat to the health and safety of the\nanimals. As such, the semi-annual report must contain a plan and schedule with dates for correcting these deficiencies.\nTo be corrected by: August 1, 2024\nThis inspection and exit interview were conducted with the Attending Veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIn a May 17, 2024 report to the Institutional Official about the January 17, 2024 semi-annual inspection of the facility's \nprogram for humane care and use of animals, three significant deficiencies were identified by the IACUC, but there was \nno corresponding plan and schedule with dates for correcting each deficiency.  \nA significant deficiency is one which, in the judgement of the IACUC, is or may be a threat to the health and safety of the \nanimals. As such, the semi-annual report must contain a plan and schedule with dates for correcting these deficiencies.  \nTo be corrected by: August 1, 2024 \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \n n",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 24,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
