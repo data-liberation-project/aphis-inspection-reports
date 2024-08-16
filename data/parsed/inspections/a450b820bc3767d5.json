@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001065430",
+  "layout": "c",
+  "customer_id": "308",
+  "customer_name": "STATE UNIVERSITY OF NEW YORK",
+  "customer_addr": "WEISKOTTEN HALL, 766 IRVING AVENUE\nROOM 4159\nSYRACUSE, NY 13210",
+  "certificate": "21-R-0037",
+  "site_id": "001",
+  "site_name": "HEALTH SCIENCE CENTER AT SYRACUSE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-JUL-2024",
+  "report_date": "19-JUL-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Two IACUC protocols describe potentially painful or distressing procedures for which the investigators did not adequately\nconsider alternatives.\nUnder protocol 461, seizures are induced in rabbits for physiologic monitoring. While seizures may not be overtly\npainful, they remain potentially harmful and distressing procedural events. In addition, the protocol prescribes multiple\nmethods of seizure induction to mirror real-world triggers, including hyperventilation and photic stimulation. Both methods\nof induction are potentially distressing, evidenced in part by their utilization to induce seizures. Seizure induction and the\ninduction methods themselves are not addressed in the protocol\u2019s search for alternatives.\nUnder protocol 430, gene knockout marmosets are produced for use in subsequent retinal degeneration studies\nunder the same protocol. As part of both knockout generation and subsequent study methods, marmosets may undergo\nprocedures including vasectomy, embryo implantation, and cortical microinjection. While the protocol\u2019s literature search\naccounts for the species used, disease state, and for pain, these procedures are not specifically included.\nInadequate consideration of alternatives to these procedures may unnecessarily expose animals to pain and distress. The\nIACUC must ensure investigators provide an adequate written narrative of methods and sources used to determine that\nalternatives to these procedures were not available.\nCorrect by 8/13/24, or before future use of these methods.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nTwo IACUC protocols describe potentially painful or distressing procedures for which the investigators did not adequately \nconsider alternatives.  \n \n  Under protocol 461, seizures are induced in rabbits for physiologic monitoring. While seizures may not be overtly \npainful, they remain potentially harmful and distressing procedural events. In addition, the protocol prescribes multiple \nmethods of seizure induction to mirror real-world triggers, including hyperventilation and photic stimulation. Both methods \nof induction are potentially distressing, evidenced in part by their utilization to induce seizures. Seizure induction and the \ninduction methods themselves are not addressed in the protocol\u2019s search for alternatives.  \n \n  Under protocol 430, gene knockout marmosets are produced for use in subsequent retinal degeneration studies \nunder the same protocol. As part of both knockout generation and subsequent study methods, marmosets may undergo \nprocedures including vasectomy, embryo implantation, and cortical microinjection. While the protocol\u2019s literature search \naccounts for the species used, disease state, and for pain, these procedures are not specifically included.  \n \nInadequate consideration of alternatives to these procedures may unnecessarily expose animals to pain and distress. The \nIACUC must ensure investigators provide an adequate written narrative of methods and sources used to determine that \nalternatives to these procedures were not available.  \n \nCorrect by 8/13/24, or before future use of these methods. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 102,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 53,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 41,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
+}
