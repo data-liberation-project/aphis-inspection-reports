@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001070925",
+  "layout": "c",
+  "customer_id": "2233",
+  "customer_name": "Zoological Society of Philadelphia",
+  "customer_addr": "3400 West Girard Avenue\nPhiladelphia, PA 19104",
+  "certificate": "23-C-0004",
+  "site_id": "0001",
+  "site_name": "ZOOLOGICAL SOCIETY OF PHILADELPHIA",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "23-JUL-2024",
+  "report_date": "24-JUL-2024",
+  "citations": [
+    {
+      "code": "2.131(b)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Handling of animals.",
+      "narrative": "On June 22, 2024, during routine morning care and shifting, an adult male golden lion tamarin with ID 105443 and a\nfamily group of six Francois's langurs were inadvertently allowed to occupy an elevated trail space concurrently. The two\nspecies were separated within minutes, but the golden lion tamarin suffered injuries and died despite intensive veterinary\ncare. Improper handling of animals can affect the well-being of the animals and even lead to injury and/or death. The\nlicensee must ensure that handling of all animals is done as expeditiously and carefully as possible in a manner that does\nnot cause trauma, physical harm, or unnecessary discomfort. Corrective actions have been implemented at the time of\nthe inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.131(b)(1)  Critical\n   \nHandling of animals. \nOn June 22, 2024, during routine morning care and shifting, an adult male golden lion tamarin with ID 105443 and a \nfamily group of six Francois's langurs were inadvertently allowed to occupy an elevated trail space concurrently. The two \nspecies were separated within minutes, but the golden lion tamarin suffered injuries and died despite intensive veterinary \ncare. Improper handling of animals can affect the well-being of the animals and even lead to injury and/or death. The \nlicensee must ensure that handling of all animals is done as expeditiously and carefully as possible in a manner that does \nnot cause trauma, physical harm, or unnecessary discomfort. Corrective actions have been implemented at the time of \nthe inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Trachypithecus francoisi",
+      "common": "FRANCOIS'S LANGUR"
+    },
+    {
+      "count": 2,
+      "scientific": "Rhynchocyon petersi",
+      "common": "BLACK-AND-RUFOUS ELEPHANT SHREW"
+    }
+  ]
+}
