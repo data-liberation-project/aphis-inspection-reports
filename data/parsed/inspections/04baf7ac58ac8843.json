@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001070999",
+  "layout": "c",
+  "customer_id": "267",
+  "customer_name": "BROWN UNIVERSITY",
+  "customer_addr": "Box G-B 222\nPROVIDENCE, RI 02912",
+  "certificate": "15-R-0003",
+  "site_id": "001",
+  "site_name": "BROWN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-JUL-2024",
+  "report_date": "26-JUL-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #23-12-0001 did not provide a written narrative description of the methods and sources used to\ndetermine that alternatives were not available to a procedure that may cause more than momentary pain or distress to the\nanimals that is included in the protocol (vascular cutdown).\nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or\ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those\nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources\nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the\nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by\n8/26/24.\nThis inspection and exit briefing were conducted with facility representatives.\n*END OF REPORT*\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #23-12-0001 did not provide a written narrative description of the methods and sources used to \ndetermine that alternatives were not available to a procedure that may cause more than momentary pain or distress to the \nanimals that is included in the protocol (vascular cutdown).  \n \nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or \ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those \nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources \nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the \nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item. Correct by \n8/26/24. \n \nThis inspection and exit briefing were conducted with facility representatives.  \n \n*END OF REPORT* \n \n n",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
