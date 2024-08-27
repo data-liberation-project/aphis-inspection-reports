@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001072213",
+  "layout": "c",
+  "customer_id": "926",
+  "customer_name": "Clemson University",
+  "customer_addr": "391 College Ave, Suite 406\nClemson, SC 29631",
+  "certificate": "56-R-0002",
+  "site_id": "001",
+  "site_name": "Clemson University - LaMaster Dairy",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JUL-2024",
+  "report_date": "30-JUL-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A principle investigator administered a higher volume of a different product, deviating from the protocol previously\napproved by the IACUC involving two pigs. The pigs underwent procedures for approved protocol XXXXXX97, where the\nprocedure described: injecting 4-5 ml of a solution, in up to twelve injections sites using the solution concentration\nspecified. The facility had a lower active unit of the solution on hand. This resulted in the research team using higher\nvolumes of this solution in an attempt to achieve the approved concentration outlined in the protocol, likely exceeding the\ntwelve approved injections.\nFailure to follow the approved protocol and making unapproved changes does not allow the IACUC to review these\nchanges as required and ensure the animals involved do not experience negative impacts to their health and well-being.\nTo ensure the humane treatment of animals, the IACUC must review and approve, require modifications in, or withhold\napproval of proposed significant changes regarding the care and use of animals in ongoing activities.\nCorrect by August 9, 2024.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA principle investigator administered a higher volume of a different product, deviating from the protocol previously \napproved by the IACUC involving two pigs. The pigs underwent procedures for approved protocol XXXXXX97, where the \nprocedure described: injecting 4-5 ml of a solution, in up to twelve injections sites using the solution concentration \nspecified. The facility had a lower active unit of the solution on hand. This resulted in the research team using higher \nvolumes of this solution in an attempt to achieve the approved concentration outlined in the protocol, likely exceeding the \ntwelve approved injections.  \nFailure to follow the approved protocol and making unapproved changes does not allow the IACUC to review these \nchanges as required and ensure the animals involved do not experience negative impacts to their health and well-being. \nTo ensure the humane treatment of animals, the IACUC must review and approve, require modifications in, or withhold \napproval of proposed significant changes regarding the care and use of animals in ongoing activities. \nCorrect by August 9, 2024. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 36,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
