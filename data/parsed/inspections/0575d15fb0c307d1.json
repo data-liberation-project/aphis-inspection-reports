@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0001073269",
+  "layout": "c",
+  "customer_id": "70",
+  "customer_name": "The George Washington University",
+  "customer_addr": "2300 EYE ST NW\nANML RES FAC.,ROSS B-12\nWASHINGTON, DC 20037",
+  "certificate": "10-R-0005",
+  "site_id": "001",
+  "site_name": "GEORGE WASHINGTON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2024",
+  "report_date": "31-JUL-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Research monitoring procedures involving the use of dogs is not being followed according to the IACUC approved\nprotocol. The protocol states that from day 10 until the end of the study the dogs will be monitored daily for appetite,\nactivity level, stool quality, hydration status, and mucous membrane color and the results will be documented in the\nrecords. However, upon review of all records, there is no evidence that this monitoring was being conducted as written in\nthe protocol. Failure to adhere strictly to the activities described in a research protocol prevents full Institutional Animal\nCare and Use Committee (IACUC) oversight of activities and may adversely affect animal welfare. Correct by ensuring\nthe IACUC has the opportunity to review and approve, require modifications in (to secure approval), or withhold approval\nof proposed significant changes regarding the care and use of animals in ongoing activities. Correct by August 27, 2024."
+    },
+    {
+      "code": "3.11(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Cleaning, sanitization, housekeeping, and pest control.",
+      "narrative": "The primary enclosures housing four dogs are only being sanitized once a month, according to the facility, due to\nresearch purposes. However, there is no exception documented and approved by the IACUC in the research protocol.\nNot sanitizing primary enclosures every 2 weeks presents an increased risk of disease and may adversely affect the\nhealth of dogs. Correct by ensuring all primary enclosures for dogs are sanitized at least once every 2 weeks or more\noften as necessary to prevent disease hazards. To be corrected by August 13, 2024."
+    },
+    {
+      "code": "3.13(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The facility does not have a complete and signed program of veterinary care for dogs. The current program of veterinary\ncare does not include all the required components of 3.13(a). An incomplete program of veterinary care for dogs may lead\nto inadequate veterinary care or preventative care. Correct by ensuring that the facility has a complete program of\nveterinary care for dogs that is developed, documented in writing, and signed by the attending veterinarian. Correct by\nAugust 20, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nMichael Brooks, VETERINARY MEDICAL OFFICER\nRonald Richardson, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nResearch monitoring procedures involving the use of dogs is not being followed according to the IACUC approved \nprotocol. The protocol states that from day 10 until the end of the study the dogs will be monitored daily for appetite, \nactivity level, stool quality, hydration status, and mucous membrane color and the results will be documented in the \nrecords. However, upon review of all records, there is no evidence that this monitoring was being conducted as written in \nthe protocol. Failure to adhere strictly to the activities described in a research protocol prevents full Institutional Animal \nCare and Use Committee (IACUC) oversight of activities and may adversely affect animal welfare. Correct by ensuring \nthe IACUC has the opportunity to review and approve, require modifications in (to secure approval), or withhold approval \nof proposed significant changes regarding the care and use of animals in ongoing activities. Correct by August 27, 2024. \n3.11(b)(2) \n   \nCleaning, sanitization, housekeeping, and pest control. \nThe primary enclosures housing four dogs are only being sanitized once a month, according to the facility, due to \nresearch purposes. However, there is no exception documented and approved by the IACUC in the research protocol. \nNot sanitizing primary enclosures every 2 weeks presents an increased risk of disease and may adversely affect the \nhealth of dogs. Correct by ensuring all primary enclosures for dogs are sanitized at least once every 2 weeks or more \noften as necessary to prevent disease hazards. To be corrected by August 13, 2024. \n3.13(a) \n   \nVeterinary care for dogs. \nThe facility does not have a complete and signed program of veterinary care for dogs. The current program of veterinary \ncare does not include all the required components of 3.13(a). An incomplete program of veterinary care for dogs may lead \nto inadequate veterinary care or preventative care. Correct by ensuring that the facility has a complete program of \nveterinary care for dogs that is developed, documented in writing, and signed by the attending veterinarian. Correct by \nAugust 20, 2024. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nAdditional Inspectors: \nMichael Brooks, VETERINARY MEDICAL OFFICER \nRonald Richardson, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 73,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 61,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
