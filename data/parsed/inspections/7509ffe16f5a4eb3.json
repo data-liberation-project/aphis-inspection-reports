@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001074546",
+  "layout": "c",
+  "customer_id": "5334",
+  "customer_name": "Troy and Jody Grant",
+  "customer_addr": "4321 Heather Ave\nThornton, IA 50479",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "TROY & JODY GRANT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-AUG-2024",
+  "report_date": "01-AUG-2024",
+  "citations": [
+    {
+      "code": "2.1(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Requirements and application.",
+      "narrative": "This was a search inspection.\nThe facility has continued to sell wild mammals into regulated activity without an active USDA Animal Care license. The\nfacility was licensed with USDA APHIS Animal Care but failed to complete the Re-license process prior to their expiration\ndate (30-June-2023). Their license was then cancelled, and the licensee was instructed by text message and a mailed\nletter stating they cannot conduct regulated activity without a license.\nBetween 1-July-2023 and 1-August-2024, the facility has sold 2 woodchucks, 2 striped skunks, 29 opossums and 2\nraccoons to 7 different USDA Animal Care licensees where the animals are being used for exhibition. Additional wild\nmammals have been sold to non-USDA licensed individuals.\nConducting regulated activity without a USDA license does not comply with the Animal Welfare Act or ensure that APHIS\nofficials can assess the care of the animals. The facility must obtain a license from the USDA to continue conducting\nregulated activity under the Animal Welfare Act. Continuing to conduct regulated activity without a license is a serious\nviolation of the Animal Welfare Act.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.1(a)(1) \n   \nRequirements and application. \nThis was a search inspection. \n \nThe facility has continued to sell wild mammals into regulated activity without an active USDA Animal Care license. The \nfacility was licensed with USDA APHIS Animal Care but failed to complete the Re-license process prior to their expiration \ndate (30-June-2023). Their license was then cancelled, and the licensee was instructed by text message and a mailed \nletter stating they cannot conduct regulated activity without a license.  \nBetween 1-July-2023 and 1-August-2024, the facility has sold 2 woodchucks, 2 striped skunks, 29 opossums and 2 \nraccoons to 7 different USDA Animal Care licensees where the animals are being used for exhibition. Additional wild \nmammals have been sold to non-USDA licensed individuals.  \nConducting regulated activity without a USDA license does not comply with the Animal Welfare Act or ensure that APHIS \nofficials can assess the care of the animals. The facility must obtain a license from the USDA to continue conducting \nregulated activity under the Animal Welfare Act. Continuing to conduct regulated activity without a license is a serious \nviolation of the Animal Welfare Act. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 9,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 11,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Nasuella olivacea",
+      "common": "MOUNTAIN COATI"
+    }
+  ]
+}
