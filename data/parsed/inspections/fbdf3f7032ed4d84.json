@@ -1,0 +1,62 @@
+{
+  "insp_id": "INS-0001079713",
+  "layout": "c",
+  "customer_id": "330146",
+  "customer_name": "SDIX LLC",
+  "customer_addr": "52 Anderson Rd\nWindham, ME 04062",
+  "certificate": "50-R-0015",
+  "site_id": "001",
+  "site_name": "SDIX LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-AUG-2024",
+  "report_date": "05-AUG-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "During the IACUC semi annual inspection on 12 September 2023, a subcommittee comprised of only one member was\nresponsible for inspecting Building 4. Subcommittees must be comprised of at least two members to ensure accountability\nfor any findings. The facility must ensure that at least two members conduct inspections of all buildings.\nCorrected by the March 2024 semi annual inspection."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "Mobile work carts with equipment for handling animals and collecting blood were dirty, with excessive buildup of\ndirt/blood/fur on alcohol bottles for cleaning ears, on restrainers for animals, and work surfaces. Inadequate cleaning of\nspaces used to handle animals may become a source of physical contamination and/or stress to the animals. The facility\nmust ensure that all handling is done as carefully as possible in a manner that does not cause behavioral stress or\nphysical harm.\nCorrect by 09 August 2024."
+    },
+    {
+      "code": "3.54(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "Many feeders had sharp edges where rabbits had chewed on them, and/or had been contaminated with urine from rabbits\nspraying. Food receptacles with sharp edges risk animal injury, and feeders that are not clean and dry may lead to\ndeterioration of the feed. The facility must ensure that the feeders are kept clean and in good repair.\nCorrection initiated during inspection, complete by 09 August 2024."
+    },
+    {
+      "code": "3.56(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "Multiple cages had a buildup of shed fur, feces and urine in a back corner, causing rabbits to have urine staining. Buildup\nof wastes in cages prevents appropriate sanitation, and may adversely affect animal welfare. The facility shall ensure\ncages are kept reasonably free of excreta and wastes.\nCorrection initiated during inspection, complete by 09 August 2024.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(3)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nDuring the IACUC semi annual inspection on 12 September 2023, a subcommittee comprised of only one member was \nresponsible for inspecting Building 4. Subcommittees must be comprised of at least two members to ensure accountability \nfor any findings. The facility must ensure that at least two members conduct inspections of all buildings. \n \nCorrected by the March 2024 semi annual inspection. \n2.38(f)(1) \n   \nMiscellaneous. \nMobile work carts with equipment for handling animals and collecting blood were dirty, with excessive buildup of \ndirt/blood/fur on alcohol bottles for cleaning ears, on restrainers for animals, and work surfaces. Inadequate cleaning of \nspaces used to handle animals may become a source of physical contamination and/or stress to the animals. The facility \nmust ensure that all handling is done as carefully as possible in a manner that does not cause behavioral stress or \nphysical harm. \n \nCorrect by 09 August 2024. \n3.54(b) \n   \nFeeding. \nMany feeders had sharp edges where rabbits had chewed on them, and/or had been contaminated with urine from rabbits \nspraying. Food receptacles with sharp edges risk animal injury, and feeders that are not clean and dry may lead to \ndeterioration of the feed. The facility must ensure that the feeders are kept clean and in good repair. \n \nCorrection initiated during inspection, complete by 09 August 2024. \n3.56(a)(1) \n   \nSanitation.\n\nMultiple cages had a buildup of shed fur, feces and urine in a back corner, causing rabbits to have urine staining. Buildup \nof wastes in cages prevents appropriate sanitation, and may adversely affect animal welfare. The facility shall ensure \ncages are kept reasonably free of excreta and wastes.  \n \nCorrection initiated during inspection, complete by 09 August 2024. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 3462,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 706,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2743,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
