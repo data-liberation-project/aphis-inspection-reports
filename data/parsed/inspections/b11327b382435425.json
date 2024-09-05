@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001083012",
+  "layout": "c",
+  "customer_id": "347",
+  "customer_name": "Bucknell University",
+  "customer_addr": "DEPT OF BIOLOGY AND PSYCHOLOGY\nLEWISBURG, PA 17837",
+  "certificate": "23-R-0046",
+  "site_id": "001",
+  "site_name": "BUCKNELL UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-AUG-2024",
+  "report_date": "08-AUG-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the IACUC chair. \n \n n",
+  "animals_total": 45,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 26,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
+}
