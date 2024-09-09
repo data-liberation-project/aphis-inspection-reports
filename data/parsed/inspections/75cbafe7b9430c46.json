@@ -1,0 +1,65 @@
+{
+  "insp_id": "INS-0001079703",
+  "layout": "c",
+  "customer_id": "930",
+  "customer_name": "University Of South Florida",
+  "customer_addr": "12901 BRUCE B DOWNS BLVD MDC 20\nTAMPA, FL 33612",
+  "certificate": "58-R-0015",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF SOUTH FLORIDA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUL-2024",
+  "report_date": "05-AUG-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On July 28, 2023, at an IACUC meeting, the committee was informed of two pigs that were euthanized due to post-\nsurgical complications after an acute kidney injury and contralateral nephrectomy surgery. During the IACUC's\ninvestigation it was determined the combination of these procedures was not approved by the IACUC. Protocols carried\nout by the PI without IACUC approval could result in animal welfare and health concerns. The IACUC must be able to,\nreview and approve, required modifications in (to secure approval), or withhold approval of proposed significant changes\nregarding the care and use of animals in ongoing activities.\nCorrected by the time of inspection."
+    },
+    {
+      "code": "2.32(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "On August 21, 2023, an IACUC committee met to review records and interview personnel. In reviewing the records, the\ncommittee determined that the PI acknowledged their team had large animal care limitations and were unclear on who\nwas supposed to provide care for the animals post-operatively. Per the Attending Veterinarian, they were called upon to\nprovide care and ultimately euthanized the pigs due to complications post-operatively. Training for all personnel dealing\nwith animals is imperative to provide proper care. It shall be the responsibility of the research facility to ensure that all\nscientists, research technicians, animal technicians, and other personnel involved in animal care, treatment, and use are\nqualified to perform their duties. This responsibility shall be fulfilled in part through the provision of training and instruction\nto those personnel.\nTo be corrected by October 24, 2024."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "During the review of protocols APHIS Officials found during a guinea pig protocol (IS 9030) of Small Animal Imagining Lab\na guinea pig expired 10 minutes after placing it in the anesthesia chamber. This event was reported to the IACUC during\nits January 26, 2024 meeting. According to the meeting minutes the Moffitt veterinarian believed this was most likely a\npositioning issue and recommended getting a larger chamber to accommodate larger animals. Proper handling of the\nanimals undergoing these protocols is essential for the welfare of the animals under the facility's care. Handling of all\nanimals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma, overheating,\nexcessive cooling, behavioral stress, physical harm, or unnecessary discomfort.\nTo be corrected by October 25, 2024.\nThis inspection and exit interview were conducted with the Attending Veterinarian.\nAdditional Inspectors:\nKRISTIN NAPOLI, SUPERVISORY ANIMAL CARE SPECIALIST n"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn July 28, 2023, at an IACUC meeting, the committee was informed of two pigs that were euthanized due to post-\nsurgical complications after an acute kidney injury and contralateral nephrectomy surgery. During the IACUC's \ninvestigation it was determined the combination of these procedures was not approved by the IACUC. Protocols carried \nout by the PI without IACUC approval could result in animal welfare and health concerns. The IACUC must be able to, \nreview and approve, required modifications in (to secure approval), or withhold approval of proposed significant changes \nregarding the care and use of animals in ongoing activities. \nCorrected by the time of inspection. \n2.32(a) \n   \nPersonnel qualifications. \nOn August 21, 2023, an IACUC committee met to review records and interview personnel. In reviewing the records, the \ncommittee determined that the PI acknowledged their team had large animal care limitations and were unclear on who \nwas supposed to provide care for the animals post-operatively. Per the Attending Veterinarian, they were called upon to \nprovide care and ultimately euthanized the pigs due to complications post-operatively. Training for all personnel dealing \nwith animals is imperative to provide proper care. It shall be the responsibility of the research facility to ensure that all \nscientists, research technicians, animal technicians, and other personnel involved in animal care, treatment, and use are \nqualified to perform their duties. This responsibility shall be fulfilled in part through the provision of training and instruction \nto those personnel. \n \nTo be corrected by October 24, 2024. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nDuring the review of protocols APHIS Officials found during a guinea pig protocol (IS 9030) of Small Animal Imagining Lab \na guinea pig expired 10 minutes after placing it in the anesthesia chamber. This event was reported to the IACUC during \nits January 26, 2024 meeting. According to the meeting minutes the Moffitt veterinarian believed this was most likely a \npositioning issue and recommended getting a larger chamber to accommodate larger animals. Proper handling of the\n\nanimals undergoing these protocols is essential for the welfare of the animals under the facility's care. Handling of all \nanimals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma, overheating, \nexcessive cooling, behavioral stress, physical harm, or unnecessary discomfort. \n \nTo be corrected by October 25, 2024. \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \nAdditional Inspectors: \nKRISTIN NAPOLI, SUPERVISORY ANIMAL CARE SPECIALIST n",
+  "animals_total": 335,
+  "species": [
+    {
+      "count": 126,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 175,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
