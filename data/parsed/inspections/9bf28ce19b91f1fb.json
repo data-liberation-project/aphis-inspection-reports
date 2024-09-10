@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001080785",
+  "layout": "c",
+  "customer_id": "93",
+  "customer_name": "Bioqual Inc",
+  "customer_addr": "9600 Medical Center Dr\nSuite 101\nRockville, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "003",
+  "site_name": "BIOQUAL INC - PIC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JUL-2024",
+  "report_date": "13-AUG-2024",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol A was approved by the IACUC. However, there is no statement providing a rationale for the appropriateness of\nthe species chosen for the study. It is the responsibility of the IACUC to ensure protocols are complete and contain all the\nrequired information before approval. Each proposal for animal use must contain all required elements per regulation to\nallow the IACUC to fully understand and adequately review the proposed activities. Correct by September 30, 2024.\nThis inspection and exit interview were conducted with the facility representatives and the IO.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol A was approved by the IACUC. However, there is no statement providing a rationale for the appropriateness of \nthe species chosen for the study. It is the responsibility of the IACUC to ensure protocols are complete and contain all the \nrequired information before approval. Each proposal for animal use must contain all required elements per regulation to \nallow the IACUC to fully understand and adequately review the proposed activities. Correct by September 30, 2024. \n \nThis inspection and exit interview were conducted with the facility representatives and the IO. \n \n n",
+  "animals_total": 642,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 571,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 15,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}
