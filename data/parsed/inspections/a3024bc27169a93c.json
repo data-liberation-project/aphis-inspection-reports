@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001087459",
+  "layout": "c",
+  "customer_id": "506442",
+  "customer_name": "Clinvet USA LLC",
+  "customer_addr": "1479 Talmadge Hill Road South\nWaverly, NY 14892",
+  "certificate": "21-R-0248",
+  "site_id": "001",
+  "site_name": "Clinvet USA LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-AUG-2024",
+  "report_date": "16-AUG-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Under Protocol CGUS266-CVUS24/505, a standard catch pole is used to restrain dogs for injections. This constitutes a\npotentially distressful procedure requiring a consideration of alternatives that is not included in the protocol. Failure to\ninclude this description compromises the ability of the IACUC to evaluate whether investigators have adequately\nconsidered alternatives to all such procedures. Proposals must provide a written narrative description of the methods\nused to consider these alternatives.\nCorrect by August 28, 2024, or prior to future use of a catch pole.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nUnder Protocol CGUS266-CVUS24/505, a standard catch pole is used to restrain dogs for injections. This constitutes a \npotentially distressful procedure requiring a consideration of alternatives that is not included in the protocol. Failure to \ninclude this description compromises the ability of the IACUC to evaluate whether investigators have adequately \nconsidered alternatives to all such procedures. Proposals must provide a written narrative description of the methods \nused to consider these alternatives. \n \nCorrect by August 28, 2024, or prior to future use of a catch pole. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 605,
+  "species": [
+    {
+      "count": 207,
+      "scientific": "Dogs",
+      "common": "DOGS"
+    },
+    {
+      "count": 392,
+      "scientific": "Cats",
+      "common": "CATS"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
