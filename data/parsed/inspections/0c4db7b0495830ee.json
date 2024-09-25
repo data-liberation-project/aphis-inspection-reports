@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001103617",
+  "layout": "c",
+  "customer_id": "330562",
+  "customer_name": "STEPHEN PURDY",
+  "customer_addr": "458 S WASHINGTON STREET\nBELCHERTOWN, MA 01007",
+  "certificate": "14-R-0208",
+  "site_id": "001",
+  "site_name": "STEPHEN PURDY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-AUG-2024",
+  "report_date": "28-AUG-2024",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "There is a metal pole with wire wrapped around it located in a pasture that is used for seven male alpacas. This wire\ncontains several large loops that present a risk of entanglement for the animals. The facility must ensure that indoor and\noutdoor housing facilities are maintained in good repair to protect the animals from injury and to contain the animals.\nCorrect by September 4, 2024.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nThere is a metal pole with wire wrapped around it located in a pasture that is used for seven male alpacas. This wire \ncontains several large loops that present a risk of entanglement for the animals. The facility must ensure that indoor and \noutdoor housing facilities are maintained in good repair to protect the animals from injury and to contain the animals. \nCorrect by September 4, 2024. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}
