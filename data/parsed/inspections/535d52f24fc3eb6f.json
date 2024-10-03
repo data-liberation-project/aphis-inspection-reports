@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001103787",
+  "layout": "c",
+  "customer_id": "40933",
+  "customer_name": "ACCURO FARMS INC",
+  "customer_addr": "346 BLACKMER RD\nSOUTHBRIDGE, MA 01550",
+  "certificate": "14-R-0200",
+  "site_id": "002",
+  "site_name": "ACCURO FARMS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-AUG-2024",
+  "report_date": "05-SEP-2024",
+  "citations": [
+    {
+      "code": "2.31(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A scientific staff member who is a voting member of the IACUC is also listed on IACUC protocol #ACCURO 2. That\nindividual participated as a Designated Reviewer (DMR) of the protocol at the IACUC meeting held in June 2024.\nHowever, since this individual is also listed on the protocol they should not have participated in the review or approval\nprocess, as they have a conflict of interest.\nAllowing individuals with a conflict of interest to participate in the review and approval process compromises the ability of\nthe IACUC to ensure optimal animal welfare and the judicious use of animals in study activities. Correct by ensuring that\nno member contributes to a quorum nor participates in an IACUC review or approval of an activity in which that member\nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the\nIACUC\n*******Correct by the next IACUC meeting or 9/30/24."
+    },
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol 002 did not contain some of the required information. Specifically, a rationale for using animals\nand the appropriateness for the species used was not included.\nThis information is required in order to ensure that the IACUC is able to properly assess the animal use. The protocol\nmust be updated to include the required information and subsequently approved by the IACUC.\n*********Correct by the next IACUC meeting or by 9/30/24.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA scientific staff member who is a voting member of the IACUC is also listed on IACUC protocol #ACCURO 2. That \nindividual participated as a Designated Reviewer (DMR) of the protocol at the IACUC meeting held in June 2024. \nHowever, since this individual is also listed on the protocol they should not have participated in the review or approval \nprocess, as they have a conflict of interest. \n \nAllowing individuals with a conflict of interest to participate in the review and approval process compromises the ability of \nthe IACUC to ensure optimal animal welfare and the judicious use of animals in study activities. Correct by ensuring that \nno member contributes to a quorum nor participates in an IACUC review or approval of an activity in which that member \nhas a conflicting interest (e.g., is personally involved in the activity), except to provide information requested by the \nIACUC \n \n*******Correct by the next IACUC meeting or 9/30/24. \n2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol 002 did not contain some of the required information. Specifically, a rationale for using animals \nand the appropriateness for the species used was not included. \nThis information is required in order to ensure that the IACUC is able to properly assess the animal use. The protocol \nmust be updated to include the required information and subsequently approved by the IACUC. \n*********Correct by the next IACUC meeting or by 9/30/24. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 216,
+  "species": [
+    {
+      "count": 216,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

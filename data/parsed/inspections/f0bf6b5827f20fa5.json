@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001103846",
+  "layout": "c",
+  "customer_id": "177",
+  "customer_name": "Rutgers State University of NJ",
+  "customer_addr": "675 Hoes Lane West, Rm 115\nPiscataway, NJ 08854",
+  "certificate": "22-R-0025",
+  "site_id": "010",
+  "site_name": "Rutgers State University of NJ - Aidekman Hall/MSB/RBL/PHRI",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-SEP-2024",
+  "report_date": "05-SEP-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian and IACUC representatives. \n \n n",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}
