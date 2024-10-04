@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0001103918",
+  "layout": "c",
+  "customer_id": "6019034",
+  "customer_name": "Bexorg Inc",
+  "customer_addr": "290 Congress Avenue\nNew Haven, CT 06519",
+  "certificate": "16-R-0059",
+  "site_id": "001",
+  "site_name": "Bexorg, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-SEP-2024",
+  "report_date": "06-SEP-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A protocol (ZV01-2024) details the use of methods to assess the efficacy of anesthesia, but these were not documented\nin individual animal records. The doses of all drugs given within the protocol are also not logged in these records.\nAdditionally, the individual record for one animal did not contain documentation of the drugs given during the experiment.\nIncomplete documentation of experimental procedures prevents full IACUC oversight of activities involving animals. The\nfacility must ensure that the IACUC review and approve, require modifications in (to secure approval), or withhold\napproval of proposed significant changes regarding the care and use of animals in ongoing activities. Correct by\nSeptember 13, 2024.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA protocol (ZV01-2024) details the use of methods to assess the efficacy of anesthesia, but these were not documented \nin individual animal records. The doses of all drugs given within the protocol are also not logged in these records. \nAdditionally, the individual record for one animal did not contain documentation of the drugs given during the experiment. \nIncomplete documentation of experimental procedures prevents full IACUC oversight of activities involving animals. The \nfacility must ensure that the IACUC review and approve, require modifications in (to secure approval), or withhold \napproval of proposed significant changes regarding the care and use of animals in ongoing activities. Correct by \nSeptember 13, 2024. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 2,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

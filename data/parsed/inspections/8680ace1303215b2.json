@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001103903",
+  "layout": "c",
+  "customer_id": "1072",
+  "customer_name": "Lovelace Biomedical Research Institute",
+  "customer_addr": "2425 Ridgecrest Dr SE\nAlbuquerque, NM 87108",
+  "certificate": "85-R-0003",
+  "site_id": "001",
+  "site_name": "Lovelace Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-SEP-2024",
+  "report_date": "06-SEP-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian and facility representatives. \n \n n",
+  "animals_total": 762,
+  "species": [
+    {
+      "count": 54,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 271,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 79,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 358,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
+}
