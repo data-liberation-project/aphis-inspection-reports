@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001105008",
+  "layout": "c",
+  "customer_id": "1576",
+  "customer_name": "UNIVERSITY OF IOWA",
+  "customer_addr": "Office of Animal Resources, Office of the IACUC\nL350 P B D B\nIOWA CITY, IA 52242",
+  "certificate": "42-R-0004",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF IOWA",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "09-SEP-2024",
+  "report_date": "10-SEP-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 248,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 223,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
