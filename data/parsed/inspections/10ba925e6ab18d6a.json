@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001120220",
+  "layout": "c",
+  "customer_id": "1664",
+  "customer_name": "Beth Israel Deaconess Medical Center",
+  "customer_addr": "330 Brookline Avenue\nSlosberg-Landay Animal Facility\nBoston, MA 02215",
+  "certificate": "14-R-0138",
+  "site_id": "001",
+  "site_name": "Beth Israel Deaconess Medical Center",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-SEP-2024",
+  "report_date": "17-SEP-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On January 16th, a pig underwent a procedure to induce diabetes. The protocol approved at the time of the procedure\ndescribes hypoglycemia in the immediate post-procedural period as a possible complication and describes overnight\nmonitoring and a treatment plan for hypoglycemia. The protocol further specifies that animals with progressive clinical\nconditions that are unresponsive to treatment will be euthanized.\nAfter the procedure, the animal developed symptomatic hypoglycemia at ~2:30pm and was treated, per protocol, with\nfluids and dextrose. Over the following 12 hours, the animal developed persistent, severe hypoglycemia that became\nrefractory to treatment. Early in the morning of January 17, 2024, the animal became lethargic, disoriented, and had\ndifficulty breathing and subsequently died at ~3:30am.\nMaintaining the animal on study when the procedures described in the protocol were unsuccessful at resolving a\nprogressive clinical condition constituted a significant change that did not undergo IACUC review and approval. In order\nfor the IACUC to be able to fulfill its responsibilities under the AWA, the IACUC must review and approve significant\nchanges regarding the use of animals in ongoing activities prior to implementation.\nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To\nremain corrected after September 17, 2024."
+    },
+    {
+      "code": "2.38(l)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "This facility's annual contingency plan review has not been documented since 2022. Each registrant must maintain\ndocumentation of their annual reviews, including documenting any amendments or changes made since the previous\nyear's review. To be corrected by ensuring that documentation of the contingency plan annual review is maintained and\nmade available to APHIS upon request. Correct for any contingency review conducted after September 17, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn January 16th, a pig underwent a procedure to induce diabetes. The protocol approved at the time of the procedure \ndescribes hypoglycemia in the immediate post-procedural period as a possible complication and describes overnight \nmonitoring and a treatment plan for hypoglycemia. The protocol further specifies that animals with progressive clinical \nconditions that are unresponsive to treatment will be euthanized.  \n \nAfter the procedure, the animal developed symptomatic hypoglycemia at ~2:30pm and was treated, per protocol, with \nfluids and dextrose. Over the following 12 hours, the animal developed persistent, severe hypoglycemia that became \nrefractory to treatment. Early in the morning of January 17, 2024, the animal became lethargic, disoriented, and had \ndifficulty breathing and subsequently died at ~3:30am. \n \nMaintaining the animal on study when the procedures described in the protocol were unsuccessful at resolving a \nprogressive clinical condition constituted a significant change that did not undergo IACUC review and approval. In order \nfor the IACUC to be able to fulfill its responsibilities under the AWA, the IACUC must review and approve significant \nchanges regarding the use of animals in ongoing activities prior to implementation. \n \nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To \nremain corrected after September 17, 2024. \n2.38(l)(2) \n   \nMiscellaneous. \nThis facility's annual contingency plan review has not been documented since 2022. Each registrant must maintain \ndocumentation of their annual reviews, including documenting any amendments or changes made since the previous \nyear's review. To be corrected by ensuring that documentation of the contingency plan annual review is maintained and \nmade available to APHIS upon request. Correct for any contingency review conducted after September 17, 2024. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 95,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

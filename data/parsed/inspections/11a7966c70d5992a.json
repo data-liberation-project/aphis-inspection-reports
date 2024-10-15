@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001117890",
+  "layout": "c",
+  "customer_id": "6003435",
+  "customer_name": "University of Denver",
+  "customer_addr": "2199 S University Blvd\nDenver, CO 80208",
+  "certificate": "84-R-0094",
+  "site_id": "001",
+  "site_name": "University of Denver",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-AUG-2024",
+  "report_date": "16-SEP-2024",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Under protocol 2213708, deer mice may experience multiple potentially distressing or painful procedures for which the\nprotocol does not document an adequate consideration of alternatives. These include:\nRight ventricular blood pressure measurement. Though performed under anesthesia and succeeded by euthanasia, this is\na surgical procedure which may itself cause pain that the consideration of alternatives does not address.\nTrapping and euthanasia of field-caught mice. While no animals have been, or are currently anticipated to be, captured\nunder this protocol, euthanasia must occur without evidence of pain or distress that may arise from wild capture. This is\nnot accounted for in the IACUC-approved protocol.\nFailure to include an adequate narrative of the methods used to assess for alternatives may compromise the IACUC's\nability to assess these considerations. Protocols must provide these narrative descriptions.\nCorrect by 11/29/24."
+    },
+    {
+      "code": "2.33(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "The current written program of veterinary care prescribes quarterly visits by the attending veterinarian to the facility. While\nthe facility maintains direct and frequent communication with the attending veterinarian, an attending veterinarian has not\nvisited the site since September of 2023. Deviation from the prescribed frequency has the potential to compromise\nveterinary oversight of the facility's program of care. Facilities must adhere to the program's provision of regularly\nscheduled visits by the veterinarian. The program of veterinary care was amended in consultation with the veterinarian\nover the course of the inspection to allow for annual visits.\nCorrect by 9/27/2024.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nUnder protocol 2213708, deer mice may experience multiple potentially distressing or painful procedures for which the \nprotocol does not document an adequate consideration of alternatives. These include: \n \nRight ventricular blood pressure measurement. Though performed under anesthesia and succeeded by euthanasia, this is \na surgical procedure which may itself cause pain that the consideration of alternatives does not address.  \n \nTrapping and euthanasia of field-caught mice. While no animals have been, or are currently anticipated to be, captured \nunder this protocol, euthanasia must occur without evidence of pain or distress that may arise from wild capture. This is \nnot accounted for in the IACUC-approved protocol.  \n \nFailure to include an adequate narrative of the methods used to assess for alternatives may compromise the IACUC's \nability to assess these considerations. Protocols must provide these narrative descriptions.  \n \nCorrect by 11/29/24. \n2.33(a)(1) \n   \nAttending veterinarian and adequate veterinary care. \nThe current written program of veterinary care prescribes quarterly visits by the attending veterinarian to the facility. While \nthe facility maintains direct and frequent communication with the attending veterinarian, an attending veterinarian has not \nvisited the site since September of 2023. Deviation from the prescribed frequency has the potential to compromise \nveterinary oversight of the facility's program of care. Facilities must adhere to the program's provision of regularly \nscheduled visits by the veterinarian. The program of veterinary care was amended in consultation with the veterinarian \nover the course of the inspection to allow for annual visits.  \n \nCorrect by 9/27/2024. \n \nThis inspection and exit interview were conducted with a facility representative.\n\nn",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 31,
+      "scientific": "Peromyscus maniculatus",
+      "common": "DEER MOUSE"
+    }
+  ]
+}
