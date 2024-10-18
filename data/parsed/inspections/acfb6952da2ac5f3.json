@@ -1,0 +1,91 @@
+{
+  "insp_id": "INS-0001123414",
+  "layout": "c",
+  "customer_id": "328550",
+  "customer_name": "Acks Exotic Pets LLC",
+  "customer_addr": "8097 Brewerton Road\nCicero, NY 13039",
+  "certificate": "21-B-0182",
+  "site_id": "001",
+  "site_name": "Acks Exotic Pets",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-SEP-2024",
+  "report_date": "19-SEP-2024",
+  "citations": [
+    {
+      "code": "2.76(a)(5)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Operators of auction sales and brokers.",
+      "narrative": "The facility is not recording the date of sales for regulated species. This needs to be addressed to ensure proper\ndocumentation is maintained per this section of the regulations.\nCorrect by: Sept 20, 2024\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.76(a)(5) \n   \nRecords: Operators of auction sales and brokers. \nThe facility is not recording the date of sales for regulated species. This needs to be addressed to ensure proper \ndocumentation is maintained per this section of the regulations.  \n \nCorrect by: Sept 20, 2024 \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Melopsittacus undulatus",
+      "common": "BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL"
+    },
+    {
+      "count": 5,
+      "scientific": "Synoicus ypsilophorus",
+      "common": "BROWN QUAIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Anodorhynchus hyacinthinus",
+      "common": "HYACINTH MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Amazona auropalliata",
+      "common": "YELLOW-NAPED PARROT / YELLOW-NAPED AMAZON"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Nymphicus hollandicus",
+      "common": "COCKATIEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Psittacara holochlorus",
+      "common": "GREEN PARAKEET"
+    },
+    {
+      "count": 1,
+      "scientific": "Poicephalus senegalus",
+      "common": "SENEGAL PARROT"
+    }
+  ]
+}

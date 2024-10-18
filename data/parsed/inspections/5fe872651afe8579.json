@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001122287",
+  "layout": "c",
+  "customer_id": "119",
+  "customer_name": "Massachusetts Eye And Ear Infirmary",
+  "customer_addr": "243 CHARLES STREET\nBOSTON, MA 02114",
+  "certificate": "14-R-0022",
+  "site_id": "001",
+  "site_name": "MASSACHUSETTS EYE & EAR INFIRMARY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-SEP-2024",
+  "report_date": "19-SEP-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 23,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 15,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 11,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
