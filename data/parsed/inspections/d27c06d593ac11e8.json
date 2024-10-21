@@ -1,0 +1,90 @@
+{
+  "insp_id": "INS-0001125582",
+  "layout": "c",
+  "customer_id": "6012403",
+  "customer_name": "Animals of Walton's Hollow LLC.",
+  "customer_addr": "1058 90th Avenue\nSherburn, MN 56171",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Alicia MIller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-SEP-2024",
+  "report_date": "21-SEP-2024",
+  "citations": [
+    {
+      "code": "2.1(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Requirements and application.",
+      "narrative": "No regulated activities may be conducted until a USDA license/registration is obtained.\nThe facility is conducting regulated activity without a license from USDA APHIS Animal Care under the Animal Welfare\nAct (AWA). On September 21, 2024, a search was conducted by a USDA inspector at the Renaissance Fair in Shakopee,\nMN. Animals of Walton's Hollow were exhibiting multiple animals including 8 goats, 2 ferrets, 2 pigs, 1 cow, 1\nLlama/alpaca cross, 3 ducks, 4 chickens, 1 sheep, 2 guinea pigs, and 2 rabbits. An admission fee is charged to get in to\nthe Renaissance Fair. Exhibiting a combination of these species in these numbers is an activity that requires a license\nunder the AWA.\nAn application for licensure was received by USDA APHIS Animal Care in March/April 2022, but the applicant never\nscheduled a first prelicense inspection and has to date failed to obtain a license. Conducting regulated activity without a\nUSDA license does not comply with the Animal Welfare Act or ensure that APHIS officials can assess the care of the\nanimals. Continuing to conduct regulated activity without a license is a serious violation of the Animal Welfare Act. No\nregulated activities may be conducted until a USDA license/registration is obtained."
+    },
+    {
+      "code": "3.58(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Classification and separation.",
+      "narrative": "Two rabbits and two guinea pigs are being housed in the same enclosure together. Housing rabbits in the same enclosure\nas guinea pigs can lead to compatibility issues and can also contribute to the spread of disease. The licensee must\nseparate the rabbits from the guinea pigs and must not house the rabbits with any other species of animal."
+    },
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "During an inspection, a goat was observed to be able to get out of its enclosure. An enclosure that is unable to contain the\nanimals may result in the animals escaping from the enclosure, potentially resulting in the animals getting injured, killed,\nor not being found. The enclosure must be repaired to contain the animals. Until repaired, the enclosure should not be\nused to house any regulated animals.\nThis inspection and exit interview were conducted with the facility representative.\nEnd of report.\nAdditional Inspectors:\nShoshana Tanenbaum, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.1(a)(1) \n   \nRequirements and application. \nNo regulated activities may be conducted until a USDA license/registration is obtained. \n \nThe facility is conducting regulated activity without a license from USDA APHIS Animal Care under the Animal Welfare \nAct (AWA). On September 21, 2024, a search was conducted by a USDA inspector at the Renaissance Fair in Shakopee, \nMN. Animals of Walton's Hollow were exhibiting multiple animals including 8 goats, 2 ferrets, 2 pigs, 1 cow, 1 \nLlama/alpaca cross, 3 ducks, 4 chickens, 1 sheep, 2 guinea pigs, and 2 rabbits. An admission fee is charged to get in to \nthe Renaissance Fair. Exhibiting a combination of these species in these numbers is an activity that requires a license \nunder the AWA.  \n \nAn application for licensure was received by USDA APHIS Animal Care in March/April 2022, but the applicant never \nscheduled a first prelicense inspection and has to date failed to obtain a license. Conducting regulated activity without a \nUSDA license does not comply with the Animal Welfare Act or ensure that APHIS officials can assess the care of the \nanimals. Continuing to conduct regulated activity without a license is a serious violation of the Animal Welfare Act. No \nregulated activities may be conducted until a USDA license/registration is obtained. \n3.58(a) \n   \nClassification and separation. \nTwo rabbits and two guinea pigs are being housed in the same enclosure together. Housing rabbits in the same enclosure \nas guinea pigs can lead to compatibility issues and can also contribute to the spread of disease. The licensee must \nseparate the rabbits from the guinea pigs and must not house the rabbits with any other species of animal. \n3.125(a) \n   \nFacilities, general. \nDuring an inspection, a goat was observed to be able to get out of its enclosure. An enclosure that is unable to contain the \nanimals may result in the animals escaping from the enclosure, potentially resulting in the animals getting injured, killed, \nor not being found. The enclosure must be repaired to contain the animals. Until repaired, the enclosure should not be \nused to house any regulated animals.\n\nThis inspection and exit interview were conducted with the facility representative. \n \nEnd of report. \n \nAdditional Inspectors: \nShoshana Tanenbaum, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 26,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 3,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
