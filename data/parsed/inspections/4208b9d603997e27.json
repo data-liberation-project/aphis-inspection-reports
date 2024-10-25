@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001133131",
+  "layout": "c",
+  "customer_id": "4095",
+  "customer_name": "Lee Richardson Zoo",
+  "customer_addr": "312 E Finnup Drive\nGARDEN CITY, KS 67846",
+  "certificate": "48-C-0006",
+  "site_id": "001",
+  "site_name": "LEE RICHARDSON ZOO",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "24-SEP-2024",
+  "report_date": "27-SEP-2024",
+  "citations": [
+    {
+      "code": "2.40(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care (dealers and exhibitors).",
+      "narrative": "- On 8/20/2024 a fennec fox named \"Daphne\" was given butorphanol from an expired bottle, although there was an\nunexpired bottle of butorphanol on hand. Expired medications could have decreased efficacy or unpredictable effects, and\nshould not be used if an unexpired alternative is available. The facility must ensure that appropriate methods and\ntreatments are utilized on regulated animals.\nCorrect from 9/24/2024 onward.\nThis inspection and exit interview were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "2.40(b)(2) \n   \nAttending veterinarian and adequate veterinary care (dealers and exhibitors). \n- On 8/20/2024 a fennec fox named \"Daphne\" was given butorphanol from an expired bottle, although there was an \nunexpired bottle of butorphanol on hand. Expired medications could have decreased efficacy or unpredictable effects, and \nshould not be used if an unexpired alternative is available. The facility must ensure that appropriate methods and \ntreatments are utilized on regulated animals. \nCorrect from 9/24/2024 onward. \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 1,
+      "scientific": "Naemorhedus goral",
+      "common": "HIMALAYAN GORAL / HIMALAYAN BROWN GORAL"
+    }
+  ]
+}
