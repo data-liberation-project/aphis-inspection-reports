@@ -1,0 +1,87 @@
+{
+  "insp_id": "INS-0001139515",
+  "layout": "c",
+  "customer_id": "321220",
+  "customer_name": "JOANNA LYNN OLSON",
+  "customer_addr": "3698 210TH STREET\nSOUTH HAVEN, MN 55382",
+  "certificate": "41-C-0247",
+  "site_id": "001",
+  "site_name": "JOANNA LYNN OLSON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-OCT-2024",
+  "report_date": "02-OCT-2024",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "Acquisition records (including where and when the animal was acquired) was missing for 8 goats and 1 sheep. Lack of\nacquisition information doesn't allow for proper tracking by APHIS officials. All acquisition information must be\ndocumented for all regulated animals. Correct by 10/9/24."
+    },
+    {
+      "code": "3.53(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "A rabbit enclosure housing one rabbit had a hole with sharp points protruding out on the bottom of the enclosure. Sharp\npoints can cause injury. In addition, the hole could allow for the rabbit to escape or for another animal to enter the\nenclosure. The fencing at the bottom of the enclosure must be repaired or replaced so there is no hole for the rabbit to\npotentially escape and all sharp points must be eliminated to protect the rabbit from injury. Correct starting on 10/2/24."
+    },
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "An enclosure containing 3 llamas, 3 alpacas, and 2 cows had fence that was mangled with sharp points protruding from it.\nMangled fencing with sharp points protruding outwards can cause injury to the animals. The fencing must be fixed or\nreplaced so there are no sharp points protruding out from it and it must maintained in good repair to protect the animals\nfrom injury. Correct by 11/2/24."
+    },
+    {
+      "code": "3.131(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "Clutter was observed surrounding most of the enclosures for the patagonian cavy and the 3 prairie dogs. The clutter\ndoesn't allow for the enclosures to be properly inspected to ensure there are no holes or hazards where the animals could\nescape or injure themselves. It doesn't allow for proper inspection to make sure the area is free of vermin and other pests.\nIt also makes it difficult to properly maintain and clean the enclosures and the surrounding area. The area around the\nenclosures has to be cleaned up so it can be properly inspected. Correct by 10/9/24.\nThis inspection and exit interview were conducted with the licensee.\nEnd of report.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1) \n   \nRecords: Dealers and exhibitors. \nAcquisition records (including where and when the animal was acquired) was missing for 8 goats and 1 sheep. Lack of \nacquisition information doesn't allow for proper tracking by APHIS officials. All acquisition information must be \ndocumented for all regulated animals. Correct by 10/9/24. \n3.53(a)(1) \n   \nPrimary enclosures. \nA rabbit enclosure housing one rabbit had a hole with sharp points protruding out on the bottom of the enclosure. Sharp \npoints can cause injury. In addition, the hole could allow for the rabbit to escape or for another animal to enter the \nenclosure. The fencing at the bottom of the enclosure must be repaired or replaced so there is no hole for the rabbit to \npotentially escape and all sharp points must be eliminated to protect the rabbit from injury. Correct starting on 10/2/24. \n3.125(a) \n   \nFacilities, general. \nAn enclosure containing 3 llamas, 3 alpacas, and 2 cows had fence that was mangled with sharp points protruding from it. \nMangled fencing with sharp points protruding outwards can cause injury to the animals. The fencing must be fixed or \nreplaced so there are no sharp points protruding out from it and it must maintained in good repair to protect the animals \nfrom injury. Correct by 11/2/24. \n3.131(c) \n   \nSanitation. \nClutter was observed surrounding most of the enclosures for the patagonian cavy and the 3 prairie dogs. The clutter \ndoesn't allow for the enclosures to be properly inspected to ensure there are no holes or hazards where the animals could \nescape or injure themselves. It doesn't allow for proper inspection to make sure the area is free of vermin and other pests. \nIt also makes it difficult to properly maintain and clean the enclosures and the surrounding area. The area around the \nenclosures has to be cleaned up so it can be properly inspected. Correct by 10/9/24.\n\nThis inspection and exit interview were conducted with the licensee. \n \nEnd of report. \n \n n",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 5,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 4,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    }
+  ]
+}
