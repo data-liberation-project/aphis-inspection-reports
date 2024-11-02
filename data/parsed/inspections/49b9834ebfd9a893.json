@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001140620",
+  "layout": "c",
+  "customer_id": "44794",
+  "customer_name": "Paul Kubasiewicz",
+  "customer_addr": "5650 Cummings Rd\nAkron, NY 14001",
+  "certificate": "21-A-0137",
+  "site_id": "001",
+  "site_name": "Paul Kubasiewicz",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-OCT-2024",
+  "report_date": "03-OCT-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 413,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 300,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 78,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 19,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    }
+  ]
+}
