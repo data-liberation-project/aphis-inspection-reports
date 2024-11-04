@@ -1,0 +1,58 @@
+{
+  "insp_id": "INS-0001147016",
+  "layout": "c",
+  "customer_id": "6020558",
+  "customer_name": "Sugar and Spikes ROC",
+  "customer_addr": "61 Glenview Lane\nRochester, NY 14609",
+  "certificate": "21-A-0236",
+  "site_id": "001",
+  "site_name": "Sugar and Spikes ROC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-OCT-2024",
+  "report_date": "07-OCT-2024",
+  "citations": [
+    {
+      "code": "3.126(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, indoor.",
+      "narrative": "There was a very strong ammonia odor in the small animal room. The room was closed up with a ceiling fan running, and\nan air purifier, but these methods were not effective in facilitating air flow or minimize the odor. Ventilation for this room\nneeds to be addressed to minimize ammonia levels and provide for the health and comfort of the animals.\nCorrect by: Oct 10, 2024"
+    },
+    {
+      "code": "3.131(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "***The exercise wheels for the hedgehogs needs to be cleaned. The wheels are caked with feces all around the wheel.\nThe licensee states she cleans the wheels weekly, but hedgehogs are known to run and defecate on wheels nightly and\nthey should be cleaned on a more frequent basis to reduce strong odors in the small animal room and for the health of the\nanimals.\n*** The licensee feeds a gel supplemental diet to the sugar gliders on paper plates. Each of the sugar glider enclosures\nhad multiple paper plates stacked that were dirty and need to be removed. When fresh plates are provided, the old plates\nshould be pulled and discarded to reduce the potential for pests and to keep the enclosure clean.\nCorrect by: Oct 8, 2024\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.126(b) \n   \nFacilities, indoor. \nThere was a very strong ammonia odor in the small animal room. The room was closed up with a ceiling fan running, and \nan air purifier, but these methods were not effective in facilitating air flow or minimize the odor. Ventilation for this room \nneeds to be addressed to minimize ammonia levels and provide for the health and comfort of the animals. \nCorrect by: Oct 10, 2024 \n3.131(a) \n   \nSanitation. \n***The exercise wheels for the hedgehogs needs to be cleaned. The wheels are caked with feces all around the wheel. \nThe licensee states she cleans the wheels weekly, but hedgehogs are known to run and defecate on wheels nightly and \nthey should be cleaned on a more frequent basis to reduce strong odors in the small animal room and for the health of the \nanimals. \n \n*** The licensee feeds a gel supplemental diet to the sugar gliders on paper plates. Each of the sugar glider enclosures \nhad multiple paper plates stacked that were dirty and need to be removed. When fresh plates are provided, the old plates \nshould be pulled and discarded to reduce the potential for pests and to keep the enclosure clean.  \n \nCorrect by: Oct 8, 2024 \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 13,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Baiomys taylori",
+      "common": "NORTHERN PYGMY MOUSE"
+    }
+  ]
+}

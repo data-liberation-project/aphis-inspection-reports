@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001138467",
+  "layout": "c",
+  "customer_id": "339",
+  "customer_name": "Pfizer Global Research & Development",
+  "customer_addr": "66 Hudson Boulevard East\nNew York, NY 10001",
+  "certificate": "21-R-0088",
+  "site_id": "020",
+  "site_name": "PFIZER WORLDWIDE RESEARCH AND DEVELOPMENT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-SEP-2024",
+  "report_date": "07-OCT-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved protocol TSR 6343 includes a blood collection procedure. The IACUC Guidance on Blood Collection in\nAnimals SOP states that the acceptable blood withdrawal volume for a serial repeated blood sample calculates to a\nvolume of 10% Total Blood Volume(TBV). A review of records for a blood collection procedure performed on August 28,\n2024 indicate that one animal, Animal ID 1:1, had a volume of blood collected which equaled 12 % TBV.\nThis is a change from the parameters described in the IACUC approved protocol.\nFailure to follow the IACUC approved protocol can negatively affect the animals health and well being. All changes to\nprocedures involving animals must be reviewed and approved by the IACUC before implementation in order to determine\nthe effects on the animals.\nThe facility has initiated corrective actions consisting of retraining staff as well as implementing additional changes to the\nblood collection process. The issue is scheduled to be discussed at the next IACUC meeting, which will be the first\nmeeting since the incident occurred.\n******Corrected by September 16, 2024 or by the next IACUC meeting\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved protocol TSR 6343 includes a blood collection procedure. The IACUC Guidance on Blood Collection in \nAnimals SOP states that the acceptable blood withdrawal volume for a serial repeated blood sample calculates to a \nvolume of 10% Total Blood Volume(TBV). A review of records for a blood collection procedure performed on August 28, \n2024 indicate that one animal, Animal ID 1:1, had a volume of blood collected which equaled 12 % TBV.  \nThis is a change from the parameters described in the IACUC approved protocol. \nFailure to follow the IACUC approved protocol can negatively affect the animals health and well being. All changes to \nprocedures involving animals must be reviewed and approved by the IACUC before implementation in order to determine \nthe effects on the animals.  \n \nThe facility has initiated corrective actions consisting of retraining staff as well as implementing additional changes to the \nblood collection process. The issue is scheduled to be discussed at the next IACUC meeting, which will be the first \nmeeting since the incident occurred.  \n \n******Corrected by September 16, 2024 or by the next IACUC meeting \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 181,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 118,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}
