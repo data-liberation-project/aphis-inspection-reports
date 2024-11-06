@@ -1,0 +1,63 @@
+{
+  "insp_id": "INS-0001149196",
+  "layout": "c",
+  "customer_id": "826",
+  "customer_name": "University Of North Carolina",
+  "customer_addr": "312 SOUTH BUILDING CB#4000\nCHAPEL HILL, NC 27599",
+  "certificate": "55-R-0004",
+  "site_id": "001",
+  "site_name": "DIVISION OF LABORATORY ANIMAL MEDICINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-OCT-2024",
+  "report_date": "09-OCT-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Changes were made to a protocol regarding the selection of animals used without IACUC review and approval. The\nprotocol states that it will use female Oncopigs; however, on inspection, three male pigs were identified at the facility\ncurrently on that protocol. Making significant changes to protocols without IACUC review and approval deprives the\nIACUC of the opportunity to provide oversight of animal activities and compliance with the Animal Welfare Act. Correct by\n30 October 2024 by ensuring that animal activities are accurately and completely described so that the IACUC can have\noversight as required by the Animal Welfare Act regulations."
+    },
+    {
+      "code": "3.10(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering",
+      "narrative": "An adult male dog was not offered continuous access to potable water for 3 days due to a water line issue, however the\ndog still received its minimum daily requirements for water through other means. The facility found the issue and self-\nreported to OLAW. Upon discovery of the water line malfunction, the dog had no signs of dehydration on evaluation from\na veterinarian. Not having water continuously available may negatively affect the health and well-being of the dog. Correct\nby 16 October 2024 by ensuring all dogs have continuous access to potable water unless restricted by the attending\nveterinarian. The facility took measures to correct the issue immediately upon finding the dog.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nChanges were made to a protocol regarding the selection of animals used without IACUC review and approval. The \nprotocol states that it will use female Oncopigs; however, on inspection, three male pigs were identified at the facility \ncurrently on that protocol. Making significant changes to protocols without IACUC review and approval deprives the \nIACUC of the opportunity to provide oversight of animal activities and compliance with the Animal Welfare Act. Correct by \n30 October 2024 by ensuring that animal activities are accurately and completely described so that the IACUC can have \noversight as required by the Animal Welfare Act regulations. \n3.10(a) \n   \nWatering \nAn adult male dog was not offered continuous access to potable water for 3 days due to a water line issue, however the \ndog still received its minimum daily requirements for water through other means. The facility found the issue and self-\nreported to OLAW. Upon discovery of the water line malfunction, the dog had no signs of dehydration on evaluation from \na veterinarian. Not having water continuously available may negatively affect the health and well-being of the dog. Correct \nby 16 October 2024 by ensuring all dogs have continuous access to potable water unless restricted by the attending \nveterinarian. The facility took measures to correct the issue immediately upon finding the dog. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 286,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Peromyscus maniculatus",
+      "common": "EASTERN DEERMOUSE"
+    },
+    {
+      "count": 55,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 174,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
