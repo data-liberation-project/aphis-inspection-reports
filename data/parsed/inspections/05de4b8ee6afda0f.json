@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0001150310",
+  "layout": "c",
+  "customer_id": "16331",
+  "customer_name": "GODLEY PARK DISTRICT",
+  "customer_addr": "500 SOUTH KANKAKEE STREET\nGODLEY, IL 60407",
+  "certificate": "33-C-0507",
+  "site_id": "001",
+  "site_name": "GODLEY PARK DISTRICT",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-OCT-2024",
+  "report_date": "10-OCT-2024",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "Acquisition records (including where and when the animal was acquired) was missing for all the animals. Lack of\nacquisition information doesn't allow for proper tracking by APHIS officials. All acquisition information must be\ndocumented for all regulated animals. Correct by 11/10/24."
+    },
+    {
+      "code": "2.134",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "The licensee does not currently have a contingency plan in place. Not having a contingency plan doesn't ensure the\nfacility will be prepared in the event of an emergency or disaster. The licensee must complete the contingency plan in\naccordance with the requirements outlined in the Animal Welfare Act. Correct by 11/10/24."
+    },
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The fallow deer had access to two different shelters. Both shelters were in disrepair and had holes on the back walls. In\naddition, the shelter for the two male fallow deer had a hole in the ceiling. Holes in the wall/ceiling will have jagged edges\nthat could cause injury to the animals. Also, as these holes in both buildings get larger, it will make it where it doesn't\nadequately protect the deer from the elements of the weather. Both shelters need to be repaired and maintained\nafterwards so it is structurally sound and protects the animals from injury and from the elements of the weather. Correct\nby 11/10/24.\nThis inspection and exit interview were conducted with the facility representative.\nEnd of report.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1) \n   \nRecords: Dealers and exhibitors. \nAcquisition records (including where and when the animal was acquired) was missing for all the animals. Lack of \nacquisition information doesn't allow for proper tracking by APHIS officials. All acquisition information must be \ndocumented for all regulated animals. Correct by 11/10/24. \n2.134 \n   \nContingency planning. \nThe licensee does not currently have a contingency plan in place. Not having a contingency plan doesn't ensure the \nfacility will be prepared in the event of an emergency or disaster. The licensee must complete the contingency plan in \naccordance with the requirements outlined in the Animal Welfare Act. Correct by 11/10/24. \n3.125(a) \n   \nFacilities, general. \nThe fallow deer had access to two different shelters. Both shelters were in disrepair and had holes on the back walls. In \naddition, the shelter for the two male fallow deer had a hole in the ceiling. Holes in the wall/ceiling will have jagged edges \nthat could cause injury to the animals. Also, as these holes in both buildings get larger, it will make it where it doesn't \nadequately protect the deer from the elements of the weather. Both shelters need to be repaired and maintained \nafterwards so it is structurally sound and protects the animals from injury and from the elements of the weather. Correct \nby 11/10/24. \n \nThis inspection and exit interview were conducted with the facility representative. \n \nEnd of report. \n \n n",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 7,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}
