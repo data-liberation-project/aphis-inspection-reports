@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001155625",
+  "layout": "c",
+  "customer_id": "19588",
+  "customer_name": "Wellwood Orchards, Inc.",
+  "customer_addr": "529 Wellwood Orchard Rd\nSpringfield, VT 05156",
+  "certificate": "13-C-0013",
+  "site_id": "001",
+  "site_name": "Wellwood Orchards, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-OCT-2024",
+  "report_date": "15-OCT-2024",
+  "citations": [
+    {
+      "code": "3.58(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Classification and separation.",
+      "narrative": "4 rabbits were housed outdoors in enclosures that chickens and peafowl were housed in. Cohousing rabbits with other\nspecies may result in disease or injury. The facility must ensure that the rabbits are housed only with other rabbits.\nCorrected during the inspection on 15 October 2024.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.58(a) \n   \nClassification and separation. \n4 rabbits were housed outdoors in enclosures that chickens and peafowl were housed in. Cohousing rabbits with other \nspecies may result in disease or injury. The facility must ensure that the rabbits are housed only with other rabbits. \n \nCorrected during the inspection on 15 October 2024. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 83,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 42,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 20,
+      "scientific": "Pavo cristatus",
+      "common": "INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /"
+    },
+    {
+      "count": 6,
+      "scientific": "Chrysolophus pictus",
+      "common": "GOLDEN PHEASANT"
+    },
+    {
+      "count": 1,
+      "scientific": "Callipepla californica",
+      "common": "CALIFORNIA QUAIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
