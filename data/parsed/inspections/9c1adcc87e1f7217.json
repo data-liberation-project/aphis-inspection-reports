@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0001163223",
+  "layout": "c",
+  "customer_id": "3125",
+  "customer_name": "Gulfarium",
+  "customer_addr": "1010 Miracle Strip Pkwy SE\nFort Walton Beach, FL 32548",
+  "certificate": "58-C-0963",
+  "site_id": "001",
+  "site_name": "GULFARIUM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-OCT-2024",
+  "report_date": "23-OCT-2024",
+  "citations": [
+    {
+      "code": "3.101(a)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "During inspection there was paint at Sea lion South pool, housing 3 California sea lions, that is in need of repair. This\nflaking paint can enter the water and impact the water quality or become an ingestion hazard to the sea lions.\nFacilities where animals are housed must be maintained in good repair to protect the animals from injury.\nCorrect by November 6, 2024"
+    },
+    {
+      "code": "3.154",
+      "kind": "",
+      "repeat": false,
+      "desc": "Environment enhancement to promote psychological well-being.",
+      "narrative": "The facility does not have an environmental enhancement plan in place to promote the overall psychological well-being of\nthe birds at the facility. The facility currently has enrichment policies and approved enrichment devices that may be used\nfor the penguins, but the pelicans are not included in this plan. Exhibitors must develop, document and follow a species\nappropriate plan for the environmental enhancement to promote the psychological well-being of the pelicans and\npenguins that is within industry standards and approved by the attending veterinarian. This plan must be made available\nfor future inspections.\nCorrect by: Nov 6, 2024\nThis inspection and exit interview were conducted with facility representative.\nAdditional Inspectors:\nDavid Mersereau, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "3.101(a)(1) \n   \nFacilities, general. \nDuring inspection there was paint at Sea lion South pool, housing 3 California sea lions, that is in need of repair. This \nflaking paint can enter the water and impact the water quality or become an ingestion hazard to the sea lions. \n \nFacilities where animals are housed must be maintained in good repair to protect the animals from injury. \n \nCorrect by November 6, 2024 \n3.154 \n   \nEnvironment enhancement to promote psychological well-being. \nThe facility does not have an environmental enhancement plan in place to promote the overall psychological well-being of \nthe birds at the facility. The facility currently has enrichment policies and approved enrichment devices that may be used \nfor the penguins, but the pelicans are not included in this plan. Exhibitors must develop, document and follow a species \nappropriate plan for the environmental enhancement to promote the psychological well-being of the pelicans and \npenguins that is within industry standards and approved by the attending veterinarian. This plan must be made available \nfor future inspections.  \n \nCorrect by: Nov 6, 2024 \n \nThis inspection and exit interview were conducted with facility representative. \n \nAdditional Inspectors: \nDavid Mersereau, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 54,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 8,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 24,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Pelecanus erythrorhynchos",
+      "common": "AMERICAN WHITE PELICAN"
+    },
+    {
+      "count": 2,
+      "scientific": "Pelecanus occidentalis",
+      "common": "BROWN PELICAN"
+    }
+  ]
+}
