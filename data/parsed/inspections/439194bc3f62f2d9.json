@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001173056",
+  "layout": "c",
+  "customer_id": "330146",
+  "customer_name": "SDIX LLC",
+  "customer_addr": "52 Anderson Rd\nWindham, ME 04062",
+  "certificate": "50-R-0015",
+  "site_id": "001",
+  "site_name": "SDIX LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-OCT-2024",
+  "report_date": "04-NOV-2024",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The bottom of two posts in the exterior of the exercise yard for pen 2, building 1, had damaged metal flashing with sharp\nedges extending from the ground @8 inches high and 6-8 inches in length. Sharp metal edges may be an injury hazard.\nThe facility must ensure that the enclosures contain animals safely.\nCorrect by November 7, 2024.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nThe bottom of two posts in the exterior of the exercise yard for pen 2, building 1, had damaged metal flashing with sharp \nedges extending from the ground @8 inches high and 6-8 inches in length. Sharp metal edges may be an injury hazard. \nThe facility must ensure that the enclosures contain animals safely.  \n \nCorrect by November 7, 2024. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 3834,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 854,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2967,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
