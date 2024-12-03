@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001174142",
+  "layout": "c",
+  "customer_id": "9423",
+  "customer_name": "Q Test, Ltd",
+  "customer_addr": "P.O. Box 12381\nColumbus, OH 43212",
+  "certificate": "31-R-0114",
+  "site_id": "001",
+  "site_name": "Q Test, Ltd",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-NOV-2024",
+  "report_date": "05-NOV-2024",
+  "citations": [
+    {
+      "code": "2.31(b)(3)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The facility does not have a complete Institutional Animal Care and Use Committee (IACUC). A compliant IACUC is made\nup of at least 3 roles: the Chairman, a Doctor of Veterinary Medicine, and a member who is not affiliated with the facility in\nany way other than as a Committee member. The role of this individual is intended to be representation for the interests of\nthe general community in the proper care and treatment of animals. The facility has two individuals that are meant to fill\nthis role, but neither have attended any IACUC meetings in 2023 or 2024. The IACUC meets every 6 months. Correct by\nappointing a person not affiliated with the facility to act as the representative of the non-scientific community, and who is\nable to regularly attend and participate in IACUC meetings. Correct by: October 31, 2025.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(b)(3)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe facility does not have a complete Institutional Animal Care and Use Committee (IACUC). A compliant IACUC is made \nup of at least 3 roles: the Chairman, a Doctor of Veterinary Medicine, and a member who is not affiliated with the facility in \nany way other than as a Committee member. The role of this individual is intended to be representation for the interests of \nthe general community in the proper care and treatment of animals. The facility has two individuals that are meant to fill \nthis role, but neither have attended any IACUC meetings in 2023 or 2024. The IACUC meets every 6 months. Correct by \nappointing a person not affiliated with the facility to act as the representative of the non-scientific community, and who is \nable to regularly attend and participate in IACUC meetings. Correct by: October 31, 2025. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 46,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

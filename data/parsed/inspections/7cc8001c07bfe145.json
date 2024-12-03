@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001174148",
+  "layout": "c",
+  "customer_id": "360",
+  "customer_name": "Cocalico Biologicals, Inc.",
+  "customer_addr": "1683 Kramer Mill Road\nDenver, PA 17517",
+  "certificate": "23-B-0028",
+  "site_id": "001",
+  "site_name": "Cocalico Biologicals, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-NOV-2024",
+  "report_date": "05-NOV-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 366,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 298,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 52,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
