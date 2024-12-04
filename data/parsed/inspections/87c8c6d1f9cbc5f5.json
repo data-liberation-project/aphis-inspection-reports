@@ -1,0 +1,83 @@
+{
+  "insp_id": "INS-0001174152",
+  "layout": "c",
+  "customer_id": "370",
+  "customer_name": "Wilson College",
+  "customer_addr": "VETERINARY MEDICAL TECHNOLOGY\n1015 PHILADELPHIA AVE\nCHAMBERSBURG, PA 17201",
+  "certificate": "23-R-0124",
+  "site_id": "001",
+  "site_name": "MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-OCT-2024",
+  "report_date": "06-NOV-2024",
+  "citations": [
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "During the inspection, a bottle of meloxicam (Metacam) with an expiration date of 04/2024 was found in an animal room.\nThe facility representative confirmed that the medication was currently being used to treat a gerbil, \"Eugenie.\"\nThe use of expired medications is not considered to be an appropriate method to treat diseases or injuries since the effect\nof the drug may be variable. Animals may experience unintended discomfort if the expired medication does not provide\nthe anticipated effect.\nAs part of an adequate veterinary care program, the facility must use appropriate methods to prevent, control, diagnose,\nand treat diseases and injuries which include procedures to ensure that expired medications are not administered to\nanimals.\nThe facility representative discarded the medication during the inspection on October 17, 2024."
+    },
+    {
+      "code": "3.13(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "In February 2024, the facility tested their dogs for parasites and did not properly document the treatments performed. At\nthat time, three of the dogs had positive fecal results and received medication, however, the plan for treatment and\ntreatment procedures were not documented in the medical records.\nIt's important to maintain complete and accurate medical records to ensure that the dogs are provided appropriate\ntreatments when problems are identified.\nMedical records for dogs must include any identified problems, the date and description of the problem, examination\nfindings, test results, a plan for treatment, and treatment procedures performed when appropriate.\nCorrect by: October 28, 2024.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nDuring the inspection, a bottle of meloxicam (Metacam) with an expiration date of 04/2024 was found in an animal room. \nThe facility representative confirmed that the medication was currently being used to treat a gerbil, \"Eugenie.\"  \nThe use of expired medications is not considered to be an appropriate method to treat diseases or injuries since the effect \nof the drug may be variable. Animals may experience unintended discomfort if the expired medication does not provide \nthe anticipated effect.  \nAs part of an adequate veterinary care program, the facility must use appropriate methods to prevent, control, diagnose, \nand treat diseases and injuries which include procedures to ensure that expired medications are not administered to \nanimals.  \nThe facility representative discarded the medication during the inspection on October 17, 2024. \n3.13(b)(2) \n   \nVeterinary care for dogs. \nIn February 2024, the facility tested their dogs for parasites and did not properly document the treatments performed. At \nthat time, three of the dogs had positive fecal results and received medication, however, the plan for treatment and \ntreatment procedures were not documented in the medical records.  \nIt's important to maintain complete and accurate medical records to ensure that the dogs are provided appropriate \ntreatments when problems are identified.  \nMedical records for dogs must include any identified problems, the date and description of the problem, examination \nfindings, test results, a plan for treatment, and treatment procedures performed when appropriate.  \nCorrect by: October 28, 2024. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 12,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 3,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Phodopus roborovskii",
+      "common": "ROBOROVSKI'S DWARF HAMSTER"
+    }
+  ]
+}
