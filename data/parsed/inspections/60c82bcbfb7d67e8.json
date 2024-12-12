@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001183898",
+  "layout": "c",
+  "customer_id": "505238",
+  "customer_name": "Acadiana Animal Aid",
+  "customer_addr": "142 Le Medicin Road\nCarencro, LA 70520",
+  "certificate": "72-B-0146",
+  "site_id": "002",
+  "site_name": "Acadiana Animal Aid",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-NOV-2024",
+  "report_date": "14-NOV-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 117,
+  "species": [
+    {
+      "count": 35,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 50,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
