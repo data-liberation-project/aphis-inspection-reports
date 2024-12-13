@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001184984",
+  "layout": "c",
+  "customer_id": "1143",
+  "customer_name": "Pacific BioLabs",
+  "customer_addr": "551 LINUS PAULING DRIVE\nHERCULES, CA 94547",
+  "certificate": "93-R-0189",
+  "site_id": "002",
+  "site_name": "PACIFIC BIOLABS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-NOV-2024",
+  "report_date": "15-NOV-2024",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 410,
+  "species": [
+    {
+      "count": 135,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 272,
+      "scientific": "Guinea Pigs",
+      "common": "GUINEA PIGS"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}
