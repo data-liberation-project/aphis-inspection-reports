@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001203455",
+  "layout": "c",
+  "customer_id": "39091",
+  "customer_name": "East Tennessee Clinical Research Inc",
+  "customer_addr": "80 COPPER RIDGE FARM RD\nROCKWOOD, TN 37854",
+  "certificate": "63-R-0120",
+  "site_id": "001",
+  "site_name": "EAST TENNESSEE CLINICAL RESEARCH INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2024",
+  "report_date": "09-DEC-2024",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol 24-0316 does not include a rationale for the number of animals to be used. The protocol simply states that the\ninvestigator wishes to use 14 dogs total and divides that number into groups. There is no reasoning or requirement listed\nfor why 14 dogs are needed for the study. Including a rationale for the number of animals to be used allows the IACUC to\nconduct a thorough review of the use of animals in a research study.\nProposal 24-316 must contain a rationale for the number of animals to be used if additional dogs are to be used or the\nprotocol should be terminated/closed.\nCorrect by Jan. 9, 2025."
+    },
+    {
+      "code": "2.31(e)(4)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol 24-313 does not include a complete description of the sedation to be used. The protocol was amended since the\nlast inspection and approved on 10/3/24 but is still lacking a description of the use of a sedative for ear duct flushing.\nThere is no description of the drug to be used for the sedation including such details as the name of the drug, route of\nadministration, dosage or recovery monitoring. A description of procedures regarding sedation are necessary in a\nproposal to conduct animal activities in order to ensure that the IACUC has all information needed to approve animal\nactivities, that all staff understand what the approved procedures are, and that discomfort and pain will be appropriately\nlimited for the animals.\nProposal 24-313 must contain a description of procedures designed to assure that discomfort and pain to animals will be\nlimited including the provision for the use of analgesic, anesthetic and tranquilizing drugs where indicated and\nappropriate.\nThis inspection was conducted with facility representatives and the exit interview was conducted with the registrant.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol 24-0316 does not include a rationale for the number of animals to be used. The protocol simply states that the \ninvestigator wishes to use 14 dogs total and divides that number into groups. There is no reasoning or requirement listed \nfor why 14 dogs are needed for the study. Including a rationale for the number of animals to be used allows the IACUC to \nconduct a thorough review of the use of animals in a research study.  \nProposal 24-316 must contain a rationale for the number of animals to be used if additional dogs are to be used or the \nprotocol should be terminated/closed. \nCorrect by Jan. 9, 2025. \n2.31(e)(4)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol 24-313 does not include a complete description of the sedation to be used. The protocol was amended since the \nlast inspection and approved on 10/3/24 but is still lacking a description of the use of a sedative for ear duct flushing. \nThere is no description of the drug to be used for the sedation including such details as the name of the drug, route of \nadministration, dosage or recovery monitoring. A description of procedures regarding sedation are necessary in a \nproposal to conduct animal activities in order to ensure that the IACUC has all information needed to approve animal \nactivities, that all staff understand what the approved procedures are, and that discomfort and pain will be appropriately \nlimited for the animals. \nProposal 24-313 must contain a description of procedures designed to assure that discomfort and pain to animals will be \nlimited including the provision for the use of analgesic, anesthetic and tranquilizing drugs where indicated and \nappropriate. \n \nThis inspection was conducted with facility representatives and the exit interview was conducted with the registrant. \n \n n",
+  "animals_total": 49,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 19,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
