@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001203506",
+  "layout": "c",
+  "customer_id": "1799",
+  "customer_name": "Charles River Laboratories Inc",
+  "customer_addr": "251 Ballardvale Street\nWilmington, MA 01887",
+  "certificate": "14-R-0144",
+  "site_id": "017",
+  "site_name": "OHIO SITE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-DEC-2024",
+  "report_date": "10-DEC-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \n n",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 39,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 116,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 79,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
