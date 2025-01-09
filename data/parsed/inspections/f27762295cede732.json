@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001203572",
+  "layout": "c",
+  "customer_id": "289",
+  "customer_name": "University of Pittsburgh",
+  "customer_addr": "3500 Terrace Street\nS1040 TE STARZL BIOMEDICAL SCIENCE TOWER\nPittsburgh, PA 15261",
+  "certificate": "23-R-0016",
+  "site_id": "002",
+  "site_name": "PBRC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "10-DEC-2024",
+  "report_date": "12-DEC-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 68,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 47,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}
