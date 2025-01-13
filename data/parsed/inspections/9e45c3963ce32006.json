@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001203595",
+  "layout": "c",
+  "customer_id": "166",
+  "customer_name": "Trustees Of Dartmouth College",
+  "customer_addr": "6004 PARKHURST HALL\nHANOVER, NH 03755",
+  "certificate": "12-R-0001",
+  "site_id": "001",
+  "site_name": "DARTMOUTH COLLEGE-ARC MOORE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-DEC-2024",
+  "report_date": "16-DEC-2024",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Research staff did not give a protocol directed dose of analgesic to a dog on day two of the post operative period. The\ndog was examined by the veterinarian on day one post operatively and noted to be non-painful and energetic, and\nobserved by facility staff on day 2 post op at am and pm room checks, as well as during a 30 minute play period, and no\npain was noted. Discontinuing or altering the IACUC approved schedule of post operative care is a significant change that\nmay lead to pain or distress, and does not allow for appropriate IACUC consideration and oversight of research\nprocedures. The facility must ensure that protocol directed treatments are given as directed, or changed only with\nappropriate IACUC review and approval.\nCorrect from this date forward, December 12, 2024.\nThis inspection and exit interview were conducted with the facility personnel.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nResearch staff did not give a protocol directed dose of analgesic to a dog on day two of the post operative period. The \ndog was examined by the veterinarian on day one post operatively and noted to be non-painful and energetic, and \nobserved by facility staff on day 2 post op at am and pm room checks, as well as during a 30 minute play period, and no \npain was noted. Discontinuing or altering the IACUC approved schedule of post operative care is a significant change that \nmay lead to pain or distress, and does not allow for appropriate IACUC consideration and oversight of research \nprocedures. The facility must ensure that protocol directed treatments are given as directed, or changed only with \nappropriate IACUC review and approval. \n \nCorrect from this date forward, December 12, 2024. \n \nThis inspection and exit interview were conducted with the facility personnel. \n \n n",
+  "animals_total": 84,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 79,
+      "scientific": "Clethrionomys/Myodes glareolus",
+      "common": "BANK VOLE"
+    },
+    {
+      "count": 0,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
