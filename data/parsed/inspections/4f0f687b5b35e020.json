@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001217590",
+  "layout": "c",
+  "customer_id": "6014249",
+  "customer_name": "Hunter Smith",
+  "customer_addr": "2799 Alford Road\nSamson, AL 36477",
+  "certificate": "64-B-0105",
+  "site_id": "001",
+  "site_name": "Hunter Smith",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-DEC-2024",
+  "report_date": "30-DEC-2024",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 2,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Osphranter robustus",
+      "common": "HILL WALLAROO"
+    }
+  ]
+}
