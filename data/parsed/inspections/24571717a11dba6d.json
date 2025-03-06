@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001240504",
+  "layout": "c",
+  "customer_id": "6192",
+  "customer_name": "BAR SGR LLC",
+  "customer_addr": "32193 WINERY WAY\nLEWES, DE 19958",
+  "certificate": "50-C-0013",
+  "site_id": "001",
+  "site_name": "BAR-SGR, LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-FEB-2025",
+  "report_date": "04-FEB-2025",
+  "citations": [
+    {
+      "code": "3.131(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "Housekeeping. There was a table with detached boards, white plastic from an old feeder, trash, and pieces of wooden\nboards on the ground in the goat enclosure. In addition, there were boards on the ground in the fallow deer enclosure.\nPremises must be kept clean and in good repair to protect the animals from injury. Correct by ensuring the premises are\nkept clean and housekeeping items are removed from the goat and fallow deer enclosures. Correct by February 11, 2025.\nThis inspection and exit interview were conducted with the manager.\nn"
+    }
+  ],
+  "narrative": "3.131(c) \n   \nSanitation. \nHousekeeping. There was a table with detached boards, white plastic from an old feeder, trash, and pieces of wooden \nboards on the ground in the goat enclosure. In addition, there were boards on the ground in the fallow deer enclosure. \nPremises must be kept clean and in good repair to protect the animals from injury. Correct by ensuring the premises are \nkept clean and housekeeping items are removed from the goat and fallow deer enclosures. Correct by February 11, 2025. \n \nThis inspection and exit interview were conducted with the manager. \n \n n",
+  "animals_total": 100,
+  "species": [
+    {
+      "count": 46,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 43,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 8,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 2,
+      "scientific": "Meleagris gallopavo domesticus",
+      "common": "DOMESTIC TURKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

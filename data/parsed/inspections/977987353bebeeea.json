@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001220884",
+  "layout": "c",
+  "customer_id": "332809",
+  "customer_name": "Jacob S Fisher",
+  "customer_addr": "13481 Jordan Road\nEconomy, IN 47339",
+  "certificate": "32-A-0692",
+  "site_id": "001",
+  "site_name": "Jacob S Fisher",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JAN-2025",
+  "report_date": "10-JAN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 783,
+  "species": [
+    {
+      "count": 775,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

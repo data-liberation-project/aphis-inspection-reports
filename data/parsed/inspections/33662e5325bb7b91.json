@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001229744",
+  "layout": "c",
+  "customer_id": "298",
+  "customer_name": "Stony Brook University",
+  "customer_addr": "BST, LEVEL 1 ROOM 223 DIV OF LAB ANIMAL RSRC\nSTONY BROOK, NY 11794",
+  "certificate": "21-R-0039",
+  "site_id": "001",
+  "site_name": "DIV. OF LAB ANIMAL RESOURCES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JAN-2025",
+  "report_date": "27-JAN-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "In November of 2024 several procedures involving oral gavage were conducted on a rabbit that had not been transferred\nto the corresponding protocol.\nDue to the lack transfer to the protocol containing oral gavage, veterinary and husbandry staff were not fully aware of the\nstudy procedures the animal had experienced. For the IACUC to be able to fulfill its responsibilities under the AWA, the\nIACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to\nimplementation.\nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To\nremain corrected after January 27, 2025."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "On November 18, 2024, a rabbit was reported to the veterinary staff for diarrhea. Records available to veterinary staff did\nnot indicate any experimental use. The lab staff later alerted that the animal had been used experimentally, receiving\nanesthetized oral gavage of study compounds on 11/15/2024, 11/16/2024 and 11/17/2024. Due to a lack of improvement\nin the animal\u2019s health despite veterinary care, the attending veterinarian decided the animal has reached endpoint. A\nnecropsy was performed by the veterinarian on 11/21/2024, an orogastric tube was found in the animal\u2019s esophagus. The\nIACUC investigation found that during one of the procedures the orogastric tube was not properly removed from animal.\nFailure to handle animals appropriately can lead to trauma, behavioral stress, and physical harm. In this case the\nimproper handling of the orogastric tube led to the death of a rabbit. Handling of all animals must be done as carefully as\npossible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress, physical harm, or\nunnecessary discomfort.\nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To\nremain corrected after January 27, 2025.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIn November of 2024 several procedures involving oral gavage were conducted on a rabbit that had not been transferred \nto the corresponding protocol.  \n \nDue to the lack transfer to the protocol containing oral gavage, veterinary and husbandry staff were not fully aware of the \nstudy procedures the animal had experienced. For the IACUC to be able to fulfill its responsibilities under the AWA, the \nIACUC must review and approve significant changes regarding the use of animals in ongoing activities prior to \nimplementation. \n \nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To \nremain corrected after January 27, 2025. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nOn November 18, 2024, a rabbit was reported to the veterinary staff for diarrhea. Records available to veterinary staff did \nnot indicate any experimental use. The lab staff later alerted that the animal had been used experimentally, receiving \nanesthetized oral gavage of study compounds on 11/15/2024, 11/16/2024 and 11/17/2024. Due to a lack of improvement \nin the animal\u2019s health despite veterinary care, the attending veterinarian decided the animal has reached endpoint. A \nnecropsy was performed by the veterinarian on 11/21/2024, an orogastric tube was found in the animal\u2019s esophagus. The \nIACUC investigation found that during one of the procedures the orogastric tube was not properly removed from animal. \n \nFailure to handle animals appropriately can lead to trauma, behavioral stress, and physical harm. In this case the \nimproper handling of the orogastric tube led to the death of a rabbit. Handling of all animals must be done as carefully as \npossible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress, physical harm, or \nunnecessary discomfort. \n \nThis incident was voluntarily reported to the USDA and corrective measures had been implemented prior to inspection. To \nremain corrected after January 27, 2025.\n\nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

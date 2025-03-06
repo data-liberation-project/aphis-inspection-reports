@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001228548",
+  "layout": "c",
+  "customer_id": "389",
+  "customer_name": "State University of New York",
+  "customer_addr": "LEVEL 3, AML FAC 116 BIO MD BL\n3435 MAIN STREET\nBUFFALO, NY 14214",
+  "certificate": "21-R-0051",
+  "site_id": "001",
+  "site_name": "LABORATORY ANIMAL FACILITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JAN-2025",
+  "report_date": "22-JAN-2025",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Protocol BCH25016N provides a calculation for the number of animals proposed under the protocol but does not provide\na rationale for the appropriateness of these numbers. Incomplete justification for animal numbers may compromise the\nability of the IACUC to thoroughly consider the proposal. The investigator must thus provide a rationale for the\nappropriateness of the numbers of animals to be used.\nCorrect by March 14, 2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nProtocol BCH25016N provides a calculation for the number of animals proposed under the protocol but does not provide \na rationale for the appropriateness of these numbers. Incomplete justification for animal numbers may compromise the \nability of the IACUC to thoroughly consider the proposal. The investigator must thus provide a rationale for the \nappropriateness of the numbers of animals to be used.  \n \nCorrect by March 14, 2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 200,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 51,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 114,
+      "scientific": "Phodopus sungorus",
+      "common": "DJUNGARIAN / RUSSIAN WINTER WHITE DWARF HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 10,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 10,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
+}

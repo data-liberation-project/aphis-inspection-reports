@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001235181",
+  "layout": "c",
+  "customer_id": "596",
+  "customer_name": "Midwestern University",
+  "customer_addr": "555 31ST STREET\nDOWNERS GROVE, IL 60515",
+  "certificate": "33-R-0010",
+  "site_id": "002",
+  "site_name": "MIDWESTERN UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JAN-2025",
+  "report_date": "30-JAN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 19,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 8,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 39,
+      "scientific": "Peromyscus californicus",
+      "common": "CALIFORNIA MOUSE"
+    },
+    {
+      "count": 40,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001234051",
+  "layout": "c",
+  "customer_id": "502203",
+  "customer_name": "Amos Stoltzfus and Katie Stoltzfus",
+  "customer_addr": "2404 W Winter Rd\nLoganton, PA 17747",
+  "certificate": "23-A-0653",
+  "site_id": "001",
+  "site_name": "Amos Stoltzfus and Katie Stoltzfus",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JAN-2025",
+  "report_date": "29-JAN-2025",
+  "citations": [
+    {
+      "code": "3.26(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, indoor.",
+      "narrative": "The temperature in the guinea pig housing facility was 57.9 degrees F as measured with a kestrel. Although there was a\nwall heater, there was a window and roof vent open.\nGuinea pigs kept in ambient temperatures that are too low may be subject to cold stress that may cause discomfort and\npredispose them to developing other health issues.\nThe ambient temperature in indoor housing facilities for guinea pigs must not fall below 60 degrees F.\nCorrect by: February 5, 2025"
+    },
+    {
+      "code": "3.31(a)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Sanitation.",
+      "narrative": "The guinea pig pens contained a large amount of fecal material with little clean bedding present and the pens were in\nneed of more frequent cleaning. The licensee said the last cleaning was 2 days ago. There was also a buildup of brown\nmaterial coating water system pipes and troughs.\nThe accumulation of feces and unclean enclosures can cause unpleasant odors, lead to contamination of the enclosure,\nand attract pests and vermin that carry diseases that result in risks to the health of the animals.\nEnclosures must be cleaned and sanitized as often as necessary to prevent a build-up of debris and fecal material and\nsanitized at a minimum of once every two weeks.\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.26(a) \n   \nFacilities, indoor. \nThe temperature in the guinea pig housing facility was 57.9 degrees F as measured with a kestrel. Although there was a \nwall heater, there was a window and roof vent open. \nGuinea pigs kept in ambient temperatures that are too low may be subject to cold stress that may cause discomfort and \npredispose them to developing other health issues.  \nThe ambient temperature in indoor housing facilities for guinea pigs must not fall below 60 degrees F. \nCorrect by: February 5, 2025 \n3.31(a)(1)  Repeat\n   \nSanitation. \nThe guinea pig pens contained a large amount of fecal material with little clean bedding present and the pens were in \nneed of more frequent cleaning. The licensee said the last cleaning was 2 days ago. There was also a buildup of brown \nmaterial coating water system pipes and troughs. \nThe accumulation of feces and unclean enclosures can cause unpleasant odors, lead to contamination of the enclosure, \nand attract pests and vermin that carry diseases that result in risks to the health of the animals. \nEnclosures must be cleaned and sanitized as often as necessary to prevent a build-up of debris and fecal material and \nsanitized at a minimum of once every two weeks. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 327,
+  "species": [
+    {
+      "count": 327,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

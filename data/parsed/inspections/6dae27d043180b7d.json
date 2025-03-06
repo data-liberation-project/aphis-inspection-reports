@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001240515",
+  "layout": "c",
+  "customer_id": "333930",
+  "customer_name": "Kelly Peeler",
+  "customer_addr": "19905 Hastings Circle #4\nAlvin, TX 77511",
+  "certificate": "74-C-1177",
+  "site_id": "001",
+  "site_name": "Kelly Peeler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-FEB-2025",
+  "report_date": "05-FEB-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 20,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 18,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

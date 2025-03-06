@@ -1,0 +1,78 @@
+{
+  "insp_id": "INS-0001228493",
+  "layout": "c",
+  "customer_id": "6002988",
+  "customer_name": "Vermont Museum of Natural History Inc.",
+  "customer_addr": "7599 Route 9 East\nWest Marlboro, VT 05363",
+  "certificate": "13-C-0018",
+  "site_id": "002",
+  "site_name": "Southern Vermont Natural History Museum",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JAN-2025",
+  "report_date": "17-JAN-2025",
+  "citations": [
+    {
+      "code": "3.150(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The heat lamp in one enclosure had an exposed electrical cord the birds could access, and the metal shade was\nunprotected. Birds could potentially land on the metal shade and become injured, or bite on the electrical cord and be\ninjured. The facility must ensure the enclosure protects the birds from injury.\nCorrect by 01/23/25"
+    },
+    {
+      "code": "3.153(a)(1)(ix)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "Two perches in the merlin/broadwing hawk enclosure had worn and frayed coverings. Damaged perch coverings may\npresent an entrapment or ingestion risk. The facility must ensure that worn materials are replaced as often as necessary.\nCorrect by 01/23/25.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.150(a) \n   \nFacilities, general. \nThe heat lamp in one enclosure had an exposed electrical cord the birds could access, and the metal shade was \nunprotected. Birds could potentially land on the metal shade and become injured, or bite on the electrical cord and be \ninjured. The facility must ensure the enclosure protects the birds from injury. \n \nCorrect by 01/23/25 \n3.153(a)(1)(ix) \n   \nPrimary enclosures. \nTwo perches in the merlin/broadwing hawk enclosure had worn and frayed coverings. Damaged perch coverings may \npresent an entrapment or ingestion risk. The facility must ensure that worn materials are replaced as often as necessary. \n \nCorrect by 01/23/25. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Rattus norvegicus",
+      "common": "NORWAY RAT / LAB RAT (COMMON RESEARCH/PET"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco columbarius",
+      "common": "MERLIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo platypterus",
+      "common": "BROAD-WINGED HAWK"
+    },
+    {
+      "count": 2,
+      "scientific": "Strix varia",
+      "common": "BARRED OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco peregrinus",
+      "common": "PEREGRINE FALCON"
+    },
+    {
+      "count": 1,
+      "scientific": "Megascops asio",
+      "common": "EASTERN SCREECH-OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 1,
+      "scientific": "Corvus corax",
+      "common": "COMMON RAVEN"
+    }
+  ]
+}

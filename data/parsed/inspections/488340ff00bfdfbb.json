@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001235143",
+  "layout": "c",
+  "customer_id": "130",
+  "customer_name": "University Of Massachusetts Medical School",
+  "customer_addr": "55 LAKE AVENUE NORTH\nWORCESTER, MA 01655",
+  "certificate": "14-R-0035",
+  "site_id": "001",
+  "site_name": "UNIV. OF MASS. MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JAN-2025",
+  "report_date": "30-JAN-2025",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol 00110 describes the use of post-mortem animal tissues for the training of endoscopic\nprocedures. There is an inconsistency in the protocol pertaining to the rationale for using animals. One part of the protocol\nstates the importance of using live animals for this protocol, but another part of the protocol states the benefits of using\npostmortem tissues for this protocol.\nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity\ninvolving animals, must contain a rationale for involving animals. A proposal for animal use should contain consistent\ninformation and details about the proposed use of the animals in order for the IACUC to review and determine that the\nproposed activities are in accordance with the requirements in this subchapter of the Animal Welfare Act. The IACUC\nneeds to address this item. Correct by 3/1/25.\nThis inspection and exit briefing were conducted with facility representatives.\n*END OF REPORT*\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol 00110 describes the use of post-mortem animal tissues for the training of endoscopic \nprocedures. There is an inconsistency in the protocol pertaining to the rationale for using animals. One part of the protocol \nstates the importance of using live animals for this protocol, but another part of the protocol states the benefits of using \npostmortem tissues for this protocol. \n \nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity \ninvolving animals, must contain a rationale for involving animals. A proposal for animal use should contain consistent \ninformation and details about the proposed use of the animals in order for the IACUC to review and determine that the \nproposed activities are in accordance with the requirements in this subchapter of the Animal Welfare Act. The IACUC \nneeds to address this item. Correct by 3/1/25. \n \nThis inspection and exit briefing were conducted with facility representatives.  \n \n*END OF REPORT* \n \n n",
+  "animals_total": 248,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 198,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 7,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

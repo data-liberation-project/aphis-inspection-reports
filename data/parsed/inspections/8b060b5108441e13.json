@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001228514",
+  "layout": "c",
+  "customer_id": "500439",
+  "customer_name": "Jacob Miller",
+  "customer_addr": "E 15984 St. Johns Lane\nHILLSBORO, WI 54634",
+  "certificate": "35-A-0390",
+  "site_id": "001",
+  "site_name": "JACOB MILLER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JAN-2025",
+  "report_date": "16-JAN-2025",
+  "citations": [
+    {
+      "code": "3.13(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "The facility has an attending veterinarian (AV) that makes scheduled visits and a written program of veterinary care (PVC)\nas seen in records, however the written PVC is not signed by the current AV. The written PVC is required to be signed by\nthe AV to help verify that the PVC has been reviewed and approved by the current AV. Ensure to get the written PVC\nreviewed and signed by the current AV.\n***Correct by 2/24/2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.13(a) \n   \nVeterinary care for dogs. \nThe facility has an attending veterinarian (AV) that makes scheduled visits and a written program of veterinary care (PVC) \nas seen in records, however the written PVC is not signed by the current AV. The written PVC is required to be signed by \nthe AV to help verify that the PVC has been reviewed and approved by the current AV. Ensure to get the written PVC \nreviewed and signed by the current AV.  \n***Correct by 2/24/2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 51,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 22,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}

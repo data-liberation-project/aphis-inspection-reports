@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001220902",
+  "layout": "c",
+  "customer_id": "6022449",
+  "customer_name": "Trenton Estes",
+  "customer_addr": "133 Hudson Street\nChester, SC 29706",
+  "certificate": "56-B-0149",
+  "site_id": "001",
+  "site_name": "Trenton Estes",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-JAN-2025",
+  "report_date": "10-JAN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 13,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}

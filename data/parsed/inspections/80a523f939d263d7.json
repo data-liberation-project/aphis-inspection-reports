@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001217605",
+  "layout": "c",
+  "customer_id": "503583",
+  "customer_name": "Cindy Mickey",
+  "customer_addr": "13277 W Farm Rd 140\nBois D'Arc, MO 65612",
+  "certificate": "43-A-6407",
+  "site_id": "001",
+  "site_name": "CINDY MICKEY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-DEC-2024",
+  "report_date": "02-JAN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 67,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 38,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 5,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

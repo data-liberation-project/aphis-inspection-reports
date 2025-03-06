@@ -1,0 +1,63 @@
+{
+  "insp_id": "INS-0001228614",
+  "layout": "c",
+  "customer_id": "6017856",
+  "customer_name": "New England Party Animals",
+  "customer_addr": "616 Portland Street, Unit 4\nRochester, NH 03867",
+  "certificate": "12-C-0064",
+  "site_id": "001",
+  "site_name": "Garland Farm and Stables",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-JAN-2025",
+  "report_date": "22-JAN-2025",
+  "citations": [
+    {
+      "code": "2.75(b)(1)(iv)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "Multiple records of sales did not include address of the person to whom an animal was sold. Sales records ensure that\nanimals can be accounted for, and traced if necessary in the event of a disease outbreak or other adverse events. The\nfacility must ensure that sales records are complete.\nCorrect from 01/21/2025 forward."
+    },
+    {
+      "code": "2.134(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "Documentation of an annual review of the contingency plan was not available. Annual review and documentation of\nreview ensures that any necessary revisions for animal care are made, and ensures accountability for the review. The\nfacility must review and document their review of the contingency plan annually.\nCorrect by 01/28/2025.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1)(iv) \n   \nRecords: Dealers and exhibitors. \nMultiple records of sales did not include address of the person to whom an animal was sold. Sales records ensure that \nanimals can be accounted for, and traced if necessary in the event of a disease outbreak or other adverse events. The \nfacility must ensure that sales records are complete. \n \nCorrect from 01/21/2025 forward. \n2.134(b) \n   \nContingency planning. \nDocumentation of an annual review of the contingency plan was not available. Annual review and documentation of \nreview ensures that any necessary revisions for animal care are made, and ensures accountability for the review. The \nfacility must review and document their review of the contingency plan annually. \n \nCorrect by 01/28/2025. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 56,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 26,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 7,
+      "scientific": "Coturnix japonica",
+      "common": "JAPANESE QUAIL / COTURNIX QUAIL"
+    }
+  ]
+}

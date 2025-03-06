@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001234070",
+  "layout": "c",
+  "customer_id": "3465",
+  "customer_name": "Karen Luna",
+  "customer_addr": "7827 E Thunderbird Road\nScottsdale, AZ 85260",
+  "certificate": "86-C-0085",
+  "site_id": "001",
+  "site_name": "KAREN LUNA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JAN-2025",
+  "report_date": "29-JAN-2025",
+  "citations": [
+    {
+      "code": "3.125(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "In the hay shed, a couple of transport crates were stored on top of the hay bales to be fed out to animals and rusty tools\nwere stored on top of the straw bedding bales. Improper storage of food and bedding may cause the supplies to\ndeteriorate. Supplies of food and bedding shall be stored in facilities which adequately protect such supplies against\ndeterioration, molding, or contamination by vermin. Refrigeration shall be provided for supplies of perishable food.\nCorrect by 31 January 2025."
+    },
+    {
+      "code": "3.131(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "A dead rat was observed on the pathway to the animal pen. The licensee stated there is a pest control program in place\nthat consists of live traps, snap traps and bait for mammalian pests. An insufficiently effective pest control program may\nallow pests to cause damage to facilities, bedding and feed. It may also allow transfer of illnesses to regulated animals. A\nsafe and effective program for the control of insects, ectoparasites, and avian and mammalian pests shall be established\nand maintained.\nCorrect by 19 February 2025.\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.125(c) \n   \nFacilities, general. \nIn the hay shed, a couple of transport crates were stored on top of the hay bales to be fed out to animals and rusty tools \nwere stored on top of the straw bedding bales. Improper storage of food and bedding may cause the supplies to \ndeteriorate. Supplies of food and bedding shall be stored in facilities which adequately protect such supplies against \ndeterioration, molding, or contamination by vermin. Refrigeration shall be provided for supplies of perishable food. \n \nCorrect by 31 January 2025. \n3.131(d) \n   \nSanitation. \nA dead rat was observed on the pathway to the animal pen. The licensee stated there is a pest control program in place \nthat consists of live traps, snap traps and bait for mammalian pests. An insufficiently effective pest control program may \nallow pests to cause damage to facilities, bedding and feed. It may also allow transfer of illnesses to regulated animals. A \nsafe and effective program for the control of insects, ectoparasites, and avian and mammalian pests shall be established \nand maintained.  \n \nCorrect by 19 February 2025. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos primigenuis indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

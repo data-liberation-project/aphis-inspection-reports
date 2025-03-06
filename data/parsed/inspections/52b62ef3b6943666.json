@@ -1,0 +1,60 @@
+{
+  "insp_id": "INS-0001242677",
+  "layout": "c",
+  "customer_id": "616",
+  "customer_name": "University of Wisconsin Madison",
+  "customer_addr": "DIRECTOR RESEARCH ANIMAL RESOURCES CENTER\n1710 UNIVERSITY AVENUE 396 ENZYME INST\nMADISON, WI 53726",
+  "certificate": "35-R-0001",
+  "site_id": "001",
+  "site_name": "ALL CAMPUS SITES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-FEB-2025",
+  "report_date": "06-FEB-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Eight pigtail macaques had a protocol-approved procedure on 29-May-2024 but did not receive their post-procedure\nanalgesia per the protocol. Animal observations indicate that the animals didn't have signs of pain when personnel\nrealized analgesia wasn't administered. Not administering analgesia as indicated on the ACUC-approved protocol could\nallow animals to have unnecessary pain.\nPrincipal investigators must ensure that procedures are done in accordance with the approved protocol. Not following\nprotocol required activity does not allow the IACUC to conduct a review of the appropriateness of the procedure being\nconducted for the study.\n***The facility identified this incident and reported it to the overseeing ACUC and to OLAW and took corrective action to\nensure analgesia was given as required."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Miscellaneous.",
+      "narrative": "An incident on 4-Sep-2024 happened in which a divider separating NHP's wasn't locked and the animals were able to\ncontact each other and caused injuries. One NHP had injuries that needed sutures and the other two had minor/small\ninjuries. Affected animals received prompt and appropriate veterinary treatment. Incorrect handling can allow animals to\ninjure each other. Ensure that handling procedures such as lock placement are completed correctly.\n**Incident was report to the overseeing ACUC and OLAW and the facility has implemented corrective action to prevent\nincidents."
+    },
+    {
+      "code": "3.80(a)(2)(ii)",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Primary enclosures.",
+      "narrative": "A marmoset on 07-Oct-2024 had gotten a finger stuck in a small enclosure shelf gap (was a gap by design for drainage).\nThe marmoset was promptly treated and needed surgical treatment and has since recovered from the injury. The facility\nreports that to their knowledge this is the first time this type of incident has occurred with the drainage gap. The facility\nhad all drainage gaps welded to prevent further occurrence and I observed enclosures in use during inspection had the\ncorrective weld on it to prevent recurrence.\nA macaque was injured in an enclosure by an S-hook for supporting enrichment that was found to be broken. The\ncondition was promptly recognized by staff and affected animal received veterinary treatment (sutures and NSAIDS) and\nhas recovered from it's injury. The facility removed these S-hooks from use to prevent any further occurrence.\nEnsure enclosures continue to be maintained in a manner to prevent injury.\n**These incidents were reported to the overseeing ACUC and to OLAW.\nThis was an inspection of NHPs and their overseeing ACUC records. The inspection exit interview were conducted with\nfacility representatives.\nAdditional Inspectors:\nDAWN BARKSDALE, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(d)(1)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nEight pigtail macaques had a protocol-approved procedure on 29-May-2024 but did not receive their post-procedure \nanalgesia per the protocol. Animal observations indicate that the animals didn't have signs of pain when personnel \nrealized analgesia wasn't administered. Not administering analgesia as indicated on the ACUC-approved protocol could \nallow animals to have unnecessary pain. \n \nPrincipal investigators must ensure that procedures are done in accordance with the approved protocol. Not following \nprotocol required activity does not allow the IACUC to conduct a review of the appropriateness of the procedure being \nconducted for the study. \n***The facility identified this incident and reported it to the overseeing ACUC and to OLAW and took corrective action to \nensure analgesia was given as required. \n2.38(f)(1)  Critical Repeat\n   \nMiscellaneous. \nAn incident on 4-Sep-2024 happened in which a divider separating NHP's wasn't locked and the animals were able to \ncontact each other and caused injuries. One NHP had injuries that needed sutures and the other two had minor/small \ninjuries. Affected animals received prompt and appropriate veterinary treatment. Incorrect handling can allow animals to \ninjure each other. Ensure that handling procedures such as lock placement are completed correctly.  \n**Incident was report to the overseeing ACUC and OLAW and the facility has implemented corrective action to prevent \nincidents. \n3.80(a)(2)(ii)  Critical Repeat\n   \nPrimary enclosures. \nA marmoset on 07-Oct-2024 had gotten a finger stuck in a small enclosure shelf gap (was a gap by design for drainage). \nThe marmoset was promptly treated and needed surgical treatment and has since recovered from the injury. The facility \nreports that to their knowledge this is the first time this type of incident has occurred with the drainage gap. The facility \nhad all drainage gaps welded to prevent further occurrence and I observed enclosures in use during inspection had the \ncorrective weld on it to prevent recurrence.\n\nA macaque was injured in an enclosure by an S-hook for supporting enrichment that was found to be broken. The \ncondition was promptly recognized by staff and affected animal received veterinary treatment (sutures and NSAIDS) and \nhas recovered from it's injury. The facility removed these S-hooks from use to prevent any further occurrence.  \n \nEnsure enclosures continue to be maintained in a manner to prevent injury. \n**These incidents were reported to the overseeing ACUC and to OLAW. \n \nThis was an inspection of NHPs and their overseeing ACUC records. The inspection exit interview were conducted with \nfacility representatives. \n \nAdditional Inspectors: \nDAWN BARKSDALE, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 2035,
+  "species": [
+    {
+      "count": 207,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 256,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 1564,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}
