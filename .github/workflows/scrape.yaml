@@ -71,7 +71,7 @@ jobs:
     steps:
       - id: deployment
         name: Deploy data to GitHub Pages
-        uses: actions/deploy-pages@v1.2.3
+        uses: actions/deploy-pages@v4
 
   mirror:
     name: Mirror
