@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001249345",
+  "layout": "c",
+  "customer_id": "6013565",
+  "customer_name": "Bradford Schools LLC",
+  "customer_addr": "133 Freeport Road\nPittsburgh, PA 15215",
+  "certificate": "23-R-0190",
+  "site_id": "001",
+  "site_name": "Vet Tech Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-FEB-2025",
+  "report_date": "21-FEB-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 44,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 14,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
