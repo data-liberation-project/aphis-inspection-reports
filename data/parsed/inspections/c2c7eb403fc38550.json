@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001252566",
+  "layout": "c",
+  "customer_id": "2979",
+  "customer_name": "Anniston Museum of Natural History",
+  "customer_addr": "P.O. Box 1587\nAnniston, AL 36202",
+  "certificate": "64-C-0111",
+  "site_id": "001",
+  "site_name": "ANNISTON MUSEUM OF NATURAL HISTORY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-FEB-2025",
+  "report_date": "25-FEB-2025",
+  "citations": [
+    {
+      "code": "3.150(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "A primary enclosure failed to protect a bird from a predation event.\nOn 2/4/2025, the facility reported to the USDA via email that they had lost their one-eyed red-shouldered hawk due to a\npredation event on 12/20/2024. At the time of the inspection, the facility representative explained that this conclusion was\nmade about a predation event due to the condition of the various body parts in and around the enclosure, tufts of feathers\nbetween enclosure wiring, and feathers trailing 15 feet into the woods outside of the enclosure. This specific bird had a\nsignificant disability and the enclosure was not designed to protect this animal from predation. Birds that are not protected\nfrom hazards or predation may suffer from stress, injury, or death. Correct by ensuring that bird enclosures are\nmaintained in good repair, protect the birds from injury, contain the birds, and restrict other animals from entering who\nmay negatively affect the welfare of the birds within. Corrected before the time of inspection on 2/25/2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.150(a)  Critical\n   \nFacilities, general. \nA primary enclosure failed to protect a bird from a predation event. \nOn 2/4/2025, the facility reported to the USDA via email that they had lost their one-eyed red-shouldered hawk due to a \npredation event on 12/20/2024. At the time of the inspection, the facility representative explained that this conclusion was \nmade about a predation event due to the condition of the various body parts in and around the enclosure, tufts of feathers \nbetween enclosure wiring, and feathers trailing 15 feet into the woods outside of the enclosure. This specific bird had a \nsignificant disability and the enclosure was not designed to protect this animal from predation. Birds that are not protected \nfrom hazards or predation may suffer from stress, injury, or death. Correct by ensuring that bird enclosures are \nmaintained in good repair, protect the birds from injury, contain the birds, and restrict other animals from entering who \nmay negatively affect the welfare of the birds within. Corrected before the time of inspection on 2/25/2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo lineatus",
+      "common": "RED-SHOULDERED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Megascops asio",
+      "common": "EASTERN SCREECH-OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    }
+  ]
+}

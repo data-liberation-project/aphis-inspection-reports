@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001249364",
+  "layout": "c",
+  "customer_id": "316",
+  "customer_name": "Carnegie Mellon University",
+  "customer_addr": "5000 FORBES AVE\nWARNER HALL\nPITTSBURGH, PA 15213",
+  "certificate": "23-R-0024",
+  "site_id": "001",
+  "site_name": "Oakland Campus",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-FEB-2025",
+  "report_date": "25-FEB-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "In June and July 2024, the IACUC performed an internal review regarding an adverse event that occurred in February\n2024. During this investigation, the IACUC determined that on March 6, 2024, a male rhesus macaque, M171-21,\nunderwent acute procedures, spinal laminectomy prior to euthanasia, that were not listed in the IACUC -approved\nprotocol. The macaque was assigned to protocol #202000013 which did not include acute experimental procedures, and\nthe animal wasn't transferred to a protocol with acute procedures prior to performing the activities.\nIt is important for the IACUC to review and approve any significant changes regarding the care and use of animals in\nongoing research activities to ensure the well-being and humane treatment of all research animals.\nThe IACUC shall review and approve, require modifications (to secure approval), or withhold approval of proposed\nsignificant changes regarding the care and use of animals in ongoing activities.\nCorrected before the time of inspection (2/20/2025) through a corrective action plan."
+    },
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "During a review of IACUC records, an adverse event was found involving the serious injury of a macaque that was\nassociated with improper restraint methods. In February 2024, a male rhesus macaque, M171-21 (\"Frank\"), was being\ntrained to perform tasks in a primate chair with a custom arm restraint device. According to laboratory documentation, the\nnonhuman primate was not comfortable in the full restraint and was not cooperative leading up to the injury. On February\n19, 2024, an experimental session using the restraint device occurred. The following day, the co-investigator alerted the\nAttending Veterinarian (AV) of a possible injury to the animal's left upper arm. At that point, the co-investigator stated to\nthe AV that the animal had been struggling while its arm was restrained during the previous experimental session. The\nanimal was evaluated by the AV and, after further examination, was found to have a comminuted fracture of the left distal\nhumerus which would require surgical repair. After consultation with the AV, it was decided that the macaque would be\nused for an acute experimental procedure resulting in euthanasia which occurred on March 6, 2024.\nUtilizing restraint methods with an animal that is not fully trained and acclimated to the specific restraint device can lead to\nunnecessary stress, trauma, and injury.\nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma,\noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort.\nCorrected before the time of inspection (02/20/2025) through a corrective action plan.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIn June and July 2024, the IACUC performed an internal review regarding an adverse event that occurred in February \n2024. During this investigation, the IACUC determined that on March 6, 2024, a male rhesus macaque, M171-21, \nunderwent acute procedures, spinal laminectomy prior to euthanasia, that were not listed in the IACUC -approved \nprotocol. The macaque was assigned to protocol #202000013 which did not include acute experimental procedures, and \nthe animal wasn't transferred to a protocol with acute procedures prior to performing the activities.  \nIt is important for the IACUC to review and approve any significant changes regarding the care and use of animals in \nongoing research activities to ensure the well-being and humane treatment of all research animals.  \nThe IACUC shall review and approve, require modifications (to secure approval), or withhold approval of proposed \nsignificant changes regarding the care and use of animals in ongoing activities. \nCorrected before the time of inspection (2/20/2025) through a corrective action plan. \n2.38(f)(1)  Critical\n   \nMiscellaneous. \nDuring a review of IACUC records, an adverse event was found involving the serious injury of a macaque that was \nassociated with improper restraint methods. In February 2024, a male rhesus macaque, M171-21 (\"Frank\"), was being \ntrained to perform tasks in a primate chair with a custom arm restraint device. According to laboratory documentation, the \nnonhuman primate was not comfortable in the full restraint and was not cooperative leading up to the injury. On February \n19, 2024, an experimental session using the restraint device occurred. The following day, the co-investigator alerted the \nAttending Veterinarian (AV) of a possible injury to the animal's left upper arm. At that point, the co-investigator stated to \nthe AV that the animal had been struggling while its arm was restrained during the previous experimental session. The \nanimal was evaluated by the AV and, after further examination, was found to have a comminuted fracture of the left distal \nhumerus which would require surgical repair. After consultation with the AV, it was decided that the macaque would be \nused for an acute experimental procedure resulting in euthanasia which occurred on March 6, 2024.  \nUtilizing restraint methods with an animal that is not fully trained and acclimated to the specific restraint device can lead to \nunnecessary stress, trauma, and injury.  \nHandling of all animals shall be done as expeditiously and carefully as possible in a manner that does not cause trauma, \noverheating, excessive cooling, behavioral stress, physical harm, or unnecessary discomfort. \nCorrected before the time of inspection (02/20/2025) through a corrective action plan.\n\nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 29,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}
