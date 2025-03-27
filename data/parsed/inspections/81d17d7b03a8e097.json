@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001254790",
+  "layout": "c",
+  "customer_id": "1458",
+  "customer_name": "University of Houston",
+  "customer_addr": "Health & Biomedical Sciences Bulding 1\n4849 Calhoun Rd\nHOUSTON, TX 77204",
+  "certificate": "74-R-0020",
+  "site_id": "003",
+  "site_name": "University of Houston",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-FEB-2025",
+  "report_date": "27-FEB-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 98,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 7,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 53,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    }
+  ]
+}
