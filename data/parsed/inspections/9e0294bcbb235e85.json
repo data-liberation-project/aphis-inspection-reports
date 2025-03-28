@@ -1,0 +1,63 @@
+{
+  "insp_id": "INS-0001254809",
+  "layout": "c",
+  "customer_id": "112",
+  "customer_name": "Boston University",
+  "customer_addr": "85 East Newton St., Room 426\nBoston, MA 02118",
+  "certificate": "14-R-0017",
+  "site_id": "003",
+  "site_name": "BOSTON UNIVERSITY MEDICAL SCHOOL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-FEB-2025",
+  "report_date": "28-FEB-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A study related surgical procedure was performed on six rhesus macaques on June 26, 2024. These macaques were\nunder a holding protocol (IPROTO202400000016) in which surgery was not approved. The Principal Investigator (PI) had\nrequested their transfer to the protocol under which the surgical procedure was IACUC approved. However, the animals\nhad not yet been transferred to the study protocol prior to the PI conducting the procedures. No adverse events were\nreported during the surgeries and the animals were recovered successfully.\nThis activity constitutes a significant deviation from the approved activities in the protocol. Principal investigators are to\nfollow the IACUC approved proposals, and any proposed changes shall be reviewed and approved by the IACUC prior to\nimplementation.\nThis incident was reported in the IACUC meeting minutes and corrective measures, including verifying that protocol\ntransfers are complete, had been implemented prior to inspection. To remain corrected after February 28, 2025."
+    },
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "Sodium chloride that had expired on August 31, 2024, was administered to a rhesus macaque by veterinary staff on\nSeptember 27, 2024. No adverse effects were reported from the administration of this expired compound.\nAn expired compound may not be safe or effective and is not an appropriate method for the treatment or prevention of\nanimal health issues. The facility must ensure that methods of treatment, including the medications maintained for use in\nanimals, are appropriate.\nThis incident was reported in the IACUC meeting minutes and corrective measures, including checking expiration dates\neach month and at point-of-care, had been implemented prior to inspection. To remain corrected after February 28, 2025.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA study related surgical procedure was performed on six rhesus macaques on June 26, 2024. These macaques were \nunder a holding protocol (IPROTO202400000016) in which surgery was not approved. The Principal Investigator (PI) had \nrequested their transfer to the protocol under which the surgical procedure was IACUC approved. However, the animals \nhad not yet been transferred to the study protocol prior to the PI conducting the procedures. No adverse events were \nreported during the surgeries and the animals were recovered successfully.  \n \nThis activity constitutes a significant deviation from the approved activities in the protocol. Principal investigators are to \nfollow the IACUC approved proposals, and any proposed changes shall be reviewed and approved by the IACUC prior to \nimplementation.  \n \nThis incident was reported in the IACUC meeting minutes and corrective measures, including verifying that protocol \ntransfers are complete, had been implemented prior to inspection. To remain corrected after February 28, 2025. \n2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nSodium chloride that had expired on August 31, 2024, was administered to a rhesus macaque by veterinary staff on \nSeptember 27, 2024. No adverse effects were reported from the administration of this expired compound.  \n \nAn expired compound may not be safe or effective and is not an appropriate method for the treatment or prevention of \nanimal health issues. The facility must ensure that methods of treatment, including the medications maintained for use in \nanimals, are appropriate. \n \nThis incident was reported in the IACUC meeting minutes and corrective measures, including checking expiration dates \neach month and at point-of-care, had been implemented prior to inspection. To remain corrected after February 28, 2025. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 265,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 39,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 103,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 48,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
