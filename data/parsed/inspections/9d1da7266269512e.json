@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001254763",
+  "layout": "c",
+  "customer_id": "93",
+  "customer_name": "Bioqual Inc",
+  "customer_addr": "9600 Medical Center Dr\nSuite 101\nRockville, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "001",
+  "site_name": "BIOQUAL INC - BPD",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "27-FEB-2025",
+  "report_date": "10-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 571,
+  "species": [
+    {
+      "count": 276,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 288,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 5,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}
