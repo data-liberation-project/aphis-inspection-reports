@@ -1,0 +1,58 @@
+{
+  "insp_id": "INS-0001263586",
+  "layout": "c",
+  "customer_id": "125",
+  "customer_name": "New England Aquarium",
+  "customer_addr": "1 Central Wharf\nBoston, MA 02110",
+  "certificate": "14-C-0008",
+  "site_id": "001",
+  "site_name": "New England Aquarium",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-MAR-2025",
+  "report_date": "12-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 70,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 5,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 40,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 14,
+      "scientific": "Eudyptes chrysocome",
+      "common": "SOUTHERN ROCKHOPPER PENGUIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Sterna hirundo",
+      "common": "COMMON TERN"
+    },
+    {
+      "count": 1,
+      "scientific": "Charadrius semipalmatus",
+      "common": "SEMIPALMATED PLOVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Calidris alba",
+      "common": "SANDERLING"
+    },
+    {
+      "count": 1,
+      "scientific": "Charadrius melodus",
+      "common": "PIPING PLOVER"
+    }
+  ]
+}
