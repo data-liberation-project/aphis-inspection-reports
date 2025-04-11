@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001265801",
+  "layout": "c",
+  "customer_id": "1561",
+  "customer_name": "South Dakota State University",
+  "customer_addr": "MORRILL HALL 200F\nBOX 2201\nBROOKINGS, SD 57007",
+  "certificate": "46-R-0002",
+  "site_id": "001",
+  "site_name": "SOUTH DAKOTA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAR-2025",
+  "report_date": "14-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThe facility inspections, IACUC documents review and exit interview were conducted with the SDSU University \nVeterinarian. \n \n n",
+  "animals_total": 864,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    },
+    {
+      "count": 68,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 405,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus X E. asinus",
+      "common": "MULE"
+    },
+    {
+      "count": 386,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
