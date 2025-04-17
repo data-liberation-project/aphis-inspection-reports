@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001272250",
+  "layout": "c",
+  "customer_id": "329321",
+  "customer_name": "Barnyard Friends LLC",
+  "customer_addr": "6326 Indiana Ave\nMays Landing, NJ 08330",
+  "certificate": "22-C-0133",
+  "site_id": "002",
+  "site_name": "Barnyard Friends LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-MAR-2025",
+  "report_date": "20-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit briefing were conducted with the licensee. \n \n n",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    }
+  ]
+}

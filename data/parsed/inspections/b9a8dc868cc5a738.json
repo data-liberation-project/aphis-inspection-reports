@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001270074",
+  "layout": "c",
+  "customer_id": "34579",
+  "customer_name": "NAMSA Minneapolis LLC",
+  "customer_addr": "8945 Evergreen Blvd\nMinneapolis, MN 55433",
+  "certificate": "41-R-0074",
+  "site_id": "001",
+  "site_name": "NAMSA Minneapolis LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-MAR-2025",
+  "report_date": "20-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 1017,
+  "species": [
+    {
+      "count": 56,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 464,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 104,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 59,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 334,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
