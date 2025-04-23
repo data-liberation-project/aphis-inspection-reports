@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001273472",
+  "layout": "c",
+  "customer_id": "4800",
+  "customer_name": "Lynn Culver",
+  "customer_addr": "141 Polk Road 664\nMena, AR 71953",
+  "certificate": "71-B-0116",
+  "site_id": "001",
+  "site_name": "LYNN CULVER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-MAR-2025",
+  "report_date": "26-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with licensee. \n \n n",
+  "animals_total": 31,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Lynx lynx",
+      "common": "NORTHERN/EURASIAN LYNX"
+    },
+    {
+      "count": 12,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Leopardus geoffroyi",
+      "common": "GEOFFROY'S CAT"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001273476",
+  "layout": "c",
+  "customer_id": "5177",
+  "customer_name": "Ruby Fur Farm Inc",
+  "customer_addr": "2564 200th Street\nNew Sharon, IA 50207",
+  "certificate": "42-B-0052",
+  "site_id": "001",
+  "site_name": "Ruby Fur Farm Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-MAR-2025",
+  "report_date": "26-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 1073,
+  "species": [
+    {
+      "count": 25,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 369,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 527,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 152,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
