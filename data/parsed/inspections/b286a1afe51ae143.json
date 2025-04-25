@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001275644",
+  "layout": "c",
+  "customer_id": "1666",
+  "customer_name": "Wyoming Game & Fish Department",
+  "customer_addr": "2362 HIGHWAY 34\nWHEATLAND, WY 82201",
+  "certificate": "83-R-0005",
+  "site_id": "001",
+  "site_name": "WYOMING FISH & GAME",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-MAR-2025",
+  "report_date": "28-MAR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 69,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 43,
+      "scientific": "Cervus canadensis",
+      "common": "ELK / WAPITI"
+    },
+    {
+      "count": 13,
+      "scientific": "Ovis canadensis",
+      "common": "BIGHORN SHEEP"
+    },
+    {
+      "count": 4,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
+}
