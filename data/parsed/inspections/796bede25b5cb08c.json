@@ -1,0 +1,131 @@
+{
+  "insp_id": "INS-0001275650",
+  "layout": "c",
+  "customer_id": "3214",
+  "customer_name": "James Oleson",
+  "customer_addr": "4355 Spring Lake Hwy\nBrooksville, FL 34601",
+  "certificate": "58-C-1114",
+  "site_id": "001",
+  "site_name": "James Oleson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-MAR-2025",
+  "report_date": "31-MAR-2025",
+  "citations": [
+    {
+      "code": "3.133",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Separation.",
+      "narrative": "Since the last inspection, the facility is still not ensuring that the Patagonian cavies housed together are compatible. Per\nthe facility representative, once they removed and separated the younger male cavy that was actively being chased by\nthe older male cavy during the previous inspection on 3/12/25, a different young male cavy within the same shared\nenclosure was found seriously injured on 3/13/25. According to the facility representative, the injuries were due to\naggression from the older male and this younger male was euthanized by a veterinarian because of these injuries. The\nfacility is now housing the older male cavy alone.\nHousing incompatible animals together in the same primary enclosure can lead to stress, injury, and even death. Animals\nhoused in the same primary enclosure must be compatible.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.133  Critical Repeat\n   \nSeparation. \nSince the last inspection, the facility is still not ensuring that the Patagonian cavies housed together are compatible. Per \nthe facility representative, once they removed and separated the younger male cavy that was actively being chased by \nthe older male cavy during the previous inspection on 3/12/25, a different young male cavy within the same shared \nenclosure was found seriously injured on 3/13/25. According to the facility representative, the injuries were due to \naggression from the older male and this younger male was euthanized by a veterinarian because of these injuries. The \nfacility is now housing the older male cavy alone.  \nHousing incompatible animals together in the same primary enclosure can lead to stress, injury, and even death. Animals \nhoused in the same primary enclosure must be compatible. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 55,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ateles chamek",
+      "common": "BLACK SPIDER MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus quagga X E. asinus",
+      "common": "ZEBRA-DONKEY HYBRID / ZEDONK / ZEBRINNY"
+    },
+    {
+      "count": 8,
+      "scientific": "Dolichotis patagonum",
+      "common": "PATAGONIAN CAVY / MARA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara militaris",
+      "common": "MILITARY MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Amazona oratrix",
+      "common": "YELLOW-HEADED PARROT / YELLOW-HEADED AMAZON /"
+    },
+    {
+      "count": 5,
+      "scientific": "Rhea americana",
+      "common": "GREATER RHEA / AMERICAN RHEA"
+    },
+    {
+      "count": 3,
+      "scientific": "Anser anser domesticus",
+      "common": "DOMESTIC GOOSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 1,
+      "scientific": "Eclectus roratus",
+      "common": "ECLECTUS PARROT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cacatua moluccensis",
+      "common": "SALMON-CRESTED COCKATOO / MOLUCCAN COCKATOO"
+    },
+    {
+      "count": 1,
+      "scientific": "Cacatua sulphurea",
+      "common": "YELLOW-CRESTED COCKATOO / LESSER SULPHUR-"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",
+      "common": "MACAW HYBRID"
+    }
+  ]
+}
