@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001275739",
+  "layout": "c",
+  "customer_id": "37482",
+  "customer_name": "Crowder College",
+  "customer_addr": "601 LACLEDE AVENUE\nNEOSHO, MO 64850",
+  "certificate": "43-R-0118",
+  "site_id": "001",
+  "site_name": "CROWDER COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-APR-2025",
+  "report_date": "03-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 13,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 5,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    }
+  ]
+}
