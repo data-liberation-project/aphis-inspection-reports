@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001279132",
+  "layout": "c",
+  "customer_id": "1503",
+  "customer_name": "Stillmeadow Inc.",
+  "customer_addr": "12852 Park One Drive\nSugar Land, TX 77478",
+  "certificate": "74-R-0049",
+  "site_id": "001",
+  "site_name": "STILLMEADOW, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-APR-2025",
+  "report_date": "04-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 236,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 142,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 58,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

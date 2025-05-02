@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001275666",
+  "layout": "c",
+  "customer_id": "329051",
+  "customer_name": "Yuba College",
+  "customer_addr": "Dr. Kyle Mathis, Veterinary Technology Program\nc/o Yuba College\nMARYSVILLE, CA 95901",
+  "certificate": "93-R-0552",
+  "site_id": "001",
+  "site_name": "YUBA COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-MAR-2025",
+  "report_date": "04-APR-2025",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "Enclosure fence is damaged and has sharp points in the enclosure for all the animals. The fence was damaged during a\nstorm, reinforced and has been identified by the Institutional Animal Care & Use Committee at the last facility inspection\nand the facility has not maintained it. The outdoor housing facilities shall be maintained in good repair to protect the\nanimals from injury and to contain the animals.\nCorrect by 30 May 2025\nThis inspection and exit interview were conducted with the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \nEnclosure fence is damaged and has sharp points in the enclosure for all the animals. The fence was damaged during a \nstorm, reinforced and has been identified by the Institutional Animal Care & Use Committee at the last facility inspection \nand the facility has not maintained it. The outdoor housing facilities shall be maintained in good repair to protect the \nanimals from injury and to contain the animals. \n \nCorrect by 30 May 2025 \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
+}
