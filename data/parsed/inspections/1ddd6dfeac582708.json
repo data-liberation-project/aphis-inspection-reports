@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001284400",
+  "layout": "c",
+  "customer_id": "334778",
+  "customer_name": "Big Big Inc",
+  "customer_addr": "1951 SW 112th Ave\nFort Lauderdale, FL 33332",
+  "certificate": "58-C-1164",
+  "site_id": "001",
+  "site_name": "BIG BIG INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-APR-2025",
+  "report_date": "09-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
