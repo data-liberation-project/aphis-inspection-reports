@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001286676",
+  "layout": "c",
+  "customer_id": "324868",
+  "customer_name": "Dogworks Inc",
+  "customer_addr": "1690 Julius Bridge Rd\nBall Ground, GA 30107",
+  "certificate": "57-C-0323",
+  "site_id": "001",
+  "site_name": "DOGWORKS INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-APR-2025",
+  "report_date": "11-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 16,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 3,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

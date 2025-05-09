@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001282220",
+  "layout": "c",
+  "customer_id": "91",
+  "customer_name": "University of Maryland College Park",
+  "customer_addr": "DIRECTOR LABORATORY ANIMAL CARE\nCOLLEGE PARK CAMPUS\nCOLLEGE PARK, MD 20742",
+  "certificate": "51-R-0095",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF MARYLAND COLLEGE PARK",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-APR-2025",
+  "report_date": "11-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 108,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
