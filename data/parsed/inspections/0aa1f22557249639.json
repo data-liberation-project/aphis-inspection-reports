@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001286730",
+  "layout": "c",
+  "customer_id": "93",
+  "customer_name": "Bioqual Inc",
+  "customer_addr": "9600 Medical Center Dr\nSuite 101\nRockville, MD 20850",
+  "certificate": "51-R-0036",
+  "site_id": "004",
+  "site_name": "BIOQUAL INC - MCDV",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-APR-2025",
+  "report_date": "15-APR-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(8)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On March 10, 2025, tissue collection procedures were not followed as outline in the protocol under SOP - Tissue\nCollection. The veterinarian noticed one ferret was still breathing and the skin was removed from its abdomen and thorax.\nThe veterinarian asked the technicians to verify if euthanasia had been performed. Euthanasia had not been performed\nper SOP. The ferret was immediately euthanized and tissue collection continued as outlined in the facility SOP. The ferret\ndid not experience any pain or distress as all procedures were performed under anesthesia. Team members failed to\nfollow established procedures in the SOP.\nProcedures in an IACUC approved protocol must be followed to ensure animals do not experience unnecessary pain or\ndistress. Proposed activities for animal use that are approved by the IACUC should be followed or further appropriate\nreview and approval would be needed in accordance with 2.31(d) of Subpart C.\nCorrection: All team members were retrained on the SOP for Tissue Collection and Euthanasia and the importance of\nfollowing the SOP. An emphasis was placed on communicating responsibilities prior to starting the procedures as well as\nduring the process.\n,\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(8) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn March 10, 2025, tissue collection procedures were not followed as outline in the protocol under SOP - Tissue \nCollection. The veterinarian noticed one ferret was still breathing and the skin was removed from its abdomen and thorax. \nThe veterinarian asked the technicians to verify if euthanasia had been performed. Euthanasia had not been performed \nper SOP. The ferret was immediately euthanized and tissue collection continued as outlined in the facility SOP. The ferret \ndid not experience any pain or distress as all procedures were performed under anesthesia. Team members failed to \nfollow established procedures in the SOP.  \n \nProcedures in an IACUC approved protocol must be followed to ensure animals do not experience unnecessary pain or \ndistress. Proposed activities for animal use that are approved by the IACUC should be followed or further appropriate \nreview and approval would be needed in accordance with 2.31(d) of Subpart C. \n \nCorrection: All team members were retrained on the SOP for Tissue Collection and Euthanasia and the importance of \nfollowing the SOP. An emphasis was placed on communicating responsibilities prior to starting the procedures as well as \nduring the process.  \n, \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 85,
+  "species": [
+    {
+      "count": 55,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 30,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
