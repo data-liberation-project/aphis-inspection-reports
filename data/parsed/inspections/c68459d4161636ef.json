@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0001287817",
+  "layout": "c",
+  "customer_id": "346",
+  "customer_name": "New York University Washington Square",
+  "customer_addr": "OFFICE OF VETERINARY RESOURCES\n665 BROADWAY, SUITE 804\nNEW YORK NEW YORK, NY 10012",
+  "certificate": "21-R-0118",
+  "site_id": "001",
+  "site_name": "NEW YORK UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "15-APR-2025",
+  "report_date": "18-APR-2025",
+  "citations": [
+    {
+      "code": "3.129(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "Four gerbils were found deceased on 10/21/24. An IACUC investigation found that a member of the lab had forgot to\nremove the \"controlled food\" cage card, leading to the animals last being fed on 10/17/2024. The amount of food provided\nto the animals by the lab was not sufficient to last the duration of the weekend. The weekend animal care technicians did\nobserve the animals, but did not see any indications of health concerns.\nResearch facilities must provide food that is wholesome, palatable, and free from contamination and of sufficient quantity\nand nutritive value to maintain all animals in good health. Animals must be fed at least once a day except as dictated by\nhibernation, veterinary treatment, normal fasts, or other professionally accepted practices.\nCorrective actions have been put in place at the time of inspection, 4/15/2025.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.129(a)  Critical\n   \nFeeding. \nFour gerbils were found deceased on 10/21/24. An IACUC investigation found that a member of the lab had forgot to \nremove the \"controlled food\" cage card, leading to the animals last being fed on 10/17/2024. The amount of food provided \nto the animals by the lab was not sufficient to last the duration of the weekend. The weekend animal care technicians did \nobserve the animals, but did not see any indications of health concerns.  \n \nResearch facilities must provide food that is wholesome, palatable, and free from contamination and of sufficient quantity \nand nutritive value to maintain all animals in good health. Animals must be fed at least once a day except as dictated by \nhibernation, veterinary treatment, normal fasts, or other professionally accepted practices. \n \nCorrective actions have been put in place at the time of inspection, 4/15/2025. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 183,
+  "species": [
+    {
+      "count": 183,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    }
+  ]
+}
