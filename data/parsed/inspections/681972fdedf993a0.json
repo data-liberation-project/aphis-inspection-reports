@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001294398",
+  "layout": "c",
+  "customer_id": "1455",
+  "customer_name": "University of Texas - Health Science Center at San Antonio",
+  "customer_addr": "7703 FLOYD CURL DR\nSAN ANTONIO, TX 78229",
+  "certificate": "74-R-0071",
+  "site_id": "001",
+  "site_name": "University of Texas",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-APR-2025",
+  "report_date": "22-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 350,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 56,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 76,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 140,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 38,
+      "scientific": "Fukomys damarensis",
+      "common": "DAMARA / DAMARALAND MOLE-RAT / DAMARALAND"
+    },
+    {
+      "count": 11,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
