@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001295482",
+  "layout": "c",
+  "customer_id": "6023354",
+  "customer_name": "Veranex, Inc.",
+  "customer_addr": "387 Technology Circle NW, Suite 175\nAtlanta, GA 30313",
+  "certificate": "67-R-0005",
+  "site_id": "001",
+  "site_name": "Veranex Preclinical Site",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-APR-2025",
+  "report_date": "23-APR-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
