@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001296634",
+  "layout": "c",
+  "customer_id": "1834",
+  "customer_name": "University of Colorado- Denver",
+  "customer_addr": "13001 E. 17th Place, MS F489, P. O. Box 6508\nAURORA, CO 80045",
+  "certificate": "84-R-0059",
+  "site_id": "002",
+  "site_name": "UNIVERSITY OF COLORADO DENVER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-APR-2025",
+  "report_date": "28-APR-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On November 15, 2024, the veterinary staff discovered 4 ferret kits had been given a larger than intended dose of post-op\nMeloxicam. The IACUC approved protocol for post-op Meloxicam for this study is 0.1-0.2 mg/kg PO/SQ q24 hours. The\nMeloxicam dose was drawn from the 1.5 mg/ml concentration bottle instead of the 0.1 mg/ml concentration bottle. This\nresulted in a range of 1.4 \u2013 1.6 mg/kg dose for the 4 kits based on their weight, which resulted in a 7-8 times overdose of\npost-op Meloxicam. Veterinarians and staff took immediate action and provided supportive care, and the kits did not\nexperience any side effects from the overdose. The lab has revised their standing operating practices to include\nverification of doses and concentration of anesthetics and analgesics prior to administration. Additionally, the lab will only\nstore diluted Meloxicam (0.1 mg/ml) in the vivarium for post-op analgesia. Not following the IACUC approved protocol can\nresult in the wellbeing and health of the animals being adversely affected. The IACUC must review and approve, require\nmodifications in, or withhold approval of proposed significant changes regarding the care and use of animals in ongoing\nactivities. CORRECTED PRIOR TO THIS INSPECTION CONCLUDED ON 04/23/2025.\nThis inspection and exit interview were conducted with attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn November 15, 2024, the veterinary staff discovered 4 ferret kits had been given a larger than intended dose of post-op \nMeloxicam. The IACUC approved protocol for post-op Meloxicam for this study is 0.1-0.2 mg/kg PO/SQ q24 hours. The \nMeloxicam dose was drawn from the 1.5 mg/ml concentration bottle instead of the 0.1 mg/ml concentration bottle. This \nresulted in a range of 1.4 \u2013 1.6 mg/kg dose for the 4 kits based on their weight, which resulted in a 7-8 times overdose of \npost-op Meloxicam. Veterinarians and staff took immediate action and provided supportive care, and the kits did not \nexperience any side effects from the overdose. The lab has revised their standing operating practices to include \nverification of doses and concentration of anesthetics and analgesics prior to administration. Additionally, the lab will only \nstore diluted Meloxicam (0.1 mg/ml) in the vivarium for post-op analgesia. Not following the IACUC approved protocol can \nresult in the wellbeing and health of the animals being adversely affected. The IACUC must review and approve, require \nmodifications in, or withhold approval of proposed significant changes regarding the care and use of animals in ongoing \nactivities. CORRECTED PRIOR TO THIS INSPECTION CONCLUDED ON 04/23/2025. \n \nThis inspection and exit interview were conducted with attending veterinarian. \n \n n",
+  "animals_total": 566,
+  "species": [
+    {
+      "count": 451,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 48,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 12,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 25,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 22,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
