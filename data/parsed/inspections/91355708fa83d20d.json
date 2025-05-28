@@ -1,0 +1,76 @@
+{
+  "insp_id": "INS-0001300984",
+  "layout": "c",
+  "customer_id": "1955",
+  "customer_name": "Lutz Children's Museum, Inc.",
+  "customer_addr": "247 South Main Street\nManchester, CT 06040",
+  "certificate": "16-C-0151",
+  "site_id": "001",
+  "site_name": "Lutz Children's Museum",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-APR-2025",
+  "report_date": "30-APR-2025",
+  "citations": [
+    {
+      "code": "2.134(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "This facility's contingency plan has not been reviewed since May 14, 2023. Failure to conduct annual contingency plan\nreviews reduces the capability for disaster response and may impact animal welfare in the event of disasters. The facility\nmust ensure that the contingency plan is reviewed annually and that this review is documented. Additionally, this\ndocumentation must be available to APHIS upon request. Correct by June 5, 2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.134(b) \n   \nContingency planning. \nThis facility's contingency plan has not been reviewed since May 14, 2023. Failure to conduct annual contingency plan \nreviews reduces the capability for disaster response and may impact animal welfare in the event of disasters. The facility \nmust ensure that the contingency plan is reviewed annually and that this review is documented. Additionally, this \ndocumentation must be available to APHIS upon request. Correct by June 5, 2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamias striatus",
+      "common": "EASTERN CHIPMUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Columba livia domestica",
+      "common": "DOMESTIC PIGEON INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Streptopelia capicola",
+      "common": "BARBARY DOVE / RINGED TURTLE-DOVE / RINGNECK DOVE"
+    },
+    {
+      "count": 6,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 4,
+      "scientific": "Coturnix coturnix",
+      "common": "COMMON QUAIL / EUROPEAN QUAIL"
+    }
+  ]
+}
