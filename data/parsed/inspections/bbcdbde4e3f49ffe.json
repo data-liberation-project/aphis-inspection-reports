@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001306323",
+  "layout": "c",
+  "customer_id": "502460",
+  "customer_name": "Oklahoma State University",
+  "customer_addr": "101 McElroy Hall Annex\nStillwater, OK 74078",
+  "certificate": "73-R-0121",
+  "site_id": "001",
+  "site_name": "OKLAHOMA STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-MAY-2025",
+  "report_date": "02-MAY-2025",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A protocol involving calves does not provide a complete description of the proposed use of animals.\n-The Protocol states in part: \u201cAt various timepoints listed below, latent virus will be reactivated with dexamethasone\n(DEX): Initial IV injection = 1 mg DEX/2.27 kg body weight; 2-and 4 days after IV DEX, two additional IM injections of DEX\n(0.125 mg/kg) will be given in the neck/shoulder area.\u201d\nAnimal records for a male Holstein, 8532, dated March 26, 2025, record that a single injection of IV Dexamethasone was\ngiven on the same day the animal was transported for euthanasia. There were no follow up dexamethasone IM injections\nas described in the protocol. When questioned the PI stated that a single injection was adequate to reach the desired\nendpoint.\n- In the section detailing the endpoint of the study, the Protocol states: \u201c\u2026 during either the acute stage (1-14 days after\nBoHV administration) and /or after establishment of latency (60-90 days after administration), calves will be humanely\neuthanized for tissue isolation\u201d\nRecord review of four calves reveals that euthanasia was performed at approximately 40 days post inoculation. When\nquestioned, the PI states that the chosen euthanasia time was to prevent unnecessary animal discomfort. However, the\nhealth records show no indication of illness or clinical signs that would lead to humane euthanasia and the protocol itself\ndoes not allow for any potential deviation based on scientific knowledge or experience.\nThe protocol and any supporting documentation must fully describe and record all proposed animal procedures. Early\neuthanasia due to reaching humane endpoints is an important consideration in animal welfare, however the current\nprotocol is not written in a manner that supports such decisions.\nThe IACUC must approve and monitor all procedures on regulated animals to assure adherence to the allowed\nprocedures. Any proposed changes to an ongoing activity must be reported to the IACUC for approval prior to\nimplementing those changes. This protocol involving calves must be amended so that it accurately describes the\nprocedures being followed.\nCorrect by 14 May 2025\nThis inspection and exit interview were conducted with a facility representative.\nAdditional Inspectors:\nMICHAEL TYGART, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA protocol involving calves does not provide a complete description of the proposed use of animals. \n-The Protocol states in part: \u201cAt various timepoints listed below, latent virus will be reactivated with dexamethasone \n(DEX): Initial IV injection = 1 mg DEX/2.27 kg body weight; 2-and 4 days after IV DEX, two additional IM injections of DEX \n(0.125 mg/kg) will be given in the neck/shoulder area.\u201d \nAnimal records for a male Holstein, 8532, dated March 26, 2025, record that a single injection of IV Dexamethasone was \ngiven on the same day the animal was transported for euthanasia. There were no follow up dexamethasone IM injections \nas described in the protocol. When questioned the PI stated that a single injection was adequate to reach the desired \nendpoint. \n- In the section detailing the endpoint of the study, the Protocol states: \u201c\u2026 during either the acute stage (1-14 days after \nBoHV administration) and /or after establishment of latency (60-90 days after administration), calves will be humanely \neuthanized for tissue isolation\u201d \nRecord review of four calves reveals that euthanasia was performed at approximately 40 days post inoculation. When \nquestioned, the PI states that the chosen euthanasia time was to prevent unnecessary animal discomfort. However, the \nhealth records show no indication of illness or clinical signs that would lead to humane euthanasia and the protocol itself \ndoes not allow for any potential deviation based on scientific knowledge or experience.  \nThe protocol and any supporting documentation must fully describe and record all proposed animal procedures. Early \neuthanasia due to reaching humane endpoints is an important consideration in animal welfare, however the current \nprotocol is not written in a manner that supports such decisions. \nThe IACUC must approve and monitor all procedures on regulated animals to assure adherence to the allowed \nprocedures. Any proposed changes to an ongoing activity must be reported to the IACUC for approval prior to \nimplementing those changes. This protocol involving calves must be amended so that it accurately describes the \nprocedures being followed.  \nCorrect by 14 May 2025 \n \nThis inspection and exit interview were conducted with a facility representative.\n\nAdditional Inspectors: \nMICHAEL TYGART, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 198,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 68,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 84,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 37,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}
