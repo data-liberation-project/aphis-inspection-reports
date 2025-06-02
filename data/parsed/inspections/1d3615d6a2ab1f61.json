@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001306347",
+  "layout": "c",
+  "customer_id": "26826",
+  "customer_name": "William Pryor",
+  "customer_addr": "562 Hopkins Crandall Rd\nSmyrna, NY 13464",
+  "certificate": "21-C-0289",
+  "site_id": "001",
+  "site_name": "William Pryor",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-APR-2025",
+  "report_date": "05-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 3,
+      "scientific": "Vulpes lagopus",
+      "common": "ARCTIC FOX"
+    },
+    {
+      "count": 12,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    }
+  ]
+}
