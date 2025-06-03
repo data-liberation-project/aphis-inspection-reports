@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001307438",
+  "layout": "c",
+  "customer_id": "316",
+  "customer_name": "Carnegie Mellon University",
+  "customer_addr": "5000 FORBES AVE\nWARNER HALL\nPITTSBURGH, PA 15213",
+  "certificate": "23-R-0024",
+  "site_id": "001",
+  "site_name": "Oakland Campus",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-MAY-2025",
+  "report_date": "06-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    }
+  ]
+}
