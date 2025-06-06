@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001310707",
+  "layout": "c",
+  "customer_id": "2022",
+  "customer_name": "City of Three Rivers",
+  "customer_addr": "333 W. Michigan Ave\nThree Rivers, MI 49093",
+  "certificate": "34-C-0005",
+  "site_id": "001",
+  "site_name": "City of Three Rivers",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-MAY-2025",
+  "report_date": "09-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
