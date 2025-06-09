@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001313921",
+  "layout": "c",
+  "customer_id": "3611",
+  "customer_name": "Mary Wilson",
+  "customer_addr": "304 Hwy 101 South\nOcean World\nCrescent City, CA 95531",
+  "certificate": "93-C-0389",
+  "site_id": "001",
+  "site_name": "Mary Wilson",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-MAY-2025",
+  "report_date": "12-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Callorhinus ursinus",
+      "common": "NORTHERN FUR SEAL"
+    }
+  ]
+}
