@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001314987",
+  "layout": "c",
+  "customer_id": "1424",
+  "customer_name": "Colby Community College",
+  "customer_addr": "1255 S Range Avenue\nColby, KS 67701",
+  "certificate": "48-R-0025",
+  "site_id": "001",
+  "site_name": "Colby Community College",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAY-2025",
+  "report_date": "13-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
