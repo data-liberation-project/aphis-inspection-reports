@@ -48,7 +48,7 @@ AURA_CONTEXT = {
 
 @retry(tries=3, delay=30, logger=logger)
 def get_fwuid() -> str:
-    url = "https://aphis-efile.force.com/PublicSearchTool/s/inspection-reports"
+    url = "https://aphis.my.site.com/PublicSearchTool/s/inspection-reports"
     res = requests.get(url)
     html = res.content.decode("utf-8")
     match = re.search("%22fwuid%22%3A%22([^%]+)%22%2C", html)
