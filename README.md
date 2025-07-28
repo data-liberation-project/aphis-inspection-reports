@@ -159,6 +159,7 @@ Many thanks to the following external contributors:
 
 - [@gcappaert](https://github.com/gcappaert)
 - [@saylibenadikar](https://github.com/saylibenadikar)
+- [@snolas112](https://github.com/snolas112)
 
 ## Licensing
 
