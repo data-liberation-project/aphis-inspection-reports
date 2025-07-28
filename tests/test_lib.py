@@ -82,7 +82,7 @@ def test_get_sort_key() -> None:
     """Test the get_sort_key utility."""
     key = aphis.get_sort_key(RESULTS_EXAMPLE[0])
     assert key == (
-        9191,
+        "9191",
         "93-R-0432",
         "2022-11-14",
         RESULTS_EXAMPLE[0]["reportLink"],

@@ -108,7 +108,7 @@ def main() -> None:
 
         seen = set()
 
-        def sorter(x: dict[str, str]) -> tuple[int, str, str, str]:
+        def sorter(x: dict[str, str]) -> tuple[str, str, str, str]:
             return (
                 # Next two links' quirk is to mimic behavior in lib/aphis.py
                 x["customerNumber"] or "?",

@@ -159,7 +159,7 @@ def get_unique_key(r: dict[str, typing.Any]) -> tuple[str, str, str]:
     )
 
 
-def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str]:
+def get_sort_key(r: dict[str, typing.Any]) -> tuple[str, str, str, str]:
     return (
         # Note: ? below is a hack to give empty customer/certNumbers lower
         # sort order than existing ones, since APHIS seems to backfill
@@ -195,7 +195,7 @@ def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
         writer.writerows(results)
 
 
-def hash_id_from_url(url: typing.Optional[str]) -> str:
+def hash_id_from_url(url: str) -> str:
     if (url or "").strip()[:4] == "http":
         b = extract_id_from_url(url).encode("utf-8")
         return hashlib.sha1(b).hexdigest()[:16]
