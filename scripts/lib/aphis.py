@@ -126,7 +126,6 @@ def iter_fetch_all(
     logger.debug(f"{count} results for {criteria}")
     if count >= 2100 and raise_size_error:
         raise TooManyResultsError
-
     yield from data["results"]
     for i in range(1, 21):
         data = fetch(i, criteria)
@@ -151,21 +150,21 @@ def extract_id_from_url(url: str) -> str:
 
 def get_unique_key(r: dict[str, typing.Any]) -> tuple[str, str, str]:
     url = r.get("reportLink", "")
-    url_id = extract_id_from_url(url) if url else ""
+    url_id = extract_id_from_url(url) if (url or "").strip()[:4] == "http" else ""
 
     return (
         url_id,
-        r["customerNumber"],
+        r.get("customerNumber", "?"),
         r["inspectionDate"],
     )
 
 
 def get_sort_key(r: dict[str, typing.Any]) -> tuple[int, str, str, str]:
     return (
-        int(r["customerNumber"]),  # Shouldn't ever be missing
-        # Note: ? below is a hack to give empty certNumbers lower
+        # Note: ? below is a hack to give empty customer/certNumbers lower
         # sort order than existing ones, since APHIS seems to backfill
         # the certNumber once licensed.
+        (r.get("customerNumber") or "?"),  # Sometimes missing
         (r.get("certNumber") or "?"),  # Sometimes missing
         r["inspectionDate"],  # Shouldn't ever be missing
         r.get("reportLink", ""),  # Sometimes missing
@@ -197,11 +196,11 @@ def write_results(results: list[dict[str, typing.Any]], dest: Path) -> None:
 
 
 def hash_id_from_url(url: typing.Optional[str]) -> str:
-    if url is None or not url.strip():
-        return ""
-    else:
+    if (url or "").strip()[:4] == "http":
         b = extract_id_from_url(url).encode("utf-8")
         return hashlib.sha1(b).hexdigest()[:16]
+    else:
+        return ""
 
 
 def add_hash_ids(

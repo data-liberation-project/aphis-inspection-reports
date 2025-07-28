@@ -110,8 +110,8 @@ def main() -> None:
 
         def sorter(x: dict[str, str]) -> tuple[int, str, str, str]:
             return (
-                int(x["customerNumber"]),
-                # Next line quirk is to mimic behavior in lib/aphis.py
+                # Next two links' quirk is to mimic behavior in lib/aphis.py
+                x["customerNumber"] or "?",
                 x["certNumber"] or "?",
                 x["inspectionDate"],
                 x["discovered"],
@@ -133,7 +133,7 @@ def main() -> None:
             else:
                 seen.add(dupe_key)
 
-            if hash_id:
+            if hash_id and parsed:
                 for s in parsed["species"]:
                     if s["scientific"].upper() == "NONE" and s["count"] == 0:
                         continue
