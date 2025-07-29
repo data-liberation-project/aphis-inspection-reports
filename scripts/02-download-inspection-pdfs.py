@@ -27,7 +27,7 @@ def main() -> None:
     for i, report in enumerate(reports):
         link = report["reportLink"].strip()
 
-        if not link:
+        if not link or link == "placeholder":
             continue
 
         dest = Path(f"pdfs/inspections/{hash_id_from_url(link)}.pdf")
