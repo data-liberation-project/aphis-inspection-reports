@@ -1,0 +1,56 @@
+{
+  "insp_id": "INS-0001321460",
+  "layout": "c",
+  "customer_id": "89",
+  "customer_name": "University of Maryland Baltimore",
+  "customer_addr": "10 S PINE ST. RM G-100, MSTF BLDG\nBALTIMORE, MD 21201",
+  "certificate": "51-R-0018",
+  "site_id": "001",
+  "site_name": "VETERINARY RESOURCES",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-MAY-2025",
+  "report_date": "19-MAY-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "Critical",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "During the review of IACUC records, an adverse event was found involving the death of a rabbit that was associated with\nthe incorrect administration of an anesthetic medication. On April 10, 2025, a rabbit (#111) was undergoing a procedure\nfrom an IACUC approved protocol (RAB693) when the animal began to rouse from anesthesia. A technician quickly\nadministered a full dose of ketamine to the animal through an intravenous catheter in attempts to return the animal to a\nsurgical plane of anesthesia. Following the administration of the medication, the animal stopped breathing. A veterinarian\nwas quickly notified and the veterinary team attempted to resuscitate the rabbit, but it died acutely. The approved protocol\nallows for an additional dose of ketamine given subcutaneously if needed to maintain anesthesia throughout the\nprocedure. The intravenous administration of ketamine had not been approved.\nIt is important for the IACUC to review and approve any significant changes regarding the care and use of animals in\nongoing research activities to ensure the well-being and humane treatment of all research animals.\nThe IACUC shall review and approve, require modifications (to secure approval), or withhold approval of proposed\nsignificant changes regarding the care and use of animals in ongoing activities.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nGLORIA MCFADDEN, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Critical Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nDuring the review of IACUC records, an adverse event was found involving the death of a rabbit that was associated with \nthe incorrect administration of an anesthetic medication. On April 10, 2025, a rabbit (#111) was undergoing a procedure \nfrom an IACUC approved protocol (RAB693) when the animal began to rouse from anesthesia. A technician quickly \nadministered a full dose of ketamine to the animal through an intravenous catheter in attempts to return the animal to a \nsurgical plane of anesthesia. Following the administration of the medication, the animal stopped breathing. A veterinarian \nwas quickly notified and the veterinary team attempted to resuscitate the rabbit, but it died acutely. The approved protocol \nallows for an additional dose of ketamine given subcutaneously if needed to maintain anesthesia throughout the \nprocedure. The intravenous administration of ketamine had not been approved.  \nIt is important for the IACUC to review and approve any significant changes regarding the care and use of animals in \nongoing research activities to ensure the well-being and humane treatment of all research animals. \nThe IACUC shall review and approve, require modifications (to secure approval), or withhold approval of proposed \nsignificant changes regarding the care and use of animals in ongoing activities. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nGLORIA MCFADDEN, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 120,
+  "species": [
+    {
+      "count": 33,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 46,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 28,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001317181",
+  "layout": "c",
+  "customer_id": "6022665",
+  "customer_name": "Franklin BioLabs",
+  "customer_addr": "411 Swedeland Road\nKing of Prussia, PA 19406",
+  "certificate": "23-R-0192",
+  "site_id": "001",
+  "site_name": "Franklin Biolaboratories",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-MAY-2025",
+  "report_date": "15-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the IACUC representatives. \n \n n",
+  "animals_total": 78,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 47,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 30,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001343105",
+  "layout": "c",
+  "customer_id": "6020622",
+  "customer_name": "Jane MacDonald",
+  "customer_addr": "139 Roundup Dr\nJohnston, SC 29832",
+  "certificate": "56-C-0289",
+  "site_id": "001",
+  "site_name": "Jane MacDonald",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-JUN-2025",
+  "report_date": "13-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus carolinensis",
+      "common": "EASTERN GREY SQUIRREL"
+    },
+    {
+      "count": 7,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Glaucomys volans",
+      "common": "SOUTHERN FLYING SQUIRREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Sciurus niger",
+      "common": "EASTERN FOX SQUIRREL"
+    }
+  ]
+}

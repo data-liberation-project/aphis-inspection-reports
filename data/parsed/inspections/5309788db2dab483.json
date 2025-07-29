@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001329133",
+  "layout": "c",
+  "customer_id": "1153",
+  "customer_name": "San Diego Mesa College",
+  "customer_addr": "7250 MESA COLLEGE DRIVE, P-300\nSAN DIEGO, CA 92111",
+  "certificate": "93-R-0124",
+  "site_id": "001",
+  "site_name": "SAN DIEGO MESA COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-MAY-2025",
+  "report_date": "02-JUN-2025",
+  "citations": [
+    {
+      "code": "3.150(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "On April 15, 2025, one of two pigeons in an outdoor aviary escaped its enclosure when a student entered to retrieve a\npigeon for a laboratory procedure. The pigeon flew away and was not returned to safety.\nEnclosures that do not have additional security measures are ineffective in protecting against flighted bird escapes.\nEscaped domesticated birds face increased dangers and challenges to their health and welfare ever present in the wild.\nHousing facilities for birds must be designed and constructed so that they are structurally sound for the species of bird\nhoused in them. They must be kept in good repair, protect the birds from injury, and restrict other animals from entering\nthat may negatively affect the welfare of the birds within. Housing facilities must employ security measures that contain all\nbirds securely. Such measures may include safety doors, entry/exit doors to the primary enclosure that are double-door,\nor other equivalent systems designed to prevent escape of the birds. Birds that are flight-restricted or cannot fly and are\nallowed to roam free within the housing facility or a portion thereof must have access to safety pens, enclosures, or other\nareas that offer the birds protection during overnight periods and at times when their activities are not monitored.\nCorrect by August 25, 2025.\nThis inspection and exit interview were conducted with the facility's authorized person.\nn"
+    }
+  ],
+  "narrative": "3.150(a)  Critical\n   \nFacilities, general. \nOn April 15, 2025, one of two pigeons in an outdoor aviary escaped its enclosure when a student entered to retrieve a \npigeon for a laboratory procedure. The pigeon flew away and was not returned to safety.  \n \nEnclosures that do not have additional security measures are ineffective in protecting against flighted bird escapes. \nEscaped domesticated birds face increased dangers and challenges to their health and welfare ever present in the wild. \n \nHousing facilities for birds must be designed and constructed so that they are structurally sound for the species of bird \nhoused in them. They must be kept in good repair, protect the birds from injury, and restrict other animals from entering \nthat may negatively affect the welfare of the birds within. Housing facilities must employ security measures that contain all \nbirds securely. Such measures may include safety doors, entry/exit doors to the primary enclosure that are double-door, \nor other equivalent systems designed to prevent escape of the birds. Birds that are flight-restricted or cannot fly and are \nallowed to roam free within the housing facility or a portion thereof must have access to safety pens, enclosures, or other \nareas that offer the birds protection during overnight periods and at times when their activities are not monitored.  \n \nCorrect by August 25, 2025. \n \nThis inspection and exit interview were conducted with the facility's authorized person. \n \n n",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX / WATUSI"
+    },
+    {
+      "count": 7,
+      "scientific": "Columba livia domestica",
+      "common": "DOMESTIC PIGEON INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Cathartes aura",
+      "common": "TURKEY VULTURE"
+    },
+    {
+      "count": 1,
+      "scientific": "Dacelo novaeguineae",
+      "common": "LAUGHING KOOKABURRA"
+    },
+    {
+      "count": 0,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    }
+  ]
+}

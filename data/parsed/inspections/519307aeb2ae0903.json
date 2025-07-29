@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001344291",
+  "layout": "c",
+  "customer_id": "308",
+  "customer_name": "State University Of New York",
+  "customer_addr": "WEISKOTTEN HALL, 766 IRVING AVENUE\nROOM 4159\nSYRACUSE, NY 13210",
+  "certificate": "21-R-0037",
+  "site_id": "001",
+  "site_name": "HEALTH SCIENCE CENTER AT SYRACUSE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-JUN-2025",
+  "report_date": "24-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 33,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001326840",
+  "layout": "c",
+  "customer_id": "1167",
+  "customer_name": "Beckman Coulter Inc.",
+  "customer_addr": "PO Box 938\nWinchester, CA 92596",
+  "certificate": "93-R-0074",
+  "site_id": "002",
+  "site_name": "BECKMAN COULTER, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAY-2025",
+  "report_date": "23-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 206,
+  "species": [
+    {
+      "count": 144,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 45,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 17,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
+}

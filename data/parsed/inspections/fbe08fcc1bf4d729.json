@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001326825",
+  "layout": "c",
+  "customer_id": "10174",
+  "customer_name": "Stew Leonard's",
+  "customer_addr": "99 Federal Rd\nDanbury, CT 06811",
+  "certificate": "16-C-0085",
+  "site_id": "003",
+  "site_name": "Stew Leonard's",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-MAY-2025",
+  "report_date": "22-MAY-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 42,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 5,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

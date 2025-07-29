@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001336681",
+  "layout": "c",
+  "customer_id": "884",
+  "customer_name": "TRS Labs Inc",
+  "customer_addr": "PO Box 168\nWatkinsville, GA 30677",
+  "certificate": "57-R-0015",
+  "site_id": "001",
+  "site_name": "TRS Labs Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-JUN-2025",
+  "report_date": "06-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 535,
+  "species": [
+    {
+      "count": 325,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 183,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 24,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

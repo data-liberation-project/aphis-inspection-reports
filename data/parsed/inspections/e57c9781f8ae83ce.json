@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001342009",
+  "layout": "c",
+  "customer_id": "3930",
+  "customer_name": "Texas Biomedical Research Institute",
+  "customer_addr": "PO Box 760549\nSAN ANTONIO, TX 78245",
+  "certificate": "74-A-0061",
+  "site_id": "001",
+  "site_name": "Texas Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUN-2025",
+  "report_date": "11-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nWilliam Snow, SUPERVISORY VETERINARY MEDICAL OFFICER \nGervais Edmonds-Wiggins, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1472,
+  "species": [
+    {
+      "count": 329,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 868,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 256,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 18,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    },
+    {
+      "count": 1,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    }
+  ]
+}

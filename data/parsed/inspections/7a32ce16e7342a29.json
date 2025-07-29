@@ -1,0 +1,93 @@
+{
+  "insp_id": "INS-0001323635",
+  "layout": "c",
+  "customer_id": "6018712",
+  "customer_name": "Rocky Mountain Raptor Program",
+  "customer_addr": "2519 S. Shields Street #1K-115\nFort Collins, CO 80526",
+  "certificate": "84-C-0174",
+  "site_id": "001",
+  "site_name": "Rocky Mountain Raptor Program",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAY-2025",
+  "report_date": "22-MAY-2025",
+  "citations": [
+    {
+      "code": "3.162(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live birds.",
+      "narrative": "The raptor transport enclosures used for programs do not provide enough ventilation. The transport enclosures have one\nline of ventilation holes at the bottom of each wall. The enclosure and holes were measured, and the calculated ventilation\nopenings are 2%, not the required 8% of the total surface area of each of the four walls.\nProper ventilation is important during transportation to ensure comfort, proper air circulation, and temperature regulation\nfor the birds housed within.\nUnless a primary enclosure is permanently affixed inside the transport vehicle, ventilation openings must be either 16% of\nthe total surface area of each of two walls or 8% of the surface area of each of the four walls.\nTo be corrected by 6/21/2025, or prior to transporting birds."
+    },
+    {
+      "code": "3.162(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live birds.",
+      "narrative": "The primary enclosures utilized to transport raptors do not feature external projecting rims or other devices to prevent\nobstruction of the ventilation holes on the bottom of the enclosures.\nProper ventilation is important during transportation to ensure comfort, proper air circulation, and temperature regulation\nfor the birds housed within.\nThe sides of the transport enclosures with ventilation openings must feature rims or similar devices large enough to\nprovide 0.75 inches between the enclosure and anything adjacent to it, unless 90% or greater of the surface area of the\nenclosure wall is open.\nTo be corrected by 6/21/2025, or prior to transporting birds.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.162(b)(1) \n   \nPrimary enclosures used to transport live birds. \nThe raptor transport enclosures used for programs do not provide enough ventilation. The transport enclosures have one \nline of ventilation holes at the bottom of each wall. The enclosure and holes were measured, and the calculated ventilation \nopenings are 2%, not the required 8% of the total surface area of each of the four walls.  \nProper ventilation is important during transportation to ensure comfort, proper air circulation, and temperature regulation \nfor the birds housed within. \nUnless a primary enclosure is permanently affixed inside the transport vehicle, ventilation openings must be either 16% of \nthe total surface area of each of two walls or 8% of the surface area of each of the four walls.  \nTo be corrected by 6/21/2025, or prior to transporting birds. \n3.162(b)(2) \n   \nPrimary enclosures used to transport live birds. \nThe primary enclosures utilized to transport raptors do not feature external projecting rims or other devices to prevent \nobstruction of the ventilation holes on the bottom of the enclosures. \nProper ventilation is important during transportation to ensure comfort, proper air circulation, and temperature regulation \nfor the birds housed within. \nThe sides of the transport enclosures with ventilation openings must feature rims or similar devices large enough to \nprovide 0.75 inches between the enclosure and anything adjacent to it, unless 90% or greater of the surface area of the \nenclosure wall is open.  \nTo be corrected by 6/21/2025, or prior to transporting birds. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Accipiter gentilis",
+      "common": "NORTHERN GOSHAWK"
+    },
+    {
+      "count": 3,
+      "scientific": "Falco sparverius",
+      "common": "AMERICAN KESTREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Haliaeetus leucocephalus",
+      "common": "BALD EAGLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Megascops asio",
+      "common": "EASTERN SCREECH-OWL"
+    },
+    {
+      "count": 4,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo regalis",
+      "common": "FERRUGINOUS HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Aquila chrysaetos",
+      "common": "GOLDEN EAGLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco columbarius",
+      "common": "MERLIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Buteo swainsoni",
+      "common": "SWAINSON'S HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Megascops kennicottii",
+      "common": "WESTERN SCREECH-OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cathartes aura",
+      "common": "TURKEY VULTURE"
+    }
+  ]
+}

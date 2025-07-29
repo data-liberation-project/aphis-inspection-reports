@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001326925",
+  "layout": "c",
+  "customer_id": "228",
+  "customer_name": "Battelle Memorial Institute",
+  "customer_addr": "505 KING AVENUE ROOM NO. 11-8-070\nCOLUMBUS, OH 43201",
+  "certificate": "31-R-0021",
+  "site_id": "002",
+  "site_name": "BATTELLE BIOMEDICAL RESEARCH CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-MAY-2025",
+  "report_date": "30-MAY-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The facility self-reported a deviation in a protocol previously approved by the Institutional Animal Care and Use\nCommittee (IACUC) in a letter to the Office of Laboratory Animal Welfare (OLAW), upon which the USDA was also\nincluded. On December 2, 2024, an ocular study involving 43 rabbits was IACUC-approved for a 90 second exposure\nduration, however the calculation for the elapsed exposure time was inadvertently not updated from 120 seconds in the\nExcel spreadsheet used on previous studies. Failure of staff to update the exposure time in the Excel spreadsheet\nresulted in the deviation from the IACUC-approved protocol. Additionally, a male rabbit was inadvertently introduced into\nthe study, which had been specifically approved for female rabbits only, resulting in a need to repeat the study. Medical\nrecords evaluated by the USDA inspector for the affected animals did not indicate any untoward effects to the animals\nfrom this deviation in the protocol. The facility has a standard ocular exposure study which uses 120 seconds of exposure.\nThis particular study was requested and approved for 90 seconds of exposure, which was where the accidental deviation\noriginated.\nIn response to the incident, the IACUC implemented and approved the following corrective actions: use of locking\nspreadsheet calculators, version control of study forms, and quality control along with using a revised chart for study\ndirectors. Additionally, two individuals will now be involved in the study flow and the charts outlining the sexing of rabbits\nhave been updated with additional information. Staff have been informed of these changes.\nCorrect by May 29, 2025, onward. Corrective actions by the facility have been taken prior to the time of inspection.\nThis inspection was conducted with the IACUC Vice Chair and a Clinical Veterinarian. The exit interview was conducted\nwith the Attending Veterinarian, Clinical Veterinarians, IACUC representatives, and additional facility representatives via\nTeams.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe facility self-reported a deviation in a protocol previously approved by the Institutional Animal Care and Use \nCommittee (IACUC) in a letter to the Office of Laboratory Animal Welfare (OLAW), upon which the USDA was also \nincluded. On December 2, 2024, an ocular study involving 43 rabbits was IACUC-approved for a 90 second exposure \nduration, however the calculation for the elapsed exposure time was inadvertently not updated from 120 seconds in the \nExcel spreadsheet used on previous studies. Failure of staff to update the exposure time in the Excel spreadsheet \nresulted in the deviation from the IACUC-approved protocol. Additionally, a male rabbit was inadvertently introduced into \nthe study, which had been specifically approved for female rabbits only, resulting in a need to repeat the study. Medical \nrecords evaluated by the USDA inspector for the affected animals did not indicate any untoward effects to the animals \nfrom this deviation in the protocol. The facility has a standard ocular exposure study which uses 120 seconds of exposure. \nThis particular study was requested and approved for 90 seconds of exposure, which was where the accidental deviation \noriginated. \n \nIn response to the incident, the IACUC implemented and approved the following corrective actions: use of locking \nspreadsheet calculators, version control of study forms, and quality control along with using a revised chart for study \ndirectors. Additionally, two individuals will now be involved in the study flow and the charts outlining the sexing of rabbits \nhave been updated with additional information. Staff have been informed of these changes. \n \nCorrect by May 29, 2025, onward. Corrective actions by the facility have been taken prior to the time of inspection. \n \nThis inspection was conducted with the IACUC Vice Chair and a Clinical Veterinarian. The exit interview was conducted \nwith the Attending Veterinarian, Clinical Veterinarians, IACUC representatives, and additional facility representatives via \nTeams. \n \n n",
+  "animals_total": 151,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 9,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 79,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 4,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    }
+  ]
+}

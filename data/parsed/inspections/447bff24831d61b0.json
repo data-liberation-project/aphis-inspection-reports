@@ -1,0 +1,140 @@
+{
+  "insp_id": "INS-0001350748",
+  "layout": "c",
+  "customer_id": "2413",
+  "customer_name": "PETER TOLLAKSEN",
+  "customer_addr": "2183 WISCONSIN DELLS PARKWAY\nWISC DELLS, WI 53965",
+  "certificate": "35-C-0078",
+  "site_id": "001",
+  "site_name": "PETER R TOLLAKSEN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "23-JUN-2025",
+  "report_date": "24-JUN-2025",
+  "citations": [
+    {
+      "code": "2.134(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "The facility's contingency plan has not been reviewed on an annual basis to determine if it adequately addresses possible\nsituations that could occur at the facility. An updated contingency plan for the animal facility helps facilities prevent,\nprepare and plan for possible emergency situations. Ensure that the facility contingency plan is reviewed and updated (in\nwriting) as necessary but no less than annually.\n***Correct by 18-July-2025."
+    },
+    {
+      "code": "3.81",
+      "kind": "",
+      "repeat": false,
+      "desc": "Environment enhancement to promote psychological well-being.",
+      "narrative": "An updated and documented plan for environmental enhancement for the non-human primates at the facility was not\navailable. The plan in place was approved by the facilities' previous attending veterinarian (AV). An approved\nenvironmental (enrichment) plan that addresses the social needs and physical environment of the non-human primates is\nimportant to ensure they can express their species-typical behaviors in their enclosure on a regular basis. Ensure to\ncontact the AV to develop and document and approved plan for the environmental enhancement for non-human primates.\n***Correct by 15-July-2025."
+    },
+    {
+      "code": "3.154",
+      "kind": "",
+      "repeat": true,
+      "desc": "Environment enhancement to promote psychological well-being.",
+      "narrative": "A written program of environmental enhancement for birds that has been approved by the attending veterinarian was not\navailable for inspection. A written plan that addresses environment and social housing of birds is required to be in place\nand approved by the attending veterinarian to ensure that each bird species is allowed species-typical behaviors. Ensure\nto contact the attending veterinarian (AV) to develop and document a plan that is approved by the AV.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.134(b) \n   \nContingency planning. \nThe facility's contingency plan has not been reviewed on an annual basis to determine if it adequately addresses possible \nsituations that could occur at the facility. An updated contingency plan for the animal facility helps facilities prevent, \nprepare and plan for possible emergency situations. Ensure that the facility contingency plan is reviewed and updated (in \nwriting) as necessary but no less than annually.  \n***Correct by 18-July-2025. \n3.81 \n   \nEnvironment enhancement to promote psychological well-being. \nAn updated and documented plan for environmental enhancement for the non-human primates at the facility was not \navailable. The plan in place was approved by the facilities' previous attending veterinarian (AV). An approved \nenvironmental (enrichment) plan that addresses the social needs and physical environment of the non-human primates is \nimportant to ensure they can express their species-typical behaviors in their enclosure on a regular basis. Ensure to \ncontact the AV to develop and document and approved plan for the environmental enhancement for non-human primates.  \n***Correct by 15-July-2025. \n3.154  Repeat\n   \nEnvironment enhancement to promote psychological well-being. \nA written program of environmental enhancement for birds that has been approved by the attending veterinarian was not \navailable for inspection. A written plan that addresses environment and social housing of birds is required to be in place \nand approved by the attending veterinarian to ensure that each bird species is allowed species-typical behaviors. Ensure \nto contact the attending veterinarian (AV) to develop and document a plan that is approved by the AV. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 296,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 21,
+      "scientific": "Cervus nippon",
+      "common": "SIKA DEER"
+    },
+    {
+      "count": 119,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 59,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 2,
+      "scientific": "Cervus canadensis",
+      "common": "ELK / WAPITI"
+    },
+    {
+      "count": 2,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 19,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 1,
+      "scientific": "Meleagris gallopavo",
+      "common": "WILD TURKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Rhea americana",
+      "common": "GREATER RHEA / AMERICAN RHEA"
+    },
+    {
+      "count": 2,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 25,
+      "scientific": "Columba livia",
+      "common": "ROCK PIGEON"
+    },
+    {
+      "count": 6,
+      "scientific": "Pavo cristatus",
+      "common": "INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /"
+    },
+    {
+      "count": 4,
+      "scientific": "Chrysolophus pictus",
+      "common": "GOLDEN PHEASANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Numida meleagris",
+      "common": "DOMESTIC GUINEAFOWL / HELMETED GUINEAFOWL /"
+    },
+    {
+      "count": 1,
+      "scientific": "Muntiacus vaginalis",
+      "common": "NORTHERN RED MUNTJAC"
+    }
+  ]
+}

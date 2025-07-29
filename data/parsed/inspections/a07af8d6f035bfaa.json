@@ -1,0 +1,68 @@
+{
+  "insp_id": "INS-0001339845",
+  "layout": "c",
+  "customer_id": "108",
+  "customer_name": "General Hospital Corporation",
+  "customer_addr": "RES MGMT 149 13TH ST # 5249\nCHARLESTOWN, MA 02129",
+  "certificate": "14-R-0014",
+  "site_id": "001",
+  "site_name": "M G H MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-JUN-2025",
+  "report_date": "11-JUN-2025",
+  "citations": [
+    {
+      "code": "2.32(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "On January 12, 2025, a cynomolgus macaque covered under protocol XX174 was administered a medication by study\npersonnel intended for a cynomolgus macaque covered under protocol XX018. There were no adverse effects attributed\nto the erroneous administration of the medication to this primate observed by veterinary staff.\nAdditionally, on January 29, 2025, a cynomolgus macaque was incorrectly sedated by study personnel. Although this\nactivity was permitted under the protocol (XX129), this macaque was not intended to be sedated at this time. The\nmacaque recovered uneventfully and demonstrated no adverse effects associated with administration of the sedatives.\nThe facility must ensure that training and instruction are made available, and the qualifications of personnel reviewed, with\nsufficient frequency to fulfill the research facility's responsibilities.\nThese incidents were reported to the IACUC, and corrective measures were implemented prior to the inspection such as\nretraining study personnel on proper identification of animals. To remain corrected after June 6, 2025."
+    },
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On September 13, 2024, 14 ferrets underwent anesthesia approved under protocol XX126. Reversal of the anesthesia\nwas provided in accordance with the protocol. However, expired atipamezole (Antisedan) (expired January 2021) was\nused for this reversal. No adverse effects were reported by veterinary staff and the animals were reversed from the\nanesthesia as expected.\nThe use of expired medications does not constitute the standard of care as they may not be safe or effective. The facility\nmust ensure that it maintains programs of adequate veterinary care that include the use of appropriate methods to\nprevent, control, diagnose, and treat diseases and injuries. This incident was reported to the IACUC, and corrective\nmeasures were implemented prior to the inspection. To remain corrected after June 6, 2025.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nTonya Hadjis, Supervisory Animal Care Specialist n"
+    }
+  ],
+  "narrative": "2.32(b) \n   \nPersonnel qualifications. \nOn January 12, 2025, a cynomolgus macaque covered under protocol XX174 was administered a medication by study \npersonnel intended for a cynomolgus macaque covered under protocol XX018. There were no adverse effects attributed \nto the erroneous administration of the medication to this primate observed by veterinary staff. \n \nAdditionally, on January 29, 2025, a cynomolgus macaque was incorrectly sedated by study personnel. Although this \nactivity was permitted under the protocol (XX129), this macaque was not intended to be sedated at this time. The \nmacaque recovered uneventfully and demonstrated no adverse effects associated with administration of the sedatives. \n \nThe facility must ensure that training and instruction are made available, and the qualifications of personnel reviewed, with \nsufficient frequency to fulfill the research facility's responsibilities.  \n \nThese incidents were reported to the IACUC, and corrective measures were implemented prior to the inspection such as \nretraining study personnel on proper identification of animals. To remain corrected after June 6, 2025. \n2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nOn September 13, 2024, 14 ferrets underwent anesthesia approved under protocol XX126. Reversal of the anesthesia \nwas provided in accordance with the protocol. However, expired atipamezole (Antisedan) (expired January 2021) was \nused for this reversal. No adverse effects were reported by veterinary staff and the animals were reversed from the \nanesthesia as expected.  \n \nThe use of expired medications does not constitute the standard of care as they may not be safe or effective. The facility \nmust ensure that it maintains programs of adequate veterinary care that include the use of appropriate methods to \nprevent, control, diagnose, and treat diseases and injuries. This incident was reported to the IACUC, and corrective \nmeasures were implemented prior to the inspection. To remain corrected after June 6, 2025. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nAdditional Inspectors: \nTonya Hadjis, Supervisory Animal Care Specialist n",
+  "animals_total": 143,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 39,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 70,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 10,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

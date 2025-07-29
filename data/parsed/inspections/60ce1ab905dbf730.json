@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001343168",
+  "layout": "c",
+  "customer_id": "369",
+  "customer_name": "Lampire Biological Laboratories Inc",
+  "customer_addr": "P.O. Box 270\nPipersville, PA 18947",
+  "certificate": "23-R-0122",
+  "site_id": "001",
+  "site_name": "LAMPIRE BIOLOGICAL LABORATORIES",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "12-JUN-2025",
+  "report_date": "13-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 41,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

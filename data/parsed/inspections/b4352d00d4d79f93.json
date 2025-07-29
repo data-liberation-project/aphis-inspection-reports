@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001326871",
+  "layout": "c",
+  "customer_id": "69",
+  "customer_name": "Georgetown University",
+  "customer_addr": "3950 RESERVOIR RD, NW\nBASIC SCIENCE ROOM G05\nWASHINGTON, DC 20057",
+  "certificate": "10-R-0004",
+  "site_id": "001",
+  "site_name": "GEORGETOWN UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "22-MAY-2025",
+  "report_date": "05-JUN-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 15,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 3,
+      "scientific": "Marmota monax",
+      "common": "GROUNDHOG / WOODCHUCK"
+    }
+  ]
+}
