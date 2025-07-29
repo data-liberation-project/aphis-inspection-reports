@@ -90,7 +90,7 @@ def get_top_section(page: pdfplumber.page.Page, layout: str) -> dict[str, typing
         return norm_ws(m.group(1) or "")
 
     return {
-        "customer_id": extract_right(r"Customer ID: *(\d+)"),
+        "customer_id": extract_right(r"Customer ID: *(\d+|\n)"),
         "customer_name": left_text.split("\n")[0],
         "customer_addr": "\n".join(left_text.split("\n")[1:]),
         "certificate": extract_right(
