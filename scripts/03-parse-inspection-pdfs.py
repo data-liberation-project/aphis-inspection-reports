@@ -173,6 +173,13 @@ class Citation:
             raise Exception(text)
         self.code, self.kind, self.status = match.groups()
 
+    def add_sylfaen(self, text: str) -> None:
+        match = re.search(r"^(Direct|Critical)?\s*(Repeat)?$", text, re.I)
+        if not match:
+            raise Exception(text)
+        self.kind = self.kind or match.group(1)
+        self.status = self.status or match.group(2)
+
     def add_desc(self, text: str) -> None:
         assert self.heading
         assert not self.narrative
@@ -225,6 +232,10 @@ def get_report_body(
                     citations.append(Citation())
 
                 citations[-1].add_bolded(text)
+            # Handle edge-case where citation status is in nonstandard "Sylfaen" font
+            # via hash_id:bbb5c523d8436799
+            elif "Sylfaen" in first["fontname"]:
+                citations[-1].add_sylfaen(text)
             else:
                 if len(citations):
                     citations[-1].add_narrative(text)
