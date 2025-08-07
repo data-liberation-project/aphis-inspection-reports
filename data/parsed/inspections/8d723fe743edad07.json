@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001356167",
+  "layout": "c",
+  "customer_id": "2100",
+  "customer_name": "Wildlife Conservation Society",
+  "customer_addr": "2300 Southern Boulevard\nBronx, NY 10460",
+  "certificate": "21-C-0020",
+  "site_id": "002",
+  "site_name": "New York Aquarium",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-JUN-2025",
+  "report_date": "02-JUL-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 58,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 5,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 36,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Himantopus mexicanus",
+      "common": "BLACK-NECKED STILT"
+    }
+  ]
+}

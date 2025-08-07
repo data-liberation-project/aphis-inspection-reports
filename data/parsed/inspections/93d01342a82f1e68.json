@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001300985",
+  "layout": "c",
+  "customer_id": "249",
+  "customer_name": "NAMSA, LLC",
+  "customer_addr": "6750 Wales Road\nNorthwood, OH 43619",
+  "certificate": "31-R-0068",
+  "site_id": "001",
+  "site_name": "NAMSA INC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-APR-2025",
+  "report_date": "01-MAY-2025",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "The handling of animals at the facility was not being performed in a manner to prevent trauma or physical harm. On 4\nJune 2024 a rabbit being used in an IACUC approved protocol sustained injuries after jumping out of an employee\u2019s\nhands during manual restraint while unwrapping an applied bandage utilized as described in the protocol. The rabbit\nlanded on the corner of the restraint device on its side and then landed on the ground. The animal was observed twitching\nand going in and out of consciousness. The animal died shortly after the incident. The necropsy report dated 4 June 2024\nrevealed the cause of death as a pulmonary contusion with subsequent hemorrhaging due to laceration from fractured\nribs.\nThe facility was unable to ensure that all animals being handled were done in a manner that does not cause trauma or\nphysical harm. The registrant must ensure that the handling of all animals by personnel shall be done as expeditiously\nand carefully as possible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress,\nphysical harm, or unnecessary discomfort.\nCorrective measures had been implemented prior to inspection including but not limited to additional employee retraining,\npersonnel actions, and developing a new injury investigative method to track patterns or issues with employees regarding\njob performance. The facility states no incidents have been observed following implementation of corrective actions.\nThere were no additional handling non-compliances observed at the time of inspection.\nTo remain corrected from 30 April 2025 forward.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1)  Critical\n   \nMiscellaneous. \nThe handling of animals at the facility was not being performed in a manner to prevent trauma or physical harm. On 4 \nJune 2024 a rabbit being used in an IACUC approved protocol sustained injuries after jumping out of an employee\u2019s \nhands during manual restraint while unwrapping an applied bandage utilized as described in the protocol. The rabbit \nlanded on the corner of the restraint device on its side and then landed on the ground. The animal was observed twitching \nand going in and out of consciousness. The animal died shortly after the incident. The necropsy report dated 4 June 2024 \nrevealed the cause of death as a pulmonary contusion with subsequent hemorrhaging due to laceration from fractured \nribs.  \n \nThe facility was unable to ensure that all animals being handled were done in a manner that does not cause trauma or \nphysical harm. The registrant must ensure that the handling of all animals by personnel shall be done as expeditiously \nand carefully as possible in a manner that does not cause trauma, overheating, excessive cooling, behavioral stress, \nphysical harm, or unnecessary discomfort.  \n \nCorrective measures had been implemented prior to inspection including but not limited to additional employee retraining, \npersonnel actions, and developing a new injury investigative method to track patterns or issues with employees regarding \njob performance. The facility states no incidents have been observed following implementation of corrective actions. \nThere were no additional handling non-compliances observed at the time of inspection.  \n \nTo remain corrected from 30 April 2025 forward. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 4083,
+  "species": [
+    {
+      "count": 2862,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 40,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 1175,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
