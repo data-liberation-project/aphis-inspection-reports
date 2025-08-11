@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001363812",
+  "layout": "c",
+  "customer_id": "147",
+  "customer_name": "Labcorp Bedford LLC",
+  "customer_addr": "15 Wiggins Ave\nBedford, MA 01730",
+  "certificate": "14-R-0101",
+  "site_id": "001",
+  "site_name": "Labcorp Bedford LLC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "10-JUL-2025",
+  "report_date": "14-JUL-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 1019,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 795,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 207,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
