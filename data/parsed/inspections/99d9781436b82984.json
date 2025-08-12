@@ -1,0 +1,71 @@
+{
+  "insp_id": "INS-0001364949",
+  "layout": "c",
+  "customer_id": "6021337",
+  "customer_name": "IAM Old Forge, LLC",
+  "customer_addr": "13506 Summerport Village Parkway #810\nWindermere, FL 34786",
+  "certificate": "58-C-1310",
+  "site_id": "001",
+  "site_name": "IAM Old Forge, LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUL-2025",
+  "report_date": "15-JUL-2025",
+  "citations": [
+    {
+      "code": "3.125(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The goat feed was being stored in a container without a lid. This could allow the food to become contaminated or allow\nvermin access. Food must be stored in a manner which adequately protects against deterioration, molding or\ncontamination by vermin. The facility corrected the issue by switching the food storage container with one which had a\ntight fitting lid.\n*********Corrected on July 7, 2025 at the time of inspection\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.125(c) \n   \nFacilities, general. \nThe goat feed was being stored in a container without a lid. This could allow the food to become contaminated or allow \nvermin access. Food must be stored in a manner which adequately protects against deterioration, molding or \ncontamination by vermin. The facility corrected the issue by switching the food storage container with one which had a \ntight fitting lid.  \n*********Corrected on July 7, 2025 at the time of inspection \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 30,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Pavo cristatus",
+      "common": "INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /"
+    },
+    {
+      "count": 3,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 3,
+      "scientific": "Phasianus colchicus",
+      "common": "RING-NECKED PHEASANT / COMMON PHEASANT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 4,
+      "scientific": "Meleagris gallopavo domesticus",
+      "common": "DOMESTIC TURKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Alectoris chukar",
+      "common": "CHUKAR"
+    }
+  ]
+}
