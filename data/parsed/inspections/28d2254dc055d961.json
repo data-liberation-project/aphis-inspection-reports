@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001379700",
+  "layout": "c",
+  "customer_id": "6023229",
+  "customer_name": "University of Nebraska Medical Center",
+  "customer_addr": "985810 NEBRASKA MEDICAL CENTER\nOMAHA, NE 68198",
+  "certificate": "47-R-0018",
+  "site_id": "001",
+  "site_name": "NEBRASKA MEDICAL CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-JUL-2025",
+  "report_date": "25-JUL-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 43,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 26,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
