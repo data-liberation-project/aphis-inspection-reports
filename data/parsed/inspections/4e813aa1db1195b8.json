@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001381978",
+  "layout": "c",
+  "customer_id": "495",
+  "customer_name": "University Of Virginia",
+  "customer_addr": "PO BOX 400301\nOFFICE OF THE VICE PRESIDENT FOR RESEARCH\nCHARLOTTESVILLE, VA 22904",
+  "certificate": "52-R-0011",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF VIRGINIA",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JUL-2025",
+  "report_date": "01-AUG-2025",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A modification was made to Protocol 4194 by the researcher without prior approval by the IACUC or the veterinary staff\nthrough an established Veterinary Verification and Consultation (VVC). According to the protocol, rabbits undergoing\nsurgery will receive buprenorphine as a pain medication as well as a perioperative dose of a non-steroidal anti-\ninflammatory (NSAID). According to surgical records, rabbits are only receiving buprenorphine and no NSAID. According\nto the facility, a VVC was implemented earlier this year to remove NSAIDs from the protocol due to their potential GI side-\neffects in rabbits. However, rabbits underwent the protocol prior to the enactment of the VVC and still received no\nNSAIDs. Significant changes to a protocol such as a change to analgesia must be approved by either a veterinarian\nthrough a pre-established VVC program, or the IACUC before being implemented to ensure standard of care is being\nmaintained. Correct by 29 August 2025 by ensuring any significant changes to animal care and use in an approved\nprotocol are submitted to the IACUC or through an approved VVC to allow for review and approval, approval with\nmodifications, or withholding of approval. If a change is made through a VVC, that consultation and change must be\ndocumented.\nThis inspection and exit interview were conducted with the Attending Veterinarian, Chief Clinical Veterinarian, and IACUC\nAdministrator.\nAdditional Inspectors:\nMoira Roberts, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nA modification was made to Protocol 4194 by the researcher without prior approval by the IACUC or the veterinary staff \nthrough an established Veterinary Verification and Consultation (VVC). According to the protocol, rabbits undergoing \nsurgery will receive buprenorphine as a pain medication as well as a perioperative dose of a non-steroidal anti-\ninflammatory (NSAID). According to surgical records, rabbits are only receiving buprenorphine and no NSAID. According \nto the facility, a VVC was implemented earlier this year to remove NSAIDs from the protocol due to their potential GI side-\neffects in rabbits. However, rabbits underwent the protocol prior to the enactment of the VVC and still received no \nNSAIDs. Significant changes to a protocol such as a change to analgesia must be approved by either a veterinarian \nthrough a pre-established VVC program, or the IACUC before being implemented to ensure standard of care is being \nmaintained. Correct by 29 August 2025 by ensuring any significant changes to animal care and use in an approved \nprotocol are submitted to the IACUC or through an approved VVC to allow for review and approval, approval with \nmodifications, or withholding of approval. If a change is made through a VVC, that consultation and change must be \ndocumented. \n \nThis inspection and exit interview were conducted with the Attending Veterinarian, Chief Clinical Veterinarian, and IACUC \nAdministrator. \n \nAdditional Inspectors: \nMoira Roberts, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 1659,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 34,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 17,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1212,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 395,
+      "scientific": "Zonotrichia leucophrys",
+      "common": "WHITE-CROWNED SPARROW"
+    }
+  ]
+}
