@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001386284",
+  "layout": "c",
+  "customer_id": "146",
+  "customer_name": "McLean Hospital Corporation",
+  "customer_addr": "115 MILL STREET\nBELMONT, MA 02478",
+  "certificate": "14-R-0096",
+  "site_id": "001",
+  "site_name": "McLean Hospital",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JUL-2025",
+  "report_date": "04-AUG-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 66,
+  "species": [
+    {
+      "count": 17,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 15,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 34,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}
