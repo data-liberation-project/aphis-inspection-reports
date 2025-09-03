@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001387379",
+  "layout": "c",
+  "customer_id": "2",
+  "customer_name": "Utah State University",
+  "customer_addr": "V.P. FOR RESEARCH/1450 OLD MAIN HILL\nLOGAN, UT 84322",
+  "certificate": "87-R-0002",
+  "site_id": "001",
+  "site_name": "UTAH STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-JUL-2025",
+  "report_date": "06-AUG-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Four out of fourteen protocols reviewed did not provide sufficient written detail and descriptions of planned animal\nactivities to allow for a complete review of proposed activities by the IACUC to ensure humane care and use of animals. A\nprotocol deviation was discovered on Dec 12, 2024 where guinea pigs were subjected to activities that were not included\non their current protocol. Reporting, investigation, and corrective actions and monitoring were implemented for this\nprotocol.\nLack of completeness in protocols can lead to an incomplete review of the proposed activity by the IACUC and can lead\nto lack of clarity about what is allowed as approved activity.\nProposed protocols must contain sufficient detail and clarity of animal care and use activity to allow the IACUC to conduct\na thorough review of all proposed activities.\nTo be corrected by 10/1/2025.\nA focused inspection of AALAC accredited areas and a routine inspection of non-AALAC areas was conducted.\nThe exit interview was conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nFour out of fourteen protocols reviewed did not provide sufficient written detail and descriptions of planned animal \nactivities to allow for a complete review of proposed activities by the IACUC to ensure humane care and use of animals. A \nprotocol deviation was discovered on Dec 12, 2024 where guinea pigs were subjected to activities that were not included \non their current protocol. Reporting, investigation, and corrective actions and monitoring were implemented for this \nprotocol.  \nLack of completeness in protocols can lead to an incomplete review of the proposed activity by the IACUC and can lead \nto lack of clarity about what is allowed as approved activity. \nProposed protocols must contain sufficient detail and clarity of animal care and use activity to allow the IACUC to conduct \na thorough review of all proposed activities. \nTo be corrected by 10/1/2025. \n \nA focused inspection of AALAC accredited areas and a routine inspection of non-AALAC areas was conducted.  \nThe exit interview was conducted with facility representative. \n \n n",
+  "animals_total": 168,
+  "species": [
+    {
+      "count": 92,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 76,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 0,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
