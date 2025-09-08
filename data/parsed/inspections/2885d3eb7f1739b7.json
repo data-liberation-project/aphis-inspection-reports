@@ -1,0 +1,92 @@
+{
+  "insp_id": "INS-0001388514",
+  "layout": "c",
+  "customer_id": "30770",
+  "customer_name": "Cruzin Critters",
+  "customer_addr": "15848 Lombardy Ave Turlock\nTurlcok, CA 95380",
+  "certificate": "93-C-1077",
+  "site_id": "001",
+  "site_name": "Cruzin Critters",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-AUG-2025",
+  "report_date": "11-AUG-2025",
+  "citations": [
+    {
+      "code": "3.31(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "The facility described cleaning procedure did not match the last recorded sanitization record of Mar 6th 2025. Routine\nsanitization of the primary enclosures with a safe and effective disinfectant prevents the spread of disease and ensures\nthe welfare of the animals. Enclosures shall be sanitized at least once every 2 weeks.\nCorrect by: 13 Aug 2025"
+    },
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "Hazardous conditions were noted in the Serval and Porcupine enclosures. There were several unprotected power cords\nin the room in which the Serval was being housed. The Serval is currently free to roam inside a bedroom of the house\nwhen outdoor temperatures are >100 deg F. Several charging cords, a fan power cord, and a heater power cord are all\nplugged in and accessible to the Serval. There were also several exposed sharp edges on the plastic wire wheel in the\nporcupine enclosure. Sharp edges and power cords are a potential risk to the health and welfare of the animals.\nEnclosures must be maintained in good repair and protect the animals from injury.\nCorrect by: 15 Aug 2025"
+    },
+    {
+      "code": "3.131(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "The Kinkajou enclosure was unsanitary, containing excessive amounts of feces and soiled straw. Enclosures with\nunsanitary conditions and excessive amounts of feces put the animals at risk of increased disease exposure due to\ncontact with feces and potential flying and ground pests. The regulations state that excreta shall be removed from primary\nenclosures as often as necessary to prevent contamination of the animals contained therein and to minimize disease\nhazards and to reduce odors.\nCorrect by: 12 Aug 2025"
+    },
+    {
+      "code": "3.131(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "The current pest control program is ineffective. Rodent droppings were observed on and around the milk crate containing\nclean food bowls as well as on top of a chest freezer in the food preparation area. The facility currently uses peanut\nbutter-based recipe deterrent. Pests such as small rodents can spread disease and contaminate food. A safe and\neffective program for the control of insects, ectoparasites, and avian and mammalian pests shall be established and\nmaintained.\nCorrect by 12 August 2025.\nThis inspection and exit interview were conducted with Facility Representative.\nn"
+    }
+  ],
+  "narrative": "3.31(a) \n   \nSanitation. \nThe facility described cleaning procedure did not match the last recorded sanitization record of Mar 6th 2025. Routine \nsanitization of the primary enclosures with a safe and effective disinfectant prevents the spread of disease and ensures \nthe welfare of the animals. Enclosures shall be sanitized at least once every 2 weeks. \nCorrect by: 13 Aug 2025 \n3.125(a) \n   \nFacilities, general. \nHazardous conditions were noted in the Serval and Porcupine enclosures. There were several unprotected power cords \nin the room in which the Serval was being housed. The Serval is currently free to roam inside a bedroom of the house \nwhen outdoor temperatures are >100 deg F. Several charging cords, a fan power cord, and a heater power cord are all \nplugged in and accessible to the Serval. There were also several exposed sharp edges on the plastic wire wheel in the \nporcupine enclosure. Sharp edges and power cords are a potential risk to the health and welfare of the animals. \nEnclosures must be maintained in good repair and protect the animals from injury.  \nCorrect by: 15 Aug 2025 \n3.131(a) \n   \nSanitation. \nThe Kinkajou enclosure was unsanitary, containing excessive amounts of feces and soiled straw. Enclosures with \nunsanitary conditions and excessive amounts of feces put the animals at risk of increased disease exposure due to \ncontact with feces and potential flying and ground pests. The regulations state that excreta shall be removed from primary \nenclosures as often as necessary to prevent contamination of the animals contained therein and to minimize disease \nhazards and to reduce odors.  \nCorrect by: 12 Aug 2025 \n3.131(d) \n   \nSanitation.\n\nThe current pest control program is ineffective. Rodent droppings were observed on and around the milk crate containing \nclean food bowls as well as on top of a chest freezer in the food preparation area. The facility currently uses peanut \nbutter-based recipe deterrent. Pests such as small rodents can spread disease and contaminate food. A safe and \neffective program for the control of insects, ectoparasites, and avian and mammalian pests shall be established and \nmaintained.  \nCorrect by 12 August 2025. \n \nThis inspection and exit interview were conducted with Facility Representative. \n \n n",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Potos flavus",
+      "common": "KINKAJOU"
+    },
+    {
+      "count": 1,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 1,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    }
+  ]
+}
