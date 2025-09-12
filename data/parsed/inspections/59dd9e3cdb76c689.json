@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001398265",
+  "layout": "c",
+  "customer_id": "23435",
+  "customer_name": "Mo Beeler",
+  "customer_addr": "20032 E. 6th Road\nRaymond, IL 62560",
+  "certificate": "33-C-0530",
+  "site_id": "TRA",
+  "site_name": "Mo Beeler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-AUG-2025",
+  "report_date": "15-AUG-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection at Illinois State Fair in Sangamon County. \n \nThis inspection and exit interview were conducted with licensee. \n \n n",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos indicus",
+      "common": "ZEBU"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 1,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus asinus asinus",
+      "common": "DONKEY / BURRO / ASS"
+    }
+  ]
+}
