@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001402680",
+  "layout": "c",
+  "customer_id": "878",
+  "customer_name": "Southern Research Institute",
+  "customer_addr": "2000 9th Avenue South\nP.O. Box 55305\nBirmingham, AL 35205",
+  "certificate": "64-R-0001",
+  "site_id": "001",
+  "site_name": "Southern Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-AUG-2025",
+  "report_date": "19-AUG-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 239,
+  "species": [
+    {
+      "count": 117,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 72,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 50,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

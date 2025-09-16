@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001398237",
+  "layout": "c",
+  "customer_id": "6019921",
+  "customer_name": "Lake Tahoe Wildlife Care",
+  "customer_addr": "PO Box 18530\nSouth Lake Tahoe, CA 96151",
+  "certificate": "93-C-1202",
+  "site_id": "001",
+  "site_name": "Lake Tahoe Wildlife Care",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "13-AUG-2025",
+  "report_date": "19-AUG-2025",
+  "citations": [
+    {
+      "code": "3.162(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live birds.",
+      "narrative": "The transport carriers for both birds only had two small vents, one on each opposing side, which did not comprise 16% of\nthe surface area of the wall. There must be ventilation openings located on two vertical walls of the primary enclosure that\nare at least 16% of the surface area of such wall or ventilation openings on all four walls of the primary enclosure that are\nat least 8% of the total surface area of each such wall.\nCorrect by 31 August 2025"
+    },
+    {
+      "code": "3.162(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures used to transport live birds.",
+      "narrative": "Neither of the enclosures for the birds had the required projecting rims or other devices on the exterior of the outside walls\nwith any ventilation openings. The projecting rims or similar devices must be large enough to provide a minimum air\ncirculation space of 0.75 inches between the primary enclosure and anything the enclosure is adjacent to, unless 90% or\ngreater of the surface area of the enclosure wall is open.\nCorrect by 31 August 2025\nThis inspection and exit interview were conducted with the manager.\nn"
+    }
+  ],
+  "narrative": "3.162(b)(1) \n   \nPrimary enclosures used to transport live birds. \nThe transport carriers for both birds only had two small vents, one on each opposing side, which did not comprise 16% of \nthe surface area of the wall. There must be ventilation openings located on two vertical walls of the primary enclosure that \nare at least 16% of the surface area of such wall or ventilation openings on all four walls of the primary enclosure that are \nat least 8% of the total surface area of each such wall. \n \nCorrect by 31 August 2025 \n3.162(b)(2) \n   \nPrimary enclosures used to transport live birds. \nNeither of the enclosures for the birds had the required projecting rims or other devices on the exterior of the outside walls \nwith any ventilation openings. The projecting rims or similar devices must be large enough to provide a minimum air \ncirculation space of 0.75 inches between the primary enclosure and anything the enclosure is adjacent to, unless 90% or \ngreater of the surface area of the enclosure wall is open. \n \nCorrect by 31 August 2025 \n \nThis inspection and exit interview were conducted with the manager. \n \n n",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco sparverius",
+      "common": "AMERICAN KESTREL"
+    }
+  ]
+}
