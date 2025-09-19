@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001405987",
+  "layout": "c",
+  "customer_id": "3682",
+  "customer_name": "Lucy Wormser",
+  "customer_addr": "405 Haloa Road\nHaiku, HI 96708",
+  "certificate": "95-C-0025",
+  "site_id": "001",
+  "site_name": "Lucy Wormser",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-AUG-2025",
+  "report_date": "22-AUG-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 18,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix kuhlii",
+      "common": "BLACK TUFTED-EAR MARMOSET"
+    },
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    }
+  ]
+}
