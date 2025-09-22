@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001406026",
+  "layout": "c",
+  "customer_id": "6021910",
+  "customer_name": "BioSim Innovations",
+  "customer_addr": "7145 Boone Ave N\nSuite 140\nBrooklyn Park, MN 55428",
+  "certificate": "41-R-0096",
+  "site_id": "001",
+  "site_name": "BioSim Innovations",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "22-AUG-2025",
+  "report_date": "25-AUG-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 40,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 33,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
