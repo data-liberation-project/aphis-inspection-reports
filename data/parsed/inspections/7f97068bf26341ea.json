@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001404893",
+  "layout": "c",
+  "customer_id": "6021296",
+  "customer_name": "Peter Weber",
+  "customer_addr": "1912 Martinsburg Pike\nWinchester, VA 22603",
+  "certificate": "52-C-0316",
+  "site_id": "001",
+  "site_name": "Peter Weber",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-AUG-2025",
+  "report_date": "02-SEP-2025",
+  "citations": [
+    {
+      "code": "3.150(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "In retail cage #2, the nest box has exposed nails and a jagged edges from chewing by a bird. Structures in bird\nenclosures that are not kept in good repair can lead to harm or injury to the birds.\nInterior surfaces and surfaces that come in contact with birds must be free of jagged edges or sharp points that could\ninjure the birds.\nCorrect by 9/3/25\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.150(c)(3) \n   \nFacilities, general. \nIn retail cage #2, the nest box has exposed nails and a jagged edges from chewing by a bird. Structures in bird \nenclosures that are not kept in good repair can lead to harm or injury to the birds. \n \nInterior surfaces and surfaces that come in contact with birds must be free of jagged edges or sharp points that could \ninjure the birds. \nCorrect by 9/3/25 \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 63,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",
+      "common": "MACAW HYBRID"
+    },
+    {
+      "count": 1,
+      "scientific": "Anodorhynchus hyacinthinus",
+      "common": "HYACINTH MACAW"
+    },
+    {
+      "count": 9,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 25,
+      "scientific": "Ara glaucogularis",
+      "common": "BLUE-THROATED MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara militaris",
+      "common": "MILITARY MACAW"
+    },
+    {
+      "count": 11,
+      "scientific": "Ara macao",
+      "common": "SCARLET MACAW"
+    },
+    {
+      "count": 5,
+      "scientific": "Ara rubrogenys",
+      "common": "RED-FRONTED MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara ambiguus",
+      "common": "GREAT GREEN MACAW / BUFFON'S MACAW"
+    }
+  ]
+}
