@@ -1,0 +1,71 @@
+{
+  "insp_id": "INS-0001418029",
+  "layout": "c",
+  "customer_id": "1512",
+  "customer_name": "Texas Biomedical Research Institute",
+  "customer_addr": "P. O. BOX 760549\nSAN ANTONIO, TX 78245",
+  "certificate": "74-R-0003",
+  "site_id": "001",
+  "site_name": "Texas Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-SEP-2025",
+  "report_date": "04-SEP-2025",
+  "citations": [
+    {
+      "code": "3.83",
+      "kind": "",
+      "repeat": true,
+      "desc": "Watering.",
+      "narrative": "On April 26, 2025, it was reported that a rhesus macaque went without access to water for two days due to the water\nhose being improperly connected to its cage. During this time the animal had water rich fruit and vegetable enrichment\nwas consumed, therefore no additional treatment was needed. Lack of potable water in sufficient quantity to nonhuman\nprimates can negatively impact their health and well-being by resulting in dehydration, and possible death. Potable water\nmust be provided in sufficient quantity to every nonhuman primate housed at the facility. If potable water is not continually\navailable to the nonhuman primate, it must be offered to them as often as necessary to ensure their health and well-being.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.83  Repeat\n   \nWatering. \nOn April 26, 2025, it was reported that a rhesus macaque went without access to water for two days due to the water \nhose being improperly connected to its cage. During this time the animal had water rich fruit and vegetable enrichment \nwas consumed, therefore no additional treatment was needed. Lack of potable water in sufficient quantity to nonhuman \nprimates can negatively impact their health and well-being by resulting in dehydration, and possible death. Potable water \nmust be provided in sufficient quantity to every nonhuman primate housed at the facility. If potable water is not continually \navailable to the nonhuman primate, it must be offered to them as often as necessary to ensure their health and well-being. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 1232,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 8,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 120,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 29,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 261,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 120,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 661,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    }
+  ]
+}
