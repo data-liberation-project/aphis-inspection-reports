@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001430183",
+  "layout": "c",
+  "customer_id": "12260",
+  "customer_name": "Donald Chilton",
+  "customer_addr": "915 Robert Ave\nLehigh Acres, FL 33936",
+  "certificate": "58-B-0590",
+  "site_id": "001",
+  "site_name": "DONALD CHILTON",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-SEP-2025",
+  "report_date": "18-SEP-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 36,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 10,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 6,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

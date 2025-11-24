@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001421472",
+  "layout": "c",
+  "customer_id": "1480",
+  "customer_name": "Texas Tech University",
+  "customer_addr": "1008 Canton Ave\nLubbock, TX 79409",
+  "certificate": "74-R-0108",
+  "site_id": "008",
+  "site_name": "Texas Tech School of Veterinary Medicine",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2025",
+  "report_date": "10-SEP-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 110,
+  "species": [
+    {
+      "count": 52,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 20,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 11,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001422586",
+  "layout": "c",
+  "customer_id": "6010066",
+  "customer_name": "Pet Planet LLC",
+  "customer_addr": "272 S Decatur Blvd\nLas Vegas, NV 89107",
+  "certificate": "88-B-0044",
+  "site_id": "001",
+  "site_name": "Pet Planet LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-SEP-2025",
+  "report_date": "12-SEP-2025",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "There were no records of disposition for two hedgehogs and four Virginia opossums which had been sold within the past\nfew months. Complete and accurate animal records must be kept current to facilitate identification and tracking of animals\nas well as ensure their health and well-being. Records must be maintained which fully and correctly disclose all the\nrequired information concerning all animals purchased or otherwise acquired, owned, held, leased, transported, sold,\neuthanized or otherwise disposed of and shall include any offspring born or hatched while in the licensee\u2019s possession.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1)  Repeat\n   \nRecords: Dealers and exhibitors. \nThere were no records of disposition for two hedgehogs and four Virginia opossums which had been sold within the past \nfew months. Complete and accurate animal records must be kept current to facilitate identification and tracking of animals \nas well as ensure their health and well-being. Records must be maintained which fully and correctly disclose all the \nrequired information concerning all animals purchased or otherwise acquired, owned, held, leased, transported, sold, \neuthanized or otherwise disposed of and shall include any offspring born or hatched while in the licensee\u2019s possession. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 2,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Amazona auropalliata",
+      "common": "YELLOW-NAPED PARROT / YELLOW-NAPED AMAZON"
+    },
+    {
+      "count": 1,
+      "scientific": "Pyrrhura molinae",
+      "common": "GREEN-CHEEKED PARAKEET / GREEN-CHEEKED CONURE"
+    },
+    {
+      "count": 2,
+      "scientific": "Amazona albifrons",
+      "common": "WHITE-FRONTED PARROT / WHITE-FRONTED PARROT /"
+    },
+    {
+      "count": 1,
+      "scientific": "Psittacus erithacus",
+      "common": "CONGO AFRICAN GREY PARROT / GRAY PARROT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 0,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    }
+  ]
+}

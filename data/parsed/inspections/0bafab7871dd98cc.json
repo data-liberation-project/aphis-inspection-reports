@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001431303",
+  "layout": "c",
+  "customer_id": "43052",
+  "customer_name": "Wild Animal Inc.",
+  "customer_addr": "P.O. Box 278\nStrafford, MO 65757",
+  "certificate": "43-C-0301",
+  "site_id": "001",
+  "site_name": "WILD ANIMAL INC.",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "18-SEP-2025",
+  "report_date": "19-SEP-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 9,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo X  P. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 3,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    }
+  ]
+}

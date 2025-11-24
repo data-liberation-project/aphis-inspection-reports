@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001420307",
+  "layout": "c",
+  "customer_id": "32992",
+  "customer_name": "Georgia Aquarium Inc",
+  "customer_addr": "225 Baker Street NW\nAtlanta, GA 30313",
+  "certificate": "57-R-0131",
+  "site_id": "001",
+  "site_name": "Georgia Aquarium Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-SEP-2025",
+  "report_date": "11-SEP-2025",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "While protocol GAI-22-18 did list the procedures needed for the study, it did not contain a complete description of how\neach procedure would be conducted and how invasive it would be for the animals. Without this information, the IACUC\ncannot assess how the animals will be used and cared for and therefore cannot make an informed decision in approving\nthe protocol. A proposal to conduct an activity involving animals must contain a complete description of the proposed use\nof the animals to allow for proper IACUC review and approval. Correct by December 8, 2025.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nWhile protocol GAI-22-18 did list the procedures needed for the study, it did not contain a complete description of how \neach procedure would be conducted and how invasive it would be for the animals. Without this information, the IACUC \ncannot assess how the animals will be used and cared for and therefore cannot make an informed decision in approving \nthe protocol. A proposal to conduct an activity involving animals must contain a complete description of the proposed use \nof the animals to allow for proper IACUC review and approval. Correct by December 8, 2025. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 5,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 13,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    }
+  ]
+}

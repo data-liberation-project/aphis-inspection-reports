@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001420343",
+  "layout": "c",
+  "customer_id": "254",
+  "customer_name": "Frontage Laboratories",
+  "customer_addr": "10845 Wellness Way\nConcord Twp, OH 44077",
+  "certificate": "31-R-0091",
+  "site_id": "003",
+  "site_name": "Frontage Laboratories, Inc. OH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2025",
+  "report_date": "09-SEP-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 171,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

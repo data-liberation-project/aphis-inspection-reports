@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001430209",
+  "layout": "c",
+  "customer_id": "44794",
+  "customer_name": "Paul Kubasiewicz",
+  "customer_addr": "5650 Cummings Rd\nAkron, NY 14001",
+  "certificate": "21-A-0137",
+  "site_id": "001",
+  "site_name": "Paul Kubasiewicz",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-SEP-2025",
+  "report_date": "18-SEP-2025",
+  "citations": [
+    {
+      "code": "2.134(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "The facility's contingency plan could not be located for review. This plan should provide details on how the facility\nmanages the humane handling, treatment, transportation and care of their animals in the event of an emergency or\ndisaster. This plan should be maintained at the facility for APHIS inspections and reviewed annually.\nCorrect by: Oct 1, 2025\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "2.134(a) \n   \nContingency planning. \nThe facility's contingency plan could not be located for review. This plan should provide details on how the facility \nmanages the humane handling, treatment, transportation and care of their animals in the event of an emergency or \ndisaster. This plan should be maintained at the facility for APHIS inspections and reviewed annually.  \nCorrect by: Oct 1, 2025 \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 312,
+  "species": [
+    {
+      "count": 14,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 216,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 66,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG (MOST COMMON PET HEDGEHOG)"
+    },
+    {
+      "count": 16,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    }
+  ]
+}

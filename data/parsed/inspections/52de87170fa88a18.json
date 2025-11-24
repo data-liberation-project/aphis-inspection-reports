@@ -1,0 +1,63 @@
+{
+  "insp_id": "INS-0001444366",
+  "layout": "c",
+  "customer_id": "6331",
+  "customer_name": "Hillcrest Orchards LLC",
+  "customer_addr": "9696 Highway 52 East\nEllijay, GA 30536",
+  "certificate": "",
+  "site_id": "001",
+  "site_name": "Hillcrest Orchards LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-SEP-2025",
+  "report_date": "30-SEP-2025",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "The facility\u2019s acquisition and disposition records were incomplete. They did not contain the date of animal intake or\ndisposition, nor did they contain the name or the address of the employees who adopted the rabbits at the end of the\nseason. Without records which fully disclose the animal\u2019s acquisition/disposition, legal and medical information traceback\nis not possible. Be consistent in maintaining records disclosing the required acquisition/disposition information including\nthe date, name, address, and USDA number if applicable of the person from whom the animal was acquired from or\ntransferred to. To be corrected by December 30, 2025."
+    },
+    {
+      "code": "3.58(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Classification and separation.",
+      "narrative": "At the time of inspection, 2 goats were within the same outdoor enclosure as a group of rabbits. Housing rabbits with\nother species could lead to injuries, illness, or negatively impact their health and well-being. Rabbits shall not be housed\nin the same primary enclosure with any other species of animals unless required for scientific reasons. Correct by October\n10, 2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1) \n   \nRecords: Dealers and exhibitors. \nThe facility\u2019s acquisition and disposition records were incomplete. They did not contain the date of animal intake or \ndisposition, nor did they contain the name or the address of the employees who adopted the rabbits at the end of the \nseason. Without records which fully disclose the animal\u2019s acquisition/disposition, legal and medical information traceback \nis not possible. Be consistent in maintaining records disclosing the required acquisition/disposition information including \nthe date, name, address, and USDA number if applicable of the person from whom the animal was acquired from or \ntransferred to. To be corrected by December 30, 2025. \n3.58(a) \n   \nClassification and separation. \nAt the time of inspection, 2 goats were within the same outdoor enclosure as a group of rabbits. Housing rabbits with \nother species could lead to injuries, illness, or negatively impact their health and well-being. Rabbits shall not be housed \nin the same primary enclosure with any other species of animals unless required for scientific reasons. Correct by October \n10, 2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 76,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 9,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 50,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    }
+  ]
+}

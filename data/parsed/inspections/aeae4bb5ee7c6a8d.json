@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001420381",
+  "layout": "c",
+  "customer_id": "324240",
+  "customer_name": "Wolfwood",
+  "customer_addr": "P. O. Box 312\nIgnacio, CO 81137",
+  "certificate": "84-C-0139",
+  "site_id": "001",
+  "site_name": "Wolf Woods",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2025",
+  "report_date": "09-SEP-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 62,
+  "species": [
+    {
+      "count": 45,
+      "scientific": "Canis lupus X C. familiaris",
+      "common": "WOLF/DOG HYBRID"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis latrans x C. familiaris",
+      "common": "COYOTE-DOG HYBRID / COYDOG"
+    },
+    {
+      "count": 13,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

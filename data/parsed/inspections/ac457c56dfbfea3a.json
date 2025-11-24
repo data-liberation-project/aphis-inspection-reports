@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0001431305",
+  "layout": "c",
+  "customer_id": "9193",
+  "customer_name": "University of California Irvine",
+  "customer_addr": "324 ALDRICH HALL\nIRVINE, CA 92697",
+  "certificate": "93-R-0434",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF CALIFORNIA, IRVINE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-SEP-2025",
+  "report_date": "22-SEP-2025",
+  "citations": [
+    {
+      "code": "2.33(b)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "On January 21, 2025, The Institutional Animal Care and Use Committee (IACUC) was informed that expired Ketamine\n(expired April 2024) had been administered to 12 rabbits under an approved protocol between May 2024 and January\n2025 for survival surgeries, imaging, and blood collection procedures. The 12 rabbits were monitored by the facility lab\nduring the procedures and post-operatively with no reported adverse effects. A clinical veterinarian of the facility stated\nonce the Principal Investigator (PI) of the lab was contacted, corrective action was immediately implemented to ensure\nproper handling of the expired drug. The potency and efficacy of medications may be affected once they expire, which\nmay be harmful to the animals.\nEach research facility shall establish and maintain programs of adequate veterinary care that include the use of\nappropriate methods to prevent, control, diagnose, and treat diseases and injuries.\nTo be corrected from this day forward, September 22, 2025\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.33(b)(2) \n   \nAttending veterinarian and adequate veterinary care. \nOn January 21, 2025, The Institutional Animal Care and Use Committee (IACUC) was informed that expired Ketamine \n(expired April 2024) had been administered to 12 rabbits under an approved protocol between May 2024 and January \n2025 for survival surgeries, imaging, and blood collection procedures. The 12 rabbits were monitored by the facility lab \nduring the procedures and post-operatively with no reported adverse effects. A clinical veterinarian of the facility stated \nonce the Principal Investigator (PI) of the lab was contacted, corrective action was immediately implemented to ensure \nproper handling of the expired drug. The potency and efficacy of medications may be affected once they expire, which \nmay be harmful to the animals.  \nEach research facility shall establish and maintain programs of adequate veterinary care that include the use of \nappropriate methods to prevent, control, diagnose, and treat diseases and injuries. \nTo be corrected from this day forward, September 22, 2025 \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 459,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 90,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 17,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 154,
+      "scientific": "Octodon degus",
+      "common": "DEGU"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 187,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    }
+  ]
+}
