@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001409361",
+  "layout": "c",
+  "customer_id": "167",
+  "customer_name": "University Of New Hampshire",
+  "customer_addr": "107 Service Building, 51 College Rd\nDurham, NH 03824",
+  "certificate": "12-R-0003",
+  "site_id": "001",
+  "site_name": "ANIMAL RESOURCES OFFICE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-AUG-2025",
+  "report_date": "03-SEP-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved protocols #230902 and #240301 involve live trapping of animals (including Tomahawk Live Trap). Live\ntrapping procedures can be potentially distressing to the animals. The protocol does not contain a written narrative of the\nmethods and sources used to determine that alternatives to potentially distressful procedures, including live trapping,\nwere not available.\nThe IACUC shall determine that the principal investigator has considered alternatives to procedures that may cause more\nthan momentary or slight pain or distress to the animals and has provided a written narrative description of the methods\nand sources used to determine that alternatives were not available.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved protocols #230902 and #240301 involve live trapping of animals (including Tomahawk Live Trap). Live \ntrapping procedures can be potentially distressing to the animals. The protocol does not contain a written narrative of the \nmethods and sources used to determine that alternatives to potentially distressful procedures, including live trapping, \nwere not available. \nThe IACUC shall determine that the principal investigator has considered alternatives to procedures that may cause more \nthan momentary or slight pain or distress to the animals and has provided a written narrative description of the methods \nand sources used to determine that alternatives were not available. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 234,
+  "species": [
+    {
+      "count": 27,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 39,
+      "scientific": "Peromyscus eremicus",
+      "common": "CACTUS MOUSE"
+    },
+    {
+      "count": 168,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    }
+  ]
+}
