@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001503682",
+  "layout": "c",
+  "customer_id": "216",
+  "customer_name": "The Ohio State University",
+  "customer_addr": "OFFICE OF RESPONSIBLE RESEARCH PRACTICES\n300 RESEARCH FOUNDATION BLDG, 1960 KENNY RD\nCOLUMBUS, OH 43210",
+  "certificate": "31-R-0014",
+  "site_id": "001",
+  "site_name": "OHIO STATE UNIVERSITY CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-NOV-2025",
+  "report_date": "18-NOV-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(iv)(B)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The principal investigator (PI) did not obtain veterinarian approval prior to administering a medication that was not listed in\nthe protocol approved by the Institutional Animal Care and Use Committee (IACUC). A pig was under general anesthesia\nfor a procedure when its heart rate was noted to be elevated on two separate occasions (approximately one hour apart).\nThe PI administered medication to the pig to address the elevated heart rates; however, the medication used was not\nlisted in the IACUC-approved protocol. Additionally, the PI did not obtain veterinarian approval for use of this medication\neither time it was administered. The medication used was appropriate for the medical situation and the pig had no\nnegative effects from the medication given.\nA deviation from an IACUC-approved protocol, such as using an unapproved medication, could result in undesirable or\nunexpected outcomes. The IACUC shall determine that significant changes in protocol activities meet the requirement of\nconsulting with the attending veterinarian or his or her designee prior to any changes. Correct by: December 1, 2025.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(iv)(B) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe principal investigator (PI) did not obtain veterinarian approval prior to administering a medication that was not listed in \nthe protocol approved by the Institutional Animal Care and Use Committee (IACUC). A pig was under general anesthesia \nfor a procedure when its heart rate was noted to be elevated on two separate occasions (approximately one hour apart). \nThe PI administered medication to the pig to address the elevated heart rates; however, the medication used was not \nlisted in the IACUC-approved protocol. Additionally, the PI did not obtain veterinarian approval for use of this medication \neither time it was administered. The medication used was appropriate for the medical situation and the pig had no \nnegative effects from the medication given.  \n \nA deviation from an IACUC-approved protocol, such as using an unapproved medication, could result in undesirable or \nunexpected outcomes. The IACUC shall determine that significant changes in protocol activities meet the requirement of \nconsulting with the attending veterinarian or his or her designee prior to any changes. Correct by: December 1, 2025. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 653,
+  "species": [
+    {
+      "count": 149,
+      "scientific": "Peromyscus maniculatus",
+      "common": "EASTERN DEERMOUSE"
+    },
+    {
+      "count": 171,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 235,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 4,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 37,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 23,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 30,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    }
+  ]
+}
