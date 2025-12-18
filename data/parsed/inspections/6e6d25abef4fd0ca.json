@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001503843",
+  "layout": "c",
+  "customer_id": "4927",
+  "customer_name": "John Payne",
+  "customer_addr": "P.O. Box 87\nShidler, OK 74652",
+  "certificate": "73-C-0261",
+  "site_id": "002",
+  "site_name": "John Payne",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-NOV-2025",
+  "report_date": "20-NOV-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with licensee. \n \nEnd Section",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    }
+  ]
+}
