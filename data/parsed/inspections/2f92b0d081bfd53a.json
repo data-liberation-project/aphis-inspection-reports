@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001503732",
+  "layout": "c",
+  "customer_id": "11559",
+  "customer_name": "Pied Piper Pony Rides Ltd",
+  "customer_addr": "801 Rt 311\nPatterson, NY 12563",
+  "certificate": "21-C-0229",
+  "site_id": "001",
+  "site_name": "Pied Piper Pony Rides Ltd",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-NOV-2025",
+  "report_date": "21-NOV-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \nEnd Section",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 13,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS / TURKIN / COCK / HEN / ROOSTER)"
+    },
+    {
+      "count": 14,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

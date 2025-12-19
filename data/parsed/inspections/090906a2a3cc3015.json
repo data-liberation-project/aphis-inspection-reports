@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001503785",
+  "layout": "c",
+  "customer_id": "6019033",
+  "customer_name": "Connecticut State Community College",
+  "customer_addr": "100 Training Hill Road\nVeterinary Technology Group\nMiddletown, CT 06457",
+  "certificate": "16-R-0058",
+  "site_id": "001",
+  "site_name": "Connecticut State Community College",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-NOV-2025",
+  "report_date": "21-NOV-2025",
+  "citations": [
+    {
+      "code": "2.31(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The IACUC has not reviewed the research facility's Program for Animal Care and Use or inspected the animal facilities at\nleast once every 6 months as required under the provisions of the Animal Welfare Act (AWA). An inspection and program\nreview were conducted on May 9, 2024, and December 10, 2024. This timeframe exceeds the 6 months permitted\nbetween semiannual program reviews and facility inspections. Failure to conduct semiannual program reviews and facility\ninspections within the specified timeframe under the provisions of the AWA prevents a complete and thorough evaluation\nof animal care and use. The facility must ensure that semiannual inspections and program reviews are completed at least\nonce every 6 months. To be corrected by December 17, 2025.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(c) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe IACUC has not reviewed the research facility's Program for Animal Care and Use or inspected the animal facilities at \nleast once every 6 months as required under the provisions of the Animal Welfare Act (AWA). An inspection and program \nreview were conducted on May 9, 2024, and December 10, 2024. This timeframe exceeds the 6 months permitted \nbetween semiannual program reviews and facility inspections. Failure to conduct semiannual program reviews and facility \ninspections within the specified timeframe under the provisions of the AWA prevents a complete and thorough evaluation \nof animal care and use. The facility must ensure that semiannual inspections and program reviews are completed at least \nonce every 6 months. To be corrected by December 17, 2025. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}

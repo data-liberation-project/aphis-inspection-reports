@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001503887",
+  "layout": "c",
+  "customer_id": "323116",
+  "customer_name": "Red Beast Enterprises Inc.",
+  "customer_addr": "P.O. Box 270525\nFORT COLLINS, CO 80527",
+  "certificate": "84-R-0080",
+  "site_id": "001",
+  "site_name": "Red Beast Enterprises, Inc.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-NOV-2025",
+  "report_date": "21-NOV-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 99,
+  "species": [
+    {
+      "count": 23,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 53,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 23,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
