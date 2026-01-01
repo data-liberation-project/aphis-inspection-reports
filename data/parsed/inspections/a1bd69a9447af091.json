@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001504117",
+  "layout": "c",
+  "customer_id": "1072",
+  "customer_name": "Lovelace Biomedical Research Institute",
+  "customer_addr": "2425 Ridgecrest Dr SE\nAlbuquerque, NM 87108",
+  "certificate": "85-R-0003",
+  "site_id": "001",
+  "site_name": "Lovelace Biomedical Research Institute",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-DEC-2025",
+  "report_date": "04-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nEnd Section",
+  "animals_total": 472,
+  "species": [
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 59,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 15,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 320,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 0,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 70,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

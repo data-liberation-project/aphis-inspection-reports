@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001504114",
+  "layout": "c",
+  "customer_id": "6010966",
+  "customer_name": "Tupelo-Lee Humane Society",
+  "customer_addr": "2795 Cliff Gookin Blvd.\nTupelo, MS 38801",
+  "certificate": "65-B-0136",
+  "site_id": "001",
+  "site_name": "Tupelo-Lee Humane Society",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-DEC-2025",
+  "report_date": "04-DEC-2025",
+  "citations": [
+    {
+      "code": "3.1(c)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Housing facilities, general.",
+      "narrative": "There were 9 dogs with beds that were damaged. The severity of the damaged beds extend from peeled surfaces to torn\nsurfaces with holes. The beds and other furniture in contact with the animals should be maintained on a regular basis for\nthe animals well-being. The beds that can't be readily cleaned and sanitized must be replaced when worn and soiled.\nCorrect by January 1, 2026.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.1(c)(2) \n   \nHousing facilities, general. \nThere were 9 dogs with beds that were damaged. The severity of the damaged beds extend from peeled surfaces to torn \nsurfaces with holes. The beds and other furniture in contact with the animals should be maintained on a regular basis for \nthe animals well-being. The beds that can't be readily cleaned and sanitized must be replaced when worn and soiled. \nCorrect by January 1, 2026. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 180,
+  "species": [
+    {
+      "count": 120,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 36,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 20,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}
