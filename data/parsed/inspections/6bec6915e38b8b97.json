@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001504155",
+  "layout": "c",
+  "customer_id": "7815",
+  "customer_name": "Westview Orchards",
+  "customer_addr": "65075 Van Dyke Rd\nWashington, MI 48095",
+  "certificate": "34-C-0352",
+  "site_id": "001",
+  "site_name": "Westview Orchards",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-DEC-2025",
+  "report_date": "05-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \nEnd Section",
+  "animals_total": 42,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 10,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 0,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS / TURKIN / COCK / HEN / ROOSTER)"
+    },
+    {
+      "count": 0,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

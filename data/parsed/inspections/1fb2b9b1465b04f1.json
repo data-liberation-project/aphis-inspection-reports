@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001504097",
+  "layout": "c",
+  "customer_id": "503",
+  "customer_name": "Lake Immunogenics Inc",
+  "customer_addr": "348 Berg Road\nOntario, NY 14519",
+  "certificate": "21-R-0095",
+  "site_id": "001",
+  "site_name": "LAKE IMMUNOGENICS",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "03-DEC-2025",
+  "report_date": "05-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \nEnd Section",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 65,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 4,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "insp_id": "INS-0001504047",
+  "layout": "c",
+  "customer_id": "48",
+  "customer_name": "Yale University",
+  "customer_addr": "OFFICE OF RESEARCH ADMIN\nPO BOX 208327\nNEW HAVEN, CT 06520",
+  "certificate": "16-R-0001",
+  "site_id": "001",
+  "site_name": "YALE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-DEC-2025",
+  "report_date": "05-DEC-2025",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #20669 did not provide a written narrative description of the methods and sources used to\ndetermine that alternatives were not available to procedures that are included in the protocol that may cause more than\nmomentary pain or distress to the animals (sternotomy and laparotomy).\nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or\ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those\nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources\nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the\nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item identified for this\nprotocol. Correct by 12/19/25.\nThis inspection was conducted with facility representatives from 12/1/25 through 12/3/25. The exit briefing was held\n12/3/25.\n*END OF REPORT*\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #20669 did not provide a written narrative description of the methods and sources used to \ndetermine that alternatives were not available to procedures that are included in the protocol that may cause more than \nmomentary pain or distress to the animals (sternotomy and laparotomy).  \n \nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or \ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those \nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources \nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the \nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item identified for this \nprotocol. Correct by 12/19/25. \n \nThis inspection was conducted with facility representatives from 12/1/25 through 12/3/25. The exit briefing was held \n12/3/25. \n \n*END OF REPORT* \n \n n",
+  "animals_total": 704,
+  "species": [
+    {
+      "count": 100,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 105,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 99,
+      "scientific": "Ictidomys tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    },
+    {
+      "count": 35,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 21,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 14,
+      "scientific": "Dasypus novemcinctus",
+      "common": "NINE-BANDED ARMADILLO"
+    },
+    {
+      "count": 29,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 286,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    },
+    {
+      "count": 12,
+      "scientific": "Acomys russatus",
+      "common": "GOLDEN SPINY MOUSE"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
