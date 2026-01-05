@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001504201",
+  "layout": "c",
+  "customer_id": "6015778",
+  "customer_name": "Hedgehog Precision LLC",
+  "customer_addr": "5017 S 81st St\nOmaha, NE 68127",
+  "certificate": "47-A-0638",
+  "site_id": "001",
+  "site_name": "Hedgehog Precision LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-DEC-2025",
+  "report_date": "08-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 1,
+      "scientific": "Hemiechinus auritus",
+      "common": "LONG-EARED HEDGEHOG"
+    }
+  ]
+}

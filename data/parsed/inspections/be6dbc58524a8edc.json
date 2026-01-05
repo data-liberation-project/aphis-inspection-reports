@@ -1,0 +1,638 @@
+{
+  "insp_id": "INS-0001504002",
+  "layout": "c",
+  "customer_id": "2793",
+  "customer_name": "State of Minnesota",
+  "customer_addr": "13000 Zoo Boulevard\nApple Valley, MN 55124",
+  "certificate": "41-C-0019",
+  "site_id": "001",
+  "site_name": "Minnesota Zoological Gardens",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-DEC-2025",
+  "report_date": "08-DEC-2025",
+  "citations": [
+    {
+      "code": "3.127(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, outdoor.",
+      "narrative": "The facility's perimeter fence surrounding the outdoor housing areas is not intact. Seven sections of the perimeter fence\nhave a gap of approximately one foot underneath the fence. In addition, in one section of the perimeter fence the top rail\nof the chain-link fence is broken off and leaning on the ground. It appears wobbly and the position of the top rail turns the\nnormally straight fence section into a concave section.\nA perimeter fence with gaps underneath and a section in disrepair doesn't ensure it will be able to keep wild animals out\nand it also doesn't ensure it will be able to keep regulated animals within the confines of the perimeter fence should a\nregulated animal escape from its enclosure.\nCorrect by January 2, 2026 by fixing the perimeter fence to restrict animals and unauthorized persons from going through\nit or under it and having contact with the animals in the facility, and so that it can function as a secondary containment\nsystem for the animals in the facility."
+    },
+    {
+      "code": "3.158(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Cleaning, sanitization, housekeeping, and pest control.",
+      "narrative": "The facility does not have an effective pest program to control mammalian pests. Active mouse activity was observed in\nthe tropical aviary. The inspector observed a mouse in the Bali mynah enclosure running across the bird\u2019s food tray.\nPests such as rodents can affect the health and well-being of animals by spreading disease and contaminating food,\nsurfaces, and animal housing areas.\nCorrect by January 2, 2026 by establishing and maintaining an effective program to control insects, ectoparasites, and\navian and mammalian pests to promote the health and well-being of the animals and reduce contamination by pests in\nanimal areas.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nKEVIN WILKEN, ANIMAL CARE INSPECTOR n"
+    }
+  ],
+  "narrative": "3.127(d) \n   \nFacilities, outdoor. \nThe facility's perimeter fence surrounding the outdoor housing areas is not intact. Seven sections of the perimeter fence \nhave a gap of approximately one foot underneath the fence. In addition, in one section of the perimeter fence the top rail \nof the chain-link fence is broken off and leaning on the ground. It appears wobbly and the position of the top rail turns the \nnormally straight fence section into a concave section.  \n \nA perimeter fence with gaps underneath and a section in disrepair doesn't ensure it will be able to keep wild animals out \nand it also doesn't ensure it will be able to keep regulated animals within the confines of the perimeter fence should a \nregulated animal escape from its enclosure.  \n \nCorrect by January 2, 2026 by fixing the perimeter fence to restrict animals and unauthorized persons from going through \nit or under it and having contact with the animals in the facility, and so that it can function as a secondary containment \nsystem for the animals in the facility. \n3.158(d) \n   \nCleaning, sanitization, housekeeping, and pest control. \nThe facility does not have an effective pest program to control mammalian pests. Active mouse activity was observed in \nthe tropical aviary. The inspector observed a mouse in the Bali mynah enclosure running across the bird\u2019s food tray.  \n \nPests such as rodents can affect the health and well-being of animals by spreading disease and contaminating food, \nsurfaces, and animal housing areas.  \n \nCorrect by January 2, 2026 by establishing and maintaining an effective program to control insects, ectoparasites, and \navian and mammalian pests to promote the health and well-being of the animals and reduce contamination by pests in \nanimal areas. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nAdditional Inspectors: \nKEVIN WILKEN, ANIMAL CARE INSPECTOR n",
+  "animals_total": 474,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 2,
+      "scientific": "Leontopithecus rosalia",
+      "common": "GOLDEN LION TAMARIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Plecturocebus donacophilus",
+      "common": "REED TITI / WHITE-EARED TITI"
+    },
+    {
+      "count": 3,
+      "scientific": "Cercopithecus neglectus",
+      "common": "DE BRAZZA'S MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 25,
+      "scientific": "Macaca fuscata",
+      "common": "JAPANESE MACAQUE / SNOW MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Nomascus leucogenys",
+      "common": "WHITE-CHEEKED GIBBON"
+    },
+    {
+      "count": 1,
+      "scientific": "Monachus schauinslandi",
+      "common": "HAWAIIAN MONK SEAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Enhydra lutris",
+      "common": "SEA OTTER"
+    },
+    {
+      "count": 30,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 7,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 1,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 5,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Dasyprocta leporina",
+      "common": "BRAZILIAN AGOUTI"
+    },
+    {
+      "count": 2,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 3,
+      "scientific": "Hystrix africaeaustralis",
+      "common": "CAPE PORCUPINE"
+    },
+    {
+      "count": 25,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 4,
+      "scientific": "Antilocapra americana",
+      "common": "PRONGHORN"
+    },
+    {
+      "count": 7,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 3,
+      "scientific": "Alces alces",
+      "common": "MOOSE"
+    },
+    {
+      "count": 5,
+      "scientific": "Rangifer tarandus",
+      "common": "REINDEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Budorcas taxicolor",
+      "common": "TAKIN"
+    },
+    {
+      "count": 10,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 18,
+      "scientific": "Rousettus aegyptiacus",
+      "common": "EGYPTIAN FRUIT BAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Lontra canadensis",
+      "common": "NORTH AMERICAN RIVER OTTER"
+    },
+    {
+      "count": 3,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 2,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Tamandua tetradactyla",
+      "common": "SOUTHERN TAMANDUA"
+    },
+    {
+      "count": 1,
+      "scientific": "Tapirus indicus",
+      "common": "MALAYAN TAPIR"
+    },
+    {
+      "count": 2,
+      "scientific": "Gulo gulo",
+      "common": "WOLVERINE"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 3,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 8,
+      "scientific": "Equus caballus przewalskii",
+      "common": "PRZEWALSKI'S WILD HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 5,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Dendrolagus matschiei",
+      "common": "MATSCHIE'S TREE KANGAROO"
+    },
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 20,
+      "scientific": "Rollulus rouloul",
+      "common": "CRESTED PARTRIDGE"
+    },
+    {
+      "count": 8,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 2,
+      "scientific": "Argusianus argus",
+      "common": "GREAT ARGUS"
+    },
+    {
+      "count": 1,
+      "scientific": "Dendrocygna guttata",
+      "common": "SPOTTED WHISTLING-DUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Dendrocygna viduata",
+      "common": "WHITE-FACED WHISTLING-DUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Anas bahamensis",
+      "common": "WHITE-CHEEKED PINTAIL"
+    },
+    {
+      "count": 1,
+      "scientific": "Anas bernieri",
+      "common": "BERNIER'S TEAL / MADAGASCAR TEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Anas castanea",
+      "common": "CHESTNUT TEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Anas poecilorhyncha",
+      "common": "INDIAN SPOT-BILLED DUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Anas laysanensis",
+      "common": "LAYSAN DUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Aythya baeri",
+      "common": "BAER'S POCHARD"
+    },
+    {
+      "count": 2,
+      "scientific": "Callonetta leucophrys",
+      "common": "RINGED TEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Oxyura jamaicensis",
+      "common": "RUDDY DUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Oxyura maccoa",
+      "common": "MACCOA DUCK"
+    },
+    {
+      "count": 3,
+      "scientific": "Tadorna tadorna",
+      "common": "COMMON SHELDUCK"
+    },
+    {
+      "count": 2,
+      "scientific": "Ptilinopus roseicapilla",
+      "common": "MARIANA FRUIT-DOVE"
+    },
+    {
+      "count": 2,
+      "scientific": "Vanellus spinosus",
+      "common": "SPUR-WINGED LAPWING"
+    },
+    {
+      "count": 1,
+      "scientific": "Spatula rhynchotis",
+      "common": "AUSTRALASIAN SHOVELER"
+    },
+    {
+      "count": 2,
+      "scientific": "Spatula versicolor",
+      "common": "SILVER TEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Gallicolumba luzonica",
+      "common": "LUZON BLEEDING-HEART"
+    },
+    {
+      "count": 2,
+      "scientific": "Spatula puna",
+      "common": "PUNA TEAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Sibirionetta formosa",
+      "common": "BAIKAL TEAL"
+    },
+    {
+      "count": 13,
+      "scientific": "Phoeniconaias minor",
+      "common": "LESSER FLAMINGO"
+    },
+    {
+      "count": 11,
+      "scientific": "Caloenas nicobarica",
+      "common": "NICOBAR PIGEON"
+    },
+    {
+      "count": 4,
+      "scientific": "Chalcophaps indica",
+      "common": "ASIAN EMERALD DOVE / GREY-CAPPED EMERALD DOVE"
+    },
+    {
+      "count": 2,
+      "scientific": "Ducula bicolor",
+      "common": "PIED IMPERIAL-PIGEON"
+    },
+    {
+      "count": 2,
+      "scientific": "Goura victoria",
+      "common": "VICTORIA CROWNED-PIGEON"
+    },
+    {
+      "count": 5,
+      "scientific": "Ptilinopus melanospilus",
+      "common": "BLACK-NAPED FRUIT-DOVE"
+    },
+    {
+      "count": 4,
+      "scientific": "Ptilinopus porphyreus",
+      "common": "PINK-HEADED FRUIT-DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Ptilinopus pulchellus",
+      "common": "BEAUTIFUL FRUIT-DOVE"
+    },
+    {
+      "count": 1,
+      "scientific": "Coracias cyanogaster",
+      "common": "BLUE-BELLIED ROLLER"
+    },
+    {
+      "count": 2,
+      "scientific": "Eurypyga helias",
+      "common": "SUNBITTERN"
+    },
+    {
+      "count": 32,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 3,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    },
+    {
+      "count": 2,
+      "scientific": "Pteroglossus viridis",
+      "common": "GREEN ARACARI"
+    },
+    {
+      "count": 1,
+      "scientific": "Haliaeetus leucocephalus",
+      "common": "BALD EAGLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Athene cunicularia",
+      "common": "BURROWING OWL"
+    },
+    {
+      "count": 2,
+      "scientific": "Icterus icterus",
+      "common": "VENEZUELAN TROUPIAL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cacatua galerita",
+      "common": "SULPHUR-CRESTED COCKATOO / GREATER SULPHUR-"
+    },
+    {
+      "count": 1,
+      "scientific": "Tockus deckeni",
+      "common": "VON DER DECKEN'S HORNBILL"
+    },
+    {
+      "count": 3,
+      "scientific": "Buceros rhinoceros",
+      "common": "RHINOCEROS HORNBILL"
+    },
+    {
+      "count": 2,
+      "scientific": "Momotus momota",
+      "common": "AMAZONIAN MOTMOT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oriolus chinensis",
+      "common": "BLACK-NAPED ORIOLE"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara glaucogularis",
+      "common": "BLUE-THROATED MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Amazona viridigenalis",
+      "common": "RED-CROWNED PARROT / GREEN-CHEEKED AMAZON / RED-"
+    },
+    {
+      "count": 1,
+      "scientific": "Guaruba guarouba",
+      "common": "GOLDEN PARAKEET"
+    },
+    {
+      "count": 1,
+      "scientific": "Spizixos semitorques",
+      "common": "COLLARED FINCHBILL"
+    },
+    {
+      "count": 2,
+      "scientific": "Garrulax leucolophus",
+      "common": "WHITE-CRESTED LAUGHINGTHRUSH"
+    },
+    {
+      "count": 6,
+      "scientific": "Pterorhinus courtoisi",
+      "common": "BLUE-CROWNED LAUGHINGTHRUSH"
+    },
+    {
+      "count": 5,
+      "scientific": "Ampeliceps coronatus",
+      "common": "GOLDEN-CRESTED MYNA"
+    },
+    {
+      "count": 6,
+      "scientific": "Aplonis metallica",
+      "common": "METALLIC STARLING"
+    },
+    {
+      "count": 3,
+      "scientific": "Leucopsar rothschildi",
+      "common": "BALI MYNA"
+    },
+    {
+      "count": 8,
+      "scientific": "Scissirostrum dubium",
+      "common": "FINCH-BILLED MYNA / GROSBEAK STARLING"
+    },
+    {
+      "count": 2,
+      "scientific": "Geokichla dohertyi",
+      "common": "CHESTNUT-BACKED THRUSH"
+    },
+    {
+      "count": 2,
+      "scientific": "Liocichla ripponi",
+      "common": "SCARLET-FACED LIOCICHLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 6,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara macao",
+      "common": "SCARLET MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Garrulax canorus",
+      "common": "CHINESE HWAMEI"
+    },
+    {
+      "count": 1,
+      "scientific": "Porphyrio poliocephalus",
+      "common": "GRAY-HEADED SWAMPHEN"
+    },
+    {
+      "count": 4,
+      "scientific": "Artamus leucorynchus",
+      "common": "WHITE-BREASTED WOODSWALLOW"
+    },
+    {
+      "count": 4,
+      "scientific": "Copsychus malabaricus",
+      "common": "WHITE-RUMPED SHAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Himantopus mexicanus",
+      "common": "BLACK-NECKED STILT"
+    },
+    {
+      "count": 2,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 6,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 2,
+      "scientific": "Elaphodus cephalophus",
+      "common": "TUFTED DEER"
+    },
+    {
+      "count": 2,
+      "scientific": "Ailurus fulgens",
+      "common": "RED PANDA"
+    },
+    {
+      "count": 2,
+      "scientific": "Grus japonensis",
+      "common": "RED-CROWNED CRANE / JAPANESE CRANE"
+    },
+    {
+      "count": 2,
+      "scientific": "Martes americana",
+      "common": "AMERICAN MARTEN"
+    },
+    {
+      "count": 3,
+      "scientific": "Callithrix pygmaea",
+      "common": "PYGMY MARMOSET"
+    }
+  ]
+}

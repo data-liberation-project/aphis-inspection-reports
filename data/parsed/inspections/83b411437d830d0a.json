@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001504196",
+  "layout": "c",
+  "customer_id": "2553",
+  "customer_name": "City of Elgin",
+  "customer_addr": "150 Dexter Court\nElgin, IL 60120",
+  "certificate": "33-C-0033",
+  "site_id": "001",
+  "site_name": "City of Elgin",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "08-DEC-2025",
+  "report_date": "08-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 4,
+      "scientific": "Cervus canadensis",
+      "common": "ELK / WAPITI"
+    },
+    {
+      "count": 5,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    }
+  ]
+}
