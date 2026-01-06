@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001505281",
+  "layout": "c",
+  "customer_id": "6019946",
+  "customer_name": "Wings and Talons",
+  "customer_addr": "1050 W. Irving Park Rd. #891\nItasca, IL 60143",
+  "certificate": "33-C-0535",
+  "site_id": "001",
+  "site_name": "Wings and Talons",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-DEC-2025",
+  "report_date": "09-DEC-2025",
+  "citations": [
+    {
+      "code": "3.159",
+      "kind": "",
+      "repeat": false,
+      "desc": "Employees",
+      "narrative": "On Sunday, November 2, an Aplomado falcon escaped. While attempting to transfer the animal from a glove to a creance\nline, an employee did not effectively secure the bird. The bird flew into a nearby tree and subsequently flew out of sight.\nThe facility was able to recover the falcon three days later on Wednesday, November 5th. After a veterinary examination,\nthe bird was found to be in good health and appeared to have eaten in the days preceding.\nUtilizing adequately trained employees is important in preventing animal escapes. Animal escapes can affect the health\nand well-being of the animal.\nEmployees have since undergone re-training and policy changes have been implemented to prevent future errors that can\nlead to escape. From this day forward, December 9, 2025, adequately trained employees must be utilized to maintain the\nprofessionally acceptable level of handling practices set forth in this subpart.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.159 \n   \nEmployees \nOn Sunday, November 2, an Aplomado falcon escaped. While attempting to transfer the animal from a glove to a creance \nline, an employee did not effectively secure the bird. The bird flew into a nearby tree and subsequently flew out of sight. \nThe facility was able to recover the falcon three days later on Wednesday, November 5th. After a veterinary examination, \nthe bird was found to be in good health and appeared to have eaten in the days preceding.  \n \nUtilizing adequately trained employees is important in preventing animal escapes. Animal escapes can affect the health \nand well-being of the animal. \n \nEmployees have since undergone re-training and policy changes have been implemented to prevent future errors that can \nlead to escape. From this day forward, December 9, 2025, adequately trained employees must be utilized to maintain the \nprofessionally acceptable level of handling practices set forth in this subpart. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 2,
+      "scientific": "Cathartes aura",
+      "common": "TURKEY VULTURE"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo lineatus",
+      "common": "RED-SHOULDERED HAWK"
+    },
+    {
+      "count": 2,
+      "scientific": "Strix varia",
+      "common": "BARRED OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo platypterus",
+      "common": "BROAD-WINGED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco femoralis",
+      "common": "APLOMADO FALCON"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco peregrinus",
+      "common": "PEREGRINE FALCON"
+    },
+    {
+      "count": 2,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    }
+  ]
+}
