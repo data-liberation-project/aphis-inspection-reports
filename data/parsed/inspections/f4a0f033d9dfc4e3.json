@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001508592",
+  "layout": "c",
+  "customer_id": "6012309",
+  "customer_name": "Jake Butler",
+  "customer_addr": "207 Navaho Drive\nCape Girardeau, MO 63701",
+  "certificate": "43-B-3834",
+  "site_id": "001",
+  "site_name": "Jacob Butler",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-DEC-2025",
+  "report_date": "15-DEC-2025",
+  "citations": [
+    {
+      "code": "2.75(b)(1)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Records: Dealers and exhibitors.",
+      "narrative": "At the time of inspection, the licensee was unable to provide records of disposition for one zebu and ten hedgehogs.\nEvery dealer and exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose information\nconcerning all animals purchased or otherwise acquired, owned, held, leased, or otherwise disposed of by that dealer or\nexhibitor. These records are necessary to assess the health and well-being of the animals on site and allow tracking of\nanimals being used for regulatory purposes and shall be held for a minimum of one year after the animal is euthanized or\ndisposed of. These records must be completed and made available to APHIS upon request.\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "2.75(b)(1)  Repeat\n   \nRecords: Dealers and exhibitors. \nAt the time of inspection, the licensee was unable to provide records of disposition for one zebu and ten hedgehogs. \nEvery dealer and exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose information \nconcerning all animals purchased or otherwise acquired, owned, held, leased, or otherwise disposed of by that dealer or \nexhibitor. These records are necessary to assess the health and well-being of the animals on site and allow tracking of \nanimals being used for regulatory purposes and shall be held for a minimum of one year after the animal is euthanized or \ndisposed of. These records must be completed and made available to APHIS upon request. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 1,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 0,
+      "scientific": "Atelerix albiventris",
+      "common": "FOUR-TOED HEDGEHOG"
+    },
+    {
+      "count": 0,
+      "scientific": "Bos indicus",
+      "common": "ZEBU"
+    }
+  ]
+}

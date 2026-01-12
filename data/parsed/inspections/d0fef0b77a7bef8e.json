@@ -1,0 +1,651 @@
+{
+  "insp_id": "INS-0001507499",
+  "layout": "c",
+  "customer_id": "6515",
+  "customer_name": "Kevin Vogel",
+  "customer_addr": "8493 State Highway 371\nBrainerd, MN 56401",
+  "certificate": "41-C-0104",
+  "site_id": "002",
+  "site_name": "Kevin Vogel",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-DEC-2025",
+  "report_date": "15-DEC-2025",
+  "citations": [
+    {
+      "code": "3.82(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "The facility is currently feeding recently delivered hard-cooked eggs to their non-human primates that have a use by date\nof 29 Oct 2025. The facility was not aware the food was past its use by date.\nFeeding diets that are past their best by or expiration date does not ensure the product still has an adequate nutritive\nvalue as nutrients degrade over time and the animal's health may suffer. Food fed must be clean, wholesome, and\npalatable to the animals. It must be of sufficient quantity and have sufficient nutritive value to maintain a healthful\ncondition and weight range of the animal and to meet its normal daily nutritional requirements.\nCorrect by: February 15, 2025\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.82(a) \n   \nFeeding. \nThe facility is currently feeding recently delivered hard-cooked eggs to their non-human primates that have a use by date \nof 29 Oct 2025. The facility was not aware the food was past its use by date.  \n \nFeeding diets that are past their best by or expiration date does not ensure the product still has an adequate nutritive \nvalue as nutrients degrade over time and the animal's health may suffer. Food fed must be clean, wholesome, and \npalatable to the animals. It must be of sufficient quantity and have sufficient nutritive value to maintain a healthful \ncondition and weight range of the animal and to meet its normal daily nutritional requirements. \n \nCorrect by: February 15, 2025 \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 455,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Alouatta caraya",
+      "common": "BLACK HOWLER"
+    },
+    {
+      "count": 3,
+      "scientific": "Erythrocebus patas",
+      "common": "PATAS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia variegata",
+      "common": "BLACK-AND-WHITE RUFFED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Ateles geoffroyi",
+      "common": "BLACK-HANDED SPIDER MONKEY"
+    },
+    {
+      "count": 6,
+      "scientific": "Mandrillus sphinx",
+      "common": "MANDRILL"
+    },
+    {
+      "count": 20,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    },
+    {
+      "count": 5,
+      "scientific": "Otocyon megalotis",
+      "common": "BAT-EARED FOX"
+    },
+    {
+      "count": 1,
+      "scientific": "Urocyon cinereoargenteus",
+      "common": "GRAY FOX / GREY FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes zerda",
+      "common": "FENNEC FOX"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis mesomelas",
+      "common": "BLACK-BACKED JACKAL"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 5,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 2,
+      "scientific": "Erethizon dorsatum",
+      "common": "NORTH AMERICAN PORCUPINE"
+    },
+    {
+      "count": 2,
+      "scientific": "Hystrix cristata",
+      "common": "AFRICAN CRESTED PORCUPINE"
+    },
+    {
+      "count": 8,
+      "scientific": "Connochaetes taurinus",
+      "common": "BRINDLED WILDEBEEST"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus bactrianus",
+      "common": "BACTRIAN CAMEL"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 9,
+      "scientific": "Muntiacus reevesi",
+      "common": "REEVE'S MUNTJAC"
+    },
+    {
+      "count": 9,
+      "scientific": "Odocoileus virginianus",
+      "common": "WHITE-TAILED DEER"
+    },
+    {
+      "count": 4,
+      "scientific": "Equus quagga",
+      "common": "BURCHELL\u2019S / GRANT\u2019S / CHAPMAN\u2019S / PLAINS ZEBRA"
+    },
+    {
+      "count": 13,
+      "scientific": "Boselaphus tragocamelus",
+      "common": "NILGAI"
+    },
+    {
+      "count": 6,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Melursus ursinus",
+      "common": "SLOTH BEAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Ursus americanus",
+      "common": "NORTH AMERICAN BLACK BEAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 3,
+      "scientific": "Crocuta crocuta",
+      "common": "SPOTTED HYENA"
+    },
+    {
+      "count": 15,
+      "scientific": "Osphranter rufus",
+      "common": "RED KANGAROO"
+    },
+    {
+      "count": 1,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 7,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 3,
+      "scientific": "Ursus arctos syriacus",
+      "common": "SYRIAN BROWN BEAR"
+    },
+    {
+      "count": 7,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 3,
+      "scientific": "Procavia capensis",
+      "common": "ROCK HYRAX"
+    },
+    {
+      "count": 2,
+      "scientific": "Caracal caracal",
+      "common": "CARACAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 1,
+      "scientific": "Eulemur fulvus",
+      "common": "BROWN LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca silenus",
+      "common": "LION-TAILED MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Cercopithecus petaurista",
+      "common": "LESSER SPOT-NOSED GUENON"
+    },
+    {
+      "count": 2,
+      "scientific": "Cercopithecus neglectus",
+      "common": "DE BRAZZA'S MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Equus caballus przewalskii",
+      "common": "PRZEWALSKI'S WILD HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Macaca ochreata",
+      "common": "BOOTED MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Varecia rubra",
+      "common": "RED RUFFED LEMUR"
+    },
+    {
+      "count": 5,
+      "scientific": "Acinonyx jubatus",
+      "common": "CHEETAH"
+    },
+    {
+      "count": 6,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Pithecia pithecia",
+      "common": "WHITE-FACED SAKI"
+    },
+    {
+      "count": 4,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus capucinus",
+      "common": "WHITE-HEADED / WHITE-THROATED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Mellivora capensis",
+      "common": "RATEL / HONEY BADGER"
+    },
+    {
+      "count": 4,
+      "scientific": "Civettictis civetta",
+      "common": "AFRICAN CIVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chiropotes satanas",
+      "common": "BLACK SAKI"
+    },
+    {
+      "count": 2,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 3,
+      "scientific": "Aonyx cinereus",
+      "common": "ORIENTAL SMALL-CLAWED OTTER"
+    },
+    {
+      "count": 1,
+      "scientific": "Prionailurus viverrinus",
+      "common": "FISHING CAT"
+    },
+    {
+      "count": 29,
+      "scientific": "Cynomys ludovicianus",
+      "common": "BLACK-TAILED PRAIRIE DOG"
+    },
+    {
+      "count": 8,
+      "scientific": "Phoeniconaias minor",
+      "common": "LESSER FLAMINGO"
+    },
+    {
+      "count": 2,
+      "scientific": "Psittacus erithacus",
+      "common": "CONGO AFRICAN GREY PARROT / GRAY PARROT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryx dammah",
+      "common": "SCIMITAR-HORNED ORYX"
+    },
+    {
+      "count": 5,
+      "scientific": "Haliaeetus leucocephalus",
+      "common": "BALD EAGLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryx beisa",
+      "common": "EAST AFRICAN ORYX"
+    },
+    {
+      "count": 2,
+      "scientific": "Branta sandvicensis",
+      "common": "HAWAIIAN GOOSE / NE-NE"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara militaris",
+      "common": "MILITARY MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryx leucoryx",
+      "common": "ARABIAN ORYX"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo bubo",
+      "common": "EURASIAN EAGLE-OWL"
+    },
+    {
+      "count": 3,
+      "scientific": "Otocolobus manul",
+      "common": "PALLAS'S CAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Antigone canadensis",
+      "common": "SANDHILL CRANE"
+    },
+    {
+      "count": 1,
+      "scientific": "Calocitta colliei",
+      "common": "BLACK-THROATED MAGPIE-JAY"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus grevyi",
+      "common": "GREVY'S ZEBRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara macao",
+      "common": "SCARLET MACAW"
+    },
+    {
+      "count": 4,
+      "scientific": "Ara ararauna",
+      "common": "BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW"
+    },
+    {
+      "count": 2,
+      "scientific": "Ara chloropterus",
+      "common": "RED-AND-GREEN MACAW / GREEN-WINGED MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",
+      "common": "MACAW HYBRID"
+    },
+    {
+      "count": 2,
+      "scientific": "Pulsatrix perspicillata",
+      "common": "SPECTACLED OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Coracias cyanogaster",
+      "common": "BLUE-BELLIED ROLLER"
+    },
+    {
+      "count": 18,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 4,
+      "scientific": "Cygnus atratus",
+      "common": "BLACK SWAN"
+    },
+    {
+      "count": 1,
+      "scientific": "Pterorhinus albogularis",
+      "common": "WHITE-THROATED LAUGHINGTHRUSH"
+    },
+    {
+      "count": 3,
+      "scientific": "Rhea americana",
+      "common": "GREATER RHEA / AMERICAN RHEA"
+    },
+    {
+      "count": 2,
+      "scientific": "Bycanistes brevis",
+      "common": "SILVERY-CHEEKED HORNBILL"
+    },
+    {
+      "count": 4,
+      "scientific": "Balearica regulorum",
+      "common": "GRAY CROWNED-CRANE / AFRICAN CROWNED-CRANE /"
+    },
+    {
+      "count": 3,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 1,
+      "scientific": "Pauxi pauxi",
+      "common": "HELMETED CURASSOW / NORTHERN HELMETED"
+    },
+    {
+      "count": 3,
+      "scientific": "Struthio camelus",
+      "common": "COMMON OSTRICH"
+    },
+    {
+      "count": 2,
+      "scientific": "Acryllium vulturinum",
+      "common": "VULTURINE GUINEAFOWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Anthropoides paradiseus",
+      "common": "BLUE CRANE / STANLEY CRANE"
+    },
+    {
+      "count": 1,
+      "scientific": "Corvus albus",
+      "common": "PIED CROW"
+    },
+    {
+      "count": 1,
+      "scientific": "Cathartes aura",
+      "common": "TURKEY VULTURE"
+    },
+    {
+      "count": 5,
+      "scientific": "Nymphicus hollandicus",
+      "common": "COCKATIEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Cariama cristata",
+      "common": "RED-LEGGED SERIEMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Chauna torquata",
+      "common": "SOUTHERN SCREAMER / CRESTED SCREAMER"
+    },
+    {
+      "count": 7,
+      "scientific": "Threskiornis aethiopicus",
+      "common": "AFRICAN SACRED IBIS"
+    },
+    {
+      "count": 3,
+      "scientific": "Ara severus",
+      "common": "CHESTNUT-FRONTED MACAW / SEVERE MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Amazona aestiva",
+      "common": "TURQUOISE-FRONTED PARROT / TURQUOISE-FRONTED"
+    },
+    {
+      "count": 2,
+      "scientific": "Eolophus roseicapilla",
+      "common": "GALAH / ROSE-BREASTED COCKATOO / ROSEATE"
+    },
+    {
+      "count": 3,
+      "scientific": "Crax rubra",
+      "common": "GREAT CURASSOW"
+    },
+    {
+      "count": 1,
+      "scientific": "Dacelo novaeguineae",
+      "common": "LAUGHING KOOKABURRA"
+    },
+    {
+      "count": 1,
+      "scientific": "Antigone vipio",
+      "common": "WHITE-NAPED CRANE"
+    },
+    {
+      "count": 1,
+      "scientific": "Anthropoides virgo",
+      "common": "DEMOISELLE CRANE"
+    },
+    {
+      "count": 1,
+      "scientific": "Aratinga solstitialis",
+      "common": "SUN PARAKEET"
+    },
+    {
+      "count": 2,
+      "scientific": "Myiopsitta monachus",
+      "common": "MONK PARAKEET / QUAKER PARROT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sarcoramphus papa",
+      "common": "KING VULTURE"
+    },
+    {
+      "count": 7,
+      "scientific": "Streptopelia capicola",
+      "common": "BARBARY DOVE / RINGED TURTLE-DOVE / RINGNECK DOVE"
+    },
+    {
+      "count": 6,
+      "scientific": "Sapajus appella",
+      "common": "BROWN CAPUCHIN / TUFTED CAPUCHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 7,
+      "scientific": "Vanellus miles",
+      "common": "MASKED LAPWING"
+    },
+    {
+      "count": 1,
+      "scientific": "Parabuteo unicinctus",
+      "common": "HARRIS'S HAWK"
+    },
+    {
+      "count": 3,
+      "scientific": "Meleagris gallopavo domesticus",
+      "common": "DOMESTIC TURKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Neofelis nebulosa",
+      "common": "CLOUDED LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 2,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 1,
+      "scientific": "Thectocercus acuticaudatus",
+      "common": "BLUE-CROWNED PARAKEET"
+    },
+    {
+      "count": 2,
+      "scientific": "Myrmecophaga tridactyla",
+      "common": "GIANT ANTEATER"
+    },
+    {
+      "count": 3,
+      "scientific": "Potamochoerus porcus",
+      "common": "RED RIVER HOG"
+    },
+    {
+      "count": 3,
+      "scientific": "Taurotragus oryx",
+      "common": "COMMON ELAND"
+    },
+    {
+      "count": 3,
+      "scientific": "Guttera pucherani",
+      "common": "EASTERN CRESTED GUINEAFOWL"
+    },
+    {
+      "count": 7,
+      "scientific": "Eudocimus ruber",
+      "common": "SCARLET IBIS"
+    },
+    {
+      "count": 2,
+      "scientific": "Cebus albifrons",
+      "common": "BROWN PALE-FRONTED CAPUCHIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Amazona oratrix",
+      "common": "YELLOW-HEADED PARROT / YELLOW-HEADED AMAZON /"
+    },
+    {
+      "count": 2,
+      "scientific": "Ocyphaps lophotes",
+      "common": "CRESTED PIGEON"
+    },
+    {
+      "count": 2,
+      "scientific": "Spilogale putorius",
+      "common": "EASTERN SPOTTED SKUNK"
+    }
+  ]
+}
