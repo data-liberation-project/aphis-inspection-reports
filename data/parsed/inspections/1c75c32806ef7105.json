@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001511809",
+  "layout": "c",
+  "customer_id": "176",
+  "customer_name": "Princeton University",
+  "customer_addr": "P O BOX 36\nPRINCETON, NJ 08544",
+  "certificate": "22-R-0022",
+  "site_id": "001",
+  "site_name": "PRINCETON UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "15-DEC-2025",
+  "report_date": "16-DEC-2025",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the IACUC representatives. \n \n n",
+  "animals_total": 266,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 160,
+      "scientific": "Rhabdomys pumilio",
+      "common": "FOUR-STRIPED GRASS MOUSE"
+    },
+    {
+      "count": 15,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    },
+    {
+      "count": 43,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 22,
+      "scientific": "Desmodus rotundus",
+      "common": "COMMON VAMPIRE BAT"
+    }
+  ]
+}
