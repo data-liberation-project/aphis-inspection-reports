@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001515313",
+  "layout": "c",
+  "customer_id": "1451",
+  "customer_name": "University Of Louisiana At Lafayette",
+  "customer_addr": "P.O. BOX 41008\nLAFAYETTE, LA 70504",
+  "certificate": "72-R-0007",
+  "site_id": "001",
+  "site_name": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "17-DEC-2025",
+  "report_date": "18-DEC-2025",
+  "citations": [
+    {
+      "code": "2.38(h)(1)(i)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "The facility shipped non-human primates more than 10 days past the inspection dates as recorded on the Certificates of\nVeterinary Inspection.\n-The facility sent 34 long tailed macaques to another facility in Nevada. The health certificate for the transport had a Date\nInspected, December 12, 2024, that was more than 10 days prior to the Ship Date, January 8, 2025.\n-The facility sent 19 rhesus macaques to another facility in Louisiana. The health certificate for the transport had a Date\nInspected, January 9, 2025, that was more than 10 days prior to the Ship Date, January 27, 2025.\nTo ensure the health of the animals prior to transport, the health certificate must certify that the licensed veterinarian\ninspected the animals no more than 10 days prior to delivery for transport.\nNo research facility shall deliver to any intermediate handler or carrier for transportation, in commerce, or shall transport in\ncommerce any nonhuman primate unless the nonhuman primate is accompanied by a health certificate executed and\nissued by a licensed veterinarian. The health certificate shall state that the licensed veterinarian inspected the nonhuman\nprimate on a specified date which shall not be more than 10 days prior to the delivery of the nonhuman primate for\ntransportation.\nCorrect from this day forward.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.38(h)(1)(i) \n   \nMiscellaneous. \nThe facility shipped non-human primates more than 10 days past the inspection dates as recorded on the Certificates of \nVeterinary Inspection. \n \n-The facility sent 34 long tailed macaques to another facility in Nevada. The health certificate for the transport had a Date \nInspected, December 12, 2024, that was more than 10 days prior to the Ship Date, January 8, 2025.  \n \n-The facility sent 19 rhesus macaques to another facility in Louisiana. The health certificate for the transport had a Date \nInspected, January 9, 2025, that was more than 10 days prior to the Ship Date, January 27, 2025.  \n \nTo ensure the health of the animals prior to transport, the health certificate must certify that the licensed veterinarian \ninspected the animals no more than 10 days prior to delivery for transport. \n \nNo research facility shall deliver to any intermediate handler or carrier for transportation, in commerce, or shall transport in \ncommerce any nonhuman primate unless the nonhuman primate is accompanied by a health certificate executed and \nissued by a licensed veterinarian. The health certificate shall state that the licensed veterinarian inspected the nonhuman \nprimate on a specified date which shall not be more than 10 days prior to the delivery of the nonhuman primate for \ntransportation. \n \nCorrect from this day forward. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 11258,
+  "species": [
+    {
+      "count": 1424,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 2045,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 7647,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 61,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 81,
+      "scientific": "Pan troglodytes",
+      "common": "CHIMPANZEE"
+    }
+  ]
+}
