@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001516581",
+  "layout": "c",
+  "customer_id": "31452",
+  "customer_name": "City of Ansonia",
+  "customer_addr": "10 Deerfield Ln\nAnsonia, CT 06401",
+  "certificate": "16-C-0102",
+  "site_id": "001",
+  "site_name": "City of Ansonia",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JAN-2026",
+  "report_date": "09-JAN-2026",
+  "citations": [
+    {
+      "code": "2.134(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Contingency planning.",
+      "narrative": "This facility's contingency plan has not been reviewed since March 11, 2024. Failure to conduct annual contingency plan\nreviews reduces the capability for disaster response and may impact animal welfare in the event of disasters. The facility\nmust ensure that the contingency plan is reviewed annually and that this review is documented. Additionally, this\ndocumentation must be available to APHIS upon request. Correct by January 23, 2026.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "2.134(b) \n   \nContingency planning. \nThis facility's contingency plan has not been reviewed since March 11, 2024. Failure to conduct annual contingency plan \nreviews reduces the capability for disaster response and may impact animal welfare in the event of disasters. The facility \nmust ensure that the contingency plan is reviewed annually and that this review is documented. Additionally, this \ndocumentation must be available to APHIS upon request. Correct by January 23, 2026. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 7,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Eptesicus fuscus",
+      "common": "BIG BROWN BAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Streptopelia capicola",
+      "common": "BARBARY DOVE / RINGED TURTLE-DOVE / RINGNECK DOVE"
+    },
+    {
+      "count": 1,
+      "scientific": "Strix varia",
+      "common": "BARRED OWL"
+    }
+  ]
+}
