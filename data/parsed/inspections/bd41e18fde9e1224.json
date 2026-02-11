@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0001516674",
+  "layout": "c",
+  "customer_id": "17",
+  "customer_name": "Eastern Wyoming College",
+  "customer_addr": "3200 WEST C STREET\nTORRINGTON, WY 82240",
+  "certificate": "83-R-0004",
+  "site_id": "001",
+  "site_name": "EASTERN WYOMING COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-JAN-2026",
+  "report_date": "14-JAN-2026",
+  "citations": [
+    {
+      "code": "2.31(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Two IACUC members who are not affiliated with the institution have not participated in IACUC meetings, program review,\nor facility inspections, for the entire 2025 calendar year. The IACUC chair has recommended one candidate, but the Chief\nExecutive Officer has not yet appointed an unaffiliated IACUC member. The unaffiliated member represents the general\ncommunity interest in the proper care and treatment of animals used in research. If this member is not present it could\nhave negative effects on animal welfare. All members of the IACUC committee, including the unaffiliated member, shall\nbe appointed by the Chief Executive Officer of the research facility. To be corrected by February 2, 2026.\nThis inspection and exit interview were conducted with the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.31(b)(1) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nTwo IACUC members who are not affiliated with the institution have not participated in IACUC meetings, program review, \nor facility inspections, for the entire 2025 calendar year. The IACUC chair has recommended one candidate, but the Chief \nExecutive Officer has not yet appointed an unaffiliated IACUC member. The unaffiliated member represents the general \ncommunity interest in the proper care and treatment of animals used in research. If this member is not present it could \nhave negative effects on animal welfare. All members of the IACUC committee, including the unaffiliated member, shall \nbe appointed by the Chief Executive Officer of the research facility. To be corrected by February 2, 2026. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 2,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 6,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    }
+  ]
+}

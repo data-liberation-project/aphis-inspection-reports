@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001516746",
+  "layout": "c",
+  "customer_id": "6019833",
+  "customer_name": "Pelham Bit Cariages, Inc.",
+  "customer_addr": "567 Plains Road\nWallkill, NY 12589",
+  "certificate": "21-C-0519",
+  "site_id": "001",
+  "site_name": "Pelham Bit Cariages, Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JAN-2026",
+  "report_date": "14-JAN-2026",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "1. One window in the pig enclosure was broken, and broken jagged glass was observed directly above the animals. This\ncould potentially cause injury to the pigs if the glass were to fall into the enclosure. Facilities must be maintained in good\nrepair in order to prevent injury to the animals. The facility must correct this issue.\n2. Bailing twine was observed wrapped around the fencing for an enclosure housing sheep, goats and alpacas. This could\ncause injury to the animals if they were to become entangled in the twine or if the the twine was ingested. Facilities must\nbe maintained in good repair in order to prevent injury to the animals. The facility must correct this issue.\n*******Correct by January 20, 2026\nThis inspection and exit interview were conducted with the licensee.\nn"
+    }
+  ],
+  "narrative": "3.125(a) \n   \nFacilities, general. \n1. One window in the pig enclosure was broken, and broken jagged glass was observed directly above the animals. This \ncould potentially cause injury to the pigs if the glass were to fall into the enclosure. Facilities must be maintained in good \nrepair in order to prevent injury to the animals. The facility must correct this issue.  \n2. Bailing twine was observed wrapped around the fencing for an enclosure housing sheep, goats and alpacas. This could \ncause injury to the animals if they were to become entangled in the twine or if the the twine was ingested. Facilities must \nbe maintained in good repair in order to prevent injury to the animals. The facility must correct this issue.  \n*******Correct by January 20, 2026 \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 10,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
