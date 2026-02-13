@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001520030",
+  "layout": "c",
+  "customer_id": "600050",
+  "customer_name": "Cassidy Wendl",
+  "customer_addr": "207 Beach St.\nGray, IA 50110",
+  "certificate": "32-C-0282",
+  "site_id": "001",
+  "site_name": "Cassidy Wendl",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "14-JAN-2026",
+  "report_date": "16-JAN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 8,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Corvus brachyrhynchos",
+      "common": "AMERICAN CROW"
+    },
+    {
+      "count": 1,
+      "scientific": "Corvus corax",
+      "common": "COMMON RAVEN"
+    },
+    {
+      "count": 2,
+      "scientific": "Vulpes vulpes",
+      "common": "RED FOX (INCLUDES SILVER FOX & CROSS FOX)"
+    },
+    {
+      "count": 2,
+      "scientific": "Falco sparverius",
+      "common": "AMERICAN KESTREL"
+    },
+    {
+      "count": 1,
+      "scientific": "Canis latrans",
+      "common": "COYOTE"
+    }
+  ]
+}
