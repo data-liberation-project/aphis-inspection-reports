@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001526616",
+  "layout": "c",
+  "customer_id": "6025818",
+  "customer_name": "The Insect Asylum Inc",
+  "customer_addr": "2870 N Milwaukee Ave\nChicago, IL 60618",
+  "certificate": "33-C-0552",
+  "site_id": "001",
+  "site_name": "The Insect Asylum Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-JAN-2026",
+  "report_date": "26-JAN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 4,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 2,
+      "scientific": "Streptopelia capicola",
+      "common": "BARBARY DOVE / RINGED TURTLE-DOVE / RINGNECK DOVE"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara chloropterus",
+      "common": "RED-AND-GREEN MACAW / GREEN-WINGED MACAW"
+    }
+  ]
+}
