@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001532318",
+  "layout": "c",
+  "customer_id": "370",
+  "customer_name": "Wilson College",
+  "customer_addr": "VETERINARY MEDICAL TECHNOLOGY\n1015 PHILADELPHIA AVE\nCHAMBERSBURG, PA 17201",
+  "certificate": "23-R-0124",
+  "site_id": "001",
+  "site_name": "MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JAN-2026",
+  "report_date": "30-JAN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 41,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 13,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    }
+  ]
+}
