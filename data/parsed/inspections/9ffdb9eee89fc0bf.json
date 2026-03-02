@@ -1,0 +1,31 @@
+{
+  "insp_id": "INS-0001532349",
+  "layout": "c",
+  "customer_id": "769",
+  "customer_name": "Ridglan Farms Inc",
+  "customer_addr": "PO Box 318\nMount Horeb, WI 53572",
+  "certificate": "35-R-0004",
+  "site_id": "001",
+  "site_name": "Ridglan Farms Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JAN-2026",
+  "report_date": "02-FEB-2026",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Some IACUC approved protocols to conduct activities involving animals did not include a rationale for the appropriateness\nof numbers of animals used. Proposals #177, #186, #199, and #202 have a rationale for why the use of animals is\nnecessary but do not have a rationale for the total number of animals to be used. The rationale for the proposed number\nof animals to be used enables the IACUC to evaluate the suitability of the number of animals used for the proposal.\nCorrect by ensuring that IACUC-approved proposals/protocols contain a rationale for the number of animals to be used.\nTo be corrected by: March 1, 2026\nThis inspection and exit interview were conducted with the Attending Veterinarian.\nAdditional Inspectors:\nAlexandra Friedman, VETERINARY MEDICAL OFFICER n"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nSome IACUC approved protocols to conduct activities involving animals did not include a rationale for the appropriateness \nof numbers of animals used. Proposals #177, #186, #199, and #202 have a rationale for why the use of animals is \nnecessary but do not have a rationale for the total number of animals to be used. The rationale for the proposed number \nof animals to be used enables the IACUC to evaluate the suitability of the number of animals used for the proposal. \nCorrect by ensuring that IACUC-approved proposals/protocols contain a rationale for the number of animals to be used. \nTo be corrected by: March 1, 2026 \n \nThis inspection and exit interview were conducted with the Attending Veterinarian. \n \nAdditional Inspectors: \nAlexandra Friedman, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 156,
+  "species": [
+    {
+      "count": 156,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

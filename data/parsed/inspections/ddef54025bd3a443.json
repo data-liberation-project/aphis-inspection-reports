@@ -1,0 +1,70 @@
+{
+  "insp_id": "INS-0001532360",
+  "layout": "c",
+  "customer_id": "885",
+  "customer_name": "Fort Valley State University",
+  "customer_addr": "PO BOX 4370\nDEPARTMENT OF VETERINARY SCIENCE\nFORT VALLEY, GA 31030",
+  "certificate": "57-R-0017",
+  "site_id": "001",
+  "site_name": "FORT VALLEY STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "28-JAN-2026",
+  "report_date": "02-FEB-2026",
+  "citations": [
+    {
+      "code": "2.30(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Registration.",
+      "narrative": "A new Institutional Official (IO) was appointed on July 2025. At the time of inspection, the facility had not reported this\nchange to the Deputy Administrator. Prompt notification of substantial changes in operations of a research facility is\nessential to assure regulatory compliance. A research facility shall notify the Deputy Administrator of any change in name,\naddress, or ownership, or other change in operations within 10 days after making the change. Correct by 02/16/2026."
+    },
+    {
+      "code": "2.31(c)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Evaluations of the animal program and facilities were performed in December 2024 and August 2025, 8 months apart.\nSemi-annual evaluations (every 6 months) are needed to ensure that the Institutional official is kept informed of the status\nof both the animal use program and research facilities. The reports shall be updated at least once every six months upon\ncompletion of the required semiannual evaluations and shall be maintained by the research facility. Correct by\n06/05/2026."
+    },
+    {
+      "code": "3.6(b)(4)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "Seven cats are currently being housed individually in enclosures that do not have sufficiently elevated resting platforms.\nThe platforms provided are low to the ground and don\u2019t allow the space under them to be comfortably occupied by the\nanimal. Elevated resting surfaces allow cats to engage in species-typical behaviors, and the lack of this environmental\ncomplexity may cause distress to the animals. Each enclosure housing cats must contain a resting surface large enough\nto hold all the cats comfortably. The resting surfaces must be elevated and must allow the space under them to be\ncomfortably occupied by the animal. Correct by 02/16/2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.30(c) \n   \nRegistration. \nA new Institutional Official (IO) was appointed on July 2025. At the time of inspection, the facility had not reported this \nchange to the Deputy Administrator. Prompt notification of substantial changes in operations of a research facility is \nessential to assure regulatory compliance. A research facility shall notify the Deputy Administrator of any change in name, \naddress, or ownership, or other change in operations within 10 days after making the change. Correct by 02/16/2026. \n2.31(c)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nEvaluations of the animal program and facilities were performed in December 2024 and August 2025, 8 months apart. \nSemi-annual evaluations (every 6 months) are needed to ensure that the Institutional official is kept informed of the status \nof both the animal use program and research facilities. The reports shall be updated at least once every six months upon \ncompletion of the required semiannual evaluations and shall be maintained by the research facility. Correct by \n06/05/2026. \n3.6(b)(4) \n   \nPrimary enclosures. \nSeven cats are currently being housed individually in enclosures that do not have sufficiently elevated resting platforms. \nThe platforms provided are low to the ground and don\u2019t allow the space under them to be comfortably occupied by the \nanimal. Elevated resting surfaces allow cats to engage in species-typical behaviors, and the lack of this environmental \ncomplexity may cause distress to the animals. Each enclosure housing cats must contain a resting surface large enough \nto hold all the cats comfortably. The resting surfaces must be elevated and must allow the space under them to be \ncomfortably occupied by the animal. Correct by 02/16/2026. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 25,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 6,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 2,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 7,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    }
+  ]
+}
