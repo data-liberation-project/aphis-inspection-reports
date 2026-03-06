@@ -1,0 +1,83 @@
+{
+  "insp_id": "INS-0001532462",
+  "layout": "c",
+  "customer_id": "323719",
+  "customer_name": "Rooster Cogburn Ostrich Ranch",
+  "customer_addr": "PO Box 1100\nRed Rock, AZ 85145",
+  "certificate": "86-C-0101",
+  "site_id": "001",
+  "site_name": "Rooster Cogburn Ostrich Ranch",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-FEB-2026",
+  "report_date": "06-FEB-2026",
+  "citations": [
+    {
+      "code": "3.155(b)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding",
+      "narrative": "Two rusty metal cans being used as food scoops are stored in the chicken feed bin. Use of food receptacles that are rusty\nand cannot be readily cleaned and sanitized may contaminate food for birds. Food receptacles must be made of a durable\nmaterial that can easily be cleaned and sanitized or be replaceable when worn or soiled.\nCorrect by 13 February 2026."
+    },
+    {
+      "code": "3.158(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Cleaning, sanitization, housekeeping, and pest control.",
+      "narrative": "The facility does not have an effective program to control mammalian pests as evidenced by the accumulation of rodent\ndroppings seen on door ledges and on top of bins and buckets in the food storage area for chickens. Pests such as\nrodents can adversely affect the health and well-being of animals by spreading disease and contaminating food, surfaces,\nand animal housing areas. A safe and effective program for the control of insects, ectoparasites, and avian and\nmammalian pests shall be established and maintained.\nCorrect by 20 February 2026.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.155(b) \n   \nFeeding \nTwo rusty metal cans being used as food scoops are stored in the chicken feed bin. Use of food receptacles that are rusty \nand cannot be readily cleaned and sanitized may contaminate food for birds. Food receptacles must be made of a durable \nmaterial that can easily be cleaned and sanitized or be replaceable when worn or soiled.  \n \nCorrect by 13 February 2026. \n3.158(d) \n   \nCleaning, sanitization, housekeeping, and pest control. \nThe facility does not have an effective program to control mammalian pests as evidenced by the accumulation of rodent \ndroppings seen on door ledges and on top of bins and buckets in the food storage area for chickens. Pests such as \nrodents can adversely affect the health and well-being of animals by spreading disease and contaminating food, surfaces, \nand animal housing areas. A safe and effective program for the control of insects, ectoparasites, and avian and \nmammalian pests shall be established and maintained. \n \nCorrect by 20 February 2026. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 571,
+  "species": [
+    {
+      "count": 32,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 50,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 85,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 70,
+      "scientific": "Struthio camelus",
+      "common": "COMMON OSTRICH"
+    },
+    {
+      "count": 8,
+      "scientific": "Aythya valisineria",
+      "common": "CANVASBACK"
+    },
+    {
+      "count": 66,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    },
+    {
+      "count": 45,
+      "scientific": "Trichoglossus moluccanus",
+      "common": "RAINBOW LORIKEET"
+    },
+    {
+      "count": 102,
+      "scientific": "Melopsittacus undulatus",
+      "common": "BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL"
+    },
+    {
+      "count": 101,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001532408",
+  "layout": "c",
+  "customer_id": "8294",
+  "customer_name": "Los Angeles County",
+  "customer_addr": "265 Cloverleaf Drive\nBaldwin Park, CA 91706",
+  "certificate": "93-C-1201",
+  "site_id": "008",
+  "site_name": "Los Angeles County - Whittier Narrows",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JAN-2026",
+  "report_date": "06-FEB-2026",
+  "citations": [
+    {
+      "code": "3.131(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "In an enclosure housing 2 raccoons, there are approximately 3 to 5 cobwebs, approximately 2 inches X 1 inch in size in\nthe windowsills and ceiling corners, a moderate amount of dirt and debris collecting around the floor edges of the\nenclosure, and the blanket in the hammock is soiled with at least 2 holes noted. The presence of cobwebs may trap dirt\nand debris, the accumulation of debris in corners and a soiled blanket can increase the risk of disease hazards to animal\nenclosures. Animal enclosures, including its contents, should be cleaned and maintained as required to minimize\ncontamination and reduce disease hazards and odors in animal areas.\nTo be corrected by February 11, 2026"
+    },
+    {
+      "code": "3.153(a)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Primary enclosures.",
+      "narrative": "A wooden perch in the red-tailed hawk enclosure is covered with turf. An approximate 3-inch section of this covering has\nbecome unraveled. The bird could chew and/or ingest the material which could pose a health hazard to the bird.\nFurniture-type objects, such as perches and other objects that enrich a bird's environment, must be species-appropriate\nand be designed, constructed, and maintained so as to prevent harm to the bird.\nTo be corrected by February 11, 2026\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.131(a) \n   \nSanitation. \nIn an enclosure housing 2 raccoons, there are approximately 3 to 5 cobwebs, approximately 2 inches X 1 inch in size in \nthe windowsills and ceiling corners, a moderate amount of dirt and debris collecting around the floor edges of the \nenclosure, and the blanket in the hammock is soiled with at least 2 holes noted. The presence of cobwebs may trap dirt \nand debris, the accumulation of debris in corners and a soiled blanket can increase the risk of disease hazards to animal \nenclosures. Animal enclosures, including its contents, should be cleaned and maintained as required to minimize \ncontamination and reduce disease hazards and odors in animal areas. \nTo be corrected by February 11, 2026 \n3.153(a)(2) \n   \nPrimary enclosures. \nA wooden perch in the red-tailed hawk enclosure is covered with turf. An approximate 3-inch section of this covering has \nbecome unraveled. The bird could chew and/or ingest the material which could pose a health hazard to the bird. \nFurniture-type objects, such as perches and other objects that enrich a bird's environment, must be species-appropriate \nand be designed, constructed, and maintained so as to prevent harm to the bird. \nTo be corrected by February 11, 2026 \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 6,
+  "species": [
+    {
+      "count": 3,
+      "scientific": "Procyon lotor",
+      "common": "RACCOON"
+    },
+    {
+      "count": 1,
+      "scientific": "Tyto alba",
+      "common": "BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    }
+  ]
+}
