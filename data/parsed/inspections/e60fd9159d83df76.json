@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001537915",
+  "layout": "c",
+  "customer_id": "101",
+  "customer_name": "Pine Acres Rabbitry Farm",
+  "customer_addr": "299 E. MAIN STREET\nNORTON, MA 02766",
+  "certificate": "14-R-0004",
+  "site_id": "001",
+  "site_name": "PINE ACRES RABBITRY-FARM",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-FEB-2026",
+  "report_date": "13-FEB-2026",
+  "citations": [
+    {
+      "code": "2.31(e)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #25-08 was reviewed. Although the approved protocol includes a rationale for using animals\nand includes the number of animals requested for the study (152 animals), there is no rationale for the number of animals\nrequested.\nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity\ninvolving animals, must contain a rationale: for involving animals, for the appropriateness of the species, and for the\nnumber of animals to be used. Complete information must be provided in a proposal for animal use for the IACUC to\nreview the proposed animal use activities and determine that the proposed activities are in accordance with the\nrequirements in this subchapter of the Animal Welfare Act. The IACUC needs to address this item. Correct by 3/12/26."
+    },
+    {
+      "code": "2.36(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Annual report.",
+      "narrative": "The research facility did not submit their USDA FY 25 Annual Report to the Deputy Administrator on or before the\nextended deadline due date of 12/31/25.\nPer this Section, research facilities that use or intend to use live animals in research, tests, experiments, or for teaching\nshall submit an annual report, that covers the numbers of animals used during the previous Federal fiscal year, to the\nDeputy Administrator on or before the December due date in this Subchapter of the AWA. Timely submission of the\nannual report is essential to provide an accurate accounting of the total number of animals used and to ensure that\nprofessionally acceptable standards governing the care and use of animals were followed during the previous Federal\nfiscal year reporting period. The research facility needs to submit their USDA FY 25 Annual Report. Correct by 2/16/26.\nThis inspection and exit briefing were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(e)(2) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #25-08 was reviewed. Although the approved protocol includes a rationale for using animals \nand includes the number of animals requested for the study (152 animals), there is no rationale for the number of animals \nrequested.  \n \nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity \ninvolving animals, must contain a rationale: for involving animals, for the appropriateness of the species, and for the \nnumber of animals to be used. Complete information must be provided in a proposal for animal use for the IACUC to \nreview the proposed animal use activities and determine that the proposed activities are in accordance with the \nrequirements in this subchapter of the Animal Welfare Act. The IACUC needs to address this item. Correct by 3/12/26. \n2.36(a) \n   \nAnnual report. \nThe research facility did not submit their USDA FY 25 Annual Report to the Deputy Administrator on or before the \nextended deadline due date of 12/31/25. \n \nPer this Section, research facilities that use or intend to use live animals in research, tests, experiments, or for teaching \nshall submit an annual report, that covers the numbers of animals used during the previous Federal fiscal year, to the \nDeputy Administrator on or before the December due date in this Subchapter of the AWA. Timely submission of the \nannual report is essential to provide an accurate accounting of the total number of animals used and to ensure that \nprofessionally acceptable standards governing the care and use of animals were followed during the previous Federal \nfiscal year reporting period. The research facility needs to submit their USDA FY 25 Annual Report. Correct by 2/16/26. \n \nThis inspection and exit briefing were conducted with facility representative. \n \n n",
+  "animals_total": 33,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 20,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

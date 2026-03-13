@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001539090",
+  "layout": "c",
+  "customer_id": "6010066",
+  "customer_name": "Pet Planet LLC",
+  "customer_addr": "272 S Decatur Blvd\nLas Vegas, NV 89107",
+  "certificate": "88-B-0044",
+  "site_id": "001",
+  "site_name": "Pet Planet LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-FEB-2026",
+  "report_date": "13-FEB-2026",
+  "citations": [
+    {
+      "code": "3.131(d)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "In the back storage room there was a moderate accumulation of rodent droppings along the floor next to the back walls\nwith a heavier accumulation covering an approximately 1.5 sq. ft. corner area. This back room is used to store animal\nfood, bedding and other animal supplies. Pests and vermin may contaminate food and supplies as well as harbor and\nspread diseases. A safe and effective pest control program must be established and maintained to protect the health and\nwell-being of the animals.\nCorrect by 02/27/2026.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.131(d) \n   \nSanitation. \nIn the back storage room there was a moderate accumulation of rodent droppings along the floor next to the back walls \nwith a heavier accumulation covering an approximately 1.5 sq. ft. corner area. This back room is used to store animal \nfood, bedding and other animal supplies. Pests and vermin may contaminate food and supplies as well as harbor and \nspread diseases. A safe and effective pest control program must be established and maintained to protect the health and \nwell-being of the animals. \n \nCorrect by 02/27/2026. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 27,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Amazona auropalliata",
+      "common": "YELLOW-NAPED PARROT / YELLOW-NAPED AMAZON"
+    },
+    {
+      "count": 3,
+      "scientific": "Myiopsitta monachus",
+      "common": "MONK PARAKEET / QUAKER PARROT"
+    },
+    {
+      "count": 1,
+      "scientific": "Monodelphis domestica",
+      "common": "GREY SHORT-TAILED OPOSSUM"
+    },
+    {
+      "count": 12,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 10,
+      "scientific": "Petaurus breviceps",
+      "common": "SUGAR GLIDER"
+    }
+  ]
+}
