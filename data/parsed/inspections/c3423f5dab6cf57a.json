@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001546670",
+  "layout": "c",
+  "customer_id": "847",
+  "customer_name": "Lincoln Memorial University",
+  "customer_addr": "6965 CUMBERLAND GAP PKWY\nHARROGATE, TN 37752",
+  "certificate": "63-R-0019",
+  "site_id": "003",
+  "site_name": "Lincoln Memorial University",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "18-FEB-2026",
+  "report_date": "19-FEB-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 197,
+  "species": [
+    {
+      "count": 73,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 41,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 16,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 67,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
