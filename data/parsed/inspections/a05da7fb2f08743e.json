@@ -1,0 +1,36 @@
+{
+  "insp_id": "INS-0001553426",
+  "layout": "c",
+  "customer_id": "902",
+  "customer_name": "Tri-County Technical College",
+  "customer_addr": "VETERINARY TECHOLOGY DEPT\n7900 HWY 76, PO BOX 587\nPENDLETON, SC 29670",
+  "certificate": "56-R-0004",
+  "site_id": "001",
+  "site_name": "HALBERT HALL",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-MAR-2026",
+  "report_date": "13-MAR-2026",
+  "citations": [
+    {
+      "code": "2.126(a)(2)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Access and inspection of records and property; submission of itineraries.",
+      "narrative": "At the time of the inspection, the facility representative was unable to locate the following required records: the semi-\nannual findings from the September 24, 2025 inspection and review; the letter to the Institutional Official regarding this\nsemi-annual review; and its associated signatures by the IACUC. These documents were stored on the computer of the\nfacility representative who maintained the IACUC records, but is no longer employed at the facility. Despite the facility\nrepresentative reaching out to the IT department to retrieve the documents, they were unable to recover the information\nstored on the previous employee\u2019s computer.\nReview of essential records at a facility ensure they are operating as intended, assessing the care and welfare of the\nanimals involved in regulated activities. The facility shall ensure that records required by the Animal Welfare Act (AWA)\nand animal welfare regulations are available for APHIS officials to review on all inspections.\nCorrect by May 15, 2026.\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "2.126(a)(2) \n   \nAccess and inspection of records and property; submission of itineraries. \nAt the time of the inspection, the facility representative was unable to locate the following required records: the semi-\nannual findings from the September 24, 2025 inspection and review; the letter to the Institutional Official regarding this \nsemi-annual review; and its associated signatures by the IACUC. These documents were stored on the computer of the \nfacility representative who maintained the IACUC records, but is no longer employed at the facility. Despite the facility \nrepresentative reaching out to the IT department to retrieve the documents, they were unable to recover the information \nstored on the previous employee\u2019s computer.  \n \nReview of essential records at a facility ensure they are operating as intended, assessing the care and welfare of the \nanimals involved in regulated activities. The facility shall ensure that records required by the Animal Welfare Act (AWA) \nand animal welfare regulations are available for APHIS officials to review on all inspections. \n \nCorrect by May 15, 2026. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 3,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}

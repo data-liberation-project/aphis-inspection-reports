@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001555717",
+  "layout": "c",
+  "customer_id": "268",
+  "customer_name": "University of Rhode Island",
+  "customer_addr": "70 Lower College Road\nKingston, RI 02881",
+  "certificate": "15-R-0004",
+  "site_id": "001",
+  "site_name": "University of Rhode Island",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-MAR-2026",
+  "report_date": "13-MAR-2026",
+  "citations": [
+    {
+      "code": "2.31(d)(1)(ii)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #1718-001 did not provide a written narrative description of the methods and sources used to\ndetermine that alternatives were not available to procedures that are included in the protocol that may cause more than\nmomentary pain or distress to the animals (tissue hypoxia, vascular cutdown, laparotomy, craniotomy, laminectomy, and\ntracheostomy).\nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or\ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those\nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources\nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the\nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item that was identified\nfor this protocol. Correct by 4/24/26."
+    },
+    {
+      "code": "2.31(e)(5)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "IACUC approved Protocol #2425-014 did not contain a description of the method of euthanasia to be used for study\nanimals.\nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity\ninvolving animals, must contain a description of any euthanasia method to be used. The IACUC needs to address this\nitem that was identified for this protocol. Correct by 4/24/26.\nThis inspection and exit briefing were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(d)(1)(ii) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #1718-001 did not provide a written narrative description of the methods and sources used to \ndetermine that alternatives were not available to procedures that are included in the protocol that may cause more than \nmomentary pain or distress to the animals (tissue hypoxia, vascular cutdown, laparotomy, craniotomy, laminectomy, and \ntracheostomy).  \n \nPer this Section, whenever a proposal for animal use contains procedures that may cause more than momentary pain or \ndistress to the animals, the IACUC shall determine that: (1) the principal investigator has considered alternatives to those \nprocedures and (2) that the principal investigator has provided a written narrative description of the methods and sources \nused to determine that alternatives were not available. These requirements ensure that all procedures contained in the \nprotocol minimize discomfort, distress, and pain to the animals. The IACUC needs to address this item that was identified \nfor this protocol. Correct by 4/24/26. \n2.31(e)(5) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nIACUC approved Protocol #2425-014 did not contain a description of the method of euthanasia to be used for study \nanimals. \n \nPer this Section, a proposal to conduct an activity involving animals, or to make a significant change in an ongoing activity \ninvolving animals, must contain a description of any euthanasia method to be used. The IACUC needs to address this \nitem that was identified for this protocol. Correct by 4/24/26. \n \nThis inspection and exit briefing were conducted with facility representatives. \n \n n",
+  "animals_total": 139,
+  "species": [
+    {
+      "count": 44,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 95,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 0,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    }
+  ]
+}
