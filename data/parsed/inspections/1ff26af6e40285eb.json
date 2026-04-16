@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001561132",
+  "layout": "c",
+  "customer_id": "7854",
+  "customer_name": "Antibodies Inc.",
+  "customer_addr": "P. O. Box 1560\nDavis, CA 95617",
+  "certificate": "93-R-0158",
+  "site_id": "001",
+  "site_name": "ANTIBODIES, INC.",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-MAR-2026",
+  "report_date": "19-MAR-2026",
+  "citations": [
+    {
+      "code": "3.54(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Feeding.",
+      "narrative": "During Institutional Animal Care & Use Committee records review, a significant deficiency was documented that all\nanimals had not been fed on 5 July 2025. While the larger animals have freely available food, the rabbit portions are\nmeasured daily and they went without food for that day. Rabbits shall be fed at least once each day, of sufficient quantity\nand nutritive value to meet the normal daily requirements for the condition and size of the rabbit.\nCorrected before the date of inspection on 16 March 2026.\nThis inspection and exit interview were conducted with IACUC representatives.\nn"
+    }
+  ],
+  "narrative": "3.54(a) \n   \nFeeding. \nDuring Institutional Animal Care & Use Committee records review, a significant deficiency was documented that all \nanimals had not been fed on 5 July 2025. While the larger animals have freely available food, the rabbit portions are \nmeasured daily and they went without food for that day. Rabbits shall be fed at least once each day, of sufficient quantity \nand nutritive value to meet the normal daily requirements for the condition and size of the rabbit.  \n \nCorrected before the date of inspection on 16 March 2026. \n \nThis inspection and exit interview were conducted with IACUC representatives. \n \n n",
+  "animals_total": 112,
+  "species": [
+    {
+      "count": 102,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 8,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
