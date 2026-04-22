@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001568790",
+  "layout": "c",
+  "customer_id": "6010303",
+  "customer_name": "Ervin Miller Marcus Miller Anna May Miller",
+  "customer_addr": "E17311 Kolash Rd\nHillsboro, WI 54634",
+  "certificate": "35-A-0500",
+  "site_id": "001",
+  "site_name": "Ervin Miller Marcus Miller Anna Mary Miller",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "25-MAR-2026",
+  "report_date": "25-MAR-2026",
+  "citations": [
+    {
+      "code": "3.1(e)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Housing facilities, general.",
+      "narrative": "The unopened food supply was not stored in a manner that protects from contamination and vermin infestation. One bag\nwas seen to have a pencil-sized hole chewed on the corner and rodent droppings around the hole and on the pallet. The\nhole and droppings are signs of rodents getting into the food which can contaminate the food and make animals sick.\nEnsure to store and protect the food supply from rodent infestation and contamination.\n***Correct by March 30, 2026."
+    },
+    {
+      "code": "3.13(b)(3)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Veterinary care for dogs.",
+      "narrative": "A record for adult vaccination for parvo and distemper was not available (rabies record was available). Without a record\nfor when adults were vaccinated it cannot be confirmed if adults are getting their routine vaccines as required. Ensure to\nmaintain records that maintain the names of all vaccines and treatments administered and the dates of administrated for\neach dog.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.1(e) \n   \nHousing facilities, general. \nThe unopened food supply was not stored in a manner that protects from contamination and vermin infestation. One bag \nwas seen to have a pencil-sized hole chewed on the corner and rodent droppings around the hole and on the pallet. The \nhole and droppings are signs of rodents getting into the food which can contaminate the food and make animals sick. \nEnsure to store and protect the food supply from rodent infestation and contamination.  \n***Correct by March 30, 2026. \n3.13(b)(3)  Repeat\n   \nVeterinary care for dogs. \nA record for adult vaccination for parvo and distemper was not available (rabies record was available). Without a record \nfor when adults were vaccinated it cannot be confirmed if adults are getting their routine vaccines as required. Ensure to \nmaintain records that maintain the names of all vaccines and treatments administered and the dates of administrated for \neach dog. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 65,
+  "species": [
+    {
+      "count": 22,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 43,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    }
+  ]
+}
