@@ -1,0 +1,61 @@
+{
+  "insp_id": "INS-0001572239",
+  "layout": "c",
+  "customer_id": "34579",
+  "customer_name": "NAMSA Minneapolis LLC",
+  "customer_addr": "8945 Evergreen Blvd\nMinneapolis, MN 55433",
+  "certificate": "41-R-0074",
+  "site_id": "001",
+  "site_name": "NAMSA Minneapolis LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-MAR-2026",
+  "report_date": "03-APR-2026",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "In June 2025, the facility misdosed 30 guinea pigs, which resulted in the study needing to be repeated. The facility\nintended for 30 animals to be dosed with test article #1 and a second group of 30 animals to be dosed with test article #2.\nThe test article identification numbers on the vials were very similar to each other, so group #1 received test article #2\ninstead of test article #1. The error was quickly identified and the second group of 30 guinea pigs were then dosed with\ntest article #1. The study continued without incident and the animals were handled per protocol. However, after thorough\nreview, the study director, quality assurance team, and IACUC determined that the study would need to be repeated to\nmeet regulatory documentation requirements. The studies were repeated with an additional 60 guinea pigs.\nDue to this misdosing and unclear documentation, the facility was required to repeat the studies using an additional 60\nguinea pigs that would not have been needed for these studies. Mishandling of study animals and test articles can have\nnegative impacts to the animals, such as animal loss or unnecessary animal use.\nHandling of all animals, including the administration of test articles to study animals, shall be done as expeditiously and\ncarefully as possible.\nCorrect by March 25, 2026. The facility implemented corrective actions prior to inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1) \n   \nMiscellaneous. \nIn June 2025, the facility misdosed 30 guinea pigs, which resulted in the study needing to be repeated. The facility \nintended for 30 animals to be dosed with test article #1 and a second group of 30 animals to be dosed with test article #2. \nThe test article identification numbers on the vials were very similar to each other, so group #1 received test article #2 \ninstead of test article #1. The error was quickly identified and the second group of 30 guinea pigs were then dosed with \ntest article #1. The study continued without incident and the animals were handled per protocol. However, after thorough \nreview, the study director, quality assurance team, and IACUC determined that the study would need to be repeated to \nmeet regulatory documentation requirements. The studies were repeated with an additional 60 guinea pigs.  \n \nDue to this misdosing and unclear documentation, the facility was required to repeat the studies using an additional 60 \nguinea pigs that would not have been needed for these studies. Mishandling of study animals and test articles can have \nnegative impacts to the animals, such as animal loss or unnecessary animal use.  \n \nHandling of all animals, including the administration of test articles to study animals, shall be done as expeditiously and \ncarefully as possible.  \n \nCorrect by March 25, 2026. The facility implemented corrective actions prior to inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 1424,
+  "species": [
+    {
+      "count": 34,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 743,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 177,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 123,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 341,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 5,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
