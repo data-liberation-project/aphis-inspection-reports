@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001572322",
+  "layout": "c",
+  "customer_id": "508596",
+  "customer_name": "Mountain West Research",
+  "customer_addr": "6200 E. CR 56\nFORT COLLINS, CO 80524",
+  "certificate": "84-R-0093",
+  "site_id": "001",
+  "site_name": "CARE RESEARCH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-APR-2026",
+  "report_date": "09-APR-2026",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Facilities, general.",
+      "narrative": "The facility failed to maintain housing in good repair. In the Ponderosa East building, two female pigs (ID 9798 and 9727)\nare housed inside their enclosure labeled #10. The individual pens have wooden boards mounted on each side of the\ndoor that contain exposed flat-head screws protruding \u00bc inch to \u00be inch into the pen creating sharp edges. All screwheads\nare accessible to pigs, especially when they jump up on the door. Protruding sharp edges can cause injury to the animals.\nHousing facilities shall be maintained in good repair to protect the animals from injury and to contain the animals. To be\ncorrected by April 10, 2026.\nThis inspection and exit interview were conducted with attending veterinarian and IACUC representative.\nn"
+    }
+  ],
+  "narrative": "3.125(a)  Repeat\n   \nFacilities, general. \nThe facility failed to maintain housing in good repair. In the Ponderosa East building, two female pigs (ID 9798 and 9727) \nare housed inside their enclosure labeled #10. The individual pens have wooden boards mounted on each side of the \ndoor that contain exposed flat-head screws protruding \u00bc inch to \u00be inch into the pen creating sharp edges. All screwheads \nare accessible to pigs, especially when they jump up on the door. Protruding sharp edges can cause injury to the animals. \nHousing facilities shall be maintained in good repair to protect the animals from injury and to contain the animals. To be \ncorrected by April 10, 2026. \n \nThis inspection and exit interview were conducted with attending veterinarian and IACUC representative. \n \n n",
+  "animals_total": 48,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
