@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001572293",
+  "layout": "c",
+  "customer_id": "6011005",
+  "customer_name": "Tonix R&D Center, LLC",
+  "customer_addr": "431 Aviation Way\nFrederick, MD 21701",
+  "certificate": "51-R-0105",
+  "site_id": "001",
+  "site_name": "Tonix R&D Center, LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-MAR-2026",
+  "report_date": "13-APR-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 94,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 22,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}
