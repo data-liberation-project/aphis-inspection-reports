@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001587566",
+  "layout": "c",
+  "customer_id": "1149",
+  "customer_name": "Foothill College",
+  "customer_addr": "12345 EL MONTE ROAD\nLOS ALTOS HILLS, CA 94022",
+  "certificate": "93-R-0136",
+  "site_id": "001",
+  "site_name": "FOOTHILL COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-APR-2026",
+  "report_date": "01-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with Facility Representative. \n \n n",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 8,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}
