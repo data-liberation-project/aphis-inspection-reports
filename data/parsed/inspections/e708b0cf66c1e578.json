@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001587626",
+  "layout": "c",
+  "customer_id": "857",
+  "customer_name": "Tuskegee University",
+  "customer_addr": "101 Chappie James Center\nTUSKEGEE, AL 36088",
+  "certificate": "64-R-0002",
+  "site_id": "001",
+  "site_name": "TUSKEGEE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-MAY-2026",
+  "report_date": "05-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 52,
+  "species": [
+    {
+      "count": 29,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 3,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 20,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

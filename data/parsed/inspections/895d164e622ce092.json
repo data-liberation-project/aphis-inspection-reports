@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001587634",
+  "layout": "c",
+  "customer_id": "6021872",
+  "customer_name": "Kevin Kramer",
+  "customer_addr": "60854 Humpal Street\nCrab Orchard, NE 68332",
+  "certificate": "47-C-0068",
+  "site_id": "001",
+  "site_name": "Kevin Kramer",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-MAY-2026",
+  "report_date": "05-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 23,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 2,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    }
+  ]
+}
