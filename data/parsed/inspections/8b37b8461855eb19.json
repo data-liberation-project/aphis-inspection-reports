@@ -1,0 +1,76 @@
+{
+  "insp_id": "INS-0001587710",
+  "layout": "c",
+  "customer_id": "12",
+  "customer_name": "University of Utah",
+  "customer_addr": "OFFICE OF COMPARATIVE MEDICINE\n75 SOUTH 2000 EAST, SUITE 311\nSALT LAKE CITY, UT 84112",
+  "certificate": "87-R-0001",
+  "site_id": "003",
+  "site_name": "UNIVERSITY OF UTAH",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "06-MAY-2026",
+  "report_date": "08-MAY-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "On June 9, 2025, one pig underwent an alternate method for inducing a myocardial injury during a non survival surgery\nthat was not included in the IACUC approved protocol. A second pig had previously undergone the same unapproved\nalternate method. At that time, a total of ten pigs had been used under the protocol.\nThe Principal Investigator (PI) did not submit a protocol amendment describing the change in surgical procedure to the\nInstitutional Animal Care and Use Committee (IACUC) for review and approval prior to implementing the alternate\nmethod. The Attending Veterinarian and the IACUC determined that the deviation did not result in any adverse impact on\nanimal welfare. No additional work was performed and the protocol was closed. The laboratory personnel were retrained\non IACUC policies and procedures, especially the requirements for protocol amendment and approval before any\nchanges are implemented.\nFailure to submit proposed changes before implementation prevents the IACUC from reviewing modifications, verifying\nthat animal welfare standards are upheld, and ensuring compliance with the Animal Welfare Act.\nThe IACUC must have the opportunity to review, request modifications, and approve or withhold approval of all changes\nto animal activities (protocols) before those changes are implemented.\nCorrected prior to the time of inspection.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nOn June 9, 2025, one pig underwent an alternate method for inducing a myocardial injury during a non survival surgery \nthat was not included in the IACUC approved protocol. A second pig had previously undergone the same unapproved \nalternate method. At that time, a total of ten pigs had been used under the protocol. \nThe Principal Investigator (PI) did not submit a protocol amendment describing the change in surgical procedure to the \nInstitutional Animal Care and Use Committee (IACUC) for review and approval prior to implementing the alternate \nmethod. The Attending Veterinarian and the IACUC determined that the deviation did not result in any adverse impact on \nanimal welfare. No additional work was performed and the protocol was closed. The laboratory personnel were retrained \non IACUC policies and procedures, especially the requirements for protocol amendment and approval before any \nchanges are implemented. \nFailure to submit proposed changes before implementation prevents the IACUC from reviewing modifications, verifying \nthat animal welfare standards are upheld, and ensuring compliance with the Animal Welfare Act. \nThe IACUC must have the opportunity to review, request modifications, and approve or withhold approval of all changes \nto animal activities (protocols) before those changes are implemented. \nCorrected prior to the time of inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 194,
+  "species": [
+    {
+      "count": 24,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 51,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 25,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 19,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 7,
+      "scientific": "Tupaia belangeri",
+      "common": "NORTHERN TREE SHREW"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 12,
+      "scientific": "Passer domesticus",
+      "common": "HOUSE SPARROW"
+    }
+  ]
+}
