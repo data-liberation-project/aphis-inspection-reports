@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001588912",
+  "layout": "c",
+  "customer_id": "210",
+  "customer_name": "Cincinnati Children's Hospital Medical Center",
+  "customer_addr": "3333 BURNET AVENUE\nCINCINNATI, OH 45229",
+  "certificate": "31-R-0011",
+  "site_id": "001",
+  "site_name": "CHILDRENS HOSPITAL RESEARCH FOUNDATION",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "12-MAY-2026",
+  "report_date": "12-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with Facility Representatives. \n \n n",
+  "animals_total": 74,
+  "species": [
+    {
+      "count": 71,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
