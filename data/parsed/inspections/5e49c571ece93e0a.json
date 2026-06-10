@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001588846",
+  "layout": "c",
+  "customer_id": "10138",
+  "customer_name": "Pharmaron (San Diego) Lab Services LLC",
+  "customer_addr": "2820 Loker Ave E\nCarlsbad, CA 92010",
+  "certificate": "93-R-0444",
+  "site_id": "003",
+  "site_name": "Pharmaron (San Diego) Lab Services LLC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "07-APR-2026",
+  "report_date": "13-MAY-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Review of IACUC records, in addition to interviews with facility personnel and IACUC members, identified the following\ninstances where laboratory staff implemented significant changes to ongoing protocols without prior review and approval\nby the IACUC.\nIn February 2026, laboratory personnel conducted activities under an approved protocol involving pigs and administered\nCalcium Chloride. This medication was not approved by the IACUC for this study.\nIn February 2026, laboratory personnel were conducting activities under an approved protocol involving rabbits that were\nto receive cyclosporine at 15mg/kg for 2 weeks (14 days) and then 10mg/kg for two weeks (14 days). However, the\nrabbits received the higher dose, 15mg/kg, for approximately 18-19 days, which was 4-5 days longer than what was\napproved in the protocol. The protocol deviation was identified as due to a study software error after further investigation.\nAlthough there were no recorded post-procedural complications or medical issues noted for the animals listed above, the\nprotocol was not followed as written and approved by the IACUC.\nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The\nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall\nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes\nregarding the care and use of animals in ongoing activities.\nThese incidents were identified by the facility prior to inspection and corrective measures were implemented. To remain\ncorrected after April 7, 2026"
+    },
+    {
+      "code": "2.32(c)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "In September 2025, an adverse event was identified involving a pig while undergoing an approved protocol activity.\nLaboratory personnel retrieved a pig, tag #1294, from its enclosure for a terminal procedure. Following the procedure,\nduring the required necropsy, laboratory personnel discovered the wrong pig was inadvertently retrieved for the\nprocedure. The pig that was used, tag #1294, was enrolled in an approved training protocol. The other pig in the room,\ntag #931, is the pig that should have been used for the terminal procedure. An internal investigation determined laboratory\npersonnel was not adequately trained to correctly identify the pig by the ear tag number and verify the protocol number\nthe pig was enrolled in. Failure to adequately train laboratory personnel may result in harm or death to animals in their\ncare.\nIt is the responsibility of the research facility to ensure that all personnel involved in animal use are adequately trained to\nperform their duties. Issues associated with staff training can affect animal health. The facility shall ensure that all\npersonnel are sufficiently trained to conduct their duties.\nCorrected prior to the inspection on April 7, 2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nReview of IACUC records, in addition to interviews with facility personnel and IACUC members, identified the following \ninstances where laboratory staff implemented significant changes to ongoing protocols without prior review and approval \nby the IACUC. \n \n In February 2026, laboratory personnel conducted activities under an approved protocol involving pigs and administered \nCalcium Chloride. This medication was not approved by the IACUC for this study. \n \n In February 2026, laboratory personnel were conducting activities under an approved protocol involving rabbits that were \nto receive cyclosporine at 15mg/kg for 2 weeks (14 days) and then 10mg/kg for two weeks (14 days). However, the \nrabbits received the higher dose, 15mg/kg, for approximately 18-19 days, which was 4-5 days longer than what was \napproved in the protocol. The protocol deviation was identified as due to a study software error after further investigation.  \n \nAlthough there were no recorded post-procedural complications or medical issues noted for the animals listed above, the \nprotocol was not followed as written and approved by the IACUC. \n \nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The \nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall \nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes \nregarding the care and use of animals in ongoing activities. \n \nThese incidents were identified by the facility prior to inspection and corrective measures were implemented. To remain \ncorrected after April 7, 2026 \n2.32(c)  Critical\n   \nPersonnel qualifications. \nIn September 2025, an adverse event was identified involving a pig while undergoing an approved protocol activity. \nLaboratory personnel retrieved a pig, tag #1294, from its enclosure for a terminal procedure. Following the procedure,\n\nduring the required necropsy, laboratory personnel discovered the wrong pig was inadvertently retrieved for the \nprocedure. The pig that was used, tag #1294, was enrolled in an approved training protocol. The other pig in the room, \ntag #931, is the pig that should have been used for the terminal procedure. An internal investigation determined laboratory \npersonnel was not adequately trained to correctly identify the pig by the ear tag number and verify the protocol number \nthe pig was enrolled in. Failure to adequately train laboratory personnel may result in harm or death to animals in their \ncare. \n \nIt is the responsibility of the research facility to ensure that all personnel involved in animal use are adequately trained to \nperform their duties. Issues associated with staff training can affect animal health. The facility shall ensure that all \npersonnel are sufficiently trained to conduct their duties. \n \nCorrected prior to the inspection on April 7, 2026. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 14,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 12,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

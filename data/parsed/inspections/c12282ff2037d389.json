@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001588903",
+  "layout": "c",
+  "customer_id": "10138",
+  "customer_name": "Pharmaron (San Diego) Lab Services LLC",
+  "customer_addr": "2820 Loker Ave E\nCarlsbad, CA 92010",
+  "certificate": "93-R-0444",
+  "site_id": "004",
+  "site_name": "Pharmaron (San Diego) Lab Services LLC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "07-APR-2026",
+  "report_date": "13-MAY-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "Review of IACUC records, in addition to interviews with facility personnel and IACUC members, identified an instance\nwhere laboratory staff implemented significant changes to an ongoing protocol without prior review and approval by the\nIACUC. In November 2025, pigs undergoing a procedure in a toxicology study were to be monitored and given pain\nmedication every 8-12 hours post procedure by laboratory personnel. However, records show that the administration of\npain medication did not always occur at the frequency stated in the protocol. Specifically, laboratory personnel exceeded\nthe 12-hour maximum stated in the protocol for 8 pigs during the study reportedly to prevent changes in behavior during\nobservations. There was no indication of increased pain or discomfort noted by laboratory personnel for these 8 pigs and\nthey received the pain medication twice daily as stated in the protocol, but the protocol was not followed as written and\napproved by the IACUC.\nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The\nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall\nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes\nregarding the care and use of animals in ongoing activities.\nThis incident was identified by the facility prior to inspection and corrective measures were implemented. To remain\ncorrected after April 7, 2026"
+    },
+    {
+      "code": "2.32(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "On June 25, 2025, an adverse event occurred in two dogs while undergoing a procedure for an approved protocol. The\nactivity required administration of a test article either orally or intravenously. Two dogs received the test article\nintravenously and developed allergic reactions progressing to anaphylaxis. Both dogs were immediately treated by\nveterinary staff and recovered. An internal investigation determined that inexperienced laboratory personnel inadvertently\nadministered the oral test article intravenously which resulted in the allergic reactions in both dogs. Failure to adequately\ntrain laboratory personnel may result in harm or death to animals in their care.\nIt is the responsibility of the research facility to ensure that all personnel involved in animal use are adequately trained to\nperform their duties. Issues associated with staff training can affect animal health. The facility shall ensure that all\npersonnel are sufficiently trained to conduct their duties.\nCorrected prior to the inspection on April 7, 2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nReview of IACUC records, in addition to interviews with facility personnel and IACUC members, identified an instance \nwhere laboratory staff implemented significant changes to an ongoing protocol without prior review and approval by the \nIACUC. In November 2025, pigs undergoing a procedure in a toxicology study were to be monitored and given pain \nmedication every 8-12 hours post procedure by laboratory personnel. However, records show that the administration of \npain medication did not always occur at the frequency stated in the protocol. Specifically, laboratory personnel exceeded \nthe 12-hour maximum stated in the protocol for 8 pigs during the study reportedly to prevent changes in behavior during \nobservations. There was no indication of increased pain or discomfort noted by laboratory personnel for these 8 pigs and \nthey received the pain medication twice daily as stated in the protocol, but the protocol was not followed as written and \napproved by the IACUC.  \n \nPerforming activities not covered by IACUC-approved protocols can result in harm or death to the impacted animals. The \nregulations state that with respect to activities involving animals, the IACUC, as an agent of the research facility, shall \nreview and approve, require modifications in (to secure approval), or withhold approval of proposed significant changes \nregarding the care and use of animals in ongoing activities. \n \nThis incident was identified by the facility prior to inspection and corrective measures were implemented. To remain \ncorrected after April 7, 2026 \n2.32(c) \n   \nPersonnel qualifications. \nOn June 25, 2025, an adverse event occurred in two dogs while undergoing a procedure for an approved protocol. The \nactivity required administration of a test article either orally or intravenously. Two dogs received the test article \nintravenously and developed allergic reactions progressing to anaphylaxis. Both dogs were immediately treated by \nveterinary staff and recovered. An internal investigation determined that inexperienced laboratory personnel inadvertently \nadministered the oral test article intravenously which resulted in the allergic reactions in both dogs. Failure to adequately \ntrain laboratory personnel may result in harm or death to animals in their care.\n\nIt is the responsibility of the research facility to ensure that all personnel involved in animal use are adequately trained to \nperform their duties. Issues associated with staff training can affect animal health. The facility shall ensure that all \npersonnel are sufficiently trained to conduct their duties. \n \nCorrected prior to the inspection on April 7, 2026. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 10,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}
