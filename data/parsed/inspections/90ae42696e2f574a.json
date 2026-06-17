@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001587663",
+  "layout": "c",
+  "customer_id": "334304",
+  "customer_name": "Northeast Area Beltsville Location",
+  "customer_addr": "10300 Baltimore Ave, Building 003\nBELTSVILLE, MD 20705",
+  "certificate": "51-G-0001",
+  "site_id": "001",
+  "site_name": "Northeast Area Beltsville Location",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "05-MAY-2026",
+  "report_date": "20-MAY-2026",
+  "citations": [
+    {
+      "code": "2.32(a)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Personnel qualifications.",
+      "narrative": "The APHIS inspector reviewed an unexpected event report submitted on January 31, 2026 and an IACUC investigation\nreport dated April 17, 2026, for RBC1 and E line turkey poults on an IACUC approved protocol. On January 29, turkey\n\u2011 \u2011\npoults on an IACUC approved protocol in the main poultry building were receiving supplemental electrolytes. On January\n30, research staff observed increased mortality, weak poults, and birds exhibiting abnormal clinical signs including\nincreased vocalization, head tremors, convulsions, and dehydration. Research staff subsequently discovered\ncrystallization on electrolyte waterers and confirmed that poults had received electrolyte solution in bell waterers and via\noral syringe at 128 times the intended concentration because the stock solution had not been diluted prior to\nadministration. Animal care personnel noted that the packaging for electrolytes differed from the standard packaging and\nthat they had not received sufficient training to correctly dilute the product before administering it to the animals.\nExcessive electrolyte administration led to severe clinical manifestations, resulting in 127 turkey poults becoming clinically\nill and mortality for an additional 141 turkey poults.\nEnsure all scientists, research technicians, animal technicians, and other personnel involved in animal care, treatment,\nand use are qualified for their duties, including receiving adequate oversight, standardized training, and clear procedures\nso that electrolyte solutions are prepared and administered correctly. Correct from May 7, 2026, forward."
+    },
+    {
+      "code": "3.150(d)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Facilities, general.",
+      "narrative": "The APHIS inspector reviewed an unexpected event report submitted on January 31, 2026 and an IACUC investigation\nreport dated April 17, 2026, for RBC1 and E line turkey poults on an IACUC approved protocol. Heat lamps for two pens\n\u2011 \u2011\nin the main poultry barn failed due to the heat lamps being connected to a single circuit that tripped the electrical breaker.\nThe heat lamps were required to provide zones of additional heat to support the birds.\nAlthough the barn temperature overall remained within normal ranges, the lack of adequate heat zones resulted in about\n170 turkey poults to be cold, flipped over, and weak endangering the poults\u2019 health by causing cold stress.\nProvide and maintain reliable electrical power adequate for heating, cooling, ventilation, and lighting. Correct from May 7,\n2026, forward.\nThis inspection and exit interview were conducted with Facility Representatives.\nEnd of report.\nn"
+    }
+  ],
+  "narrative": "2.32(a)  Critical\n   \nPersonnel qualifications. \nThe APHIS inspector reviewed an unexpected event report submitted on January 31, 2026 and an IACUC investigation \nreport dated April 17, 2026, for RBC1 and E\u2011line turkey poults on an IACUC\u2011approved protocol. On January 29, turkey \npoults on an IACUC approved protocol in the main poultry building were receiving supplemental electrolytes. On January \n30, research staff observed increased mortality, weak poults, and birds exhibiting abnormal clinical signs including \nincreased vocalization, head tremors, convulsions, and dehydration. Research staff subsequently discovered \ncrystallization on electrolyte waterers and confirmed that poults had received electrolyte solution in bell waterers and via \noral syringe at 128 times the intended concentration because the stock solution had not been diluted prior to \nadministration. Animal care personnel noted that the packaging for electrolytes differed from the standard packaging and \nthat they had not received sufficient training to correctly dilute the product before administering it to the animals. \n \nExcessive electrolyte administration led to severe clinical manifestations, resulting in 127 turkey poults becoming clinically \nill and mortality for an additional 141 turkey poults. \n \nEnsure all scientists, research technicians, animal technicians, and other personnel involved in animal care, treatment, \nand use are qualified for their duties, including receiving adequate oversight, standardized training, and clear procedures \nso that electrolyte solutions are prepared and administered correctly. Correct from May 7, 2026, forward. \n3.150(d)  Critical\n   \nFacilities, general. \nThe APHIS inspector reviewed an unexpected event report submitted on January 31, 2026 and an IACUC investigation \nreport dated April 17, 2026, for RBC1 and E\u2011line turkey poults on an IACUC\u2011approved protocol. Heat lamps for two pens \nin the main poultry barn failed due to the heat lamps being connected to a single circuit that tripped the electrical breaker. \nThe heat lamps were required to provide zones of additional heat to support the birds. \n \nAlthough the barn temperature overall remained within normal ranges, the lack of adequate heat zones resulted in about \n170 turkey poults to be cold, flipped over, and weak endangering the poults\u2019 health by causing cold stress.\n\nProvide and maintain reliable electrical power adequate for heating, cooling, ventilation, and lighting. Correct from May 7, \n2026, forward. \n \nThis inspection and exit interview were conducted with Facility Representatives. \n \nEnd of report. \n \n n",
+  "animals_total": 931,
+  "species": [
+    {
+      "count": 106,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 770,
+      "scientific": "ARS BIRDS",
+      "common": "ARS BIRDS"
+    },
+    {
+      "count": 55,
+      "scientific": "ARS MICE",
+      "common": "ARS MICE"
+    }
+  ]
+}
