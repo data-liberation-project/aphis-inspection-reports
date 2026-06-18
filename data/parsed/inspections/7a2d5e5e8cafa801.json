@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001598738",
+  "layout": "c",
+  "customer_id": "336",
+  "customer_name": "Weill Cornell Medicine",
+  "customer_addr": "1300 York Avenue - Box 40\nNew York, NY 10065",
+  "certificate": "21-R-0114",
+  "site_id": "003",
+  "site_name": "ZUCKERMAN",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "21-MAY-2026",
+  "report_date": "21-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 53,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 3,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 4,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 45,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

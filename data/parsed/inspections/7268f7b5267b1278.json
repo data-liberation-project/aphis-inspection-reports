@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001598705",
+  "layout": "c",
+  "customer_id": "42492",
+  "customer_name": "Siemens Healthcare Diagnostics Inc",
+  "customer_addr": "511 Benedict Ave\nTarrytown, NY 10591",
+  "certificate": "21-R-0249",
+  "site_id": "002",
+  "site_name": "Siemens Healthcare Diagnostics Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "19-MAY-2026",
+  "report_date": "21-MAY-2026",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 726,
+  "species": [
+    {
+      "count": 205,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 454,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 67,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
