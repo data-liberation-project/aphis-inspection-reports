@@ -18,7 +18,7 @@ THIS_DIR = Path(__file__).parent.absolute()
 ROOT_DIR = THIS_DIR.parent
 CACHE_DIR = ROOT_DIR / "data" / "doccloud" / "inspections"
 PDF_DIR = ROOT_DIR / "pdfs" / "inspections"
-
+USER_AGENT = "Data Liberation Project USDA APHIS Inspection Reports: https://github.com/data-liberation-project/aphis-inspection-reports"
 
 def load_json(path: Path) -> tuple[str, dict[str, typing.Any]]:
     with open(path) as f:
@@ -93,6 +93,11 @@ def upload_pdf(
 
     # Connect to DocumentCloud
     client = get_documentcloud_client()
+    client.session.headers.update(
+        {
+            "User-Agent": USER_AGENT
+        }
+    )
 
     # Search to see if it's already up there
     project_id = os.getenv("DOCUMENTCLOUD_PROJECT_ID")
