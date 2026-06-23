@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001598781",
+  "layout": "c",
+  "customer_id": "228",
+  "customer_name": "Battelle Memorial Institute",
+  "customer_addr": "505 KING AVENUE ROOM NO. 11-8-070\nCOLUMBUS, OH 43201",
+  "certificate": "31-R-0021",
+  "site_id": "002",
+  "site_name": "BATTELLE BIOMEDICAL RESEARCH CENTER",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-MAY-2026",
+  "report_date": "26-MAY-2026",
+  "citations": [
+    {
+      "code": "3.80(a)(2)(iii)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Primary enclosures.",
+      "narrative": "The facility self- reported an incident where, on March 28, 2026, one non-human primate (a Cynomolgus macaque) was\nable to exit its enclosure by pushing out the waste pan and maneuvering through that space. The waste pans are meant\nto be removeable to facilitate cleaning. The non-human primate was unharmed and was returned to its enclosure without\nfurther incident. The staff were able to confirm that the non-human primate left its primary enclosure due no locking\nmechanisms present on the catch pan. The locking mechanism is a secondary means used by the facility to ensure that\nthe pan could not be removed by the non-human primate after clicking the latch that is adhered to the rack by the rack\nmanufacturer.\nPrimary enclosures that do not securely contain the animal can lead to animal escapes, stress, or injuries. Animal\nenclosures must be maintained so that they contain the non-human primates securely and prevent accidental opening of\nthe enclosure, including opening by the animal.\nThe facility had identified this issue prior to today's inspection. They have developed a system of color coded locks to\nensure the locks are properly utilized. Training of employees to this system has been implemented. Lock checks are now\nrequired to be documented in electronic data records. Management also developed a rack preparation checklist to be\nutilized by staff to ensure that racks are functioning as intended for non-human primates. Lastly, management evaluated\ntheir inventory of different housing racks for non-human primates for suitability of further use.\nThis inspection and exit interview were conducted with the facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.80(a)(2)(iii)  Repeat\n   \nPrimary enclosures. \nThe facility self- reported an incident where, on March 28, 2026, one non-human primate (a Cynomolgus macaque) was \nable to exit its enclosure by pushing out the waste pan and maneuvering through that space. The waste pans are meant \nto be removeable to facilitate cleaning. The non-human primate was unharmed and was returned to its enclosure without \nfurther incident. The staff were able to confirm that the non-human primate left its primary enclosure due no locking \nmechanisms present on the catch pan. The locking mechanism is a secondary means used by the facility to ensure that \nthe pan could not be removed by the non-human primate after clicking the latch that is adhered to the rack by the rack \nmanufacturer.  \n \nPrimary enclosures that do not securely contain the animal can lead to animal escapes, stress, or injuries. Animal \nenclosures must be maintained so that they contain the non-human primates securely and prevent accidental opening of \nthe enclosure, including opening by the animal.  \n \nThe facility had identified this issue prior to today's inspection. They have developed a system of color coded locks to \nensure the locks are properly utilized. Training of employees to this system has been implemented. Lock checks are now \nrequired to be documented in electronic data records. Management also developed a rack preparation checklist to be \nutilized by staff to ensure that racks are functioning as intended for non-human primates. Lastly, management evaluated \ntheir inventory of different housing racks for non-human primates for suitability of further use. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 243,
+  "species": [
+    {
+      "count": 18,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 140,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 22,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 39,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 24,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    }
+  ]
+}
