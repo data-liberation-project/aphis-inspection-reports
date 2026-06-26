@@ -1,0 +1,86 @@
+{
+  "insp_id": "INS-0001598831",
+  "layout": "c",
+  "customer_id": "2294",
+  "customer_name": "Silverman's Farm Inc",
+  "customer_addr": "451 Sport Hill Rd\nEaston, CT 06612",
+  "certificate": "16-C-0013",
+  "site_id": "001",
+  "site_name": "Silverman's Farm Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-MAY-2026",
+  "report_date": "29-MAY-2026",
+  "citations": [
+    {
+      "code": "3.58(a)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Classification and separation.",
+      "narrative": "An APHIS official observed 8 rabbits housed in the same primary enclosure as one Indian peafowl. Sharing an enclosure\nwith other species can pose a health and safety risk for the rabbits, such as infectious diseases or injuries from\ninteraction.\nRabbits may not be housed in the same primary enclosure with any other species unless required for scientific reasons.\nThe facility must ensure that animals housed in the same primary enclosure are maintained in compatible groups. Correct\nby June 10, 2026.\nThis inspection and exit interview were conducted with a facility representative.\nn"
+    }
+  ],
+  "narrative": "3.58(a) \n   \nClassification and separation. \nAn APHIS official observed 8 rabbits housed in the same primary enclosure as one Indian peafowl. Sharing an enclosure \nwith other species can pose a health and safety risk for the rabbits, such as infectious diseases or injuries from \ninteraction.  \n \nRabbits may not be housed in the same primary enclosure with any other species unless required for scientific reasons. \nThe facility must ensure that animals housed in the same primary enclosure are maintained in compatible groups. Correct \nby June 10, 2026. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 106,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 33,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 17,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 1,
+      "scientific": "Bison bison",
+      "common": "AMERICAN BISON"
+    },
+    {
+      "count": 1,
+      "scientific": "Lama glama",
+      "common": "LLAMA"
+    },
+    {
+      "count": 3,
+      "scientific": "Lama pacos",
+      "common": "ALPACA"
+    },
+    {
+      "count": 1,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 1,
+      "scientific": "Pavo cristatus",
+      "common": "INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 8,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 15,
+      "scientific": "Gallus gallus domesticus",
+      "common": "DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /"
+    }
+  ]
+}
