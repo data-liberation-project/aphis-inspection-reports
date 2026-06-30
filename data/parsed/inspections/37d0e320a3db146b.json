@@ -1,0 +1,71 @@
+{
+  "insp_id": "INS-0001578789",
+  "layout": "c",
+  "customer_id": "337",
+  "customer_name": "Childrens Hospital Of Philadelphia",
+  "customer_addr": "3615 CIVIC CENTER BOULEVARD\nPHILADELPHIA, PA 19104",
+  "certificate": "23-R-0033",
+  "site_id": "001",
+  "site_name": "COLKET TRANSLATIONAL RESEARCH BLDG",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "15-APR-2026",
+  "report_date": "17-APR-2026",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "The IACUC meeting minutes for September 2025 document a non-compliance for a pig on a cardiopulmonary protocol.\nAccording to the adverse event form, on 8/13/25 the pig was anesthetized for a terminal procedure and was given an\nincorrect drug by the anesthesia technician. The pig was supposed to receive diphenhydramine prior to a contrast\ninjection. The technician inadvertently administered phenylephrine. The animal became tachycardic with ventricular\nfibrillation and manual cardiac massage was performed. Tissue was harvested and the animal was euthanized as per\nprotocol. The drug administered (phenylephrine) is listed on the protocol but was administered outside of the described\nindication and dose. The facility retrained the technicians on proper procedure for drawing up drugs.\nFailure to handle animals in a careful manner may result in physical harm or discomfort.\nHandling of animals must be done as carefully as possible in a manner that does not cause physical harm or discomfort.\nCorrect by: Corrected prior to inspection. Continue to ensure all animals are handled in a careful manner from 4/17/26\nforward.\nThis inspection and exit interview were conducted with the IACUC representatives.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1) \n   \nMiscellaneous. \nThe IACUC meeting minutes for September 2025 document a non-compliance for a pig on a cardiopulmonary protocol. \nAccording to the adverse event form, on 8/13/25 the pig was anesthetized for a terminal procedure and was given an \nincorrect drug by the anesthesia technician. The pig was supposed to receive diphenhydramine prior to a contrast \ninjection. The technician inadvertently administered phenylephrine. The animal became tachycardic with ventricular \nfibrillation and manual cardiac massage was performed. Tissue was harvested and the animal was euthanized as per \nprotocol. The drug administered (phenylephrine) is listed on the protocol but was administered outside of the described \nindication and dose. The facility retrained the technicians on proper procedure for drawing up drugs. \nFailure to handle animals in a careful manner may result in physical harm or discomfort. \nHandling of animals must be done as carefully as possible in a manner that does not cause physical harm or discomfort. \nCorrect by: Corrected prior to inspection. Continue to ensure all animals are handled in a careful manner from 4/17/26 \nforward. \n \nThis inspection and exit interview were conducted with the IACUC representatives. \n \n n",
+  "animals_total": 61,
+  "species": [
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 11,
+      "scientific": "Tupaia glis",
+      "common": "COMMON TREE SHREW"
+    },
+    {
+      "count": 8,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA"
+    },
+    {
+      "count": 3,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    },
+    {
+      "count": 9,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 14,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
