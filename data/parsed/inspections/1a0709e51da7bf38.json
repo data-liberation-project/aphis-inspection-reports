@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001598998",
+  "layout": "c",
+  "customer_id": "9196",
+  "customer_name": "University Of California-San Diego",
+  "customer_addr": "IACUC OFFICE, MAIL CODE 0071\n9500 GILMAN DRIVE\nLA JOLLA, CA 92093",
+  "certificate": "93-R-0437",
+  "site_id": "001",
+  "site_name": "THE UNIVERSITY OF CALIFORNIA, SAN DIEGO",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "02-JUN-2026",
+  "report_date": "05-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 255,
+  "species": [
+    {
+      "count": 9,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH"
+    },
+    {
+      "count": 43,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 8,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 42,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 71,
+      "scientific": "Jaculus jaculus",
+      "common": "LESSER EGYPTIAN JERBOA"
+    },
+    {
+      "count": 80,
+      "scientific": "Sturnus vulgaris",
+      "common": "EUROPEAN STARLING / COMMON STARLING"
+    },
+    {
+      "count": 2,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
