@@ -1,0 +1,78 @@
+{
+  "insp_id": "INS-0001599138",
+  "layout": "c",
+  "customer_id": "108",
+  "customer_name": "General Hospital Corporation",
+  "customer_addr": "62 13th St\nRoom 225\nCharlestown, MA 02129",
+  "certificate": "14-R-0014",
+  "site_id": "001",
+  "site_name": "M G H MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "03-JUN-2026",
+  "report_date": "09-JUN-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A study-related sedation and procedure were intended to be performed on a pig covered under research protocol\n20XXXXXX42 on September 16, 2024. However, a pig covered under research protocol 20XXXXXXX44 was mistakenly\nsedated on this day instead of the intended animal. The animal was administered reversal of the sedation when the error\nwas identified and recovered uneventfully, according to the facility veterinarian.\nSedation for a procedure approved under a different protocol from the one intended constitutes a deviation from the\napproved activities on the protocol.\nThis incident was reported in the IACUC meeting minutes and corrective measures, including verifying that animals are\ncovered under the correct protocol and properly identified, were implemented prior to the inspection."
+    },
+    {
+      "code": "2.33(b)(3)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "An approximately 3-month-old female guinea pig was transported to the facility on December 1, 2025. Between\nDecember 1, 2025, and December 8, 2025, the animal lost 130 grams, or 22.9% of its weight on arrival. Veterinary and\nlaboratory personnel did not observe abnormal behaviors in this timeframe.\nA study experiment was performed on December 9, 2025, and the animal was found deceased on December 10, 2025.\nDespite the significant weight reduction in this animal measured by laboratory personnel, there was no communication to\nthe facility veterinarian prior to performing study activities on this animal.\nSignificant weight reduction in a short amount of time is highly suggestive of an underlying disease and can be associated\nwith pain or distress in animals.\nThe facility shall establish and maintain programs of adequate veterinary care including mechanisms of direct and\nfrequent communication so that timely and accurate information on problems of animal health, behavior, and well-being is\nconveyed to the Attending Veterinarian.\nThe facility implemented corrective measures, including a review of signs of health, pain, and body condition scoring of\nthis species, prior to the inspection. To remain corrected from June 3, 2026, forward.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nA study-related sedation and procedure were intended to be performed on a pig covered under research protocol \n20XXXXXX42 on September 16, 2024. However, a pig covered under research protocol 20XXXXXXX44 was mistakenly \nsedated on this day instead of the intended animal. The animal was administered reversal of the sedation when the error \nwas identified and recovered uneventfully, according to the facility veterinarian.  \n \nSedation for a procedure approved under a different protocol from the one intended constitutes a deviation from the \napproved activities on the protocol. \n \nThis incident was reported in the IACUC meeting minutes and corrective measures, including verifying that animals are \ncovered under the correct protocol and properly identified, were implemented prior to the inspection. \n2.33(b)(3)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nAn approximately 3-month-old female guinea pig was transported to the facility on December 1, 2025. Between \nDecember 1, 2025, and December 8, 2025, the animal lost 130 grams, or 22.9% of its weight on arrival. Veterinary and \nlaboratory personnel did not observe abnormal behaviors in this timeframe.  \n \nA study experiment was performed on December 9, 2025, and the animal was found deceased on December 10, 2025. \nDespite the significant weight reduction in this animal measured by laboratory personnel, there was no communication to \nthe facility veterinarian prior to performing study activities on this animal. \n \nSignificant weight reduction in a short amount of time is highly suggestive of an underlying disease and can be associated \nwith pain or distress in animals.  \n \nThe facility shall establish and maintain programs of adequate veterinary care including mechanisms of direct and \nfrequent communication so that timely and accurate information on problems of animal health, behavior, and well-being is \nconveyed to the Attending Veterinarian.\n\nThe facility implemented corrective measures, including a review of signs of health, pain, and body condition scoring of \nthis species, prior to the inspection. To remain corrected from June 3, 2026, forward. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 145,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 13,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 18,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 30,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 55,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 5,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 8,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 0,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Ictidomys tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
+}
