@@ -1,0 +1,643 @@
+{
+  "insp_id": "INS-0001598870",
+  "layout": "c",
+  "customer_id": "3141",
+  "customer_name": "Louisville Zoological Garden",
+  "customer_addr": "PO Box 37250\nLouisville, KY 40233",
+  "certificate": "61-C-0106",
+  "site_id": "001",
+  "site_name": "Louisville Zoological Garden",
+  "insp_type": "RE-LICENSE INSPECTION",
+  "date": "28-MAY-2026",
+  "report_date": "10-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nEach applicant for a license must demonstrate that his or her location(s) and any animals, facilities, vehicles, equipment, \nor other locations used or intended for use in the business comply with the Animal Welfare Act (AWA) and the regulations \nand standards. The purpose of this inspection is to help USDA ascertain your compliance with the AWA and regulations \nand standards. USDA conducted the inspection and exit briefing with the applicant. \n \nWe will send a copy of your new license to you within 30 days, unless additional review is required. You do not need to \ntake further action at this time. If you have not received your license within 30 days, please contact the USDA at 970-494-\n7478. \n \nConducting regulated activities prior to issuance of a valid USDA license is a violation of the Animal Welfare Act. \n \nAdditional Inspectors: \nRobert Ferguson, VETERINARY MEDICAL OFFICER n",
+  "animals_total": 627,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lagothrix lagotricha",
+      "common": "WOOLLY MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Gorilla gorilla",
+      "common": "WESTERN GORILLA"
+    },
+    {
+      "count": 1,
+      "scientific": "Pongo pygmaeus",
+      "common": "BORNEAN ORANGUTAN"
+    },
+    {
+      "count": 2,
+      "scientific": "Symphalangus syndactylus",
+      "common": "SIAMANG"
+    },
+    {
+      "count": 2,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    },
+    {
+      "count": 2,
+      "scientific": "Ursus maritimus",
+      "common": "POLAR BEAR"
+    },
+    {
+      "count": 10,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera uncia",
+      "common": "SNOW LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 7,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 6,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Coendou prehensilis",
+      "common": "PREHENSILE-TAILED PORCUPINE"
+    },
+    {
+      "count": 5,
+      "scientific": "Addax nasomaculatus",
+      "common": "ADDAX"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragelaphus eurycerus",
+      "common": "BONGO"
+    },
+    {
+      "count": 3,
+      "scientific": "Equus zebra",
+      "common": "MOUNTAIN ZEBRA / HARTMANN'S ZEBRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Babyrousa babyrussa",
+      "common": "BABIRUSA"
+    },
+    {
+      "count": 2,
+      "scientific": "Phacochoerus africanus",
+      "common": "WARTHOG"
+    },
+    {
+      "count": 2,
+      "scientific": "Tolypeutes matacus",
+      "common": "SOUTHERN THREE-BANDED ARMADILLO"
+    },
+    {
+      "count": 37,
+      "scientific": "Desmodus rotundus",
+      "common": "COMMON VAMPIRE BAT"
+    },
+    {
+      "count": 12,
+      "scientific": "Pteropus rodricensis",
+      "common": "RODRIGUES FLYING FOX"
+    },
+    {
+      "count": 45,
+      "scientific": "Mustela nigripes",
+      "common": "BLACK-FOOTED FERRET"
+    },
+    {
+      "count": 5,
+      "scientific": "Giraffa camelopardalis",
+      "common": "GIRAFFE"
+    },
+    {
+      "count": 2,
+      "scientific": "Hexaprotodon liberiensis",
+      "common": "PYGMY HIPPOPOTAMUS"
+    },
+    {
+      "count": 2,
+      "scientific": "Suricata suricatta",
+      "common": "SLENDER-TAILED MEERKAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Didelphis virginiana",
+      "common": "VIRGINIA OPOSSUM"
+    },
+    {
+      "count": 3,
+      "scientific": "Mustela putorius",
+      "common": "EUROPEAN POLECAT"
+    },
+    {
+      "count": 1,
+      "scientific": "Ceratotherium simum",
+      "common": "WHITE RHINOCEROS"
+    },
+    {
+      "count": 1,
+      "scientific": "Tapirus indicus",
+      "common": "MALAYAN TAPIR"
+    },
+    {
+      "count": 9,
+      "scientific": "Notamacropus rufogriseus",
+      "common": "BENNETT'S WALLABY / RED-NECKED WALLABY"
+    },
+    {
+      "count": 1,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 4,
+      "scientific": "Lemur catta",
+      "common": "RING-TAILED LEMUR"
+    },
+    {
+      "count": 4,
+      "scientific": "Chinchilla lanigera",
+      "common": "CHINCHILLA (DOMESTICATED)"
+    },
+    {
+      "count": 1,
+      "scientific": "Ursus arctos",
+      "common": "BROWN BEAR"
+    },
+    {
+      "count": 3,
+      "scientific": "Choloepus didactylus",
+      "common": "LINNAEUS'S TWO-TOED SLOTH"
+    },
+    {
+      "count": 4,
+      "scientific": "Pongo abelii",
+      "common": "SUMATRAN ORANGUTAN"
+    },
+    {
+      "count": 3,
+      "scientific": "Halichoerus grypus",
+      "common": "GREY SEAL"
+    },
+    {
+      "count": 6,
+      "scientific": "Colobus guereza",
+      "common": "EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA"
+    },
+    {
+      "count": 2,
+      "scientific": "Lynx canadensis",
+      "common": "CANADIAN LYNX"
+    },
+    {
+      "count": 2,
+      "scientific": "Ailurus fulgens",
+      "common": "RED PANDA"
+    },
+    {
+      "count": 3,
+      "scientific": "Phascolarctos cinereus",
+      "common": "KOALA"
+    },
+    {
+      "count": 2,
+      "scientific": "Procavia capensis",
+      "common": "ROCK HYRAX"
+    },
+    {
+      "count": 1,
+      "scientific": "Ara chloropterus",
+      "common": "RED-AND-GREEN MACAW / GREEN-WINGED MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Castor canadensis",
+      "common": "AMERICAN BEAVER"
+    },
+    {
+      "count": 1,
+      "scientific": "Arctictis binturong",
+      "common": "BINTURONG"
+    },
+    {
+      "count": 2,
+      "scientific": "Mephitis mephitis",
+      "common": "STRIPED SKUNK"
+    },
+    {
+      "count": 1,
+      "scientific": "Casuarius casuarius",
+      "common": "SOUTHERN CASSOWARY / DOUBLE-WATTLED CASSOWARY"
+    },
+    {
+      "count": 2,
+      "scientific": "Dromaius novaehollandiae",
+      "common": "EMU"
+    },
+    {
+      "count": 5,
+      "scientific": "Rollulus rouloul",
+      "common": "CRESTED PARTRIDGE"
+    },
+    {
+      "count": 2,
+      "scientific": "Tragopan caboti",
+      "common": "CABOT'S TRAGOPAN"
+    },
+    {
+      "count": 2,
+      "scientific": "Chauna torquata",
+      "common": "SOUTHERN SCREAMER / CRESTED SCREAMER"
+    },
+    {
+      "count": 2,
+      "scientific": "Dendrocygna guttata",
+      "common": "SPOTTED WHISTLING-DUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Branta ruficollis",
+      "common": "RED-BREASTED GOOSE"
+    },
+    {
+      "count": 3,
+      "scientific": "Cygnus atratus",
+      "common": "BLACK SWAN"
+    },
+    {
+      "count": 4,
+      "scientific": "Anas bernieri",
+      "common": "BERNIER'S TEAL / MADAGASCAR TEAL"
+    },
+    {
+      "count": 3,
+      "scientific": "Aythya baeri",
+      "common": "BAER'S POCHARD"
+    },
+    {
+      "count": 77,
+      "scientific": "Phoenicopterus chilensis",
+      "common": "CHILEAN FLAMINGO"
+    },
+    {
+      "count": 4,
+      "scientific": "Ducula nicobarica",
+      "common": "NICOBAR IMPERIAL-PIGEON"
+    },
+    {
+      "count": 1,
+      "scientific": "Chalcophaps indica",
+      "common": "ASIAN EMERALD DOVE / GREY-CAPPED EMERALD DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Columba guinea",
+      "common": "SPECKLED PIGEON"
+    },
+    {
+      "count": 1,
+      "scientific": "Ducula bicolor",
+      "common": "PIED IMPERIAL-PIGEON"
+    },
+    {
+      "count": 6,
+      "scientific": "Gallicolumba tristigmata",
+      "common": "SULAWESI GROUND DOVE"
+    },
+    {
+      "count": 3,
+      "scientific": "Goura victoria",
+      "common": "VICTORIA CROWNED-PIGEON"
+    },
+    {
+      "count": 3,
+      "scientific": "Gymnophaps albertisii",
+      "common": "PAPUAN MOUNTAIN-PIGEON"
+    },
+    {
+      "count": 4,
+      "scientific": "Otidiphaps nobilis",
+      "common": "PHEASANT PIGEON"
+    },
+    {
+      "count": 5,
+      "scientific": "Ptilinopus pulchellus",
+      "common": "BEAUTIFUL FRUIT-DOVE"
+    },
+    {
+      "count": 4,
+      "scientific": "Ptilinopus roseicapilla",
+      "common": "MARIANA FRUIT-DOVE"
+    },
+    {
+      "count": 5,
+      "scientific": "Alopecoenas xanthonurus",
+      "common": "WHITE-THROATED GROUND DOVE"
+    },
+    {
+      "count": 4,
+      "scientific": "Podargus strigoides",
+      "common": "TAWNY FROGMOUTH"
+    },
+    {
+      "count": 1,
+      "scientific": "Coua cristata",
+      "common": "CRESTED COUA"
+    },
+    {
+      "count": 1,
+      "scientific": "Cariama cristata",
+      "common": "RED-LEGGED SERIEMA"
+    },
+    {
+      "count": 2,
+      "scientific": "Eurypyga helias",
+      "common": "SUNBITTERN"
+    },
+    {
+      "count": 1,
+      "scientific": "Balearica regulorum",
+      "common": "GRAY CROWNED-CRANE / AFRICAN CROWNED-CRANE /"
+    },
+    {
+      "count": 1,
+      "scientific": "Antigone canadensis",
+      "common": "SANDHILL CRANE"
+    },
+    {
+      "count": 2,
+      "scientific": "Grus japonensis",
+      "common": "RED-CROWNED CRANE / JAPANESE CRANE"
+    },
+    {
+      "count": 2,
+      "scientific": "Bugeranus carunculatus",
+      "common": "WATTLED CRANE"
+    },
+    {
+      "count": 32,
+      "scientific": "Eudyptula minor",
+      "common": "LITTLE PENGUIN / BLUE PENGUIN / FAIRY PENGUIN"
+    },
+    {
+      "count": 12,
+      "scientific": "Spheniscus demersus",
+      "common": "AFRICAN PENGUIN / CAPE PENGUIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Mycteria ibis",
+      "common": "YELLOW-BILLED STORK"
+    },
+    {
+      "count": 2,
+      "scientific": "Ciconia ciconia",
+      "common": "WHITE STORK"
+    },
+    {
+      "count": 15,
+      "scientific": "Geronticus eremita",
+      "common": "NORTHERN BALD IBIS"
+    },
+    {
+      "count": 2,
+      "scientific": "Lophotibis cristata",
+      "common": "MADAGASCAR IBIS"
+    },
+    {
+      "count": 3,
+      "scientific": "Pelecanus crispus",
+      "common": "DALMATIAN PELICAN"
+    },
+    {
+      "count": 13,
+      "scientific": "Larosterna inca",
+      "common": "INCA TERN"
+    },
+    {
+      "count": 2,
+      "scientific": "Tyto alba",
+      "common": "BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /"
+    },
+    {
+      "count": 1,
+      "scientific": "Bubo virginianus",
+      "common": "GREAT HORNED OWL"
+    },
+    {
+      "count": 2,
+      "scientific": "Megascops asio",
+      "common": "EASTERN SCREECH-OWL"
+    },
+    {
+      "count": 1,
+      "scientific": "Cathartes aura",
+      "common": "TURKEY VULTURE"
+    },
+    {
+      "count": 1,
+      "scientific": "Coragyps atratus",
+      "common": "BLACK VULTURE / MEXICAN VULTURE"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo jamaicensis",
+      "common": "RED-TAILED HAWK"
+    },
+    {
+      "count": 2,
+      "scientific": "Haliaeetus leucocephalus",
+      "common": "BALD EAGLE"
+    },
+    {
+      "count": 3,
+      "scientific": "Haliaeetus pelagicus",
+      "common": "STELLER'S SEA-EAGLE"
+    },
+    {
+      "count": 2,
+      "scientific": "Dacelo novaeguineae",
+      "common": "LAUGHING KOOKABURRA"
+    },
+    {
+      "count": 2,
+      "scientific": "Ramphastos toco",
+      "common": "TOCO TOUCAN"
+    },
+    {
+      "count": 1,
+      "scientific": "Falco peregrinus",
+      "common": "PEREGRINE FALCON"
+    },
+    {
+      "count": 2,
+      "scientific": "Eos bornea",
+      "common": "RED LORY"
+    },
+    {
+      "count": 38,
+      "scientific": "Trichoglossus haematodus",
+      "common": "COCONUT LORIKEET"
+    },
+    {
+      "count": 14,
+      "scientific": "Trichoglossus moluccanus",
+      "common": "RAINBOW LORIKEET"
+    },
+    {
+      "count": 1,
+      "scientific": "Trichoglossus forsteni",
+      "common": "SUNSET LORIKEET / SCARLET-BREASTED LORIKEET"
+    },
+    {
+      "count": 1,
+      "scientific": "Anodorhynchus hyacinthinus",
+      "common": "HYACINTH MACAW"
+    },
+    {
+      "count": 1,
+      "scientific": "Cacatua sulphurea",
+      "common": "YELLOW-CRESTED COCKATOO / LESSER SULPHUR-"
+    },
+    {
+      "count": 1,
+      "scientific": "Pitta sordida",
+      "common": "HOODED PITTA"
+    },
+    {
+      "count": 2,
+      "scientific": "Entomyzon cyanotis",
+      "common": "BLUE-FACED HONEYEATER"
+    },
+    {
+      "count": 2,
+      "scientific": "Cyanopica cyanus",
+      "common": "AZURE-WINGED MAGPIE"
+    },
+    {
+      "count": 2,
+      "scientific": "Garrulax leucolophus",
+      "common": "WHITE-CRESTED LAUGHINGTHRUSH"
+    },
+    {
+      "count": 4,
+      "scientific": "Lamprotornis regius",
+      "common": "GOLDEN-BREASTED STARLING"
+    },
+    {
+      "count": 4,
+      "scientific": "Leucopsar rothschildi",
+      "common": "BALI MYNA"
+    },
+    {
+      "count": 17,
+      "scientific": "Paroaria gularis",
+      "common": "RED-CAPPED CARDINAL"
+    },
+    {
+      "count": 20,
+      "scientific": "Sicalis flaveola",
+      "common": "SAFFRON FINCH"
+    },
+    {
+      "count": 2,
+      "scientific": "Ramphocelus carbo",
+      "common": "SILVER-BEAKED TANAGER"
+    },
+    {
+      "count": 13,
+      "scientific": "Thraupis episcopus",
+      "common": "BLUE-GRAY TANAGER"
+    },
+    {
+      "count": 7,
+      "scientific": "Leiothrix lutea",
+      "common": "RED-BILLED LEIOTHRIX"
+    },
+    {
+      "count": 1,
+      "scientific": "Chrysocyon brachyurus",
+      "common": "MANED WOLF"
+    },
+    {
+      "count": 1,
+      "scientific": "Echinops telfairi",
+      "common": "LESSER MADAGASCAR HEDGEHOG TENREC"
+    },
+    {
+      "count": 4,
+      "scientific": "Camelus dromedarius",
+      "common": "DROMEDARY CAMEL"
+    },
+    {
+      "count": 2,
+      "scientific": "Aix galericulata",
+      "common": "MANDARIN DUCK"
+    },
+    {
+      "count": 1,
+      "scientific": "Vanellus spinosus",
+      "common": "SPUR-WINGED LAPWING"
+    },
+    {
+      "count": 1,
+      "scientific": "Buteo solitarius",
+      "common": "HAWAIIAN HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Parabuteo unicinctus",
+      "common": "HARRIS'S HAWK"
+    },
+    {
+      "count": 1,
+      "scientific": "Momotus momota",
+      "common": "AMAZONIAN MOTMOT"
+    },
+    {
+      "count": 1,
+      "scientific": "Pteroglossus beauharnaisii",
+      "common": "CURL-CRESTED ARACARI"
+    },
+    {
+      "count": 2,
+      "scientific": "Geokichla dohertyi",
+      "common": "CHESTNUT-BACKED THRUSH"
+    },
+    {
+      "count": 1,
+      "scientific": "Ciconia boyciana",
+      "common": "ORIENTAL STORK"
+    },
+    {
+      "count": 2,
+      "scientific": "Charmosyna stellae",
+      "common": "STELLA'S LORIKEET"
+    }
+  ]
+}
