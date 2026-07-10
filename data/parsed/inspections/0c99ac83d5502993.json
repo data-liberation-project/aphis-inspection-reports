@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001602428",
+  "layout": "c",
+  "customer_id": "896",
+  "customer_name": "Emory University",
+  "customer_addr": "1510 Clifton Road NE\nAtlanta, GA 30332",
+  "certificate": "57-R-0003",
+  "site_id": "001",
+  "site_name": "School of Medicine Division of Animal Resources (SOM DAR)",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUN-2026",
+  "report_date": "12-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 178,
+  "species": [
+    {
+      "count": 20,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 124,
+      "scientific": "Acomys cilicicus",
+      "common": "TURKISH SPINY MOUSE / AFRICAN SPINY MOUSE"
+    },
+    {
+      "count": 18,
+      "scientific": "Mustela putorius furo",
+      "common": "DOMESTIC FERRET"
+    },
+    {
+      "count": 16,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    }
+  ]
+}
