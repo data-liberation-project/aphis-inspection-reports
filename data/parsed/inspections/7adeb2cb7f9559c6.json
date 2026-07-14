@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001606726",
+  "layout": "c",
+  "customer_id": "825",
+  "customer_name": "Wake Forest University",
+  "customer_addr": "Medical Center Blvd\nWinston Salem, NC 27157",
+  "certificate": "55-R-0001",
+  "site_id": "001",
+  "site_name": "ANIMAL RESOURCES PROGRAM/DOWNTOWN CAMPUS",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "15-JUN-2026",
+  "report_date": "16-JUN-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "There have been several incidences where medication for covered animals was used, not used, or substituted, that\ndiffered from the protocol as submitted and approved.\n**On Feb 17, 2026, four (4) Rhesus Macaques were anesthetized for CT scan and bronchoalveolar lavage (BAL), where\nthey received sterile 50% dextrose solution instead of sterile 0.9% saline. While this triggered additional monitoring by\nveterinary staff, animals were stable and suffered no effects.\n**Feb 10-12, 2026, two (2) rabbits did not receive the pre-operative glycopyrrolate injection that was part of the approved\nprotocol. No adverse event resulted from the medication omission.\n**Sept. 8-18, 2025, three (3) rabbits received a commercially available catheter locking solution that was not included in\nthe protocol for use. No animal welfare concerns were found.\n**On Aug. 24, 2025, one (1) African green monkey was administered a medication via intramuscular route, when only\nintravenous or subcutaneous routes were approved. The animal underwent extended monitoring and no adverse event\nresulted from the incorrect administration route.\nFailure to secure IACUC approval for modifications to an approved protocol prior to enacting those changes does not\nafford the IACUC the opportunity to review the changes regarding the care and use of animals in ongoing activities and\neither approve, require modifications in, or withhold approval of the changes. Performing activities not covered by IACUC-\napproved protocols can also result in harm or death to the impacted animals.\nWith respect to activities involving animals, the IACUC, as an agent of the research facility, shall: review and approve,\nrequire modification in (to secure approval), or withhold approval or proposed significant changes regarding the care and\nuse of animals in ongoing activities.\nThese incidents were identified by the facility prior to inspection and corrective measures were implemented.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nThere have been several incidences where medication for covered animals was used, not used, or substituted, that \ndiffered from the protocol as submitted and approved.  \n**On Feb 17, 2026, four (4) Rhesus Macaques were anesthetized for CT scan and bronchoalveolar lavage (BAL), where \nthey received sterile 50% dextrose solution instead of sterile 0.9% saline. While this triggered additional monitoring by \nveterinary staff, animals were stable and suffered no effects.  \n**Feb 10-12, 2026, two (2) rabbits did not receive the pre-operative glycopyrrolate injection that was part of the approved \nprotocol. No adverse event resulted from the medication omission.  \n**Sept. 8-18, 2025, three (3) rabbits received a commercially available catheter locking solution that was not included in \nthe protocol for use. No animal welfare concerns were found.  \n**On Aug. 24, 2025, one (1) African green monkey was administered a medication via intramuscular route, when only \nintravenous or subcutaneous routes were approved. The animal underwent extended monitoring and no adverse event \nresulted from the incorrect administration route.  \n \nFailure to secure IACUC approval for modifications to an approved protocol prior to enacting those changes does not \nafford the IACUC the opportunity to review the changes regarding the care and use of animals in ongoing activities and \neither approve, require modifications in, or withhold approval of the changes. Performing activities not covered by IACUC-\napproved protocols can also result in harm or death to the impacted animals.  \n \nWith respect to activities involving animals, the IACUC, as an agent of the research facility, shall: review and approve, \nrequire modification in (to secure approval), or withhold approval or proposed significant changes regarding the care and \nuse of animals in ongoing activities.  \n \nThese incidents were identified by the facility prior to inspection and corrective measures were implemented. \n \nThis inspection and exit interview were conducted with facility representatives.\n\nn",
+  "animals_total": 37,
+  "species": [
+    {
+      "count": 0,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 37,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 0,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}
