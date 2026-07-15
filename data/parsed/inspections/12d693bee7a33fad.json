@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001608898",
+  "layout": "c",
+  "customer_id": "1155",
+  "customer_name": "Edwards Lifesciences LLC",
+  "customer_addr": "One Edwards Way, Mailstop 44\nIrvine, CA 92614",
+  "certificate": "93-R-0121",
+  "site_id": "001",
+  "site_name": "EDWARDS LIFESCIENCES LLC",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "17-JUN-2026",
+  "report_date": "17-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 123,
+  "species": [
+    {
+      "count": 30,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 0,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 88,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

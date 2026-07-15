@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001608864",
+  "layout": "c",
+  "customer_id": "37207",
+  "customer_name": "University of Tennessee - Martin",
+  "customer_addr": "124 Gooch Hall\nMartin, TN 38238",
+  "certificate": "63-R-0119",
+  "site_id": "001",
+  "site_name": "University of Tennessee - Martin",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "16-JUN-2026",
+  "report_date": "17-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 7,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 21,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}
