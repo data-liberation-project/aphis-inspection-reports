@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001609975",
+  "layout": "c",
+  "customer_id": "332183",
+  "customer_name": "Tracie Perry",
+  "customer_addr": "350 West Pierce Street\nLebanon, MO 65536",
+  "certificate": "43-C-0422",
+  "site_id": "003",
+  "site_name": "Tracie Perry",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "10-JUN-2026",
+  "report_date": "18-JUN-2026",
+  "citations": [
+    {
+      "code": "2.78(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Health certification and identification.",
+      "narrative": "The licensee transported two Squirrel monkeys across state lines on April 12, 2026 without obtaining a health certificate\nexecuted and issued by a licensed veterinarian prior to transport. Health certificates help ensure that such animal is\nhealthy, fit for travel and appear free of any infectious disease or other physical abnormality that could endanger the\nanimal, public health, or other animals. The health certificate shall state that the licensed veterinarian inspected the\nnonhuman primates on a specified date which shall not be more than 10 days prior to the delivery of the nonhuman\nprimate for transportation. All non-human primates that are transported in commerce must be accompanied by a health\ncertificate. A licensed veterinarian must examine the animals and complete a health certificate.\nThis inspection and exit interview were conducted with licensee.\nn"
+    }
+  ],
+  "narrative": "2.78(a)  Repeat\n   \nHealth certification and identification. \nThe licensee transported two Squirrel monkeys across state lines on April 12, 2026 without obtaining a health certificate \nexecuted and issued by a licensed veterinarian prior to transport. Health certificates help ensure that such animal is \nhealthy, fit for travel and appear free of any infectious disease or other physical abnormality that could endanger the \nanimal, public health, or other animals. The health certificate shall state that the licensed veterinarian inspected the \nnonhuman primates on a specified date which shall not be more than 10 days prior to the delivery of the nonhuman \nprimate for transportation. All non-human primates that are transported in commerce must be accompanied by a health \ncertificate. A licensed veterinarian must examine the animals and complete a health certificate. \n \nThis inspection and exit interview were conducted with licensee. \n \n n",
+  "animals_total": 12,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 3,
+      "scientific": "Saguinus midas",
+      "common": "RED-HANDED TAMARIN"
+    },
+    {
+      "count": 2,
+      "scientific": "Saguinus oedipus",
+      "common": "COTTON-TOP TAMARIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Callithrix geoffroyi",
+      "common": "WHITE-FRONTED MARMOSET"
+    },
+    {
+      "count": 0,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    }
+  ]
+}
