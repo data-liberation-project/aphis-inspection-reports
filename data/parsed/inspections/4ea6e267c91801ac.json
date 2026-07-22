@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001610104",
+  "layout": "c",
+  "customer_id": "1799",
+  "customer_name": "Charles River Laboratories Inc",
+  "customer_addr": "251 Ballardvale Street\nWilmington, MA 01887",
+  "certificate": "14-R-0144",
+  "site_id": "026",
+  "site_name": "WIL RESEARCH SITE",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "24-JUN-2026",
+  "report_date": "24-JUN-2026",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian and IACUC administrator. \n \n n",
+  "animals_total": 1829,
+  "species": [
+    {
+      "count": 278,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 715,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 836,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
