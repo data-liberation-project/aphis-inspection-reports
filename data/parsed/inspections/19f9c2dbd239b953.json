@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001610329",
+  "layout": "c",
+  "customer_id": "10138",
+  "customer_name": "Pharmaron (San Diego) Lab Services LLC",
+  "customer_addr": "2820 Loker Ave E\nCarlsbad, CA 92010",
+  "certificate": "93-R-0444",
+  "site_id": "003",
+  "site_name": "Pharmaron (San Diego) Lab Services LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUL-2026",
+  "report_date": "02-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 363,
+  "species": [
+    {
+      "count": 298,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 56,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 9,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

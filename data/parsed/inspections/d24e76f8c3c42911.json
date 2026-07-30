@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001610335",
+  "layout": "c",
+  "customer_id": "1543",
+  "customer_name": "Creighton University",
+  "customer_addr": "IACUC Office, Research & Compliance\nCriss I, Office 131\nOmaha, NE 68178",
+  "certificate": "47-R-0002",
+  "site_id": "001",
+  "site_name": "CREIGHTON UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "01-JUL-2026",
+  "report_date": "02-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the attending veterinarian. \n \n n",
+  "animals_total": 230,
+  "species": [
+    {
+      "count": 83,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 142,
+      "scientific": "Hamsters",
+      "common": "HAMSTERS"
+    },
+    {
+      "count": 5,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
