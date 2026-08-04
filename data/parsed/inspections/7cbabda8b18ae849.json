@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001615710",
+  "layout": "c",
+  "customer_id": "3178",
+  "customer_name": "Dolphin Research Center Inc",
+  "customer_addr": "58901 Overseas Hwy\nGrassy Key, FL 33050",
+  "certificate": "58-C-0303",
+  "site_id": "001",
+  "site_name": "Dolphin Research Center Inc",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "07-JUL-2026",
+  "report_date": "07-JUL-2026",
+  "citations": [
+    {
+      "code": "3.106(b)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Water quality.",
+      "narrative": "The facility failed to collect the required samples at 48-hour intervals after a coliform sample collected from the Medical\nPool on April 30, 2026, exceeded 1,000 MPN per 100 ml of water. Facility personnel stated the follow-up samples were\nnot collected because testing supplies were unavailable.\nFailure to collect the required follow-up samples prevents verification that corrective actions restored the water quality to\nacceptable levels for the marine mammals,\nWhen coliform levels exceed 1,000 MPN per 100 ml of water, two subsequent samples must be collected at 48-hour\nintervals and averaged with the first sample. If such average count does not fall below 1000 MPN, then the water in the\npool shall be deemed unsatisfactory. To be corrected from this day, July 7, 2026, forward.\nThis inspection and exit interview were conducted with facility representatives.\nAdditional Inspectors:\nKelly Helmick, Senior Veterinary Medical Officer n"
+    }
+  ],
+  "narrative": "3.106(b)(1) \n   \nWater quality. \nThe facility failed to collect the required samples at 48-hour intervals after a coliform sample collected from the Medical \nPool on April 30, 2026, exceeded 1,000 MPN per 100 ml of water. Facility personnel stated the follow-up samples were \nnot collected because testing supplies were unavailable. \n \nFailure to collect the required follow-up samples prevents verification that corrective actions restored the water quality to \nacceptable levels for the marine mammals, \n \nWhen coliform levels exceed 1,000 MPN per 100 ml of water, two subsequent samples must be collected at 48-hour \nintervals and averaged with the first sample. If such average count does not fall below 1000 MPN, then the water in the \npool shall be deemed unsatisfactory. To be corrected from this day, July 7, 2026, forward. \n \nThis inspection and exit interview were conducted with facility representatives. \n \nAdditional Inspectors: \nKelly Helmick, Senior Veterinary Medical Officer n",
+  "animals_total": 34,
+  "species": [
+    {
+      "count": 26,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 1,
+      "scientific": "Stenella attenuata",
+      "common": "SPOTTED DOLPHIN"
+    },
+    {
+      "count": 4,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    },
+    {
+      "count": 3,
+      "scientific": "Phoca vitulina",
+      "common": "HARBOR SEAL"
+    }
+  ]
+}
