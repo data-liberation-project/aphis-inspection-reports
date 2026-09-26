@@ -1,0 +1,46 @@
+{
+  "insp_id": "INS-0001668363",
+  "layout": "c",
+  "customer_id": "32672",
+  "customer_name": "Primates Incorporated",
+  "customer_addr": "PO BOX 7384\nMadison, WI 53707",
+  "certificate": "35-C-0401",
+  "site_id": "001",
+  "site_name": "Primates Incorporated",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "24-AUG-2026",
+  "report_date": "25-AUG-2026",
+  "citations": [
+    {
+      "code": "3.77(f)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sheltered housing facilities.",
+      "narrative": "A section on the east perimeter fence is in disrepair and sagging below the required six feet in height. A perimeter fence\nthat is in disrepair could permit unauthorized access of animals or humans to get within reach of animal housing areas.\nEnsure that the perimeter fence is maintained in good repair and kept at least 6 feet high to restrict unauthorized access\nto animal housing areas.\n***Correct by 8/29/2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.77(f) \n   \nSheltered housing facilities. \nA section on the east perimeter fence is in disrepair and sagging below the required six feet in height. A perimeter fence \nthat is in disrepair could permit unauthorized access of animals or humans to get within reach of animal housing areas. \nEnsure that the perimeter fence is maintained in good repair and kept at least 6 feet high to restrict unauthorized access \nto animal housing areas.  \n \n***Correct by 8/29/2026. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 11,
+  "species": [
+    {
+      "count": 7,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 1,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 2,
+      "scientific": "Chlorocebus pygerythrus",
+      "common": "VERVET"
+    },
+    {
+      "count": 1,
+      "scientific": "Chlorocebus aethiops",
+      "common": "AFRICAN GREEN MONKEY / GRIVET"
+    }
+  ]
+}

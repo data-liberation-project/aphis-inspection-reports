@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001636264",
+  "layout": "c",
+  "customer_id": "842",
+  "customer_name": "North Carolina State University",
+  "customer_addr": "CAMPUS BOX 7514\nRALEIGH, NC 27695",
+  "certificate": "55-R-0005",
+  "site_id": "001",
+  "site_name": "NORTH CAROLINA STATE UNIVERSITY",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "23-JUL-2026",
+  "report_date": "23-JUL-2026",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "During a review of facility records, the following non-compliance involving handling of animals was observed. On 8/22/25,\na pig was undergoing a procedure under anesthesia as part of a research study. The animal, while still under anesthesia,\nwas strapped onto the table but was unstrapped to lower the table and transfer the animal to a transport cart. The animal\nfell off the lift table approximately 3 feet to the floor. Following the incident, the pig was observed with bruising behind the\near and along the spine between the shoulder blades and exhibited mild lameness on the right hind leg. The pig was\ntreated with pain medications for several days and recovered without incident. The facility instituted corrective actions\nincluding securing all patients throughout the entire process, having 2 technicians with large sized animals, a new lift table\nand hoist, and padded recovery rooms.\nFailure to handle animals in a careful manner may result in physical harm and unnecessary discomfort.\nHandling of animals must be done as carefully as possible in a manner that does not cause trauma, physical harm, or\nunnecessary discomfort.\nCorrect by: Corrected at the time of inspection. Continue to handle animals in a careful manner from 7/23/26 forward.\nThis inspection and exit interview were conducted with the IACUC representatives.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1) \n   \nMiscellaneous. \nDuring a review of facility records, the following non-compliance involving handling of animals was observed. On 8/22/25, \na pig was undergoing a procedure under anesthesia as part of a research study. The animal, while still under anesthesia, \nwas strapped onto the table but was unstrapped to lower the table and transfer the animal to a transport cart. The animal \nfell off the lift table approximately 3 feet to the floor. Following the incident, the pig was observed with bruising behind the \near and along the spine between the shoulder blades and exhibited mild lameness on the right hind leg. The pig was \ntreated with pain medications for several days and recovered without incident. The facility instituted corrective actions \nincluding securing all patients throughout the entire process, having 2 technicians with large sized animals, a new lift table \nand hoist, and padded recovery rooms. \nFailure to handle animals in a careful manner may result in physical harm and unnecessary discomfort. \nHandling of animals must be done as carefully as possible in a manner that does not cause trauma, physical harm, or \nunnecessary discomfort. \nCorrect by: Corrected at the time of inspection. Continue to handle animals in a careful manner from 7/23/26 forward. \n \nThis inspection and exit interview were conducted with the IACUC representatives. \n \n n",
+  "animals_total": 627,
+  "species": [
+    {
+      "count": 78,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 35,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 55,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    },
+    {
+      "count": 127,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 237,
+      "scientific": "Microtus ochrogaster",
+      "common": "PRAIRIE VOLE"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 47,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 33,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    }
+  ]
+}

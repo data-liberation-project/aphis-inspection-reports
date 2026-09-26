@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001651813",
+  "layout": "c",
+  "customer_id": "6987",
+  "customer_name": "Central Florida Animal Reserve, Inc",
+  "customer_addr": "500 Broussard Rd\nSaint Cloud, FL 34773",
+  "certificate": "58-C-0615",
+  "site_id": "001",
+  "site_name": "Central Florida Animal Reserve, Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-AUG-2026",
+  "report_date": "05-AUG-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 16,
+  "species": [
+    {
+      "count": 2,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 3,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 1,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 9,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 1,
+      "scientific": "Leptailurus serval",
+      "common": "SERVAL"
+    }
+  ]
+}

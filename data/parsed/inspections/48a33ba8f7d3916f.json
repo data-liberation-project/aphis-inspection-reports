@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001617890",
+  "layout": "c",
+  "customer_id": "10115",
+  "customer_name": "AHED Of Ohio Inc",
+  "customer_addr": "1796 INDIAN WOOD CIRCLE\nMAUMEE, OH 43537",
+  "certificate": "31-R-0113",
+  "site_id": "001",
+  "site_name": "STAUTZENBERGER COLLEGE",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-JUL-2026",
+  "report_date": "09-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items were identified during this inspection. \n \nThis inspection and exit interview were conducted with the IACUC Chair. \n \n n",
+  "animals_total": 5,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 1,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

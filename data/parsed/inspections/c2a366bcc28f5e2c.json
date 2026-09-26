@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001641799",
+  "layout": "c",
+  "customer_id": "640",
+  "customer_name": "Labcorp Early Development Laboratories Inc",
+  "customer_addr": "3301 Kinsman Boulevard\nMadison, WI 53704",
+  "certificate": "35-R-0030",
+  "site_id": "004",
+  "site_name": "Labcorp Early Development Laboratories Inc",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "28-JUL-2026",
+  "report_date": "29-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the AV and IACUC Chair. \n \n n",
+  "animals_total": 876,
+  "species": [
+    {
+      "count": 255,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 433,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 183,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 5,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

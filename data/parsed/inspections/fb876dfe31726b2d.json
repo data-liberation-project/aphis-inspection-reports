@@ -1,0 +1,83 @@
+{
+  "insp_id": "INS-0001617878",
+  "layout": "c",
+  "customer_id": "2",
+  "customer_name": "Utah State University",
+  "customer_addr": "V.P. FOR RESEARCH/1450 OLD MAIN HILL\nLOGAN, UT 84322",
+  "certificate": "87-R-0002",
+  "site_id": "001",
+  "site_name": "UTAH STATE UNIVERSITY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "07-JUL-2026",
+  "report_date": "14-JUL-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "82 naked mole rats were euthanized by a method not on the approved protocol between 9/26/2025 and 10/3/2025. The\nnaked mole rats were euthanized by CO2 instead of the injectable euthanasia method approved in the protocol. Naked\nmole rats are a hypoxia tolerant species, and the use of CO2 required a prolonged exposure of ~40 minutes to achieve\ndeath.\nFailure to follow the approved protocol and making unapproved changes does not allow the IACUC to review these\nchanges as required and ensure the animals involved do not experience negative impacts to their health and welfare.\nThe IACUC must ensure that all significant changes regarding the care and use of animals in ongoing activities including\neuthanasia are reviewed and approved prior to implementation.\nCorrective action was implemented prior to this inspection.\nTo be corrected from this day forward, July 7, 2026"
+    },
+    {
+      "code": "2.33(b)(4)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Attending veterinarian and adequate veterinary care.",
+      "narrative": "A rabbit died during an anesthetic procedure on 12/11/2025. The animal\u2019s depth of anesthesia had become too light and\nthe anesthetic gas level was increased. The level was not reduced once a deeper plane of anesthesia was achieved and\nthe animal subsequently died during the procedure and was not able to be resuscitated.\nFailure to appropriately monitor patients and adjust anesthetic levels during a procedure can lead to injury or death of the\npatient.\nEach research facility must establish and maintain programs of adequate veterinary care that provide adequate guidance\nto personnel involved in the care and use of animals regarding handling, immobilization, anesthesia. analgesia,\ntranquilization, and euthanasia.\nCorrective action was implemented prior to this inspection.\nTo be corrected from this day forward, July 7, 2026\nThis inspection and exit interview were conducted with facility representative.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Critical\n   \nInstitutional Animal Care and Use Committee (IACUC). \n82 naked mole rats were euthanized by a method not on the approved protocol between 9/26/2025 and 10/3/2025. The \nnaked mole rats were euthanized by CO2 instead of the injectable euthanasia method approved in the protocol. Naked \nmole rats are a hypoxia tolerant species, and the use of CO2 required a prolonged exposure of ~40 minutes to achieve \ndeath.  \nFailure to follow the approved protocol and making unapproved changes does not allow the IACUC to review these \nchanges as required and ensure the animals involved do not experience negative impacts to their health and welfare.  \nThe IACUC must ensure that all significant changes regarding the care and use of animals in ongoing activities including \neuthanasia are reviewed and approved prior to implementation. \n \nCorrective action was implemented prior to this inspection. \nTo be corrected from this day forward, July 7, 2026 \n2.33(b)(4)  Critical\n   \nAttending veterinarian and adequate veterinary care. \nA rabbit died during an anesthetic procedure on 12/11/2025. The animal\u2019s depth of anesthesia had become too light and \nthe anesthetic gas level was increased. The level was not reduced once a deeper plane of anesthesia was achieved and \nthe animal subsequently died during the procedure and was not able to be resuscitated.  \nFailure to appropriately monitor patients and adjust anesthetic levels during a procedure can lead to injury or death of the \npatient. \nEach research facility must establish and maintain programs of adequate veterinary care that provide adequate guidance \nto personnel involved in the care and use of animals regarding handling, immobilization, anesthesia. analgesia, \ntranquilization, and euthanasia. \nCorrective action was implemented prior to this inspection. \nTo be corrected from this day forward, July 7, 2026 \n \nThis inspection and exit interview were conducted with facility representative.\n\nn",
+  "animals_total": 680,
+  "species": [
+    {
+      "count": 122,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 57,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 72,
+      "scientific": "Cavia porcellus",
+      "common": "DOMESTIC GUINEA PIG"
+    },
+    {
+      "count": 322,
+      "scientific": "Mesocricetus auratus",
+      "common": "SYRIAN / GOLDEN HAMSTER"
+    },
+    {
+      "count": 19,
+      "scientific": "Sigmodon hispidus",
+      "common": "HISPID COTTON RAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Heterocephalus glaber",
+      "common": "NAKED MOLE-RAT"
+    },
+    {
+      "count": 35,
+      "scientific": "Peromyscus sonoriensis",
+      "common": "WESTERN DEERMOUSE"
+    },
+    {
+      "count": 24,
+      "scientific": "Peromyscus leucopus",
+      "common": "WHITE-FOOTED MOUSE"
+    },
+    {
+      "count": 10,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 10,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    }
+  ]
+}

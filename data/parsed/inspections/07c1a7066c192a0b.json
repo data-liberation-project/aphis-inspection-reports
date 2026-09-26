@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001639607",
+  "layout": "c",
+  "customer_id": "1467",
+  "customer_name": "Tulane University",
+  "customer_addr": "1440 Canal St., Suite 949 #8401\nNew Orleans, LA 70112",
+  "certificate": "72-R-0002",
+  "site_id": "001",
+  "site_name": "TULANE UNIVERSITY Downtown",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "27-JUL-2026",
+  "report_date": "30-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representative. \n \n n",
+  "animals_total": 21,
+  "species": [
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 1,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    }
+  ]
+}

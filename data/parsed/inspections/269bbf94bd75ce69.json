@@ -1,0 +1,51 @@
+{
+  "insp_id": "INS-0001668317",
+  "layout": "c",
+  "customer_id": "390",
+  "customer_name": "Suny College Of Technology",
+  "customer_addr": "454 DELHI DRIVE\nDELHI, NY 13753",
+  "certificate": "21-R-0053",
+  "site_id": "001",
+  "site_name": "SUNNY COLLEGE OF TECHNOLOGY",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-AUG-2026",
+  "report_date": "26-AUG-2026",
+  "citations": [
+    {
+      "code": "3.131(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Sanitation.",
+      "narrative": "1. There is an excessive amount of bird droppings accumulating in the sheep barn. This material is located in an area\nwhere the goats can reach. Bird droppings may contain disease causing agents and can negatively affect the health of\nthe animals. The facility must ensure that animal areas are kept clean and maintained in good repair.\n2. The door for the sheep barn was found with jagged edges at the bottom of the wooden boards. This could lead to\nexcessive drafts which may affect the animals. Animal facilities must be kept in good repair. These items must be\ncorrected by the facility.\n********Correct by October 15, 2026\nThis inspection and exit interview were conducted with the facility representative.\nn"
+    }
+  ],
+  "narrative": "3.131(c) \n   \nSanitation. \n1. There is an excessive amount of bird droppings accumulating in the sheep barn. This material is located in an area \nwhere the goats can reach. Bird droppings may contain disease causing agents and can negatively affect the health of \nthe animals. The facility must ensure that animal areas are kept clean and maintained in good repair.  \n2. The door for the sheep barn was found with jagged edges at the bottom of the wooden boards. This could lead to \nexcessive drafts which may affect the animals. Animal facilities must be kept in good repair. These items must be \ncorrected by the facility.  \n********Correct by October 15, 2026 \n \nThis inspection and exit interview were conducted with the facility representative. \n \n n",
+  "animals_total": 64,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 12,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 23,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 14,
+      "scientific": "Equus caballus",
+      "common": "DOMESTIC HORSE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "insp_id": "INS-0001652915",
+  "layout": "c",
+  "customer_id": "1016",
+  "customer_name": "University of Washington",
+  "customer_addr": "Box 357160\nSeattle, WA 98195",
+  "certificate": "91-R-0001",
+  "site_id": "001",
+  "site_name": "University of Washington",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "04-AUG-2026",
+  "report_date": "06-AUG-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the facility representatives. \n \n n",
+  "animals_total": 385,
+  "species": [
+    {
+      "count": 95,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 255,
+      "scientific": "Macaca nemestrina",
+      "common": "PIG-TAILED MACAQUE"
+    },
+    {
+      "count": 17,
+      "scientific": "Meriones unguiculatus",
+      "common": "MONGOLIAN GERBIL"
+    },
+    {
+      "count": 15,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 3,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

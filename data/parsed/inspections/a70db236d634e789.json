@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001659400",
+  "layout": "c",
+  "customer_id": "507330",
+  "customer_name": "Jessica Phillips",
+  "customer_addr": "415 Nettleton St\nBucklin, MO 64631",
+  "certificate": "43-A-6475",
+  "site_id": "002",
+  "site_name": "Jessica Phillips",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "11-AUG-2026",
+  "report_date": "11-AUG-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the licensee. \n \n n",
+  "animals_total": 138,
+  "species": [
+    {
+      "count": 48,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 29,
+      "scientific": "Canis familiaris",
+      "common": "DOG PUPPY"
+    },
+    {
+      "count": 29,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 32,
+      "scientific": "Felis catus",
+      "common": "CAT KITTEN"
+    }
+  ]
+}

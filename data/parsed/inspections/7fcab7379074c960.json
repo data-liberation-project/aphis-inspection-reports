@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001632975",
+  "layout": "c",
+  "customer_id": "507737",
+  "customer_name": "Bronco Research Services LLC",
+  "customer_addr": "1512 Webster Ct.\nFort Collins, CO 80524",
+  "certificate": "84-R-0091",
+  "site_id": "001",
+  "site_name": "INOTIV",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "20-JUL-2026",
+  "report_date": "23-JUL-2026",
+  "citations": [
+    {
+      "code": "2.38(f)(1)",
+      "kind": "Critical",
+      "repeat": false,
+      "desc": "Miscellaneous.",
+      "narrative": "One dog and one rabbit were not handled as carefully as possible by research facility staff as specified below.\nOn June 8, 2026, beagle # 1710330 was inadvertently sedated with Dexmedetomidine and Butorphanol for a study to\nwhich it was not assigned. The technicians involved reported that the morning was busy and they felt rushed. The\ntechnicians did not follow the required animal identification procedures outlined in the animal use protocol, including\ncarrying the cage card with the animal, verifying ear tattoos, shaving the ear to confirm the tattoo, and reviewing prior\nbody weights when a discrepancy was flagged. Upon discovery of the error, sedation was reversed and the dog\nrecovered uneventfully.\nOn June 24, 2026, rabbit 2M009 died during a surgical procedure following multiple unsuccessful intubation attempts and\nsubsequent airway management challenges. The technician reported that they observed blood during the third intubation\nattempt, after which they placed a supraglottic device (v gel). The animal exhibited signs of compromised oxygenation,\nincluding a darkened tongue, leading to the decision to transition from the v gel to mask anesthesia. The rabbit\nexperienced respiratory arrest, and the technician initiated manual ventilation, but the animal ultimately arrested and died.\nNecropsy revealed laryngeal fold perforation, abdominal distension, diffuse gastrointestinal gas, and regurgitation fluid in\nthe trachea and bronchi. Cause of death was determined to be airway loss. Staff interviewed about the intubations\nreported feeling pressured to proceed rapidly to maintain the study schedule.\nThe rabbit and dog were not handled as carefully as possible by facility staff resulting in the death of one rabbit during\nanesthesia and the unnecessary sedation of one dog. The handling of all animals should be done as expeditiously and\ncarefully as possible in a manner that does not cause trauma, physical harm, behavioral stress, or unnecessary\ndiscomfort. Both incidents were identified by the research facility, and appropriate corrective measures were implemented\nprior to this inspection.\nThis inspection and exit interview were conducted with the IACUC chair and the attending veterinarian.\nn"
+    }
+  ],
+  "narrative": "2.38(f)(1)  Critical\n   \nMiscellaneous. \nOne dog and one rabbit were not handled as carefully as possible by research facility staff as specified below. \n \nOn June 8, 2026, beagle # 1710330 was inadvertently sedated with Dexmedetomidine and Butorphanol for a study to \nwhich it was not assigned. The technicians involved reported that the morning was busy and they felt rushed. The \ntechnicians did not follow the required animal identification procedures outlined in the animal use protocol, including \ncarrying the cage card with the animal, verifying ear tattoos, shaving the ear to confirm the tattoo, and reviewing prior \nbody weights when a discrepancy was flagged. Upon discovery of the error, sedation was reversed and the dog \nrecovered uneventfully. \n \nOn June 24, 2026, rabbit 2M009 died during a surgical procedure following multiple unsuccessful intubation attempts and \nsubsequent airway management challenges. The technician reported that they observed blood during the third intubation \nattempt, after which they placed a supraglottic device (v gel). The animal exhibited signs of compromised oxygenation, \nincluding a darkened tongue, leading to the decision to transition from the v gel to mask anesthesia. The rabbit \nexperienced respiratory arrest, and the technician initiated manual ventilation, but the animal ultimately arrested and died. \nNecropsy revealed laryngeal fold perforation, abdominal distension, diffuse gastrointestinal gas, and regurgitation fluid in \nthe trachea and bronchi. Cause of death was determined to be airway loss. Staff interviewed about the intubations \nreported feeling pressured to proceed rapidly to maintain the study schedule. \n \nThe rabbit and dog were not handled as carefully as possible by facility staff resulting in the death of one rabbit during \nanesthesia and the unnecessary sedation of one dog. The handling of all animals should be done as expeditiously and \ncarefully as possible in a manner that does not cause trauma, physical harm, behavioral stress, or unnecessary \ndiscomfort. Both incidents were identified by the research facility, and appropriate corrective measures were implemented \nprior to this inspection. \n \nThis inspection and exit interview were conducted with the IACUC chair and the attending veterinarian.\n\nn",
+  "animals_total": 140,
+  "species": [
+    {
+      "count": 99,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 39,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    }
+  ]
+}

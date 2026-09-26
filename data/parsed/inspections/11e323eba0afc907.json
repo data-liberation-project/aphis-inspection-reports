@@ -1,0 +1,38 @@
+{
+  "insp_id": "INS-0001651839",
+  "layout": "c",
+  "customer_id": "2061",
+  "customer_name": "Space Wild Animal Farm Inc",
+  "customer_addr": "218 Route 519\nSussex, NJ 07461",
+  "certificate": "22-C-0018",
+  "site_id": "001",
+  "site_name": "Space Wild Animal Farm Inc",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "04-AUG-2026",
+  "report_date": "05-AUG-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this focused inspection. \n \nThis inspection and exit briefing were conducted with the facility representative. \n \n n",
+  "animals_total": 20,
+  "species": [
+    {
+      "count": 1,
+      "scientific": "Lynx rufus",
+      "common": "BOBCAT"
+    },
+    {
+      "count": 11,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    },
+    {
+      "count": 2,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 6,
+      "scientific": "Bos indicus",
+      "common": "ZEBU"
+    }
+  ]
+}

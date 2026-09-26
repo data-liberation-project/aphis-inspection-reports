@@ -1,0 +1,41 @@
+{
+  "insp_id": "INS-0001642930",
+  "layout": "c",
+  "customer_id": "146",
+  "customer_name": "McLean Hospital Corporation",
+  "customer_addr": "115 MILL STREET\nBELMONT, MA 02478",
+  "certificate": "14-R-0096",
+  "site_id": "001",
+  "site_name": "McLean Hospital",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "29-JUL-2026",
+  "report_date": "03-AUG-2026",
+  "citations": [
+    {
+      "code": "3.84(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Cleaning, sanitization, housekeeping, and pest control.",
+      "narrative": "An APHIS official observed an excessive accumulation of food particles beneath hoppers attached to experimental\nchambers used for rhesus macaques in Room 221, which is an investigator-maintained space. Additionally, there was an\nexcessive accumulation of food particles behind the chutes of the feeders in these chambers, which are inaccessible to\nthe animals and do not directly contact the food that the animals consume. In the same room, there was an buildup of\ndust and debris on the fans inside the experimental chambers. Food particles and dust can harbor microorganisms and\nand/or attract pests. The facility must ensure that premises are kept clean in order to protect nonhuman primates from\ninjury, facilitate husbandry practices, and reduce or eliminate breeding and living areas for pests. To be corrected by\nAugust 6, 2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.84(c) \n   \nCleaning, sanitization, housekeeping, and pest control. \nAn APHIS official observed an excessive accumulation of food particles beneath hoppers attached to experimental \nchambers used for rhesus macaques in Room 221, which is an investigator-maintained space. Additionally, there was an \nexcessive accumulation of food particles behind the chutes of the feeders in these chambers, which are inaccessible to \nthe animals and do not directly contact the food that the animals consume. In the same room, there was an buildup of \ndust and debris on the fans inside the experimental chambers. Food particles and dust can harbor microorganisms and \nand/or attract pests. The facility must ensure that premises are kept clean in order to protect nonhuman primates from \ninjury, facilitate husbandry practices, and reduce or eliminate breeding and living areas for pests. To be corrected by \nAugust 6, 2026. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 50,
+  "species": [
+    {
+      "count": 16,
+      "scientific": "Saimiri boliviensis",
+      "common": "BLACK-CAPPED SQUIRREL MONKEY"
+    },
+    {
+      "count": 23,
+      "scientific": "Saimiri sciureus",
+      "common": "COMMON SQUIRREL MONKEY"
+    },
+    {
+      "count": 11,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    }
+  ]
+}

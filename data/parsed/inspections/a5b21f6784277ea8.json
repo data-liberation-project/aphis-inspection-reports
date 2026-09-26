@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001642970",
+  "layout": "c",
+  "customer_id": "321189",
+  "customer_name": "Intervet Inc",
+  "customer_addr": "Merck RY33-750 126 East Lincoln Avenue\nRahway, NJ 07065",
+  "certificate": "22-R-0144",
+  "site_id": "001",
+  "site_name": "Intervet Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "30-JUL-2026",
+  "report_date": "31-JUL-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 17,
+  "species": [
+    {
+      "count": 11,
+      "scientific": "Canis familiaris",
+      "common": "DOG ADULT"
+    },
+    {
+      "count": 4,
+      "scientific": "Felis catus",
+      "common": "CAT ADULT"
+    },
+    {
+      "count": 2,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}
