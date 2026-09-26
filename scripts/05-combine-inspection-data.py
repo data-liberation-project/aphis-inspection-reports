@@ -117,7 +117,7 @@ def main() -> None:
                 x["discovered"],
             )
 
-        for fetched in sorted(fetched_data, key=sorter):
+        for fetched in reversed(sorted(fetched_data, key=sorter)):
             hash_id = fetched["hash_id"]
 
             parsed = parsed_data.get(hash_id, {})

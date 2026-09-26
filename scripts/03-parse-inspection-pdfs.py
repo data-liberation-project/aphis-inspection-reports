@@ -1,4 +1,5 @@
 import argparse
+import csv
 import json
 import re
 import sys
@@ -12,6 +13,10 @@ from lib.logger import get_logger
 from pdfplumber.utils import cluster_objects
 
 logger = get_logger()
+
+
+with open("data/manual/unparseable-pdfs.csv") as f:
+    UNPARSEABLE = set(map(itemgetter("hash_id"), csv.DictReader(f)))
 
 
 def parse_args() -> argparse.Namespace:
@@ -376,6 +381,9 @@ def parse_all(overwrite: bool = False, start: typing.Optional[int] = 0) -> None:
     start_int = start or 0
     for i, path in enumerate(paths):
         if i < start_int:
+            continue
+
+        if path.stem in UNPARSEABLE:
             continue
 
         dest = Path(f"data/parsed/inspections/{path.stem}.json")
