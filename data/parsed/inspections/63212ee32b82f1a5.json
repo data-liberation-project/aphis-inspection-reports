@@ -1,0 +1,73 @@
+{
+  "insp_id": "INS-0001673869",
+  "layout": "c",
+  "customer_id": "6016825",
+  "customer_name": "Pecks Farm Market II East LLC",
+  "customer_addr": "6445 US 14\nArena, WI 53503",
+  "certificate": "35-C-0416",
+  "site_id": "001",
+  "site_name": "Pecks Farm Market II East LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "31-AUG-2026",
+  "report_date": "31-AUG-2026",
+  "citations": [
+    {
+      "code": "3.125(a)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Facilities, general.",
+      "narrative": "Some areas were in need of repair:\n-The fence dividing the Barbado and wool sheep had a gap large enough that the sheep could possibly get in with each\nother.\n-The shelters in the Barbado sheep pen has a rusted and rough edge on it.\nRough edges and fence gaps could cause injury to animals. Ensure to maintain housing facilities in good repair to protect\nthe animals from injury and to contain the animals."
+    },
+    {
+      "code": "3.127(c)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Facilities, outdoor.",
+      "narrative": "Areas around the drinking bowls for the Highlander cows' and Barbado sheep's pens lacked adequate drainage. Animals\nin these pens would have to walk and stand in mud to get to their drinking water. Lack of adequate drainage around\ndrinking bowls could cause discomfort and hoof health problems in animals. Ensure that animal housing areas have a\nsuitable method to rapidly eliminate excess water.\n***Correct by Sept 19, 2026.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "3.125(a)  Repeat\n   \nFacilities, general. \nSome areas were in need of repair:  \n-The fence dividing the Barbado and wool sheep had a gap large enough that the sheep could possibly get in with each \nother.  \n-The shelters in the Barbado sheep pen has a rusted and rough edge on it.  \nRough edges and fence gaps could cause injury to animals. Ensure to maintain housing facilities in good repair to protect \nthe animals from injury and to contain the animals. \n3.127(c) \n   \nFacilities, outdoor. \nAreas around the drinking bowls for the Highlander cows' and Barbado sheep's pens lacked adequate drainage. Animals \nin these pens would have to walk and stand in mud to get to their drinking water. Lack of adequate drainage around \ndrinking bowls could cause discomfort and hoof health problems in animals. Ensure that animal housing areas have a \nsuitable method to rapidly eliminate excess water. \n***Correct by Sept 19, 2026. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 77,
+  "species": [
+    {
+      "count": 6,
+      "scientific": "Bos taurus",
+      "common": "CATTLE / COW / OX"
+    },
+    {
+      "count": 19,
+      "scientific": "Dama dama",
+      "common": "FALLOW DEER"
+    },
+    {
+      "count": 17,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 9,
+      "scientific": "Anas platyrhynchos domesticus",
+      "common": "DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 8,
+      "scientific": "Pavo cristatus",
+      "common": "INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /"
+    },
+    {
+      "count": 12,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 2,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    }
+  ]
+}

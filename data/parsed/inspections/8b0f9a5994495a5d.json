@@ -1,0 +1,66 @@
+{
+  "insp_id": "INS-0001669571",
+  "layout": "c",
+  "customer_id": "108",
+  "customer_name": "General Hospital Corporation",
+  "customer_addr": "62 13th St\nRoom 225\nCharlestown, MA 02129",
+  "certificate": "14-R-0014",
+  "site_id": "001",
+  "site_name": "M G H MAIN CAMPUS",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-AUG-2026",
+  "report_date": "31-AUG-2026",
+  "citations": [
+    {
+      "code": "2.31(c)(7)",
+      "kind": "",
+      "repeat": true,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "A cynomolgus macaque underwent a study-approved surgical procedure under protocol 20XXXXXXX62 on May 8, 2026.\nThe approved protocol includes both a long-acting buprenorphine and 3 days of treatment with meloxicam for post-\nprocedural pain control. The animal received buprenorphine on the day of the procedure; however, meloxicam was not\nadministered. Although long-acting buprenorphine was administered and there were no signs of pain observed in the\nanimal, failure to administer all post-procedural analgesics in accordance with the protocol constitutes a change that did\nnot undergo IACUC review and approval.\nThis item was identified by the facility prior to inspection and corrective measures were implemented, including retraining\nstudy personnel and creating detailed study plans for all surgical procedures.\nThis inspection and exit interview were conducted with facility representatives.\nn"
+    }
+  ],
+  "narrative": "2.31(c)(7)  Repeat\n   \nInstitutional Animal Care and Use Committee (IACUC). \nA cynomolgus macaque underwent a study-approved surgical procedure under protocol 20XXXXXXX62 on May 8, 2026. \nThe approved protocol includes both a long-acting buprenorphine and 3 days of treatment with meloxicam for post-\nprocedural pain control. The animal received buprenorphine on the day of the procedure; however, meloxicam was not \nadministered. Although long-acting buprenorphine was administered and there were no signs of pain observed in the \nanimal, failure to administer all post-procedural analgesics in accordance with the protocol constitutes a change that did \nnot undergo IACUC review and approval.  \n \nThis item was identified by the facility prior to inspection and corrective measures were implemented, including retraining \nstudy personnel and creating detailed study plans for all surgical procedures. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 155,
+  "species": [
+    {
+      "count": 4,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 14,
+      "scientific": "Sus scrofa domestica",
+      "common": "DOMESTIC PIG / POTBELLY PIG / MICRO PIG"
+    },
+    {
+      "count": 26,
+      "scientific": "Papio hamadryas",
+      "common": "HAMADRYAS BABOON"
+    },
+    {
+      "count": 33,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 59,
+      "scientific": "Macaca fascicularis",
+      "common": "CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY"
+    },
+    {
+      "count": 2,
+      "scientific": "Papio anubis",
+      "common": "OLIVE BABOON"
+    },
+    {
+      "count": 4,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    },
+    {
+      "count": 13,
+      "scientific": "Ictidomys tridecemlineatus",
+      "common": "THIRTEEN-LINED GROUND SQUIRREL"
+    }
+  ]
+}
