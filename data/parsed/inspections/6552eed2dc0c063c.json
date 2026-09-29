@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001674952",
+  "layout": "c",
+  "customer_id": "330146",
+  "customer_name": "SDIX LLC",
+  "customer_addr": "52 Anderson Rd\nWindham, ME 04062",
+  "certificate": "50-R-0015",
+  "site_id": "001",
+  "site_name": "SDIX LLC",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "26-AUG-2026",
+  "report_date": "01-SEP-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with a facility representative. \n \n n",
+  "animals_total": 5771,
+  "species": [
+    {
+      "count": 4856,
+      "scientific": "Oryctolagus cuniculus",
+      "common": "DOMESTIC RABBIT / EUROPEAN RABBIT"
+    },
+    {
+      "count": 910,
+      "scientific": "Capra hircus",
+      "common": "DOMESTIC GOAT"
+    },
+    {
+      "count": 5,
+      "scientific": "Ovis aries aries",
+      "common": "SHEEP INCLUDING ALL DOMESTIC BREEDS"
+    }
+  ]
+}
