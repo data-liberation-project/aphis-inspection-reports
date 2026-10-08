@@ -1,0 +1,33 @@
+{
+  "insp_id": "INS-0001687123",
+  "layout": "c",
+  "customer_id": "32992",
+  "customer_name": "Georgia Aquarium Inc",
+  "customer_addr": "225 Baker Street NW\nAtlanta, GA 30313",
+  "certificate": "57-R-0131",
+  "site_id": "001",
+  "site_name": "Georgia Aquarium Inc",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "09-SEP-2026",
+  "report_date": "10-SEP-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with facility representatives. \n \n n",
+  "animals_total": 24,
+  "species": [
+    {
+      "count": 12,
+      "scientific": "Tursiops truncatus",
+      "common": "BOTTLENOSE DOLPHIN"
+    },
+    {
+      "count": 6,
+      "scientific": "Delphinapterus leucas",
+      "common": "BELUGA WHALE"
+    },
+    {
+      "count": 6,
+      "scientific": "Zalophus californianus",
+      "common": "CALIFORNIA SEA LION"
+    }
+  ]
+}
