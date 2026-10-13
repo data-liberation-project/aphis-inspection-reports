@@ -1,0 +1,48 @@
+{
+  "insp_id": "INS-0001687263",
+  "layout": "c",
+  "customer_id": "1458",
+  "customer_name": "University of Houston",
+  "customer_addr": "Health & Biomedical Sciences Bulding 1\n4849 Calhoun Rd\nHOUSTON, TX 77204",
+  "certificate": "74-R-0020",
+  "site_id": "003",
+  "site_name": "University of Houston",
+  "insp_type": "ROUTINE INSPECTION",
+  "date": "02-SEP-2026",
+  "report_date": "15-SEP-2026",
+  "citations": [
+    {
+      "code": "2.31(e)(3)",
+      "kind": "",
+      "repeat": false,
+      "desc": "Institutional Animal Care and Use Committee (IACUC).",
+      "narrative": "The principal investigator did not conduct sedation and monitoring procedures in accordance with the IACUC approved\nprotocol (PROTO202300033). The PI used assumed body weights, underdosed atropine, prepared reversal agents using\nan undocumented dilution method, and did not document protocol required anesthetic monitoring and recovery\nparameters. These deviations occurred across a cohort of infant rhesus macaques born in May\u2013June 2025 and continued\nas these same animals reached one year of age, demonstrating repeated departures from the protocol\u2019s described weight\nbased dosing and required monitoring over time.\nBecause the protocol must provide \u201ca complete description of the proposed use of the animals\u201d and requires activities to\nmatch that description, these departures represent protocol adherence failures. Such deviations are important because\nthey reduce the IACUC\u2019s ability to ensure that procedures limit discomfort and safeguard welfare. In this case, deviations\nin dosing and monitoring could compromise physiologic stability during sedation, and incomplete monitoring may fail to\ndetect signs of distress or adverse reactions. Protocols must contain a complete description of the proposed use of the\nanimals, and activities must be conducted in accordance with that description.\nCorrect by: September 29, 2026"
+    },
+    {
+      "code": "3.83",
+      "kind": "",
+      "repeat": false,
+      "desc": "Watering.",
+      "narrative": "The facility failed to provide potable water to a rhesus macaque (animal #685) for two consecutive days (February 7\u20138,\n2026) following a cage reconfiguration, as evident during the record review portion of the inspection. The animal did not\nreceive continuous water nor twice daily watering. Because water deprivation directly affects hydration, organ function,\nand stress physiology, a two day lapse can negatively affect the health and well being of the animal. Potable water must\nbe provided in sufficient quantity to every nonhuman primate, and when continuous access is not provided, water must be\noffered at least twice daily to ensure health and well being.\nCorrect by: September 16, 2026\nThis inspection and exit interview were conducted with facility representatives.\nYou may appeal all or part of any inspection report by submitting a written statement contesting the findings\u2014along with\nany supporting documentation\u2014to the Deputy Administrator. Appeals of routine, focused, or attempted inspections must\nbe received within 21 days of report issuance as shown by the signature line of this report.\nAppeals may be sent by email to AnimalCare@usda.gov.\nAppeals sent by mail should be addressed to:\nDeputy Administrator\nAPHIS Animal Care (AC)\nU.S. Department of Agriculture\n2150 Centre Avenue, Building B\nMailstop #3W11\nFort Collins, CO 80526-8117\nn"
+    }
+  ],
+  "narrative": "2.31(e)(3) \n   \nInstitutional Animal Care and Use Committee (IACUC). \nThe principal investigator did not conduct sedation and monitoring procedures in accordance with the IACUC approved \nprotocol (PROTO202300033). The PI used assumed body weights, underdosed atropine, prepared reversal agents using \nan undocumented dilution method, and did not document protocol required anesthetic monitoring and recovery \nparameters. These deviations occurred across a cohort of infant rhesus macaques born in May\u2013June 2025 and continued \nas these same animals reached one year of age, demonstrating repeated departures from the protocol\u2019s described weight \nbased dosing and required monitoring over time. \n \nBecause the protocol must provide \u201ca complete description of the proposed use of the animals\u201d and requires activities to \nmatch that description, these departures represent protocol adherence failures. Such deviations are important because \nthey reduce the IACUC\u2019s ability to ensure that procedures limit discomfort and safeguard welfare. In this case, deviations \nin dosing and monitoring could compromise physiologic stability during sedation, and incomplete monitoring may fail to \ndetect signs of distress or adverse reactions. Protocols must contain a complete description of the proposed use of the \nanimals, and activities must be conducted in accordance with that description. \n \nCorrect by: September 29, 2026 \n3.83 \n   \nWatering. \nThe facility failed to provide potable water to a rhesus macaque (animal #685) for two consecutive days (February\u202f7\u20138, \n2026) following a cage reconfiguration, as evident during the record review portion of the inspection. The animal did not \nreceive continuous water nor twice daily watering. Because water deprivation directly affects hydration, organ function, \nand stress physiology, a two day lapse can negatively affect the health and well being of the animal. Potable water must \nbe provided in sufficient quantity to every nonhuman primate, and when continuous access is not provided, water must be \noffered at least twice daily to ensure health and well being. \n \nCorrect by: September 16, 2026\n\nThis inspection and exit interview were conducted with facility representatives. \n \nYou may appeal all or part of any inspection report by submitting a written statement contesting the findings\u2014along with \nany supporting documentation\u2014to the Deputy Administrator. Appeals of routine, focused, or attempted inspections must \nbe received within 21 days of report issuance as shown by the signature line of this report. \n \nAppeals may be sent by email to AnimalCare@usda.gov. \n \nAppeals sent by mail should be addressed to: \nDeputy Administrator \nAPHIS Animal Care (AC) \nU.S. Department of Agriculture \n2150 Centre Avenue, Building B \nMailstop #3W11 \nFort Collins, CO 80526-8117 \n \n n",
+  "animals_total": 136,
+  "species": [
+    {
+      "count": 61,
+      "scientific": "Macaca mulatta",
+      "common": "RHESUS MACAQUE"
+    },
+    {
+      "count": 5,
+      "scientific": "Callithrix jacchus",
+      "common": "COMMON MARMOSET"
+    },
+    {
+      "count": 70,
+      "scientific": "Acomys cahirinus",
+      "common": "CAIRO SPINY MOUSE"
+    }
+  ]
+}
