@@ -22,6 +22,11 @@ cc689e96ce0bfd5d,5,Dama dama,FALLOW DEER
 cc689e96ce0bfd5d,1,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
 cc689e96ce0bfd5d,2,Lama pacos,ALPACA
 cc689e96ce0bfd5d,1,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+131096321ca81a33,1,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+131096321ca81a33,24,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+131096321ca81a33,6,Canis familiaris,DOG ADULT
+131096321ca81a33,6,Felis catus,CAT ADULT
+131096321ca81a33,3,Felis catus,CAT KITTEN
 80df4f5e433c3136,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 dbb6f9d0025fbd93,5,Felis catus,CAT ADULT
 dbb6f9d0025fbd93,5,Canis familiaris,DOG ADULT
@@ -9393,6 +9398,8 @@ fb053331d359d152,16,Cricetus cricetus,EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER
 fb053331d359d152,60,Felis silvestris catus,CAT ADULT
 fb053331d359d152,486,Gerbillus acticola,BERBERA GERBIL
 fb053331d359d152,200,None,NONE
+2fa6f98cf7a4f538,54,Canis familiaris,DOG PUPPY
+2fa6f98cf7a4f538,92,Canis familiaris,DOG ADULT
 34bfac21a69d68bd,23,Canis familiaris,DOG PUPPY
 34bfac21a69d68bd,92,Canis familiaris,DOG ADULT
 64d6af4eaf753a2f,25,Canis familiaris,DOG PUPPY
@@ -11288,6 +11295,8 @@ b51dafb945b3dd71,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 3fac032f37c2d6d9,2,Oryctolagus cuniculus,EUROPEAN RABBIT
 3fac032f37c2d6d9,2,Phodopus cricetidae,DWARF HAMSTER
 3fac032f37c2d6d9,9,Phodopus roborovskis,ROBOROVSKIS DWARF HAMSTER
+557e228ea976991e,1660,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
+557e228ea976991e,1728,Macaca mulatta,RHESUS MACAQUE
 1fb556e9b439ed5e,268,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 1fb556e9b439ed5e,984,Macaca mulatta,RHESUS MACAQUE
 1fb556e9b439ed5e,383,Papio hamadryas,HAMADRYAS BABOON
@@ -11338,6 +11347,8 @@ a1b959347361a334,1535,Macaca mulatta,RHESUS MACAQUE *MALE
 2d54937be0bc9240,600,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 2d54937be0bc9240,1100,Macaca mulatta,RHESUS MACAQUE *MALE
 2d54937be0bc9240,400,Papio hamadryas,HAMADRYAS BABOON
+226f2b21355f40b1,1660,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
+226f2b21355f40b1,1728,Macaca mulatta,RHESUS MACAQUE
 c8e59a28ffd4a669,1576,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 c8e59a28ffd4a669,1644,Macaca mulatta,RHESUS MACAQUE
 2edfb7c58c5282f6,294,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
@@ -19137,6 +19148,99 @@ ce23a6b3610faac4,24,Canis lupus familiaris,DOMESTIC DOG
 5fcdfef670dfa82c,3,Canis lupus familiaris,DOG PUPPY
 70758a561404649d,58,Canis lupus familiaris,DOG ADULT
 70758a561404649d,6,Canis lupus familiaris,DOG PUPPY
+e18212c8b158da28,2,Hoolock hoolock,HOOLOCK GIBBON
+e18212c8b158da28,6,Ateles geoffroyi,BLACK-HANDED SPIDER MONKEY
+e18212c8b158da28,2,Erythrocebus patas,PATAS MONKEY
+e18212c8b158da28,3,Capra hircus,DOMESTIC GOAT
+e18212c8b158da28,3,Canis latrans,COYOTE
+e18212c8b158da28,2,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
+e18212c8b158da28,1,Panthera pardus,LEOPARD
+e18212c8b158da28,1,Castor canadensis,AMERICAN BEAVER
+e18212c8b158da28,25,Cynomys ludovicianus,BLACK-TAILED PRAIRIE DOG
+e18212c8b158da28,2,Addax nasomaculatus,ADDAX
+e18212c8b158da28,5,Kobus leche,RED LECHWE / SOUTHERN LECHWE
+e18212c8b158da28,6,Oryx dammah,SCIMITAR-HORNED ORYX
+e18212c8b158da28,4,Taurotragus oryx,COMMON ELAND
+e18212c8b158da28,29,Dama dama,FALLOW DEER
+e18212c8b158da28,7,Elaphurus davidianus,PERE DAVID'S DEER
+e18212c8b158da28,4,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+e18212c8b158da28,7,Bison bison,AMERICAN BISON
+e18212c8b158da28,1,Ursus americanus,NORTH AMERICAN BLACK BEAR
+e18212c8b158da28,1,Hippopotamus amphibius,HIPPOPOTAMUS
+e18212c8b158da28,3,Potos flavus,KINKAJOU
+e18212c8b158da28,2,Didelphis virginiana,VIRGINIA OPOSSUM
+e18212c8b158da28,1,Mephitis mephitis,STRIPED SKUNK
+e18212c8b158da28,6,Papio anubis,OLIVE BABOON
+e18212c8b158da28,5,Cervus canadensis,ELK / WAPITI
+e18212c8b158da28,6,Boselaphus tragocamelus,NILGAI
+e18212c8b158da28,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+e18212c8b158da28,1,Syncerus caffer,AFRICAN BUFFALO / CAPE BUFFALO
+e18212c8b158da28,2,Hystrix cristata,AFRICAN CRESTED PORCUPINE
+e18212c8b158da28,5,Lama glama,LLAMA
+e18212c8b158da28,3,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
+e18212c8b158da28,2,Urocyon cinereoargenteus,GRAY FOX / GREY FOX
+e18212c8b158da28,1,Dolichotis patagonum,PATAGONIAN CAVY / MARA
+e18212c8b158da28,5,Hylobates lar,LAR GIBBON
+e18212c8b158da28,7,Odocoileus virginianus,WHITE-TAILED DEER
+e18212c8b158da28,2,Lynx rufus,BOBCAT
+e18212c8b158da28,2,Panthera leo,LION
+e18212c8b158da28,2,Ictinia mississippiensis,MISSISSIPPI KITE
+e18212c8b158da28,1,Glaucomys volans,SOUTHERN FLYING SQUIRREL
+e18212c8b158da28,4,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+e18212c8b158da28,2,Chrysolophus pictus,GOLDEN PHEASANT
+e18212c8b158da28,1,Felis catus,CAT ADULT
+e18212c8b158da28,2,Alopochen aegyptiaca,EGYPTIAN GOOSE
+e18212c8b158da28,2,Buteo jamaicensis,RED-TAILED HAWK
+e18212c8b158da28,3,Lophura nycthemera,SILVER PHEASANT
+e18212c8b158da28,2,Choloepus didactylus,LINNAEUS'S TWO-TOED SLOTH
+e18212c8b158da28,2,Haliaeetus leucocephalus,BALD EAGLE
+e18212c8b158da28,1,Panthera tigris,TIGER
+e18212c8b158da28,1,Coragyps atratus,BLACK VULTURE / MEXICAN VULTURE
+e18212c8b158da28,1,Goura cristata,WESTERN CROWNED-PIGEON / BLUE CROWNED-PIGEON
+e18212c8b158da28,2,Phoenicopterus ruber,AMERICAN FLAMINGO
+e18212c8b158da28,13,Dromaius novaehollandiae,EMU
+e18212c8b158da28,13,Pavo cristatus,INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /
+e18212c8b158da28,2,Pelecanus erythrorhynchos,AMERICAN WHITE PELICAN
+e18212c8b158da28,2,Anser cygnoides,SWAN GOOSE
+e18212c8b158da28,2,Strix varia,BARRED OWL
+e18212c8b158da28,2,Ara militaris,MILITARY MACAW
+e18212c8b158da28,1,Balearica regulorum,GRAY CROWNED-CRANE / AFRICAN CROWNED-CRANE /
+e18212c8b158da28,1,Psittacus erithacus,CONGO AFRICAN GREY PARROT / GRAY PARROT
+e18212c8b158da28,300,Melopsittacus undulatus,BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL
+e18212c8b158da28,2,"Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",MACAW HYBRID
+e18212c8b158da28,1,Pyrrhura molinae,GREEN-CHEEKED PARAKEET / GREEN-CHEEKED CONURE
+e18212c8b158da28,1,Tyto alba,BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /
+e18212c8b158da28,2,Cygnus atratus,BLACK SWAN
+e18212c8b158da28,1,Cathartes aura,TURKEY VULTURE
+e18212c8b158da28,1,Buteo platypterus,BROAD-WINGED HAWK
+e18212c8b158da28,2,Aratinga solstitialis,SUN PARAKEET / SUN CONURE
+e18212c8b158da28,2,Ara ararauna,BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW
+e18212c8b158da28,4,Anser anser,GRAYLAG GOOSE
+e18212c8b158da28,16,Branta canadensis,CANADA GOOSE
+e18212c8b158da28,1,Bubo virginianus,GREAT HORNED OWL
+e18212c8b158da28,2,Struthio camelus,COMMON OSTRICH
+e18212c8b158da28,3,Rhea americana,GREATER RHEA / AMERICAN RHEA
+e18212c8b158da28,1,Ara ambiguus,GREAT GREEN MACAW / BUFFON'S MACAW
+e18212c8b158da28,2,Buteo lineatus,RED-SHOULDERED HAWK
+e18212c8b158da28,1,Psittacus timneh,TIMNEH PARROT / TIMNEH AFRICAN GREY PARROT
+e18212c8b158da28,9,Bos taurus africanus,ANKOLE-WATUSI CATTLE
+e18212c8b158da28,13,Threskiornis aethiopicus,AFRICAN SACRED IBIS
+e18212c8b158da28,1,Megascops asio,EASTERN SCREECH-OWL
+e18212c8b158da28,2,Meleagris gallopavo,WILD TURKEY
+e18212c8b158da28,1,Cacatua goffiniana,TANIMBAR CORELLA / GOFFIN'S COCKATOO
+e18212c8b158da28,1,Dacelo novaeguineae,LAUGHING KOOKABURRA
+e18212c8b158da28,1,Eclectus roratus,ECLECTUS PARROT
+e18212c8b158da28,3,Amazona spp hybrid,AMAZON PARROT HYBRID
+e18212c8b158da28,4,Lontra canadensis,NORTH AMERICAN RIVER OTTER
+e18212c8b158da28,1,Chinchilla lanigera,CHINCHILLA
+e18212c8b158da28,16,Ammotragus lervia,BARBARY SHEEP
+e18212c8b158da28,2,Hydrochaeris hydrochaeris,CAPYBARA
+e18212c8b158da28,1,Camelus dromedarius,DROMEDARY CAMEL
+e18212c8b158da28,4,Rousettus aegyptiacus,EGYPTIAN FRUIT BAT
+e18212c8b158da28,1,Cavia porcellus,DOMESTIC GUINEA PIG
+e18212c8b158da28,1,Puma concolor,PUMA / MOUNTAIN LION / COUGAR
+e18212c8b158da28,1,Ateles chamek,BLACK SPIDER MONKEY
+e18212c8b158da28,1,Dasypus novemcinctus,NINE-BANDED ARMADILLO
 55de900670ec1a83,2,Hoolock hoolock,HOOLOCK GIBBON
 55de900670ec1a83,6,Ateles geoffroyi,BLACK-HANDED SPIDER MONKEY
 55de900670ec1a83,2,Erythrocebus patas,PATAS MONKEY
@@ -31374,6 +31478,18 @@ e1fa289deb93d69a,2,Cervus elaphus canadensis,ELK
 c64aceb0ed263234,2,Cervus c. canadensis,ELK
 aa051d6ac3c62a71,45,Canis lupus familiaris,DOG ADULT
 aa051d6ac3c62a71,15,Canis lupus familiaris,DOG PUPPY
+da9b317aaf8cebf5,20,Camelus dromedarius,DROMEDARY CAMEL
+da9b317aaf8cebf5,5,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+da9b317aaf8cebf5,1,Hydrochaeris hydrochaeris,CAPYBARA
+da9b317aaf8cebf5,15,Osphranter rufus,RED KANGAROO
+da9b317aaf8cebf5,1,Ammotragus lervia,BARBARY SHEEP
+da9b317aaf8cebf5,27,Capra hircus,DOMESTIC GOAT
+da9b317aaf8cebf5,21,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+da9b317aaf8cebf5,4,Rhea pennata,LESSER RHEA / DARWIN'S RHEA
+da9b317aaf8cebf5,4,Bos taurus,CATTLE / COW / OX
+da9b317aaf8cebf5,1,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+da9b317aaf8cebf5,2,Dromaius novaehollandiae,EMU
+da9b317aaf8cebf5,1,Giraffa camelopardalis,GIRAFFE
 1141deaac2b00c65,23,Camelus dromedarius,DROMEDARY CAMEL
 1141deaac2b00c65,9,Osphranter rufus,RED KANGAROO
 1141deaac2b00c65,3,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
@@ -43222,6 +43338,7 @@ f32c6c190a2bc0b7,23,Canis lupus familiaris,DOG PUPPY
 bfa04020ddbf2553,43,Canis lupus familiaris,DOG ADULT
 bfa04020ddbf2553,28,Canis lupus familiaris,DOG PUPPY
 f80d2bc3b4a1d9e0,2,Felis silvestris catus,CAT ADULT
+ba93b7e02b1638dd,5,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
 d2f8efd3dda1de8f,5,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
 b662b936e5026593,5,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
 8f48949e5723d73a,5,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
@@ -51933,6 +52050,7 @@ f30c678984c76e3e,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 f30c678984c76e3e,5,Capra hircus,DOMESTIC GOAT
 b68bd2280d52a334,16,Canis familiaris,DOG ADULT
 b68bd2280d52a334,12,Canis familiaris,DOG PUPPY
+64be96c070d8cea3,4,Canis familiaris,DOG ADULT
 dfe5124aedd67b53,23,Canis familiaris,DOG ADULT
 dfe5124aedd67b53,13,Canis familiaris,DOG PUPPY
 729d70214db20b4a,2,Eptesicus fuscus,BIG BROWN BAT
@@ -52241,6 +52359,13 @@ e08416899461e499,2,Melopsittacus undulatus,BUDGERIGAR / BUDGIE / COMMON PARAKEET
 e08416899461e499,6,Anas platyrhynchos domesticus,DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS
 e08416899461e499,6,Meleagris gallopavo domesticus,DOMESTIC TURKEY
 e08416899461e499,23,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+19c012881a582bf4,1,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
+19c012881a582bf4,1,Osphranter rufus,RED KANGAROO
+19c012881a582bf4,1,Lama glama,LLAMA
+19c012881a582bf4,2,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
+19c012881a582bf4,1,Bos taurus,CATTLE / COW / OX
+19c012881a582bf4,5,Capra hircus,DOMESTIC GOAT
+19c012881a582bf4,3,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
 fa316295caa662a6,1,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
 fa316295caa662a6,1,Osphranter rufus,RED KANGAROO
 fa316295caa662a6,1,Lama glama,LLAMA
@@ -55402,6 +55527,8 @@ c816961d5fdd67a0,43,Canis familiaris,DOG PUPPY
 06edc33d2866ee43,137,Canis familiaris,DOG PUPPY
 e8c842268ee7295a,139,Canis familiaris,DOG ADULT
 e8c842268ee7295a,112,Canis familiaris,DOG PUPPY
+21026804378aa0ef,667,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
+57f2cc1561dd995c,667,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 c9fa8e2f50293824,45,Canis familiaris,DOG ADULT
 c9fa8e2f50293824,50,Canis familiaris,DOG PUPPY
 e893be789566c5e8,41,Canis familiaris,DOG ADULT
@@ -57220,6 +57347,7 @@ df1d3ac636ebc5ed,1,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 95beb77f13d923db,12,Canis familiaris,DOG ADULT
 dcee7ce54f4d3857,13,Canis familiaris,DOG PUPPY
 dcee7ce54f4d3857,15,Canis familiaris,DOG ADULT
+01cdf4c9582a4a42,2,Tyto alba,BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /
 47f56142c79fde76,40,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
 f0cac569d9a1a02a,4,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
 07cd230be61ffa04,21,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
@@ -57231,6 +57359,7 @@ d3dc346a283a568f,8,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 1a28dbcad3a7405a,5,Felis catus,CAT ADULT
 79f1f02f24f0086c,8,Canis familiaris,DOG ADULT
 79f1f02f24f0086c,6,Felis catus,CAT ADULT
+44d33774f2d271aa,20,Canis familiaris,DOG ADULT
 58c9312b22b0da4a,27,Canis familiaris,DOG ADULT
 58c9312b22b0da4a,4,Canis familiaris,DOG PUPPY
 c96b34f646a932fb,25,Canis familiaris,DOG ADULT
@@ -77207,6 +77336,8 @@ c6aec2563020b844,2,Procyon lotor,RACCOON
 839e0a7b66e40820,2,Procyon lotor,RACCOON
 820ef5b7d938b1d5,4,Canis familiaris,DOG ADULT
 43c3e8ab330d4306,4,Canis familiaris,DOG ADULT
+c130eb84f810765f,23,Canis familiaris,DOG ADULT
+c130eb84f810765f,3,Canis familiaris,DOG PUPPY
 77a3edf9207b5904,24,Canis familiaris,DOG ADULT
 77a3edf9207b5904,19,Canis familiaris,DOG PUPPY
 70ea98b3ddcc7858,22,Canis familiaris,DOG ADULT
@@ -89345,6 +89476,96 @@ a7f834e2a61b6d3b,6,Dolichotis patagonum,PATAGONIAN CAVY / MARA
 7caee16acb2617df,3,Potamochoerus porcus,RED RIVER HOG
 7caee16acb2617df,2,Leptailurus serval,SERVAL
 7caee16acb2617df,17,Tragelaphus angasii,NYALA
+b5eac5ac716ffe2f,3,Giraffa camelopardalis,GIRAFFE
+b5eac5ac716ffe2f,10,Panthera tigris,TIGER
+b5eac5ac716ffe2f,8,Panthera leo,LION
+b5eac5ac716ffe2f,2,Panthera pardus,LEOPARD
+b5eac5ac716ffe2f,6,Canis lupus,GRAY WOLF / GREY WOLF / TIMBER WOLF
+b5eac5ac716ffe2f,13,Phoenicopterus chilensis,CHILEAN FLAMINGO
+b5eac5ac716ffe2f,5,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+b5eac5ac716ffe2f,2,Struthio camelus,COMMON OSTRICH
+b5eac5ac716ffe2f,6,Connochaetes gnou,BLACK WILDEBEEST
+b5eac5ac716ffe2f,10,Ammotragus lervia,BARBARY SHEEP
+b5eac5ac716ffe2f,2,Oryx gazella,GEMSBOK
+b5eac5ac716ffe2f,7,Antilope cervicapra,BLACKBUCK
+b5eac5ac716ffe2f,2,Taurotragus oryx,COMMON ELAND
+b5eac5ac716ffe2f,2,Bos taurus africanus,ANKOLE-WATUSI CATTLE
+b5eac5ac716ffe2f,3,Oryx dammah,SCIMITAR-HORNED ORYX
+b5eac5ac716ffe2f,3,Damaliscus pygargus,BONTEBOK / BLESBOK
+9bdc1796b80b41d4,3,Panthera leo,LION
+9bdc1796b80b41d4,2,Panthera tigris,TIGER
+9bdc1796b80b41d4,2,Myrmecophaga tridactyla,GIANT ANTEATER
+9bdc1796b80b41d4,5,Panthera pardus,LEOPARD
+9bdc1796b80b41d4,5,Choloepus hoffmanni,HOFFMANN'S TWO-TOED SLOTH
+9bdc1796b80b41d4,2,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
+9bdc1796b80b41d4,102,Capra hircus,DOMESTIC GOAT
+9bdc1796b80b41d4,1,Pekania pennanti,FISHER
+9bdc1796b80b41d4,2,Crocuta crocuta,SPOTTED HYENA
+9bdc1796b80b41d4,13,Osphranter rufus,RED KANGAROO
+9bdc1796b80b41d4,3,Puma concolor,PUMA / MOUNTAIN LION / COUGAR
+9bdc1796b80b41d4,21,Cervus nippon,SIKA DEER
+9bdc1796b80b41d4,2,Arctictis binturong,BINTURONG
+9bdc1796b80b41d4,16,Ammotragus lervia,BARBARY SHEEP
+9bdc1796b80b41d4,1,Acinonyx jubatus,CHEETAH
+9bdc1796b80b41d4,2,Phacochoerus africanus,WARTHOG
+9bdc1796b80b41d4,4,Hystrix cristata,AFRICAN CRESTED PORCUPINE
+9bdc1796b80b41d4,4,Giraffa camelopardalis,GIRAFFE
+9bdc1796b80b41d4,3,Canis lupus,GRAY WOLF / GREY WOLF / TIMBER WOLF
+9bdc1796b80b41d4,2,Neofelis nebulosa,CLOUDED LEOPARD
+9bdc1796b80b41d4,4,Ursus americanus,NORTH AMERICAN BLACK BEAR
+9bdc1796b80b41d4,2,Nasua narica,WHITE-NOSED COATI
+9bdc1796b80b41d4,2,Ursus arctos,BROWN BEAR
+9bdc1796b80b41d4,2,Panthera onca,JAGUAR
+9bdc1796b80b41d4,2,Hexaprotodon liberiensis,PYGMY HIPPOPOTAMUS
+9bdc1796b80b41d4,4,Plecturocebus cupreus,COPPERY TITI
+9bdc1796b80b41d4,5,Presbytis comata,JAVAN SURILI / JAVAN LANGUR / SUNDA LEAF MONKEY
+9bdc1796b80b41d4,4,Lama pacos,ALPACA
+9bdc1796b80b41d4,3,Lama glama,LLAMA
+9bdc1796b80b41d4,2,Nomascus leucogenys,WHITE-CHEEKED GIBBON
+9bdc1796b80b41d4,3,Symphalangus syndactylus,SIAMANG
+9bdc1796b80b41d4,5,Lemur catta,RING-TAILED LEMUR
+9bdc1796b80b41d4,8,Papio anubis,OLIVE BABOON
+9bdc1796b80b41d4,2,Varecia rubra,RED RUFFED LEMUR
+9bdc1796b80b41d4,45,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+9bdc1796b80b41d4,2,Chiropotes chiropotes,RED-BACKED BEARDED SAKI
+9bdc1796b80b41d4,11,Saimiri sciureus,COMMON SQUIRREL MONKEY
+9bdc1796b80b41d4,2,Panthera uncia,SNOW LEOPARD
+9bdc1796b80b41d4,4,Ateles geoffroyi,BLACK-HANDED SPIDER MONKEY
+9bdc1796b80b41d4,10,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
+9bdc1796b80b41d4,2,Hydrochaeris hydrochaeris,CAPYBARA
+9bdc1796b80b41d4,14,Spheniscus demersus,AFRICAN PENGUIN / CAPE PENGUIN
+9bdc1796b80b41d4,182,Melopsittacus undulatus,BUDGERIGAR / BUDGIE / COMMON PARAKEET / SHELL
+9bdc1796b80b41d4,1,Bubo bubo,EURASIAN EAGLE-OWL
+9bdc1796b80b41d4,1,Bucorvus leadbeateri,SOUTHERN GROUND-HORNBILL
+9bdc1796b80b41d4,2,Ara ararauna,BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW
+9bdc1796b80b41d4,22,Anas platyrhynchos domesticus,DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS
+9bdc1796b80b41d4,1,Cereopsis novaehollandiae,CAPE BARREN GOOSE
+9bdc1796b80b41d4,2,Procyon lotor,RACCOON
+9bdc1796b80b41d4,1,Amazona spp hybrid,AMAZON PARROT HYBRID
+9bdc1796b80b41d4,1,Cacatua galerita,SULPHUR-CRESTED COCKATOO / GREATER SULPHUR-
+9bdc1796b80b41d4,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+0869ebb9536d5058,23,Bison bison,AMERICAN BISON
+0869ebb9536d5058,3,Struthio camelus,COMMON OSTRICH
+0869ebb9536d5058,2,Panthera tigris,TIGER
+0869ebb9536d5058,3,Panthera leo,LION
+0869ebb9536d5058,2,Ceratotherium simum,WHITE RHINOCEROS
+0869ebb9536d5058,6,Camelus dromedarius,DROMEDARY CAMEL
+0869ebb9536d5058,7,Equus asinus asinus,DONKEY / BURRO / ASS
+0869ebb9536d5058,10,Bos taurus africanus,ANKOLE-WATUSI CATTLE
+0869ebb9536d5058,8,Bos taurus,CATTLE / COW / OX
+0869ebb9536d5058,9,Lama glama,LLAMA
+0869ebb9536d5058,24,Bubalus bubalis,ASIATIC WATER BUFFALO
+0869ebb9536d5058,7,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+0869ebb9536d5058,11,Bos indicus,ZEBU
+0869ebb9536d5058,1,Cervus canadensis,ELK / WAPITI
+0869ebb9536d5058,2,Bos grunniens,YAK
+0869ebb9536d5058,70,Dama dama,FALLOW DEER
+0869ebb9536d5058,6,Dromaius novaehollandiae,EMU
+0869ebb9536d5058,6,Rhea americana,GREATER RHEA / AMERICAN RHEA
+0869ebb9536d5058,9,Lama guanicoe,GUANACO
+0869ebb9536d5058,3,Oryx dammah,SCIMITAR-HORNED ORYX
+0869ebb9536d5058,1,Taurotragus oryx,COMMON ELAND
+0869ebb9536d5058,4,Boselaphus tragocamelus,NILGAI
 9503ae0d9e3fe73e,20,Bison bison,AMERICAN BISON
 9503ae0d9e3fe73e,4,Struthio camelus,COMMON OSTRICH
 9503ae0d9e3fe73e,2,Panthera tigris,TIGER
@@ -91369,6 +91590,7 @@ ac68e7f6da7b3194,52,Canis familiaris,DOG ADULT
 ac68e7f6da7b3194,51,Canis familiaris,DOG PUPPY
 8df68c148bc0e76f,61,Canis lupus familiaris,DOG ADULT
 8df68c148bc0e76f,65,Canis lupus familiaris,DOG PUPPY
+fa48022f07de87c1,16,Canis familiaris,DOG ADULT
 a6681cc1f29b7fe4,15,Canis familiaris,DOG ADULT
 a6681cc1f29b7fe4,5,Canis familiaris,DOG PUPPY
 22de95b0ac042c26,16,Canis familiaris,DOG ADULT
@@ -132358,6 +132580,8 @@ a1b2029a1ab85183,3,Canis lupus familiaris,DOG PUPPY
 92220e5b591ae14a,8,Canis lupus familiaris,DOG PUPPY
 bf0b9cb71abe62e1,14,Canis lupus familiaris,DOG ADULT
 bf0b9cb71abe62e1,5,Canis lupus familiaris,DOG PUPPY
+39d5a0c746dfa1e2,35,Canis familiaris,DOG ADULT
+39d5a0c746dfa1e2,53,Canis familiaris,DOG PUPPY
 2a171ea3c0389362,37,Canis familiaris,DOG ADULT
 2a171ea3c0389362,13,Canis familiaris,DOG PUPPY
 4b365eb162b9f8a3,35,Canis familiaris,DOG ADULT
@@ -185677,6 +185901,7 @@ b7bac69e74e10c31,2,Sus domestica,DOMESTIC PIG
 241f09fe89cf6bb2,1,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
 241f09fe89cf6bb2,3,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 241f09fe89cf6bb2,4,Sylvilagus bachmani,BRUSH RABBIT
+43d20271e17de2dd,2,Canis familiaris,DOG ADULT
 8d92c1070ae208a8,2,Canis familiaris,DOG ADULT
 90ea738fa343ca81,2,Canis familiaris,DOG ADULT
 917c7a9e578940ac,2,Canis familiaris,DOG ADULT
@@ -209460,6 +209685,8 @@ d822e2f9ad68a42f,13,Canis lupus familiaris,DOG PUPPY
 6e4c9c1ed27192db,9,Canis lupus familiaris,DOG PUPPY
 ba84a8be779a1423,28,Dogs,DOGS
 ba84a8be779a1423,9,Canis lupus familiaris,DOG PUPPY
+eb2d619754efd243,10,Canis familiaris,DOG ADULT
+eb2d619754efd243,1,Canis familiaris,DOG PUPPY
 1fdc2e3a2422d728,10,Canis familiaris,DOG ADULT
 1fdc2e3a2422d728,0,Canis familiaris,DOG PUPPY
 6b83645883456e0f,10,Canis familiaris,DOG ADULT
@@ -212208,6 +212435,24 @@ a7ad06e934fad605,3,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 a7ad06e934fad605,1,Taxidea taxus,AMERICAN BADGER
 a7ad06e934fad605,2,Vulpes velox,SWIFT FOX
 a7ad06e934fad605,2,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
+e68088814d79d79c,25,Capra hircus,DOMESTIC GOAT
+e68088814d79d79c,1,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+e68088814d79d79c,1,Osphranter rufus,RED KANGAROO
+e68088814d79d79c,1,Hystrix cristata,AFRICAN CRESTED PORCUPINE
+e68088814d79d79c,1,Boselaphus tragocamelus,NILGAI
+e68088814d79d79c,2,Bos indicus,ZEBU
+e68088814d79d79c,1,Bos grunniens,YAK
+e68088814d79d79c,2,Lama glama,LLAMA
+e68088814d79d79c,1,Dromaius novaehollandiae,EMU
+e68088814d79d79c,1,Bison bison,AMERICAN BISON
+e68088814d79d79c,1,Bubalus bubalis,ASIATIC WATER BUFFALO
+e68088814d79d79c,1,Bos taurus,CATTLE / COW / OX
+e68088814d79d79c,1,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+e68088814d79d79c,3,Camelus dromedarius,DROMEDARY CAMEL
+e68088814d79d79c,1,Connochaetes taurinus,BRINDLED WILDEBEEST
+e68088814d79d79c,2,Equus asinus asinus,DONKEY / BURRO / ASS
+e68088814d79d79c,18,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+e68088814d79d79c,1,Lama pacos,ALPACA
 ffb928601aefbf36,29,Capra hircus,DOMESTIC GOAT
 ffb928601aefbf36,1,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
 ffb928601aefbf36,1,Osphranter rufus,RED KANGAROO
@@ -222444,6 +222689,19 @@ d376f914b9afadc3,32,Kobus megaceros,NILE LECHWE
 d376f914b9afadc3,150,Ovis gmelini,ARMENIAN MOUFLON
 d376f914b9afadc3,30,Taurotragus oryx,COMMON ELAND
 d376f914b9afadc3,35,Tragelaphus strepsiceros,GREATER KUDU
+05f296b2396185a4,150,Antilope cervicapra,BLACKBUCK
+05f296b2396185a4,12,Rucervus duvaucelii,BARASINGHA / SWAMP DEER
+05f296b2396185a4,25,Taurotragus oryx,COMMON ELAND
+05f296b2396185a4,150,Ovis aries gmelini,ARMENIAN MOUFLON
+05f296b2396185a4,10,Capra nubiana,NUBIAN IBEX
+05f296b2396185a4,7,Giraffa camelopardalis,GIRAFFE
+05f296b2396185a4,3,Aepyceros melampus,IMPALA
+05f296b2396185a4,15,Oryx dammah,SCIMITAR-HORNED ORYX
+05f296b2396185a4,10,Connochaetes taurinus,BRINDLED WILDEBEEST
+05f296b2396185a4,45,Kobus megaceros,NILE LECHWE
+05f296b2396185a4,35,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+05f296b2396185a4,75,Equus africanus,AFRICAN WILD ASS
+05f296b2396185a4,15,Tragelaphus strepsiceros,GREATER KUDU
 7c80d5877cc2ebc3,125,Antilope cervicapra,BLACKBUCK
 7c80d5877cc2ebc3,10,Rucervus duvaucelii,BARASINGHA / SWAMP DEER
 7c80d5877cc2ebc3,25,Taurotragus oryx,COMMON ELAND
@@ -225697,6 +225955,7 @@ f7ccf58ae35f51c8,6,Lama glama,LLAMA
 f7ccf58ae35f51c8,1,Muscardinus avellanarius,HAZEL DORMOUSE
 f7ccf58ae35f51c8,11,Oryctolagus cuniculus,EUROPEAN RABBIT
 f7ccf58ae35f51c8,36,Ovis dalli,WHITE SHEEP
+8832682b223639a2,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
 8f61205502dbabd9,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
 e4daf66f59c9cd51,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
 a23a83fa8a6419f1,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
@@ -253711,6 +253970,45 @@ b3aa9ab939b24767,2,Zalophus californianus,CALIFORNIA SEA LION
 f607d0a41b80b72d,3,Phoca vitulina,HARBOR SEAL
 f607d0a41b80b72d,2,Zalophus californianus,CALIFORNIA SEA LION
 24a6fe892e9ef060,10,Canis lupus familiaris,DOG ADULT
+783cf3ab5b517131,1,Pelecanus occidentalis,BROWN PELICAN
+783cf3ab5b517131,2,Gymnogyps californianus,CALIFORNIA CONDOR
+783cf3ab5b517131,1,Nycticorax nycticorax,BLACK-CROWNED NIGHT-HERON
+783cf3ab5b517131,1,Anas platyrhynchos,MALLARD
+783cf3ab5b517131,2,Branta canadensis,CANADA GOOSE
+783cf3ab5b517131,1,Bubo virginianus,GREAT HORNED OWL
+783cf3ab5b517131,2,Canis latrans,COYOTE
+783cf3ab5b517131,1,Urocyon cinereoargenteus,GRAY FOX / GREY FOX
+783cf3ab5b517131,4,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
+783cf3ab5b517131,3,Puma concolor,PUMA / MOUNTAIN LION / COUGAR
+783cf3ab5b517131,3,Lynx rufus,BOBCAT
+783cf3ab5b517131,1,Erethizon dorsatum,NORTH AMERICAN PORCUPINE
+783cf3ab5b517131,2,Odocoileus hemionus,MULE DEER
+783cf3ab5b517131,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
+783cf3ab5b517131,1,Taxidea taxus,AMERICAN BADGER
+783cf3ab5b517131,1,Tadarida brasiliensis,BRAZILIAN FREE-TAILED BAT
+783cf3ab5b517131,1,Bassariscus astutus,RINGTAIL
+783cf3ab5b517131,0,Didelphis virginiana,VIRGINIA OPOSSUM
+783cf3ab5b517131,2,Ovis canadensis,BIGHORN SHEEP
+783cf3ab5b517131,4,Vulpes macrotis,KIT FOX
+783cf3ab5b517131,3,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+783cf3ab5b517131,1,Peromyscus maniculatus,EASTERN DEERMOUSE
+783cf3ab5b517131,1,Melanerpes formicivorus,ACORN WOODPECKER
+783cf3ab5b517131,1,Aphelocoma californica,CALIFORNIA SCRUB-JAY / WESTERN SCRUB-JAY
+783cf3ab5b517131,3,Corvus corax,COMMON RAVEN
+783cf3ab5b517131,2,Corvus brachyrhynchos,AMERICAN CROW
+783cf3ab5b517131,3,Buteo jamaicensis,RED-TAILED HAWK
+783cf3ab5b517131,1,Falco peregrinus,PEREGRINE FALCON
+783cf3ab5b517131,4,Cathartes aura,TURKEY VULTURE
+783cf3ab5b517131,1,Buteo regalis,FERRUGINOUS HAWK
+783cf3ab5b517131,1,Tyto alba,BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /
+783cf3ab5b517131,1,Buteo swainsoni,SWAINSON'S HAWK
+783cf3ab5b517131,1,Circus hudsonius,NORTHERN HARRIER
+783cf3ab5b517131,2,Asio otus,LONG-EARED OWL
+783cf3ab5b517131,1,Aquila chrysaetos,GOLDEN EAGLE
+783cf3ab5b517131,1,Haliaeetus leucocephalus,BALD EAGLE
+783cf3ab5b517131,3,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+783cf3ab5b517131,1,Falco sparverius,AMERICAN KESTREL
+783cf3ab5b517131,4,Capra hircus,DOMESTIC GOAT
 2e5ac78782328985,1,Pelecanus occidentalis,BROWN PELICAN
 2e5ac78782328985,2,Gymnogyps californianus,CALIFORNIA CONDOR
 2e5ac78782328985,1,Nycticorax nycticorax,BLACK-CROWNED NIGHT-HERON
@@ -255689,6 +255987,9 @@ aaf9482e8b22f33f,6,Canis lupus familiaris,DOG ADULT
 aaf9482e8b22f33f,1,Felis silvestris catus,CAT ADULT
 9c2cefa6eb06d90e,5,Canis lupus familiaris,DOG ADULT
 9c2cefa6eb06d90e,1,Felis silvestris catus,CAT ADULT
+d1461fe474b5507c,1,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
+d1461fe474b5507c,1,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+d1461fe474b5507c,2,Vulpes zerda,FENNEC FOX
 c8f8ec38a776f81f,1,Procyon lotor,RACCOON
 c8f8ec38a776f81f,2,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
 c8f8ec38a776f81f,1,Chinchilla lanigera,CHINCHILLA
@@ -319760,6 +320061,67 @@ ac121a234c672c16,14,Canis lupus familiaris,DOG PUPPY
 a7cabf4c9007dedc,18,Canis lupus familiaris,DOG ADULT
 a7cabf4c9007dedc,23,Canis lupus familiaris,DOG PUPPY
 e7d0d2943653631d,32,Canis lupus familiaris,DOG ADULT
+8eab6304e6bf4def,2,Eclectus roratus,ECLECTUS PARROT
+8eab6304e6bf4def,1,Cacatua alba,WHITE COCKATOO / UMBRELLA COCKATOO
+8eab6304e6bf4def,1,Lophoceros fasciatus,AFRICAN PIED HORNBILL
+8eab6304e6bf4def,1,Corvus albicollis,WHITE-NECKED RAVEN
+8eab6304e6bf4def,3,Anas platyrhynchos domesticus,DOMESTIC DUCK INCLUDING ALL DOMESTIC BREEDS
+8eab6304e6bf4def,4,Psittacus erithacus,CONGO AFRICAN GREY PARROT / GRAY PARROT
+8eab6304e6bf4def,6,Ara ararauna,BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW
+8eab6304e6bf4def,1,Columba livia domestica,DOMESTIC PIGEON INCLUDING ALL DOMESTIC BREEDS
+8eab6304e6bf4def,2,Amazona auropalliata,YELLOW-NAPED PARROT / YELLOW-NAPED AMAZON
+8eab6304e6bf4def,1,Hystrix africaeaustralis,CAPE PORCUPINE
+8eab6304e6bf4def,1,Camelus bactrianus,BACTRIAN CAMEL
+8eab6304e6bf4def,5,Ateles chamek,BLACK SPIDER MONKEY
+8eab6304e6bf4def,3,Notamacropus rufogriseus,BENNETT'S WALLABY / RED-NECKED WALLABY
+8eab6304e6bf4def,1,Anodorhynchus hyacinthinus,HYACINTH MACAW
+8eab6304e6bf4def,1,Amazona oratrix,YELLOW-HEADED PARROT / YELLOW-HEADED AMAZON /
+8eab6304e6bf4def,1,"Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",MACAW HYBRID
+8eab6304e6bf4def,1,Petaurus breviceps,SUGAR GLIDER
+8eab6304e6bf4def,6,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+8eab6304e6bf4def,1,Nasua narica,WHITE-NOSED COATI
+8eab6304e6bf4def,5,Mustela putorius furo,DOMESTIC FERRET
+8eab6304e6bf4def,4,Chinchilla lanigera,CHINCHILLA
+8eab6304e6bf4def,2,Camelus dromedarius,DROMEDARY CAMEL
+8eab6304e6bf4def,1,Hydrochaeris hydrochaeris,CAPYBARA
+8eab6304e6bf4def,5,Dolichotis patagonum,PATAGONIAN CAVY / MARA
+8eab6304e6bf4def,1,Vulpes zerda,FENNEC FOX
+8eab6304e6bf4def,2,Vulpes pallida,PALE FOX
+8eab6304e6bf4def,1,Tamandua tetradactyla,SOUTHERN TAMANDUA
+8eab6304e6bf4def,1,Osphranter rufus,RED KANGAROO
+8eab6304e6bf4def,2,Nasua nasua,SOUTH AMERICAN COATI
+8eab6304e6bf4def,6,Oryctolagus cuniculus,DOMESTIC RABBIT / EUROPEAN RABBIT
+8eab6304e6bf4def,2,Procyon cancrivorus,CRAB-EATING RACCOON
+8eab6304e6bf4def,2,Nasuella olivacea,MOUNTAIN COATI
+8eab6304e6bf4def,4,Cynomys ludovicianus,BLACK-TAILED PRAIRIE DOG
+8eab6304e6bf4def,1,Varecia variegata,BLACK-AND-WHITE RUFFED LEMUR
+8eab6304e6bf4def,2,Potos flavus,KINKAJOU
+8eab6304e6bf4def,3,Aonyx cinereus,ORIENTAL SMALL-CLAWED OTTER
+8eab6304e6bf4def,1,Choloepus didactylus,LINNAEUS'S TWO-TOED SLOTH
+8eab6304e6bf4def,1,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+8eab6304e6bf4def,1,Hystrix cristata,AFRICAN CRESTED PORCUPINE
+8eab6304e6bf4def,1,Atelerix albiventris,FOUR-TOED HEDGEHOG
+8eab6304e6bf4def,1,Caluromys philander,BARE-TAILED WOOLLY OPOSSUM
+8eab6304e6bf4def,1,Dromaius novaehollandiae,EMU
+8eab6304e6bf4def,1,Bubo bubo,EURASIAN EAGLE-OWL
+8eab6304e6bf4def,1,Corvus albus,PIED CROW
+8eab6304e6bf4def,1,Cacatua sanguinea,LITTLE CORELLA / BARE-EYED COCKATOO
+8eab6304e6bf4def,2,Pyrrhura molinae,GREEN-CHEEKED PARAKEET / GREEN-CHEEKED CONURE
+8eab6304e6bf4def,2,Aratinga solstitialis,SUN PARAKEET / SUN CONURE
+8eab6304e6bf4def,1,Pionites melanocephalus,BLACK-HEADED PARROT
+8eab6304e6bf4def,2,Myiopsitta monachus,MONK PARAKEET / QUAKER PARROT
+8eab6304e6bf4def,1,Cacatua goffiniana,TANIMBAR CORELLA / GOFFIN'S COCKATOO
+8eab6304e6bf4def,1,Pulsatrix perspicillata,SPECTACLED OWL
+8eab6304e6bf4def,1,Ara macao,SCARLET MACAW
+8eab6304e6bf4def,1,Ara chloropterus,RED-AND-GREEN MACAW / GREEN-WINGED MACAW
+8eab6304e6bf4def,7,Pavo cristatus,INDIAN PEAFOWL / COMMON PEAFOWL / PEAHEN /
+8eab6304e6bf4def,1,Chrysolophus pictus,GOLDEN PHEASANT
+8eab6304e6bf4def,1,Chrysolophus amherstiae,LADY AMHERST'S PHEASANT
+8eab6304e6bf4def,1,Ara militaris,MILITARY MACAW
+8eab6304e6bf4def,1,Varecia rubra,RED RUFFED LEMUR
+8eab6304e6bf4def,1,Macropus giganteus,EASTERN GREY KANGAROO
+8eab6304e6bf4def,1,Eolophus roseicapilla,GALAH / ROSE-BREASTED COCKATOO / ROSEATE
+8eab6304e6bf4def,1,Tenrec ecaudatus,TAIL-LESS TENREC
 029580c4dfeb6e76,2,Eclectus roratus,ECLECTUS PARROT
 029580c4dfeb6e76,1,Cacatua alba,WHITE COCKATOO / UMBRELLA COCKATOO
 029580c4dfeb6e76,1,Lophoceros fasciatus,AFRICAN PIED HORNBILL
@@ -346404,6 +346766,14 @@ ecfbf4dc9478e3ba,12,Canis lupus familiaris,DOG PUPPY
 3c236aed86b6da2e,29,Canis lupus familiaris,DOG PUPPY
 92544e2ca831965e,61,Canis lupus familiaris,DOG ADULT
 92544e2ca831965e,21,Canis lupus familiaris,DOG PUPPY
+d153ae8ef45b433b,20,Canis familiaris,DOG ADULT
+d153ae8ef45b433b,14,Felis catus,CAT ADULT
+d153ae8ef45b433b,3,Anser anser domesticus,DOMESTIC GOOSE
+d153ae8ef45b433b,1,Ara militaris,MILITARY MACAW
+d153ae8ef45b433b,1,Ara ararauna,BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW
+d153ae8ef45b433b,1,"Ara, Anodorhynchus, Primolius, Diopsittaca spp hybrid",MACAW HYBRID
+d153ae8ef45b433b,6,Columba livia domestica,DOMESTIC PIGEON INCLUDING ALL DOMESTIC BREEDS
+d153ae8ef45b433b,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 e4739e8b41f4a29e,22,Canis familiaris,DOG ADULT
 e4739e8b41f4a29e,15,Felis catus,CAT ADULT
 e4739e8b41f4a29e,3,Anser anser domesticus,DOMESTIC GOOSE
@@ -360295,6 +360665,8 @@ be3801dd1034ecb4,4,Canis lupus familiaris,DOG PUPPY
 677068b3aae71eb0,48,Canis lupus familiaris,DOG PUPPY
 759965d9243fdb5b,177,Canis lupus familiaris,DOG ADULT
 759965d9243fdb5b,107,Canis lupus familiaris,DOG PUPPY
+5c423a88580a6140,20,Lemur catta,RING-TAILED LEMUR
+5c423a88580a6140,3,Eulemur fulvus,BROWN LEMUR
 1ab2da924a703918,21,Lemur catta,RING-TAILED LEMUR
 1ab2da924a703918,3,Eulemur fulvus,BROWN LEMUR
 10f64a2dfb102517,20,Lemur catta,RING-TAILED LEMUR
@@ -400025,6 +400397,10 @@ fdd9f24b41929c8e,7,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
 26e29dcd4ae581f2,1,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
 16f379148dc84df8,2,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
 70609b599be9aec9,2,Sapajus appella,BROWN CAPUCHIN / TUFTED CAPUCHIN
+13c24af9dcdca490,2,Lemur catta,RING-TAILED LEMUR
+13c24af9dcdca490,2,Saguinus midas,RED-HANDED TAMARIN
+13c24af9dcdca490,2,Aotus nancymaae,NANCY MA'S NIGHT MONKEY
+13c24af9dcdca490,1,Saguinus geoffroyi,GEOFFROY'S TAMARIN
 92bb22c24465620d,805,Petaurus breviceps,SUGAR GLIDER
 c88f29cfd6e3cc59,709,Petaurus breviceps,SUGAR GLIDER
 6ae2ae6fef88e360,905,Petaurus breviceps,SUGAR GLIDER
@@ -406682,6 +407058,64 @@ d4fc042dc634f3db,11,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
 24b8dd25607cfcfb,15,Capra hircus,DOMESTIC GOAT
 24b8dd25607cfcfb,3,Lama glama,LLAMA
 24b8dd25607cfcfb,9,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+8c4a6a05612921af,2,Chinchilla lanigera,CHINCHILLA
+8c4a6a05612921af,5,Notamacropus rufogriseus,BENNETT'S WALLABY / RED-NECKED WALLABY
+8c4a6a05612921af,1,Hystrix africaeaustralis,CAPE PORCUPINE
+8c4a6a05612921af,3,Colobus guereza,EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA
+8c4a6a05612921af,3,Equus quagga,BURCHELL’S / GRANT’S / CHAPMAN’S / PLAINS ZEBRA
+8c4a6a05612921af,1,Coendou prehensilis,PREHENSILE-TAILED PORCUPINE
+8c4a6a05612921af,2,Bos indicus,ZEBU
+8c4a6a05612921af,2,Cercopithecus neglectus,DE BRAZZA'S MONKEY
+8c4a6a05612921af,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+8c4a6a05612921af,2,Lama pacos,ALPACA
+8c4a6a05612921af,1,Hystrix cristata,AFRICAN CRESTED PORCUPINE
+8c4a6a05612921af,20,Cynomys ludovicianus,BLACK-TAILED PRAIRIE DOG
+8c4a6a05612921af,4,Capra hircus,DOMESTIC GOAT
+8c4a6a05612921af,2,Vulpes zerda,FENNEC FOX
+8c4a6a05612921af,2,Alouatta caraya,BLACK HOWLER
+8c4a6a05612921af,3,Cephalophus monticola,BLUE DUIKER
+8c4a6a05612921af,2,Leptailurus serval,SERVAL
+8c4a6a05612921af,1,Myrmecophaga tridactyla,GIANT ANTEATER
+8c4a6a05612921af,1,Tapirus terrestris,SOUTH AMERICAN TAPIR
+8c4a6a05612921af,2,Hydrochaeris hydrochaeris,CAPYBARA
+8c4a6a05612921af,1,Varecia variegata,BLACK-AND-WHITE RUFFED LEMUR
+8c4a6a05612921af,2,Lemur catta,RINGTAIL LEMUR
+8c4a6a05612921af,2,Octodon degus,DEGU
+8c4a6a05612921af,2,Atelerix albiventris,FOUR-TOED HEDGEHOG
+8c4a6a05612921af,3,Crocuta crocuta,SPOTTED HYENA
+8c4a6a05612921af,2,Giraffa camelopardalis,GIRAFFE
+8c4a6a05612921af,1,Genetta genetta,SMALL SPOTTED GENET
+8c4a6a05612921af,8,Ateles geoffroyi,BLACK-HANDED SPIDER MONKEY
+8c4a6a05612921af,3,Choloepus didactylus,LINNAEUS'S TWO-TOED SLOTH
+8c4a6a05612921af,1,Alopochen aegyptiaca,EGYPTIAN GOOSE
+8c4a6a05612921af,2,Catagonus wagneri,CHACOAN PECCARY
+8c4a6a05612921af,3,Tragelaphus eurycerus,BONGO
+8c4a6a05612921af,1,Cygnus atratus,BLACK SWAN
+8c4a6a05612921af,1,Cathartes aura,TURKEY VULTURE
+8c4a6a05612921af,1,Struthio camelus,COMMON OSTRICH
+8c4a6a05612921af,1,Pavo muticus,GREEN PEAFOWL / INDONESIAN PEAFOWL / PEAHEN /
+8c4a6a05612921af,2,Dromaius novaehollandiae,EMU
+8c4a6a05612921af,4,Anas platyrhynchos,MALLARD
+8c4a6a05612921af,3,Ara ararauna,BLUE-AND-YELLOW MACAW / BLUE-AND-GOLD MACAW
+8c4a6a05612921af,5,Numida meleagris,DOMESTIC GUINEAFOWL / HELMETED GUINEAFOWL /
+8c4a6a05612921af,10,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+8c4a6a05612921af,2,Cygnus olor,MUTE SWAN
+8c4a6a05612921af,2,Dacelo novaeguineae,LAUGHING KOOKABURRA
+8c4a6a05612921af,3,Anser cygnoides,SWAN GOOSE
+8c4a6a05612921af,1,Strix varia,BARRED OWL
+8c4a6a05612921af,15,Phoenicopterus chilensis,CHILEAN FLAMINGO
+8c4a6a05612921af,1,Balearica regulorum,GRAY CROWNED-CRANE / AFRICAN CROWNED-CRANE /
+8c4a6a05612921af,1,Bubo virginianus,GREAT HORNED OWL
+8c4a6a05612921af,1,Tyto alba,BARN OWL / WESTERN BARN OWL / AMERICAN BARN OWL /
+8c4a6a05612921af,2,Aquila chrysaetos,GOLDEN EAGLE
+8c4a6a05612921af,2,Bucorvus leadbeateri,SOUTHERN GROUND-HORNBILL
+8c4a6a05612921af,2,Buteo jamaicensis,RED-TAILED HAWK
+8c4a6a05612921af,1,Tockus deckeni,VON DER DECKEN'S HORNBILL
+8c4a6a05612921af,1,Psittacus erithacus,CONGO AFRICAN GREY PARROT / GRAY PARROT
+8c4a6a05612921af,1,Cacatua citrinocristata,CITRON-CRESTED COCKATOO
+8c4a6a05612921af,1,Potos flavus,KINKAJOU
+8c4a6a05612921af,1,Mephitis mephitis,STRIPED SKUNK
+8c4a6a05612921af,1,Chaetophractus vellerosus,SCREAMING ARMADILLO
 3fea2f6ed03cb4f8,2,Chinchilla lanigera,CHINCHILLA
 3fea2f6ed03cb4f8,5,Notamacropus rufogriseus,BENNETT'S WALLABY / RED-NECKED WALLABY
 3fea2f6ed03cb4f8,1,Hystrix africaeaustralis,CAPE PORCUPINE
@@ -418181,6 +418615,7 @@ bda21dc378238109,1248,Cavia porcellus,DOMESTIC GUINEA PIG
 618c1136f36ea592,490,Cavia porcellus,DOMESTIC GUINEA PIG
 a63b14c0f33d7925,476,Cavia porcellus,DOMESTIC GUINEA PIG
 5cc61102fd561ec1,313,Cavia porcellus,DOMESTIC GUINEA PIG
+bfd4116780f59e5c,5,Leptailurus serval,SERVAL
 4012372bfb8de403,8,Leptailurus serval,SERVAL
 bb01b01619d7edf0,7,Leptailurus serval,SERVAL
 8844d0f258f30537,12,Leptailurus serval,SERVAL
@@ -424227,6 +424662,7 @@ f2ed720c68936b20,1,Panthera tigris,TIGER
 0214b82d7f9ec6d0,1,Panthera tigris,TIGER
 66b82854ff80998e,1,Panthera tigris,TIGER
 56084c9dfd8daae8,1,Panthera tigris,TIGER
+c6581ec5ef48a3b8,98,Canis familiaris,DOG PUPPY
 97795bd659bf89b6,108,Canis familiaris,DOG PUPPY
 29057b1ec7ba12f2,76,Canis familiaris,DOG PUPPY
 929161a387b330c9,83,Canis familiaris,DOG PUPPY
@@ -457713,6 +458149,7 @@ b7b3a8ae64777261,3,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 092e406f43615766,3,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
 721caa52226ad03b,6,Canis lupus familiaris,DOG ADULT
 721caa52226ad03b,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+617813a129da6a54,1,Canis familiaris,DOG ADULT
 3cf40eb451120edc,25,Canis familiaris,DOG ADULT
 3cf40eb451120edc,6,Canis familiaris,DOG PUPPY
 cc016a83dd8f407f,27,Canis familiaris,DOG ADULT
@@ -466173,6 +466610,30 @@ f91e11aad7d00f4f,2,Rangifer tarandus,REINDEER
 d5b5bafae354bba4,11,Canis lupus familiaris,DOG ADULT
 d5b5bafae354bba4,3,Canis lupus familiaris,DOG PUPPY
 b1329d3916614f0c,1,Didelphis virginiana,VIRGINIA OPOSSUM
+3a19bdb6c90bfa08,1,Cavia porcellus,DOMESTIC GUINEA PIG
+3a19bdb6c90bfa08,4,Capra hircus,DOMESTIC GOAT
+3a19bdb6c90bfa08,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
+3a19bdb6c90bfa08,2,Lynx canadensis,CANADIAN LYNX
+3a19bdb6c90bfa08,12,Cynomys ludovicianus,BLACK-TAILED PRAIRIE DOG
+3a19bdb6c90bfa08,1,Odocoileus virginianus,WHITE-TAILED DEER
+3a19bdb6c90bfa08,2,Ursus americanus,NORTH AMERICAN BLACK BEAR
+3a19bdb6c90bfa08,2,Lontra canadensis,NORTH AMERICAN RIVER OTTER
+3a19bdb6c90bfa08,2,Castor canadensis,AMERICAN BEAVER
+3a19bdb6c90bfa08,2,Vulpes lagopus,ARCTIC FOX
+3a19bdb6c90bfa08,3,Canis lupus,GRAY WOLF / GREY WOLF / TIMBER WOLF
+3a19bdb6c90bfa08,1,Didelphis virginiana,VIRGINIA OPOSSUM
+3a19bdb6c90bfa08,1,Mephitis mephitis,STRIPED SKUNK
+3a19bdb6c90bfa08,2,Antigone canadensis,SANDHILL CRANE
+3a19bdb6c90bfa08,1,Branta canadensis,CANADA GOOSE
+3a19bdb6c90bfa08,1,Haliaeetus leucocephalus,BALD EAGLE
+3a19bdb6c90bfa08,5,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
+3a19bdb6c90bfa08,2,Dromaius novaehollandiae,EMU
+3a19bdb6c90bfa08,2,Strix varia,BARRED OWL
+3a19bdb6c90bfa08,2,Bubo virginianus,GREAT HORNED OWL
+3a19bdb6c90bfa08,1,Bubo scandiacus,SNOWY OWL
+3a19bdb6c90bfa08,1,Nymphicus hollandicus,COCKATIEL
+3a19bdb6c90bfa08,1,Psittacula krameri,ROSE-RINGED PARAKEET
+3a19bdb6c90bfa08,1,Cygnus columbianus,TUNDRA SWAN
 ff788c072dcd56e2,2,Cavia porcellus,DOMESTIC GUINEA PIG
 ff788c072dcd56e2,4,Capra hircus,DOMESTIC GOAT
 ff788c072dcd56e2,2,Sus scrofa domestica,DOMESTIC PIG / POTBELLY PIG / MICRO PIG
@@ -505511,6 +505972,7 @@ c1b45ee576199f54,13,Odocoileus virginianus,WHITE-TAILED DEER
 e1d33e4b1d66c8db,4,Odocoileus virginianus,WHITE-TAILED DEER
 248ece0b67a05f78,1,Puma concolor,PUMA / MOUNTAIN LION / COUGAR
 a74a672b2ba1ab10,1,Puma concolor,PUMA / MOUNTAIN LION / COUGAR
+84bd09e60593ec93,12,Odocoileus virginianus,WHITE-TAILED DEER
 2e35e26e1be4c767,12,Odocoileus virginianus,WHITE-TAILED DEER
 92505f9ae6b5bf3b,12,Odocoileus virginianus,WHITE-TAILED DEER
 08d021a6a33a8925,9,Odocoileus virginianus,WHITE-TAILED DEER
@@ -566579,6 +567041,14 @@ cf5353f671fe6f50,3,Muscardinus avellanarius,HAZEL DORMOUSE
 cf5353f671fe6f50,2,Vulpes vulpes,RED FOX (INCLUDES SILVER FOX & CROSS FOX)
 fb31b9d193c8b43c,5,Gorilla gorilla,WESTERN GORILLA
 563af52f19c04bdb,5,Gorilla gorilla,WESTERN GORILLA
+0fc04f047da996dc,28,Phoenicopterus ruber,AMERICAN FLAMINGO
+0fc04f047da996dc,2,Choloepus didactylus,LINNAEUS'S TWO-TOED SLOTH
+0fc04f047da996dc,5,Colobus guereza,EASTERN BLACK-AND-WHITE COLOBUS / GUEREZA
+0fc04f047da996dc,4,Lontra canadensis,NORTH AMERICAN RIVER OTTER
+0fc04f047da996dc,6,Capra hircus,DOMESTIC GOAT
+0fc04f047da996dc,2,Ovis aries aries,SHEEP INCLUDING ALL DOMESTIC BREEDS
+0fc04f047da996dc,1,Ramphastos sulfuratus,KEEL-BILLED TOUCAN
+0fc04f047da996dc,1,Vulpes lagopus,ARCTIC FOX
 d5b659901a6ef0cd,2,Gallus gallus domesticus,DOMESTIC CHICKEN (INCLUDING ALL DOMESTIC BREEDS /
 d5b659901a6ef0cd,5,Bucephala islandica,BARROW'S GOLDENEYE
 d5b659901a6ef0cd,28,Phoenicopterus ruber,AMERICAN FLAMINGO
@@ -577888,6 +578358,7 @@ ddb451bbe87bdc2a,89,Phodopus sungorus,WINTER WHITE RUSSIAN DWARF HAMSTER
 78df581dcf398cad,11,Canis lupus familiaris,DOG PUPPY
 e05a7fcf8238f9d9,45,Canis lupus familiaris,DOG ADULT
 e05a7fcf8238f9d9,11,Canis lupus familiaris,DOG PUPPY
+48a397226fb8a674,2102,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 b660b80ccf31267b,30,Cavia porcellus,DOMESTIC GUINEA PIG
 44562b5bd182f504,155,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 44562b5bd182f504,188,Canis familiaris,DOG ADULT
@@ -578189,6 +578660,7 @@ c8e2c8a6c161b971,153,Mesocricetus brandti,GOLDEN HAMSTER
 86b9e62062587797,14884,Mesocricetus brandti,GOLDEN HAMSTER
 5437f0c0d2af3cff,25,Cricetus cricetus,EUROPEAN HAMSTER / BLACK-BELLIED HAMSTER
 5437f0c0d2af3cff,235,Oryctolagus cuniculus,EUROPEAN RABBIT
+b97f3d414c029695,2102,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
 25c73d62ccccc289,12485,Mesocricetus auratus,SYRIAN / GOLDEN HAMSTER (COMMON PET/RESEARCH
 25c73d62ccccc289,1031,Meriones unguiculatus,MONGOLIAN GERBIL (COMMON PET / RESEARCH VARIETY)
 0e6e997ef38e8a6a,21,Macaca fascicularis,CRAB-EATING MACAQUE / CYNOMOLGUS MONKEY
