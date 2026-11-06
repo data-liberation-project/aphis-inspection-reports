@@ -1,0 +1,53 @@
+{
+  "insp_id": "INS-0001720732",
+  "layout": "c",
+  "customer_id": "40032",
+  "customer_name": "Tiger World Inc",
+  "customer_addr": "4405 Cook Road\nRockwell, NC 28138",
+  "certificate": "55-C-0225",
+  "site_id": "001",
+  "site_name": "Tiger World Inc",
+  "insp_type": "FOCUSED INSPECTION",
+  "date": "08-OCT-2026",
+  "report_date": "09-OCT-2026",
+  "citations": [],
+  "narrative": "No non-compliant items identified during this inspection. \n \nThis inspection and exit interview were conducted with the Director of Wildlife and the Animal Care Manager. \n \nYou may appeal all or part of any inspection report by submitting a written statement contesting the findings\u2014along with \nany supporting documentation\u2014to the Deputy Administrator. Appeals for routine, focused, or attempted inspections must \nbe received within 21 days of the date you received the inspection report. \n \nAppeals may be sent by email to AnimalCare@usda.gov. \n \nAppeals sent by mail should be addressed to: \nDeputy Administrator \nAPHIS Animal Care (AC) \nU.S. Department of Agriculture \n2150 Centre Avenue, Building B \nMailstop #3W11 \nFort Collins, CO 80526-8117 \n \n n",
+  "animals_total": 39,
+  "species": [
+    {
+      "count": 13,
+      "scientific": "Panthera tigris",
+      "common": "TIGER"
+    },
+    {
+      "count": 14,
+      "scientific": "Panthera leo",
+      "common": "LION"
+    },
+    {
+      "count": 2,
+      "scientific": "Puma concolor",
+      "common": "PUMA / MOUNTAIN LION / COUGAR"
+    },
+    {
+      "count": 2,
+      "scientific": "Panthera onca",
+      "common": "JAGUAR"
+    },
+    {
+      "count": 4,
+      "scientific": "Panthera pardus",
+      "common": "LEOPARD"
+    },
+    {
+      "count": 1,
+      "scientific": "Panthera leo X  P. tigris",
+      "common": "LION X TIGER HYBRID / LIGER / TIGON"
+    },
+    {
+      "count": 3,
+      "scientific": "Canis lupus",
+      "common": "GRAY WOLF / GREY WOLF / TIMBER WOLF"
+    }
+  ]
+}
