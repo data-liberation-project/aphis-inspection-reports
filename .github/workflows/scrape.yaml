@@ -88,7 +88,7 @@ jobs:
         run: git pull origin main
 
       - name: Upload inspections CSV to biglocalnews.org
-        uses: biglocalnews/upload-files@v2
+        uses: biglocalnews/upload-files@v6
         with:
           api-key: ${{ secrets.BLN_API_KEY }}
           project-id: ${{ secrets.BLN_PROJECT_ID }}
