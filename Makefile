@@ -1,7 +1,7 @@
 .PHONY: README.md tests venv
 
 requirements.txt: requirements.in
-	pip-compile requirements.in
+	uv pip compile requirements.in > $@
 
 venv:
 	python -m venv venv
